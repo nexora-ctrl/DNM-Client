@@ -1109,7 +1109,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u76EE\u6807 \u5DF1\u65B9\u516C\u4F1A"
+  mText: "Use target own guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1177,7 +1177,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u76EE\u6807 \u81EA\u5DF1"
+  mText: "use target self"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1245,7 +1245,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u76EE\u6807 \u654C\u65B9\u516C\u4F1A"
+  mText: "Use target enemy guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1313,7 +1313,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5077\u53D6\u654C\u65B95%~10%\u7684\u8D44\u6E90"
+  mText: "Steal 5%~10% of the enemy's resources"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1941,7 +1941,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F \u7528"
+  mText: "Use"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2402,7 +2402,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F \u7528"
+  mText: "Use"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2582,7 +2582,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F \u7528"
+  mText: "Use"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2974,7 +2974,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3156,7 +3156,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3224,7 +3224,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51B7\u5374\u4E2D"
+  mText: "Cooling down"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3420,7 +3420,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F \u7528"
+  mText: "Use"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

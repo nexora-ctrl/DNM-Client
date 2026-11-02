@@ -1892,7 +1892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3195,7 +3195,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u5408\u6210"
+  mText: "Quick Synth"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3372,7 +3372,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u9A91\u4E58"
+  mText: "Ride fast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3584,7 +3584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5 \u5907"
+  mText: "Gear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3716,7 +3716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u5408\u6210B\u7EA7\u9F99\u5668"
+  mText: "One-click synthesis of B-level dragon weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4134,7 +4134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4220,7 +4220,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

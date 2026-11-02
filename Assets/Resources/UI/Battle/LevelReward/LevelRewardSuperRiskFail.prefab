@@ -845,7 +845,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u5931\u8D25\u53EF\u82B1\u8D39\u9F99\u5E01\u8FDB\u884C\u518D\u6B21\u6311\u6218"
+  mText: "If you fail the challenge, you can spend Dragon Coins to challenge again."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1016,7 +1016,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F88\u9057\u61BE\uFF0C\u77FF\u8109\u4E89\u593A\u6311\u6218\u5931\u8D25"
+  mText: "Unfortunately, the ore challenge failed."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1167,7 +1167,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u6210\u529F\u53EF\u4EE5\u83B7\u5F97\u968F\u673A\u73CD\u7A00\u56FE\u9274"
+  mText: "Successfully challenge and get a random rare illustrated book"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1422,7 +1422,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653E\u5F03"
+  mText: "give up"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1491,7 +1491,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u6B21\u6311\u6218"
+  mText: "challenge again"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1745,7 +1745,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00"
+  mText: "Leave"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2109,7 +2109,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u6210\u529F\u53EF\u4EE5\u83B7\u5F97\u968F\u673A\u73CD\u7A00\u56FE\u9274"
+  mText: "Successfully challenge and get a random rare illustrated book"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

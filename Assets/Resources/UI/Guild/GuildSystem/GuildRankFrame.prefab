@@ -1131,7 +1131,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1281,7 +1281,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u8FDB\u5165"
+  mText: "Ranking entry"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1349,7 +1349,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

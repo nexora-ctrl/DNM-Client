@@ -2347,7 +2347,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5 \u5907"
+  mText: "Gear"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2415,7 +2415,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE8\u718A\u9AD8\u7EA7\u9F99\u7389"
+  mText: "Giant Bear Advanced Dragon Jade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2933,7 +2933,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3013,7 +3013,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u57FA\u672C\u5C5E\u6027"
+  mText: "Basic Attribute"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3217,7 +3217,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u51BB\u7ED37\u592923\u65F659\u5206)"
+  mText: "(frozen for 7 days at 23:59)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3309,7 +3309,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8574\u542B\u7740\u795E\u79D8\u529B\u91CF\u7684\u7EB9\u7AE0 \n\uFF1F\uFF1F\uFF1F\uFF1F\uFF1F"
+  mText: "A coat of arms that contains mysterious power\n? ? ? ? ?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3377,7 +3377,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF4\u660E"
+  mText: "Info"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4064,7 +4064,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4132,7 +4132,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\u9700\u6C42"
+  mText: "Career needs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4212,7 +4212,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u7528"
+  mText: "General"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4695,7 +4695,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u8D44\u8D28"
+  mText: "Quality"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5068,7 +5068,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u8D44\u8D28"
+  mText: "Quality"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5441,7 +5441,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u8D28\u6F5C\u529B"
+  mText: "Qualification potential"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5745,7 +5745,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A\u72B6\u6001"
+  mText: "Binding status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5813,7 +5813,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u7ED1\u5B9A"
+  mText: "Bound"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5881,7 +5881,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u7ED1\u5B9A"
+  mText: "Not bound"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6029,7 +6029,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u89E3\u9664\u7ED1\u5B9A\u5269\u4F59    \u6B21)"
+  mText: "(Remaining times to unbind)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6370,7 +6370,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u6D88\u8017\u9F99\u5E01\u9274\u5B9A\uFF0C\u9274\u5B9A\u51FA\u7B2C\u4E09\u6761\u5C5E\u6027\u540E\u65B9\u53EF\u88C5\u5907"
+  mText: "It needs to consume dragon coins to identify, and it can be equipped only after identifying the third attribute."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6438,7 +6438,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9690\u85CF\u5C5E\u6027"
+  mText: "Hide Attribute"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6677,7 +6677,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "22\u4EE5\u4E0A"
+  mText: "22 and above"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6757,7 +6757,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F69\u6234\u7B49\u7EA7"
+  mText: "Wearing level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

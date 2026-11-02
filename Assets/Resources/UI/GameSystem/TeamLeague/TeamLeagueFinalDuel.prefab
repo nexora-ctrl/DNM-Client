@@ -7038,7 +7038,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7376,7 +7376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u6700\u540E\u4E00\u4E2A\u7537\u4EBA"
+  mText: "I am the last man"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7520,7 +7520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u6700\u540E\u4E00\u4E2A\u7537\u4EBA"
+  mText: "I am the last man"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7858,7 +7858,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8196,7 +8196,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8521,7 +8521,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u6700\u540E\u4E00\u4E2A\u7537\u4EBA"
+  mText: "I am the last man"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8932,7 +8932,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9004,7 +9004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9256,7 +9256,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9328,7 +9328,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9864,7 +9864,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9936,7 +9936,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10128,7 +10128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10200,7 +10200,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10432,7 +10432,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10504,7 +10504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10696,7 +10696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10768,7 +10768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11304,7 +11304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11376,7 +11376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11628,7 +11628,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11700,7 +11700,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12372,7 +12372,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12444,7 +12444,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12696,7 +12696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12768,7 +12768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13304,7 +13304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13376,7 +13376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13568,7 +13568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13640,7 +13640,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13872,7 +13872,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13944,7 +13944,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14136,7 +14136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14208,7 +14208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14744,7 +14744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14816,7 +14816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15068,7 +15068,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15140,7 +15140,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15812,7 +15812,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15884,7 +15884,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16136,7 +16136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16208,7 +16208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16744,7 +16744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16816,7 +16816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17008,7 +17008,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17080,7 +17080,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17312,7 +17312,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17384,7 +17384,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17576,7 +17576,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17648,7 +17648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18184,7 +18184,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18256,7 +18256,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18508,7 +18508,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18580,7 +18580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18952,7 +18952,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u4E0B\u7B2C\u4E00i\u516C\u4F1A"
+  mText: "The best i guild in the world"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19024,7 +19024,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "h\u7B56\u5212o\u914D\u7F6E\ni\u914D\u7F6E"
+  mText: "hPlanningoConfiguration\ni configuration"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -19110,7 +19110,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -21514,7 +21514,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51A0 \u519B"
+  mText: "champion"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -22062,7 +22062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -22134,7 +22134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -22386,7 +22386,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -22458,7 +22458,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23417,7 +23417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u656C\u8BF7\u671F\u5F85"
+  mText: "Coming Soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23577,7 +23577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23649,7 +23649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23841,7 +23841,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "999\u533A \u4E94\u6740\u4E13\u5BB6"
+  mText: "Server 999 Top Player"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23913,7 +23913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u540D\u5B57\u53EB\u96F7\u950B"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -24253,7 +24253,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u6700\u540E\u4E00\u4E2A\u7537\u4EBA"
+  mText: "I am the last man"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -24591,7 +24591,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

@@ -1253,7 +1253,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1378,7 +1378,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1446,7 +1446,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D"
+  mText: "Guild name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1811,7 +1811,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u62A5\u540D\u516C\u4F1A"
+  mText: "Registered guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2193,7 +2193,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\xB7\u5F00\u670D\u7B2C2\u5468\u5F00\u542F\u516C\u4F1A\u64C2\u53F0\u6218\uFF0C\u4E24\u5468\u4E3A\u4E00\u4E2A\u8D5B\u671F\r\r\n\n\xB7\u5355\u5468\u5468\u4E00\u81F3\u5468\u4E8C19:00\u516C\u4F1A\u8FBE\u52302\u7EA7\u5373\u53EF\u62A5\u540D\n\n\r\r\xB7\u6BCF\u5468\u4E8C\u3001\u5468\u56DB\u665A20:10\u5DF2\u62A5\u540D\u516C\u4F1A\u8FDB\u884C\u79EF\u5206\u8D5B\n\n\r\xB7\u79EF\u5206\u8D5B\u7ED3\u675F\u7D2F\u79EF\u79EF\u5206\u6700\u9AD8\u7684\u524D8\u540D\u516C\u4F1A\u5C06\u5165\u56F4\u5DC5\u5CF0\u51B3\u6218\u5E76\u4E8E\u5F53\u5468\u516D\u665A20:10\u8FDB\u884C\n\n\r\r\xB7\u6BCF\u4E2A\u516C\u4F1A\u53EF\u4E0A\u9635\u4E94\u540D\u6210\u5458\u8FDB\u884C1V1\u8F66\u8F6E\u6218\r\n\n\r\xB7\u6240\u6709\u53C2\u6218\u516C\u4F1A\u6210\u5458\u90FD\u53EF\u4EE5\u83B7\u5F97\u4E30\u539A\u5956\u52B1"
+  mText: "·The guild arena battle will start in the second week after the server is launched. Two weeks are a competition period.\n\n·You can register if your guild reaches level 2 at 19:00 from Monday to Tuesday in a single week\n\n·Every Tuesday and Thursday night at 20:10, registered guilds will participate in the points competition\n\n·The top 8 guilds with the highest accumulated points at the end of the points competition will be shortlisted for the final battle, which will be held at 20:10 on Saturday night\n\n·Each guild can field five members for 1V1 wheel battles\n\n·All guild members participating in the battle can receive generous rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2375,7 +2375,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62A5 \u540D"
+  mText: "Register"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2443,7 +2443,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2757,7 +2757,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u70B9"
+  mText: "12 o'clock"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3213,7 +3213,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u516B\u4E2A\u5B57\u554A"
+  mText: "The name of the guild is eight characters."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3474,7 +3474,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u516B\u4E2A\u5B57\u554A"
+  mText: "The name of the guild is eight characters."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

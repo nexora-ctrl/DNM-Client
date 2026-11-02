@@ -6690,7 +6690,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "VIP5\u53EF\u8D2D\u4E70"
+  mText: "VIP5 available for purchase"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7643,7 +7643,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u5546\u54C1"
+  mText: "Refresh product"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -7917,7 +7917,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97\u6BCF\u5929\u51CC\u66685\u70B9\u5237\u65B0"
+  mText: "The store refreshes at 5 a.m. every day"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -8327,7 +8327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70"
+  mText: "Buy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -9787,7 +9787,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u9650\u8D2D"
+  mText: "Weekly purchase limit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10345,7 +10345,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u5546\u54C1\u662F\u6700\u9F50\u5168\u7684"
+  mText: "My products are the most complete"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11172,7 +11172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6298\u6263"
+  mText: "Discount"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11349,7 +11349,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u5546\u54C1"
+  mText: "Refresh product"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -11486,7 +11486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u5546\u5E97"
+  mText: "Normal Shop"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11812,7 +11812,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u53EF\u8D2D\u4E7010\u4EF6"
+  mText: "10 items can be purchased daily"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11974,7 +11974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12509,7 +12509,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12806,7 +12806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237 \u65B0"
+  mText: "Refresh"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12892,7 +12892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u53EF\u8D2D\u4E7010\u4EF6"
+  mText: "10 items can be purchased daily"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13024,7 +13024,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -13334,7 +13334,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u53EF\u8D2D\u4E7010\u4EF6"
+  mText: "10 pieces available per week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13406,7 +13406,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u9650\u8D2D"
+  mText: "Weekly purchase limit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13478,7 +13478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13770,7 +13770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u8BB0\u5F55"
+  mText: "Purchase history"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -13941,7 +13941,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6298\u6263"
+  mText: "Discount"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14424,7 +14424,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5929 12:00\u300118:00\u5237\u65B0"
+  mText: "Refreshed every day at 12:00 and 18:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -14682,7 +14682,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -15422,7 +15422,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u5546\u54C1\u662F\u6700\u9F50\u5168\u7684"
+  mText: "My products are the most complete"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -15568,7 +15568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70"
+  mText: "Buy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -15786,7 +15786,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -15931,7 +15931,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u795E\u79D8\u5546\u5E97\u6BCF\u65E512:00  15:00  18:00  21:00\u5237\u65B0"
+  mText: "The mystery shop is refreshed every day at 12:00 15:00 18:00 21:00"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -16745,7 +16745,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u8BB0\u5F55"
+  mText: "Purchase history"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -17283,7 +17283,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5929 12:00\u300118:00\u5237\u65B0"
+  mText: "Refreshed every day at 12:00 and 18:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -17820,7 +17820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97\u6BCF\u5929\u51CC\u66685\u70B9\u5237\u65B0"
+  mText: "The store refreshes at 5 a.m. every day"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -20132,7 +20132,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u795E\u79D8\u5546\u5E97\u9700\u8981\u6D88\u8017"
+  mText: "Refreshing the mystery shop requires consumption"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 3
@@ -20332,7 +20332,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "VIP5\u53EF\u8D2D\u4E70"
+  mText: "VIP5 available for purchase"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

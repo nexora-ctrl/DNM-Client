@@ -235,7 +235,7 @@ MonoBehaviour:
   fontSuffix:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u6C11\u8D44\u6C11\u8D44\u6C11\u8D44"
+  mText: "my people's money people's money"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -10352,7 +10352,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11745,7 +11745,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "Player Message"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -13233,7 +13233,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "Player Message"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -14395,7 +14395,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14669,7 +14669,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14943,7 +14943,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15075,7 +15075,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15349,7 +15349,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15481,7 +15481,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15755,7 +15755,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15887,7 +15887,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16161,7 +16161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16293,7 +16293,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16567,7 +16567,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16699,7 +16699,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B7B\u4EA1"
+  mText: "Deaths"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16973,7 +16973,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17105,7 +17105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B7B\u4EA1"
+  mText: "Deaths"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17379,7 +17379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17511,7 +17511,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17785,7 +17785,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17917,7 +17917,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

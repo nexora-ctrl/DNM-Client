@@ -1217,7 +1217,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99 \u5668"
+  mText: "Dragon-Ware"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2772,7 +2772,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5408\u6210"
+  mText: "Craft"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3077,7 +3077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE\u518C"
+  mText: "Album"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

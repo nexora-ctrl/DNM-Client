@@ -2727,7 +2727,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u6FC0\u6D3B"
+  mText: "Property activation"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2886,7 +2886,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3344,7 +3344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u5728\u4E0A\u65B9\u5148\u9009\u62E9\u4E00\u4E2A\u9644\u9B54\u77F3\u540E\u9644\u9B54\n\u9644\u9B54\u77F3\u7B49\u7EA7\u548C\u54C1\u8D28\u8D8A\u9AD8\u5C5E\u6027\u8D8A\u597D"
+  mText: "Please select an enchanting stone above and then enchant it\nThe higher the level and quality of the enchantment stone, the better its properties will be."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3476,7 +3476,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u9644\u9B54\u5C5E\u6027"
+  mText: "Current Enchantment Attribute"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4372,7 +4372,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u89C8\u6B64\u9644\u9B54\u77F3\u6548\u679C"
+  mText: "Preview the effect of this enchantment stone"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4630,7 +4630,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u9644\u9B54\u77F3"
+  mText: "Select Enchantment Stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4702,7 +4702,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644\u9B54\u5C5E\u6027\u9884\u89C8"
+  mText: "Enchantment attribute preview"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5109,7 +5109,6 @@ MonoBehaviour:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
   mText: '+50~10000000
-
     +50~100
 
     +50~100
@@ -5208,7 +5207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D\n\u751F\u547D\u751F\u547D"
+  mText: "life life\nlife life\nlife life\nlife life\nlife life\nlife life\nlife life\nlife life"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5707,7 +5706,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -5959,7 +5958,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6091,7 +6090,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644 \u9B54"
+  mText: "Enchantment"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -6518,7 +6517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7256,7 +7255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644 \u9B54"
+  mText: "Enchantment"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -1918,7 +1918,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u516B\u4E2A\u5B57\u554A"
+  mText: "The name of the guild is eight characters."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2574,7 +2574,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u77FF\u8109\u4E89\u593A\u6218[-]"
+  mText: "[b]The battle for mineral veins[-]"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3036,7 +3036,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u53D6\u5F97\u4E86\u80DC\u5229\uFF01"
+  mText: "The guild has won!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3288,7 +3288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u516B\u4E2A\u5B57\u554A"
+  mText: "The name of the guild is eight characters."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3778,7 +3778,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90\u8D21\u732E\u699C"
+  mText: "Resource contribution list"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

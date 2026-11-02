@@ -5480,7 +5480,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u961F \u4F0D"
+  mText: "Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5566,7 +5566,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u961F \u4F0D"
+  mText: "Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5666,7 +5666,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7CFB \u7EDF"
+  mText: "System"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5752,7 +5752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7CFB \u7EDF"
+  mText: "System"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6079,7 +6079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79C1 \u804A"
+  mText: "PM"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6165,7 +6165,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79C1 \u804A"
+  mText: "PM"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6719,7 +6719,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7FA4 \u804A"
+  mText: "group chat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6805,7 +6805,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7FA4 \u804A"
+  mText: "group chat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6905,7 +6905,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E16 \u754C"
+  mText: "World"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6991,7 +6991,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E16 \u754C"
+  mText: "World"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7364,7 +7364,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57\u73A9"
+  mText: "player name player name play"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7897,7 +7897,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u961F"
+  mText: "Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7983,7 +7983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u961F"
+  mText: "Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8222,7 +8222,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u4E16\u754C\u8BED\u97F3"
+  mText: "Automatically play world voices"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8388,7 +8388,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE"
+  mText: "Back"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -8520,7 +8520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907"
+  mText: "The player is not wearing the equipment The player is not wearing the equipment The player is not wearing the equipment The player is not wearing the equipment"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8626,7 +8626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8712,7 +8712,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "57\u5206\u949F\u524D"
+  mText: "57 minutes ago"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10178,7 +10178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82B1\u8D391\u84DD\u9E1F"
+  mText: "Spend 1 Blue Bird"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11697,7 +11697,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u4E00\u53EA\u5C0F\u897F\u74DC\u7684\u7FA4\u804A"
+  mText: "I am a little watermelon group chat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12063,7 +12063,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u5C31\u662F\u4E00\u884C\u5B57\u554A"
+  mText: "Here is a line of words"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12169,7 +12169,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E3B \u64AD"
+  mText: "Host"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12255,7 +12255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E3B \u64AD"
+  mText: "Host"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12808,7 +12808,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "(\u62E5\u67091000)"
+  mText: "(Have 1000)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13611,7 +13611,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82B1\u8D391\u84DD\u9E1F"
+  mText: "Spend 1 Blue Bird"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14398,7 +14398,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u589E\u52A05\u6B21"
+  mText: "5 additional times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14577,7 +14577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u516C \u4F1A"
+  mText: "Guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14663,7 +14663,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u516C \u4F1A"
+  mText: "Guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15178,7 +15178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7CFB\u7EDF\u516C\u544A"
+  mText: "System Announcement"
   mFontSize: 19
   mFontStyle: 0
   mAlignment: 1
@@ -15370,7 +15370,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "10\u7EA7\u540E\u53EF\u53D1\u8A00"
+  mText: "Can speak after level 10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15456,7 +15456,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53 \u524D"
+  mText: "Current"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15542,7 +15542,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53 \u524D"
+  mText: "Current"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16510,7 +16510,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "               \u4ECA\u65E5\u5269\u4F59\u6B21\u6570 2"
+  mText: "Today’s remaining times 2"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17014,7 +17014,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53D1\u9001"
+  mText: "Send"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -17863,7 +17863,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C2 \u6218"
+  mText: "Spectate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17949,7 +17949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C2 \u6218"
+  mText: "Spectate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21364,7 +21364,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Bethcod Bethcod"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -21470,7 +21470,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907"
+  mText: "Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -21584,7 +21584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u6E05\u9664"
+  mText: "Clear with one click"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -21656,7 +21656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u662F\u4E00\u53EA\u5C0F\u897F\u74DC:"
+  mText: "I am a little watermelon:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -21744,7 +21744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5EFA\u7ACB\u7FA4\u804A"
+  mText: "Create group chat"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22134,7 +22134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u52A0\u4E3A\u597D\u53CB"
+  mText: "Add as friend"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22609,7 +22609,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u573A"
+  mText: "battlefield"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22681,7 +22681,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E0Exxx\u804A\u5929\u4E2D"
+  mText: "Chatting with xxx"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23386,7 +23386,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u660E\u5E74\u8FD8\u60F3\u6210\u4E3A\u5355\u8EAB\u72D7\u5417\uFF1F\r\n\u8FD8\u4E0D\u8D76\u5FEB\u53BB\u548C\u57FA\u53CB\u804A\u804A\uFF1F"
+  mText: "Do you still want to be single next year?\nWhy don't you go and chat with your gay friends quickly?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23934,7 +23934,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE"
+  mText: "Back"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -24020,7 +24020,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79C1\u804A\u597D\u53CB"
+  mText: "Private chat with friends"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -24264,7 +24264,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u660E\u5E74\u8FD8\u60F3\u6210\u4E3A\u5355\u8EAB\u72D7\u5417\uFF1F\r\n\u8FD8\u4E0D\u8D76\u5FEB\u53BB\u548C\u57FA\u53CB\u804A\u804A\uFF1F"
+  mText: "Do you still want to be single next year?\nWhy don't you go and chat with your gay friends quickly?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24615,7 +24615,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "XXX\u7684\u961F\u4F0D\u7FA4\u804A"
+  mText: "XXX's team chat"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -24915,7 +24915,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9000\u51FA\u7FA4\u804A"
+  mText: "Exit group chat"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24999,7 +24999,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A"
+  mText: "bound"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25099,7 +25099,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7FA4\u5185\u6210\u5458"
+  mText: "Group members"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25457,7 +25457,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u7BA1\u7406"
+  mText: "Member management"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25973,7 +25973,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u660E\u5E74\u8FD8\u60F3\u6210\u4E3A\u5355\u8EAB\u72D7\u5417\uFF1F\r\n\u8FD8\u4E0D\u8D76\u5FEB\u53BB\u548C\u57FA\u53CB\u804A\u804A\uFF1F"
+  mText: "Do you still want to be single next year?\nWhy don't you go and chat with your gay friends quickly?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26239,7 +26239,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "25\u4EBA"
+  mText: "25 people"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -26571,7 +26571,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E05\u7A7A\u5217\u8868"
+  mText: "Clear List"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26837,7 +26837,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u573A"
+  mText: "battlefield"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

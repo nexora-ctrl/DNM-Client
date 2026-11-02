@@ -4913,7 +4913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F"
+  mText: "Military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4985,7 +4985,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u679C"
+  mText: "result"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5129,7 +5129,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u654C\u65B9"
+  mText: "enemy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5201,7 +5201,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u65B9"
+  mText: "Our side"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5333,7 +5333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Battle record"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5405,7 +5405,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EA\u4FDD\u7559\u6700\u8FD1\u5341\u573A\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Only the last ten battle records are kept"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6209,7 +6209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635.."
+  mText: "Player's nickname..."
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 0
@@ -6504,7 +6504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709\u6CA1\u4EFB\u4F55\u8BB0\u5F55"
+  mText: "Are there any records?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6791,7 +6791,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9886\u53D6"
+  mText: "Tap to Receive"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6970,7 +6970,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u62A4\u7CBD\u5B50"
+  mText: "Protect the rice dumplings"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -7522,7 +7522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u8BB0\u5F55[-]"
+  mText: "Battle record[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9278,7 +9278,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EF\u83B7\u5F97"
+  mText: "available"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9364,7 +9364,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u83B7\u5F9710\u573A\u80DC\u5229\u53EF\u9886\u53D6\u5956\u52B1\n\u5F53\u524D\u80DC\u573A\uFF1A1"
+  mText: "Earn 10 wins every week to receive rewards\nCurrent wins: 1"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9694,7 +9694,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9886\u53D6"
+  mText: "Tap to Receive"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10539,7 +10539,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u603B\u573A\u6B21400 \u80DC300 \u8D25100 \u80DC\u7387100%"
+  mText: "Total games: 400, wins 300, loses 100, winning rate 100%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10625,7 +10625,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u968F\u673A\u6307\u5B9A\u4E00\u540D\u961F\u53CB\u6210\u4E3A\u7CBD\u5B50\u5168\u529B\u4FDD\u62A4\u7CBD\u5B50\u5B89\u5168\u5E76\u4F3A\u673A\u6D88\u706D\u654C\u65B9\u7CBD\u5B50\u5C31\u80FD\u83B7\u53D6\u80DC\u5229\uFF01\n\u65E0\u5DEE\u522B\u516C\u5E73\u7ADE\u6280\uFF0C\u6218\u529B\u65E0\u4EFB\u4F55\u5F71\u54CD"
+  mText: "Randomly designate a teammate to become Zongzi and protect Zongzi’s safety with all your strength and wait for opportunities to destroy enemy Zongzi to win!\nFair competition without distinction, without any impact on combat effectiveness"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10829,7 +10829,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u5339\u914D"
+  mText: "Matchmaking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10901,7 +10901,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EBA\u5339\u914D"
+  mText: "Single Match"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11033,7 +11033,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E519:00-23:00\u53C2\u52A0\u53EF\u83B7\u5F973\u6B21\u989D\u5916\u5956\u52B1\uFF083/3\uFF09"
+  mText: "Participate between 19:00-23:00 every day to get 3 additional rewards (3/3)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11105,7 +11105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u7ECF\u5339\u914D333\u4EBA"
+  mText: "Already matched with 333 people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11205,7 +11205,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EBA\u5339\u914D\u4E2D\u2026"
+  mText: "Single player matching…"
   mFontSize: 60
   mFontStyle: 0
   mAlignment: 0
@@ -11457,7 +11457,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8363\u8A89\u5546\u5E97[-]"
+  mText: "Honor Store[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12611,7 +12611,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206\u5956\u52B1"
+  mText: "Rating rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

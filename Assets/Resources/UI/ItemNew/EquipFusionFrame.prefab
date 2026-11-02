@@ -2774,7 +2774,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2920,7 +2920,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB \u9636"
+  mText: "Promote"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4062,7 +4062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB \u9636"
+  mText: "Promote"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4339,7 +4339,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4683,7 +4683,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u6838\u5FC3\u6750\u6599"
+  mText: "Select core materials"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4769,7 +4769,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u9636\u8FDB\u5EA6"
+  mText: "Advanced progress"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -6535,7 +6535,7 @@ MonoBehaviour:
   fontSuffix:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A81\u7834\u9636\u65701/1"
+  mText: "Breakthrough level 1/1"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7258,7 +7258,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u6B21\u6DEC\u70BC\u589E\u52A0100\u70B9\u8FDB\u5EA6\uFF0C\u8FDB\u5EA6\u6761\u6EE1\u7A81\u7834\u4EE5\u540E\u6709\u51E0\u7387\u65B0\u589E\u4E00\u6761\u989D\u5916\u5C5E\u6027\uFF1B\u9F99\u7A74\u88C5\u5907\u7A81\u7834\u9700\u8981\u989D\u5916\u953B\u9020\u77F3"
+  mText: "Each tempering will increase the progress by 100 points. After the progress bar is full and the breakthrough is completed, there is a chance to add an additional attribute; the breakthrough of Dragon Cave equipment requires additional forging stones."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7763,7 +7763,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

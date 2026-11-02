@@ -2378,7 +2378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165"
+  mText: "enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2656,7 +2656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u9B42\u7981\u5730"
+  mText: "Dragon Soul Forbidden Land"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2893,7 +2893,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u6218\u529B"
+  mText: "Recommended combat power"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3378,7 +3378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4125,7 +4125,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u7684\u5361\u5361\u91CC"
+  mText: "Resurrection of Kakali"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5083,7 +5083,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99\u5DE2\u7A74"
+  mText: "Sea Dragon Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5319,7 +5319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u7684\u5361\u5361\u91CC"
+  mText: "Resurrection of Kakali"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -5491,7 +5491,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6218\u529B"
+  mText: "Current combat strength"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5649,7 +5649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5EFA\u8BAE\u7B49\u7EA7"
+  mText: "Recommended level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6086,7 +6086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6389\u843D\u56FE\u9274"
+  mText: "Drop illustrated book"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

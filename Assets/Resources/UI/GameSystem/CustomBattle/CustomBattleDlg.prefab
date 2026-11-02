@@ -838,7 +838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -924,7 +924,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1351,7 +1351,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u6C11\u5546\u5E97"
+  mText: "national store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1588,7 +1588,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u6C11PK\u8D5B"
+  mText: "All PK"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

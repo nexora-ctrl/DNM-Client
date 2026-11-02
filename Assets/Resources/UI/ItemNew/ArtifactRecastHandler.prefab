@@ -1281,7 +1281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u94F8\u540E\u5C5E\u6027\u81F3\u5C11\u4E3A\u6A59\u8272"
+  mText: "After recasting, the attributes should be at least orange."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1533,7 +1533,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S\u7EA7\u5149\u660E\u9F99\u89D2"
+  mText: "S-class bright dragon horn"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1725,7 +1725,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u94F8"
+  mText: "Reforge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1999,7 +1999,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5668\u91CD\u94F8\u77F3"
+  mText: "Dragon weapon recast stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2185,7 +2185,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u4E0D\u53D8,\u5C5E\u6027\u4E0E\u6280\u80FD\u5C06\u4F1A\u91CD\u65B0\u968F\u673A"
+  mText: "The suit remains unchanged, and attributes and skills will be randomized again."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2774,7 +2774,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u91CD\u94F8\u77F3\u91CD\u94F8\u9F99\u5668"
+  mText: "Use reforge stone to reforge dragon weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

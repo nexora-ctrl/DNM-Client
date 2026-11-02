@@ -4633,7 +4633,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "   \u8363\u8000\u7B49\u7EA7"
+  mText: "Glory level"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4779,7 +4779,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u6240\u6709\u5956\u52B1"
+  mText: "View all rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5371,7 +5371,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2017.7.5\u83B7\u5F97"
+  mText: "Obtained on 2017.7.5"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5912,7 +5912,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8000\u7B49\u7EA7"
+  mText: "Glory level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6524,7 +6524,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70AB\u8000\u4E00\u4E0B"
+  mText: "show off"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6718,7 +6718,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7194\u5CA9\u5C9B\u5F81\u670D\u8005 "
+  mText: "Lava Island Conqueror"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7014,7 +7014,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A74"
+  mText: "Dragon’s Lair"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7086,7 +7086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8000 [ff3615]13[-] \u7EA7\u5956\u52B1"
+  mText: "Glory [ff3615]Level 13[-] reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7309,7 +7309,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7420,7 +7420,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8000\u7B49\u7EA7"
+  mText: "Glory level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8058,7 +8058,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7194\u5CA9\u5C9B\u5F81\u670D\u8005 "
+  mText: "Lava Island Conqueror"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8299,7 +8299,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u90E8\u5206\u4EAB"
+  mText: "External sharing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8371,7 +8371,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u901A\u5173\u9F99\u7A74\u4E00\u5C425\u6B21"
+  mText: "Clear the first level of Dragon's Lair 5 times without dying."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9095,7 +9095,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8A89\u5206\uFF1A100"
+  mText: "Honor points: 100"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9498,7 +9498,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8000\u7B49\u7EA7\u5956\u52B1"
+  mText: "Glory Level Rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9570,7 +9570,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A74"
+  mText: "Dragon’s Lair"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10229,7 +10229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8000\u7B49\u7EA7\u5956\u52B1\u901A\u8FC7\u90AE\u4EF6\u53D1\u653E"
+  mText: "Glory level rewards are distributed via email"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10414,7 +10414,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u670D\u6392\u540D\u7B2C100\u540D"
+  mText: "Ranked 100th across the server"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10506,7 +10506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u8FBE\u6210"
+  mText: "Not yet achieved"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10662,7 +10662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2017.7.5\u83B7\u5F97"
+  mText: "Obtained on 2017.7.5"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11022,7 +11022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7194\u5CA9\u5C9B\u5F81\u670D\u8005 "
+  mText: "Lava Island Conqueror"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1260,7 +1260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u65F6\u8D2D\u4E7024\u5C0F\u65F615\u520620\u79D2\u7ED3\u675F"
+  mText: "Limited time purchase ends in 24 hours, 15 minutes and 20 seconds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1612,7 +1612,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u8FBE\u523010\u7EA7"
+  mText: "Reach level 10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1698,7 +1698,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u5929\u540E\u9886\u53D6"
+  mText: "Collect in 2 days"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1850,7 +1850,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2360,7 +2360,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u9650\u8D2D\u4E00\u4EFD\uFF09"
+  mText: "(Limited to one purchase)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2432,7 +2432,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[3f3d2c]\u9650\u91CF[-][7b6122]88[-][3f3d2c]\u5143[-][7b6122]6[-][3f3d2c]\u500D\u8FD4\u5229\u83B7\u5F97[-]"
+  mText: "[3f3d2c]Limited [-][7b6122]88[-][3f3d2c]Yuan[-][7b6122]6[-][3f3d2c] times rebate obtained[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2504,7 +2504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u8D2D\u4E70"
+  mText: "Buy now"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2775,7 +2775,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5076\u50CF\u57FA\u91D1"
+  mText: "Idol Fund"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1

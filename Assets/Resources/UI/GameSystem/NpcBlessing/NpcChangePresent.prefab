@@ -964,7 +964,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u6362"
+  mText: "Trade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1056,7 +1056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7684\u540D\u79F0\u5728\u8FD9\u91CC"
+  mText: "The name of the item goes here"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1168,7 +1168,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7684\u540D\u79F0\u5728\u8FD9\u91CC"
+  mText: "The name of the item goes here"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2061,7 +2061,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u6362\u793C\u7269"
+  mText: "exchange gifts"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2193,7 +2193,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u9700\u8981\u63D0\u4F9B\u793C\u7269"
+  mText: "I need to provide a gift"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2329,7 +2329,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "Ta\u51C6\u5907\u7684\u793C\u7269"
+  mText: "The gift she prepared"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

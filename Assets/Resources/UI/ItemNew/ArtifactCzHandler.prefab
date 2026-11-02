@@ -1783,7 +1783,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u6D17\u70BC"
+  mText: "Go to refinement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1949,7 +1949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u796D\u70BC"
+  mText: "sacrifice"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2403,7 +2403,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u662F\u5426\u8986\u76D6\u5F53\u524D\u5C5E\u6027"
+  mText: "Whether to overwrite the current properties"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2878,7 +2878,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5668\u91CD\u94F8\u77F3"
+  mText: "Dragon weapon recast stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3069,7 +3069,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u65B0\u968F\u673A\u9F99\u5668\u589E\u52A0\u7684\u5C5E\u6027"
+  mText: "Re-randomize the attributes added to the dragon weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3406,7 +3406,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4168,7 +4168,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4340,7 +4340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4592,7 +4592,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S\u7EA7\u5149\u660E\u9F99\u89D2"
+  mText: "S-class bright dragon horn"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4744,7 +4744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u796D\u70BC\u77F3\u796D\u70BC\u9F99\u5668"
+  mText: "Use the sacrificial stone to sacrifice the dragon weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4816,7 +4816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u8BA4"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

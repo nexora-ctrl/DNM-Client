@@ -2401,7 +2401,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D17\u7EC3\u7ED3\u679C"
+  mText: "Cleaning results"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3253,7 +3253,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D17 \u70BC"
+  mText: "Refine"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4397,7 +4397,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u6D17\u4E00\u6B21"
+  mText: "wash again"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4582,7 +4582,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -4823,7 +4823,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u5B58\u7ED3\u679C"
+  mText: "Save results"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5419,7 +5419,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u7269\u54C1"
+  mText: "Need items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5741,7 +5741,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5810,7 +5810,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A\u72B6\u6001\uFF1A\u672A\u7ED1\u5B9A(\u6D17\u7EC3\u540E\u53D8\u4E3A\u7ED1\u5B9A)"
+  mText: "Binding status: Unbound (becomes bound after refining)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5929,7 +5929,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A\u72B6\u6001\uFF1A\u5DF2\u7ED1\u5B9A"
+  mText: "Binding status: Bound"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6618,7 +6618,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

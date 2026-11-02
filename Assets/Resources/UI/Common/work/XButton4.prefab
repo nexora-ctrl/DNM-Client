@@ -122,7 +122,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u5173\u5361"
+  mText: "Select Stage"
   mFontSize: 28
   mFontStyle: 1
   mAlignment: 0

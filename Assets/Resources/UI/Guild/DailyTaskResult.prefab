@@ -647,7 +647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u65E5\u5E38\u4EFB\u52A1"
+  mText: "Refresh daily tasks"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1061,7 +1061,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u914D\u7F6E\u6587\u5B57\n\u4EFB\u52A1\u5956\u52B1\u5DF2\u5237\u65B0"
+  mText: "Configuration text\nMission rewards have been refreshed"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1168,7 +1168,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u7ED3\u679C"
+  mText: "refresh results"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

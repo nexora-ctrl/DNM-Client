@@ -1407,7 +1407,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u8FDB\u5165\u5A5A\u793C"
+  mText: "Can enter the wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1952,7 +1952,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CA1\u6709\u83B7\u5F97\u8FDB\u5165\u4F1A\u573A\u7684\u8D44\u683C"
+  mText: "Not qualified to enter the venue"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2042,7 +2042,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u8FDB\u5165\u5A5A\u793C"
+  mText: "Apply to enter the wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2144,7 +2144,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D7\u9080\u8BF7\u7684\u5A5A\u793C"
+  mText: "wedding by invitation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2656,7 +2656,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u7533\u8BF7\u5A5A\u793C"
+  mText: "Can apply for wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2911,7 +2911,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6B63\u5728\u8FDB\u884C\u7684\u5A5A\u793C"
+  mText: "There are currently no weddings in progress"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3144,7 +3144,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u7533\u8BF7\u5A5A\u793C"
+  mText: "Can apply for wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3415,7 +3415,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "xx\u548Cxx\u7684\u8C6A\u534E\u5A5A\u793C"
+  mText: "xx and xx’s luxurious wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3535,7 +3535,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u65F6\u95F4"
+  mText: "remaining time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3685,7 +3685,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u8FDB\u5165"
+  mText: "Apply to Enter"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3840,7 +3840,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u8FDB\u5165\u5A5A\u793C"
+  mText: "Can enter the wedding"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -10418,7 +10418,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u52A0\u8F7D"
+  mText: "Loading"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11137,7 +11137,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D1111"
+  mText: "Good 1111"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11721,7 +11721,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11807,7 +11807,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12241,7 +12241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12327,7 +12327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12577,7 +12577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E\u6570"
+  mText: "LIKE Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -12969,7 +12969,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218\u6570"
+  mText: "Spectators"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -15625,7 +15625,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u738B\u8001\u738B"
+  mText: "Laowang Laowang next door"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -17721,7 +17721,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u738B\u8001\u738B\u8001\u738B"
+  mText: "Next door Laowang Laowang Laowang"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -19156,7 +19156,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7136\u540E\u53C8\u4E00\u76F4\u5728\u8BA8\u8BBA\u8F66\u8F66\u7136\u540E\u53C8\u4E00\u76F4\u5728\u8BA8\u8BBA\u8F66\u8F66\u5728\u8BA8\u8BBA\u8F66\u8F66\u8BBA"
+  mText: "Then they kept discussing cars and cars, and then they kept discussing cars and cars, discussing cars and cars."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21466,7 +21466,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "22\u6740 22\u6B7B 22\u52A9"
+  mText: "22 kills, 22 deaths, 22 assists"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 3
@@ -21752,7 +21752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u9694\u58C1\u8001\u9694\u9694"
+  mText: "next door old next door old next door"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -22118,7 +22118,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u5475\u5475\u5475\u54C8"
+  mText: "Hehehehehehehehe"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -26215,7 +26215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB"
+  mText: "Share"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -26287,7 +26287,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E"
+  mText: "Like"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -26359,7 +26359,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9690\u85CF"
+  mText: "hide"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -26431,7 +26431,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A"
+  mText: "show"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -26503,7 +26503,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F39\u5E55"
+  mText: "Barrage"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -28451,7 +28451,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u5DE6\u53F3\u4FA7\u89D2\u8272\u4FE1\u606F\u53EF\u4EE5\u5207\u6362\u8DDF\u968F\u89D2\u8272"
+  mText: "Click on the character information on the left and right sides to switch to follow the character"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -28537,7 +28537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u52A0\u8F7D"
+  mText: "Loading"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -29056,7 +29056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00\u5173\u5361"
+  mText: "Leave the level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -29202,7 +29202,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00\u5173\u5361"
+  mText: "Leave the level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -29288,7 +29288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F39\u5E55"
+  mText: "Barrage"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -30178,7 +30178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u9694\u58C1\u8001"
+  mText: "Next door old next door old"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -30983,7 +30983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D1111"
+  mText: "Good 1111"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -32148,7 +32148,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u6D41\u91CF"
+  mText: "Free traffic"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

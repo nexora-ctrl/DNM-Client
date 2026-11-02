@@ -4828,7 +4828,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4914,7 +4914,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u5733\u5C0F\u5206\u961F"
+  mText: "Shenzhen Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5592,7 +5592,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6280\u540D\u4EBA\u5802"
+  mText: "athletics hall of fame"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -5905,7 +5905,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8D5B"
+  mText: "Ladder"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5991,7 +5991,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u5236\u4F5C"
+  mText: "Equipment production"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6182,7 +6182,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u8D5B\u5B63\u6392\u884C\u699C"
+  mText: "Last season rankings"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6416,7 +6416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7967,7 +7967,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8053,7 +8053,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u5733\u5C0F\u5206\u961F"
+  mText: "Shenzhen Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8617,7 +8617,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u5733\u5C0F\u5206\u961F"
+  mText: "Shenzhen Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8703,7 +8703,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10789,7 +10789,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10875,7 +10875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u5733\u5C0F\u5206\u961F"
+  mText: "Shenzhen Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11293,7 +11293,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11465,7 +11465,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11651,7 +11651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11823,7 +11823,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u51A0\u519B\u6B21\u6570"
+  mText: "Total Championships Earned"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12168,7 +12168,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u6570\u636E\u8BB0\u5F55"
+  mText: "No data record yet"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12268,7 +12268,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6587\u5B57"
+  mText: "text"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12632,7 +12632,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u6570\u636E\u8BB0\u5F55"
+  mText: "No data record yet"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12704,7 +12704,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD15\u4E2A\u8D5B\u5B63\u6392\u540D"
+  mText: "Ranking in the last 5 seasons"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12776,7 +12776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u8D5B\u5B63"
+  mText: "historical season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12848,7 +12848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u524D\u5341\u6B21\u6570"
+  mText: "Total Top-10 Positions Earned"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13136,7 +13136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u67086\u65E5~3\u670813\u65E5"
+  mText: "March 6th ~ March 13th"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -13208,7 +13208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D5B\u5B63\uFF1A"
+  mText: "Season:"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -13280,7 +13280,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u4E00\u8D5B\u5B63"
+  mText: "last season"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13352,7 +13352,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth immortal myth"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13769,7 +13769,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB"
+  mText: "Share"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13946,7 +13946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E"
+  mText: "Like"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

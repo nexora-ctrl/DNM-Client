@@ -5860,7 +5860,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -6319,7 +6319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6411,7 +6411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u4E3A\u597D\u53CB"
+  mText: "Add as friend"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7031,7 +7031,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99 \u672C"
+  mText: "Dragon Lair"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7150,7 +7150,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1AName"
+  mText: "Union Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7410,7 +7410,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5173\u5361\u540D\u5B57"
+  mText: "Level name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7587,7 +7587,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u672C\u65F6\u95F4\uFF1A"
+  mText: "Refresh time:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7787,7 +7787,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8166,7 +8166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BB0 \u5F55"
+  mText: "record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8298,7 +8298,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BB0 \u5F55"
+  mText: "record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9181,7 +9181,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9309,7 +9309,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u573A\u6700\u4F73\u5173\u6CE8"
+  mText: "Best attention in a single game"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -9651,7 +9651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u672C\u6B21\u6570\uFF1A"
+  mText: "Number of brushes:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10069,7 +10069,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u5C0F\u65F634\u520622\u79D2"
+  mText: "3 hours, 34 minutes and 22 seconds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10152,7 +10152,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u573A\u6700\u591A\u70B9\u8D5E"
+  mText: "Most likes in a single game"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -10353,7 +10353,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10505,7 +10505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10673,7 +10673,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10795,7 +10795,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\uFF01"
+  mText: "Clear the level!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10867,7 +10867,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u5728\u7EBF"
+  mText: "[b]Online"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11055,7 +11055,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12210,7 +12210,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "00000\u6B21"
+  mText: "00000 times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12717,7 +12717,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u8FD8\u6CA1\u6709\u8FDB\u884C\u8FC7\u65B0\u7684\u9F99\u672C\u7EC4\u961F\u54E6"
+  mText: "You haven't formed a new dragon team yet."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12939,7 +12939,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "00000\u6B21"
+  mText: "00000 times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -13262,7 +13262,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB \u52DF"
+  mText: "Recruit"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14016,7 +14016,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE\n\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE"
+  mText: "Four people can clear Cerberus' Lair without dying - Hard\nFour people can clear Cerberus' Lair without dying - Hard"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14108,7 +14108,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u81EA\u901A\u5173"
+  mText: "Complete the level alone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15048,7 +15048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6C99\u6F20\u7EFF\u9F99-\u516D\u4E2A\u5B57\u7684\u5173\u5361"
+  mText: "Desert Green Dragon-Six words level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -15294,7 +15294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u65F6"
+  mText: "duration"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15489,7 +15489,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -15561,7 +15561,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15713,7 +15713,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91D1\u5E01 [ffffff]500008\n\u91D1\u5E01 [ffffff]400008"
+  mText: "gold coin [ffffff]500008\ngold coin [ffffff]400008"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -16126,7 +16126,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386 \u7A0B"
+  mText: "history"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16392,7 +16392,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u961F\u53CB"
+  mText: "Engage teammates"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16498,7 +16498,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7"
+  mText: "Title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -16709,7 +16709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\uFF01\u52A0\u5165\u516C\u4F1A\u52A0\u5165\u516C"
+  mText: "Achieved! Join a guildJoin a guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17171,7 +17171,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17577,7 +17577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7\u540D\u79F0\u79F0\u53F7\u540D\u79F0\u540D\u79F0"
+  mText: "title name title name name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17814,7 +17814,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u8FD8\u6CA1\u6709\u8FDB\u884C\u8FC7\u65B0\u7684\u9F99\u672C\u7EC4\u961F\u54E6"
+  mText: "You haven't formed a new dragon team yet."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17946,7 +17946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386 \u7A0B"
+  mText: "history"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -18106,7 +18106,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E74"
+  mText: "year"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

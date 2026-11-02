@@ -9544,7 +9544,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6E38\u620F\u6B21\u6570"
+  mText: "Number of games remaining"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13610,7 +13610,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u846B\u82A6"
+  mText: "gourd"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13682,7 +13682,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u5F20\u76F8\u540C+\u5BF9\u5B50"
+  mText: "Three of the same + pair"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13840,7 +13840,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14946,7 +14946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C\u82B1"
+  mText: "flush"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15018,7 +15018,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C\u4E00\u82B1\u8272"
+  mText: "same suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15176,7 +15176,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16282,7 +16282,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u987A\u5B50"
+  mText: "straight"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16354,7 +16354,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82B1\u8272\u4E0D\u4E00\u6837\u7684\u987A\u5B50"
+  mText: "Straights with different suits and colors"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16512,7 +16512,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17618,7 +17618,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u6761"
+  mText: "Sanjo"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17690,7 +17690,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u5F20\u76F8\u540C+\u4E24\u5F20\u5355\u5F20"
+  mText: "Three identical cards + two single cards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17848,7 +17848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18954,7 +18954,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E24\u5BF9"
+  mText: "two pairs"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19026,7 +19026,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E24\u4E2A\u5BF9\u5B50"
+  mText: "two pairs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -19184,7 +19184,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20290,7 +20290,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u5B50"
+  mText: "Pair"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20362,7 +20362,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u5BF9"
+  mText: "a pair"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20520,7 +20520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22442,7 +22442,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u7EC4\u79EF\u5206\u6392\u884C\u7B2C\u4E00\u540D\uFF0C\u5728\u7B2C\u4E8C\u5929\u4F1A\u83B7\u5F97\u989D\u5916\u5956\u52B1\u54E6\uFF01"
+  mText: "Achieving Rank 1 in Team Score will provide a Bonus Reward on Day 2."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22528,7 +22528,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6251\u514B\u5927\u8D5B\u6BD4\u62FC\u53C2\u52A0\u8005\u6BCF\u8F6E\u7684\u79EF\u5206\u603B\u548C\uFF0C\n\u6BD4\u8D5B\u7ED3\u675F\u540E\u79EF\u5206\u6392\u540D\u524D\u5217\u8005\u4F1A\u83B7\u5F97\u5956\u52B1\u6251\u514B\u5927\u8D5B\u4E0D\u53EF\u4EE5\u4ED8\u8D39\u7FFB\u724C"
+  mText: "The poker competition compares the total points of the participants in each round.\nAt the end of the game, the player with the highest points will receive a reward. No paid card flipping is allowed in the poker competition."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22600,7 +22600,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u89C4\u5219"
+  mText: "game rules"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22746,7 +22746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6837\u4F8B"
+  mText: "Sample"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22818,7 +22818,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u724C\u578B"
+  mText: "Card type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22950,7 +22950,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF4\u660E"
+  mText: "Info"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23022,7 +23022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24382,7 +24382,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C\u82B1\u987A"
+  mText: "Flush"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -24454,7 +24454,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C\u4E00\u82B1\u8272\u7684\u987A\u5B50"
+  mText: "Straight of the same suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24612,7 +24612,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25718,7 +25718,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DB\u6761"
+  mText: "Four"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -25790,7 +25790,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DB\u5F20\u76F8\u540C+\u5355\u5F20"
+  mText: "Four identical pieces + single piece"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25948,7 +25948,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C"
+  mText: "Value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26887,7 +26887,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u89C4\u5219"
+  mText: "Bonus rules"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -28873,7 +28873,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8981\u6362\u7684\u724C\u6216\u6536\u56DE\u5956\u52B1"
+  mText: "Choose cards to exchange or withdraw rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29005,7 +29005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u5956\u52B1\uFF1A"
+  mText: "Current rewards:"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -29077,7 +29077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u516C\u4F1A\u5C0F\u7EC4\u6392\u540D\u7B2C\u4E00\u540D200\u8D21\u732E"
+  mText: "Daily guild group ranking first place 200 contributions"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -29149,7 +29149,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u6101\u5565\uFF1F\u5FEB\u70B9\u53D1\u724C\u5427\uFF01"
+  mText: "What are you worried about? Deal the cards quickly!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -29221,7 +29221,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39\u6362\u724C\u6B21\u6570"
+  mText: "Number of free card changes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29425,7 +29425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u518D\u54EA\u91CC\u554A\u554A\u554A\u554A"
+  mText: "Where are you?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30371,7 +30371,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u4E11\u6251\u514B"
+  mText: "Joker Poker"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -30477,7 +30477,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u7EC4\u6392\u540D"
+  mText: "Group ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30563,7 +30563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u7EC4\u6392\u540D"
+  mText: "Group ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30997,7 +30997,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u540D"
+  mText: "Guild Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31083,7 +31083,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u540D"
+  mText: "Guild Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31289,7 +31289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31361,7 +31361,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31433,7 +31433,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31505,7 +31505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u6700\u4F73"
+  mText: "Today's best"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -31577,7 +31577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u6251\u514B\u53EF\u4EE5\u6362\u724C\uFF0C\u51D1\u9F50\u4E0D\u540C\u82B1\u8272\u53EF\u9886\u53D6\u5956\u52B1"
+  mText: "Click Poker to change cards, collect different suits to receive rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31890,7 +31890,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1 \u724C"
+  mText: "Deal the cards"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -32213,7 +32213,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u6635\u79F0\u73A9\u5BB6\u6635\u79F0"
+  mText: "Player Nickname Player Nickname"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

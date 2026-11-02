@@ -943,7 +943,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u4EFB\u52A1"
+  mText: "daily tasks"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1035,7 +1035,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u5EA6:"
+  mText: "Recommendation:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1115,7 +1115,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u7B7E\u5230"
+  mText: "Daily check-in"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -1386,7 +1386,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C\u83B7\u53D6"
+  mText: "Experience gained"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2093,7 +2093,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570\uFF1A"
+  mText: "Remaining times:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2161,7 +2161,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

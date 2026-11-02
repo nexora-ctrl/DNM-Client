@@ -2143,7 +2143,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u83B7\u5F97"
+  mText: "possible to obtain"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2229,7 +2229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u6B21\u6570\uFF1A1/2"
+  mText: "Number of rewards: 1/2"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2315,7 +2315,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u5DE2\u7A74\uFF1A\u7279\u6B8A\u5730\u72F1\u72AC"
+  mText: "Lair of the Week: Special Cerberus"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2537,7 +2537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u6311\u6218"
+  mText: "Head to Challenges"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -2845,7 +2845,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u6839\u636E\u6392\u884C\u53EF\u83B7\u5F97\u4E0D\u540C\u79F0\u53F7"
+  mText: "Different titles can be obtained every week based on rankings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3311,7 +3311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3668,7 +3668,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6280\u5DE2\u7A74[-]"
+  mText: "Competition Nest[-]"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

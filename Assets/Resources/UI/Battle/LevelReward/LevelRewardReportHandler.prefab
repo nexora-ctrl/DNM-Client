@@ -604,7 +604,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6076\u610F\u6302\u673A"
+  mText: "Malicious hangup"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -871,7 +871,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B97 \u4E86"
+  mText: "Forget it"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1063,7 +1063,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3E \u62A5"
+  mText: "Report"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1255,7 +1255,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u6B63\u5728\u4E3E\u62A5\u73A9\u5BB6XXX"
+  mText: "You are reporting player XXX"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1402,7 +1402,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u4E3E\u62A5\u5185\u5BB9"
+  mText: "Select content to report"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -1073,7 +1073,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570 10/25"
+  mText: "Remaining times 10/25"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1141,7 +1141,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u5C11\u91CF\u9F99\u5E01\u53EF\u5151\u6362\u5230\u5927\u91CF\u91D1\u5E01\u54E6~"
+  mText: "Use a small amount of dragon coins to exchange for a large amount of gold coins~"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1423,7 +1423,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u5151\u63621\u6B21"
+  mText: "Redeem diamonds once"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1613,7 +1613,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u4F53\u529B"
+  mText: "buy stamina"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2101,7 +2101,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5E01\u5151\u6362"
+  mText: "Dragon Coin Exchange"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2361,7 +2361,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u5151\u636210\u6B21"
+  mText: "Redeem diamonds 10 times"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

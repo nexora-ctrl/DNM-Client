@@ -1547,7 +1547,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u603B\u6D3B\u8DC3\u5EA6"
+  mText: "Total Partner Activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2207,7 +2207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u74E6\u6211\u963F\u74E6\u6211\u963F\u74E6\u6211\u963F\u74E6\u6211"
+  mText: "Ava I Ava I Ava I Ava I"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2453,7 +2453,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6\u5230\u8FBE"
+  mText: "Activity reached"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3272,7 +3272,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B56\u5212\u914D\u7684\u8868\u5185\u4FE1\u606F\u5220\u4E86\u7B56\u5212\u914D\u7684\u8868\u5185\u4FE1\u606F\u5220\u4E86\u7B56\u5212\u914D\u7684\u8868\u5185\u4FE1\u606F\u5220\u4E86\u7B56\u5212\u914D\u7684\u8868\u5185\u4FE1\u606F\u5220\u4E86"
+  mText: "The information in the planning allocation table has been deleted. The information in the planning allocation table has been deleted. The information in the planning allocation table has been deleted. The information in the planning allocation table has been deleted."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3570,7 +3570,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u6210\u5355\u4EBA\u6BCF\u65E5\u6D3B\u8DC3\u5EA6\u4EFB\u52A1\u53EF\u4EE5\u589E\u52A0\u6218\u53CB\u603B\u6D3B\u8DC3\u5EA6"
+  mText: "Completing solo Daily Activity Quests can help increase Total Partner Activity."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

@@ -1463,7 +1463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DDF\u968F\u89C6\u89D2\uFF0C\u53F3\u534A\u5C4F\u5212\u52A8\u53EF\u6C34\u5E73\u65CB\u8F6C\u955C\u5934"
+  mText: "Follow the viewing angle and swipe the right half of the screen to rotate the camera horizontally"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1535,7 +1535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3D\u89C6\u89D2"
+  mText: "3D perspective"
   mFontSize: 50
   mFontStyle: 0
   mAlignment: 0
@@ -1607,7 +1607,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9002\u5408\u66553D\u89C6\u89D2\u7684\u73A9\u5BB6"
+  mText: "Suitable for players who are dizzy with 3D perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1844,7 +1844,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u6E38\u620F\u89C6\u89D2"
+  mText: "Please select a game perspective"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -1916,7 +1916,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2150,7 +2150,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70ED\u88773D\u6E38\u620F\u73A9\u5BB6\u7684\u9996\u9009"
+  mText: "The first choice for players who are keen on 3D games"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2222,7 +2222,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FA\u5B9A\u89C6\u89D2"
+  mText: "Fixed viewing angle"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2294,7 +2294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2.5D\u89C6\u89D2"
+  mText: "2.5D perspective"
   mFontSize: 50
   mFontStyle: 0
   mAlignment: 0

@@ -2124,7 +2124,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u79EF\u5206"
+  mText: "Current points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2580,7 +2580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2690,7 +2690,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2836,7 +2836,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u6839\u636E\u6392\u884C\u53EF\u83B7\u5F97\u4E0D\u540C\u79F0\u53F7"
+  mText: "Different titles can be obtained every week based on rankings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3671,7 +3671,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EDD\u5730\u6C42\u751F"
+  mText: "PUBG"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3756,7 +3756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u5339\u914D"
+  mText: "Matchmaking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4134,7 +4134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u89C4\u5219"
+  mText: "game rules"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4992,7 +4992,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u6392\u540D\u524D6\u5373\u53EF\u9886\u53D6\u5956\u52B1"
+  mText: "Rank in the top 6 every week to receive rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

@@ -2000,7 +2000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D2A\u798F\u4E03\u5929"
+  mText: "Seven days of great blessing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2311,7 +2311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u6C42\u5237\u65B0"
+  mText: "Request"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2403,7 +2403,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E2E\u52A9\u4ED6\u4EBA\u5237\u65B0"
+  mText: "Help others refresh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2870,7 +2870,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u8FD0\u52BF"
+  mText: "Today's fortune"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3054,7 +3054,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3197,7 +3197,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u4EFB\u52A1"
+  mText: "Refresh Quest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3354,7 +3354,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9080\u8BF7"
+  mText: "Invited"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3862,7 +3862,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u53EF\u5E2E\u52A9\u5237\u65B01\u6B21"
+  mText: "Also helps to refresh once"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4056,7 +4056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4313,7 +4313,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D2A\u798F\u4E03\u5929"
+  mText: "Seven days of great blessing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4646,7 +4646,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u88AB\u5237\u6B21\u6570"
+  mText: "Number of times that can be brushed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4822,7 +4822,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u5F53\u524D\u54C1\u8D28"
+  mText: "my current quality"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -5312,7 +5312,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD0\u52BF\u8D8A\u597D\u7684\u73A9\u5BB6\u5237\u51FA\u7684\u4EFB\u52A1\u54C1\u8D28\u8D8A\u9AD8"
+  mText: "Players with better luck will have higher quality tasks."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -5444,7 +5444,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81EA\u5DF1\u5237\u65B0"
+  mText: "Refresh yourself"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5776,7 +5776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5959,7 +5959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9080\u8BF7"
+  mText: "Invited"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

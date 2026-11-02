@@ -1145,7 +1145,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u4EFB\u52A1\u5929\u5929\u597D\u8FD0\u52BF\n\u4E13\u5C5E\u8001\u73A9\u5BB6\u6807\u8BC6\n\u7EC4\u961F\u65F6\u961F\u53CB\u53EF\u4EAB\u611F\u6069\u793C\u5305"
+  mText: "Good luck in daily tasks\nExclusive veteran player logo\nTeammates can enjoy gratitude gift packs when forming a team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1546,7 +1546,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1854,7 +1854,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2000,7 +2000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u6210\u56DE\u5F52\u4EFB\u52A1\u6216\u6D3B\u8DC3\u5EA6\u4EFB\u52A1\n\u83B7\u5F97\u56DE\u5F52\u5E01\uFF0C\u5F00\u542F\u56DE\u5F52\u5546\u5E97"
+  mText: "Complete the regression mission or activity mission\nObtain return coins and open the return store"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2507,7 +2507,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DE\u5F52\u671F\u95F4\n\u524D\u4E03\u6B21\u8D2D\u4E701,3,6\u5143\u793C\u5305\n\u6536\u76CA\u7FFB\u500D"
+  mText: "return period\n1, 3, and 6 yuan gift packs for the first seven purchases\nRevenue doubled"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2719,7 +2719,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DE\u6D41\u4E13\u5C5E\u7279\u6743\uFF0C\u6301\u7EED\u6574\u4E2A\u56DE\u5F52\u6D3B\u52A8"
+  mText: "Exclusive privileges for return, lasting throughout the return event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2803,7 +2803,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BE6\u60C5"
+  mText: "Details"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

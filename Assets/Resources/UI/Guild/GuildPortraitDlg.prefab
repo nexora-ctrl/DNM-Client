@@ -1480,7 +1480,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FEE\u6539\u4F1A\u5FBD"
+  mText: "Modify emblem"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1548,7 +1548,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

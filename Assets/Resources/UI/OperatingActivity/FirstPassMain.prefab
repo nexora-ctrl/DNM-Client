@@ -2019,7 +2019,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u5956\u52B1"
+  mText: "View rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2210,7 +2210,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u4EBA\u5802[-]"
+  mText: "Hall of Fame[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2461,7 +2461,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2623,7 +2623,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u6B21\u901A\u8FC7\u72EE\u874E\u5DE2\u7A74\u56F0\u96BE\u6A21\u5F0F"
+  mText: "Pass the Manticore's Lair Hard Mode for the first time"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -2709,7 +2709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u59294\u5C0F\u65F6\u540E\u5F00\u542F"
+  mText: "Open in 5 days and 4 hours"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -2795,7 +2795,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D[c]No.12"
+  mText: "Current ranking[c]No.12"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2881,7 +2881,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u88AB\u9886\u53D6\u5B8C\u4E86\uFF0C\u4E0B\u6B21\u518D\u6765\u5427"
+  mText: "All Rewards have been acquired. Try again next time."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2967,7 +2967,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D20\u540D\u5956\u52B1"
+  mText: "Rewards for top 20"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3719,7 +3719,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D100\u540D\u901A\u5173\u961F\u4F0D\u53EF\u9886\u53D6\u5956\u52B1(10/100)"
+  mText: "The first 100 teams to clear the level can receive rewards (10/100)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

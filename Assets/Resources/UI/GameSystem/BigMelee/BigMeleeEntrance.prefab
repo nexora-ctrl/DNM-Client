@@ -4172,7 +4172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4623,7 +4623,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1[-]"
+  mText: "Ranking rewards[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4945,7 +4945,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5956\u52B1[-]"
+  mText: "Points reward[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5761,7 +5761,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5833,7 +5833,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5905,7 +5905,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5977,7 +5977,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6630,7 +6630,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7061,7 +7061,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7486,7 +7486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7969,7 +7969,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8241,7 +8241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E09 [fcd034]21:10-21:15[-] \u53EF\u53C2\u52A0"
+  mText: "Available every Wednesday [fcd034]21:10-21:15[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -8313,7 +8313,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0\u6BD4\u8D5B"
+  mText: "take part in competition"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -9175,7 +9175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u5956\u52B1"
+  mText: "Participation Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9567,7 +9567,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DE8\u670D\u5927\u4E71\u6597"
+  mText: "Cross-server brawl"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -11207,7 +11207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards are issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12422,7 +12422,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12508,7 +12508,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D"
+  mText: "Current ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12746,7 +12746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1:1\u5929\u68AF\u8D5B\u548C2:2\u5929\u68AF\u8D5B\u5171\u7528\u6392\u540D\u5956\u52B1\uFF0C\u6BCF\u8D5B\u5B63\u6309\u6700\u9AD8\u540D\u6B21\u53D1\u653E\u5956\u52B1"
+  mText: "1:1 Ladder Match and 2:2 Ladder Match share ranking rewards, and rewards will be distributed according to the highest ranking in each season."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12832,7 +12832,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u4ECB\u7ECD"
+  mText: "Game introduction"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

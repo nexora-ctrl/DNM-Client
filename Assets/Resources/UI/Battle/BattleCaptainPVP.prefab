@@ -2380,7 +2380,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u961F\u961F\u957F\u540D\u5B57"
+  mText: "My team captain’s name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -2774,7 +2774,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u654C\u961F\u961F\u957F\u540D\u5B57"
+  mText: "Enemy team captain's name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -3311,7 +3311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u738B\u5BB6\u7684\u72D7\u72D7"
+  mText: "The dog of Lao Wang’s family next door"
   mFontSize: 36
   mFontStyle: 0
   mAlignment: 0
@@ -3439,7 +3439,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5C40\u961F\u957F"
+  mText: "Captain of this game"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3511,7 +3511,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u4FDD\u62A4\u597D\u961F\u957F\uFF0C\u4E0D\u8981\u8BA9\u4ED6\u6B7B\u6389!!"
+  mText: "Please protect the captain and don’t let him die!!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4543,7 +4543,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[21b2ff]\u5373\u5C06\u590D\u6D3B\u5373\u5C06"
+  mText: "[21b2ff]Resurrection is coming soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -4629,7 +4629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[ef2717]\u5373\u5C06\u590D\u6D3B\u5373\u5C06\u590D\u6D3B"
+  mText: "[ef2717]Is about to be resurrectedI am about to be resurrected"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -5770,7 +5770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5842,7 +5842,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u5012\u8BA1\u65F6"
+  mText: "Revive Countdown"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6756,7 +6756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3 \u79D2\u540E\u8FDB\u5165\u7ED3\u7B97"
+  mText: "Enter settlement in 3 seconds"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6902,7 +6902,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3 \u79D2\u540E\u8FDB\u5165\u4E0B\u4E00\u5C40"
+  mText: "Enter the next round after 3 seconds"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6988,7 +6988,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229"
+  mText: "Victory"
   mFontSize: 60
   mFontStyle: 0
   mAlignment: 0
@@ -7060,7 +7060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[eaddc0]\u654C\u65B9\u961F\u957F[ff3829]\u9694\u58C1\u8001\u738B\u5BB6\u7684\u72D7\u72D7[-]\u88AB[5589ff]\u9694\u58C1\u8001\u738B\u5BB6\u7684\u5988\u54AA[-]\u51FB\u6740\uFF0C\u6211\u961F\u83B7\u80DC!!"
+  mText: "[eaddc0] The enemy captain [ff3829]’s dog [-] from Lao Wang’s family next door was killed by [5589ff] Mommy [-] from Lao Wang’s family next door. Our team won!!"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7132,7 +7132,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5931\u8D25"
+  mText: "Failed"
   mFontSize: 60
   mFontStyle: 0
   mAlignment: 0
@@ -7204,7 +7204,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[eaddc0]\u961F\u957F\u88AB\u51FB\u6740\uFF0C\u654C\u961F\u80DC!!"
+  mText: "[eaddc0]The captain is killed and the enemy team wins!!"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7276,7 +7276,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E73\u5C40"
+  mText: "Draw"
   mFontSize: 60
   mFontStyle: 0
   mAlignment: 0
@@ -7348,7 +7348,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[eaddc0]\u56DE\u5408\u7ED3\u675F\uFF0C\u5E73\u5C40"
+  mText: "[eaddc0] End of round, draw"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7540,7 +7540,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[eaddc0]\u654C\u65B9\u961F\u957F[ff3829]\u9694\u58C1\u8001\u738B\u5BB6\u7684\u72D7\u72D7[-]\u88AB[5589ff]\u9694\u58C1\u8001\u738B\u5BB6\u7684\u5988\u54AA[-]\u51FB\u6740\uFF0C\u6211\u961F\u83B7\u80DC!!"
+  mText: "[eaddc0] The enemy captain [ff3829]’s dog [-] from Lao Wang’s family next door was killed by [5589ff] Mommy [-] from Lao Wang’s family next door. Our team won!!"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

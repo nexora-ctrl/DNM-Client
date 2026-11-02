@@ -2010,7 +2010,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BC2\u5BC2\u65E0\u540D"
+  mText: "Silent and nameless"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u5F53\u524D\u8FD0\u52BF:"
+  mText: "My current fortune:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2194,7 +2194,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53EF\u5E2E\u52A9\u6B21\u6570"
+  mText: "Number of times you can help today"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2496,7 +2496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0"
+  mText: "Refresh"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2688,7 +2688,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6"
+  mText: "player"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3107,7 +3107,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3259,7 +3259,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u4EFB\u52A1\u8BC4\u5206"
+  mText: "Current task rating"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3441,7 +3441,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u88AB\u5237\u65B0\u6B21\u6570"
+  mText: "Remaining refresh times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4074,7 +4074,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u53EF\u4E3A\u516C\u4F1A\u73A9\u5BB6\u514D\u8D39\u5237\u65B09\u6B21\u65E5\u5E38\u4EFB\u52A1"
+  mText: "Daily tasks can be refreshed 9 times for free for guild players every day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4146,7 +4146,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u6C42\u5237\u65B0\u4EFB\u52A1"
+  mText: "Request a refresh task"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4292,7 +4292,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

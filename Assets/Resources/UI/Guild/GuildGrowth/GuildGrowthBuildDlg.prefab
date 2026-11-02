@@ -3036,7 +3036,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5EFA\u8BBE"
+  mText: "Guild construction"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3239,7 +3239,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3543,7 +3543,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u62CD\u5356"
+  mText: "Guild Auction"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3938,7 +3938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4110,7 +4110,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u591A4\u4EBA\u7EC4\u961F\uFF0C\u7531\u961F\u957F\u524D\u5F80\u516C\u4F1A\u827E\u7433\u5904\u9886\u53D6\u4EFB\u52A1\uFF0C\u5916\u51FA\u6D88\u706D\u91CE\u5916\r\u7684\u654C\u4EBA\uFF0C\u6536\u96C6\u8D44\u6750\uFF0C\u6BCF\u5468\u53EF\u5B8C\u621050\u6B21\uFF0C\u524D5\u6B21\u4E3A\u53EF\u83B7\u5F973\u500D\u4E2A\u4EBA\r\u5956\u52B1\uFF0C5\u500D\u8D44\u6E90\u4E0E\u79D1\u6280\u70B9\u548C\u5C11\u91CF\u8D21\u732E\u5956\u52B1\u3002\u524D5\u6B21\u4E3A\u53EF\u83B7\u5F973\u500D\u4E2A\r\u4EBA\u5956\u52B1\uFF0C5\u500D\u8D44\u6E90\u4E0E\u79D1\u6280\u70B9\u548C\u5C11\u91CF\u8D21\u732E\u5956\u52B1\u3002"
+  mText: "A maximum of 4 people can form a team. The leader will go to the guild Irene to receive the task and go out to destroy the wild.Enemies, collect materials, can be completed 50 times a week, the first 5 times can get 3 times the individualRewards, 5x resources and technology points and a small amount of contribution rewards. You can get 3 times the amount in the first 5 timesPerson rewards, 5x resources and technology points and a small amount of contribution rewards."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4254,7 +4254,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6350\u8D60"
+  mText: "Guild donation"
   mFontSize: 24
   mFontStyle: 2
   mAlignment: 0
@@ -4446,7 +4446,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5EFA\u8BBE\u70B9\u6570"
+  mText: "construction points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5207,7 +5207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u5DF2\u5B8C\u6210"
+  mText: "Completed this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5389,7 +5389,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6188,7 +6188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u4E07"
+  mText: "200,000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7002,7 +7002,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7306,7 +7306,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u603B\u8FDB\u5EA6"
+  mText: "Guild's total progress"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7878,7 +7878,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CE\u5916\u72E9\u730E"
+  mText: "wild hunting"
   mFontSize: 24
   mFontStyle: 2
   mAlignment: 0
@@ -8051,7 +8051,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8123,7 +8123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u5DF2\u5B8C\u6210"
+  mText: "Completed this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8339,7 +8339,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u4E07"
+  mText: "200,000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8411,7 +8411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8483,7 +8483,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u591A4\u4EBA\u7EC4\u961F\uFF0C\u7531\u961F\u957F\u524D\u5F80\u516C\u4F1A\u827E\u7433\u5904\u9886\u53D6\u4EFB\u52A1\uFF0C\u5916\u51FA\u6D88\u706D\u91CE\u5916\r\u7684\u654C\u4EBA\uFF0C\u6536\u96C6\u8D44\u6750\uFF0C\u6BCF\u5468\u53EF\u5B8C\u621050\u6B21\uFF0C\u524D5\u6B21\u4E3A\u53EF\u83B7\u5F973\u500D\u4E2A\u4EBA\r\u5956\u52B1\uFF0C5\u500D\u8D44\u6E90\u4E0E\u79D1\u6280\u70B9\u548C\u5C11\u91CF\u8D21\u732E\u5956\u52B1\u3002\u524D5\u6B21\u4E3A\u53EF\u83B7\u5F973\u500D\u4E2A\r\u4EBA\u5956\u52B1\uFF0C5\u500D\u8D44\u6E90\u4E0E\u79D1\u6280\u70B9\u548C\u5C11\u91CF\u8D21\u732E\u5956\u52B1\u3002"
+  mText: "A maximum of 4 people can form a team. The leader will go to the guild Irene to receive the task and go out to destroy the wild.Enemies, collect materials, can be completed 50 times a week, the first 5 times can get 3 times the individualRewards, 5x resources and technology points and a small amount of contribution rewards. You can get 3 times the amount in the first 5 timesPerson rewards, 5x resources and technology points and a small amount of contribution rewards."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9354,7 +9354,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u6BCF\u4EBA\u53EF\u5EFA\u8BBE10000\u8D44\u6599\u548C\u79D1\u6280\u70B9\uFF0C\u672C\u5468\u5DF2\u5EFA\u8BBE9000"
+  mText: "Each person can build 10,000 data and technology points every week, and 9,000 have been built this week."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9486,7 +9486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9638,7 +9638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9885,7 +9885,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u8D44\u798F\u5229"
+  mText: "Salary and benefits"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

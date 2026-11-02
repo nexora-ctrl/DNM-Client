@@ -1693,7 +1693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -1765,7 +1765,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2537,7 +2537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u4E00\u4E2A"
+  mText: "upgrade one"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2770,7 +2770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u5168\u90E8"
+  mText: "Upgrade all"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3003,7 +3003,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3506,7 +3506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3984,7 +3984,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4416,7 +4416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7389\u5347\u7EA7"
+  mText: "Dragon Jade Upgrade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4502,7 +4502,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347 \u7EA7"
+  mText: "Upgrade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4693,7 +4693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347 \u7EA7"
+  mText: "Upgrade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4884,7 +4884,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5927\u5408\u6210"
+  mText: "maximum synthesis"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

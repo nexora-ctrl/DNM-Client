@@ -1221,7 +1221,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A\u6570"
+  mText: "Number of wins"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1405,7 +1405,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u670D\u52A1\u5668\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "server name name name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -1473,7 +1473,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1831,7 +1831,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1960,7 +1960,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2086,7 +2086,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2154,7 +2154,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D"
+  mText: "Team name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2280,7 +2280,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3197,7 +3197,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u65E0\u4EBA\u4E0A\u699C"
+  mText: "No Data"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

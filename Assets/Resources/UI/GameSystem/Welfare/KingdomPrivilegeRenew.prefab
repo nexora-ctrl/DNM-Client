@@ -800,7 +800,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EED\u8D39"
+  mText: "Continuing Fees"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1111,7 +1111,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1254,7 +1254,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BAB\u5EF7\u8D35\u65CF"
+  mText: "court nobles"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1445,7 +1445,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u4E2A\u6708"
+  mText: "1 month"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1531,7 +1531,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1603,7 +1603,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u683C"
+  mText: "Price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1689,7 +1689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u5143"
+  mText: "10 yuan"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1892,7 +1892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u7684\u5BAB\u5EF7\u8D35\u65CF\u7279\u6743\u6210\u529F\u7EED\u8D391\u4E2A\u6708\uFF0C\u5269\u4F59xx\u5929"
+  mText: "Your palace noble privileges have been successfully renewed for 1 month, with xx days remaining"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

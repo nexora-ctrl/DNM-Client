@@ -3034,7 +3034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u9009\u62E9"
+  mText: "Quick selection"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4515,7 +4515,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5305,7 +5305,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u9009\u62E9"
+  mText: "Quick selection"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6032,7 +6032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6118,7 +6118,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7417,7 +7417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u89E3"
+  mText: "Dismantle"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -7654,7 +7654,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u88C5\u5907\u5546\u5E97"
+  mText: "[b]Equipment store"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8185,7 +8185,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u89E3"
+  mText: "Dismantle"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9046,7 +9046,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u52FE\u9009\u60A8\u8981\u7684\u7269\u54C1\u54C1\u8D28"
+  mText: "Click to select the item quality you want"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9311,7 +9311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A74\u6838\u5FC3\u6750\u6599\u5206\u89E3\u53EF\u5F97\u9F99\u5E01"
+  mText: "Dragon Lair core materials can be decomposed to obtain Dragon Coins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

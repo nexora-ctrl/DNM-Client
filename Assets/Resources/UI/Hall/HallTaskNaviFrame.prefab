@@ -2707,7 +2707,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 2
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u9694\u58C1\u8001\u9694\u58C1"
+  mText: "Next door old next door old next door"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3009,7 +3009,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1"
+  mText: "Quests"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3091,7 +3091,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1"
+  mText: "Quests"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3523,7 +3523,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB\u52DF\u5927\u5385"
+  mText: "Recruitment Hall"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3605,7 +3605,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3849,7 +3849,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 2
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5339\u914D\u4E2D.."
+  mText: "Matching.."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4260,7 +4260,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6807\u9898"
+  mText: "Title"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4342,7 +4342,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u68071\n\u76EE\u68072"
+  mText: "Goal 1\nGoal 2"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -4775,7 +4775,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u4EFB\u52A1"
+  mText: "No tasks"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5545,7 +5545,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5339\u914D\u4E2D.."
+  mText: "Matching.."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6069,7 +6069,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 2
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7\u597D\u53CB"
+  mText: "Invite friends"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6386,7 +6386,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6480,7 +6480,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u5927\u5385"
+  mText: "Team lobby"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7210,7 +7210,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u961F\u4F0D"
+  mText: "Create a team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

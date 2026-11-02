@@ -1811,7 +1811,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "6\u592919\u5C0F\u65F659\u5206"
+  mText: "6 days, 19 hours and 59 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1933,7 +1933,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u540D"
+  mText: "first place"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -2005,7 +2005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u540D"
+  mText: "first place"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -2231,7 +2231,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards are issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2819,7 +2819,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5207\u6362"
+  mText: "switch"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2891,7 +2891,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540E\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards will be issued later"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3508,7 +3508,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u8005\u9635\u8425\u5956\u52B1"
+  mText: "Winner camp rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3648,7 +3648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u5230\u5BF9\u5E94\u79EF\u5206\u90AE\u4EF6\u53D1\u653E\u5BF9\u5E94\u6863\u4F4D\u5956\u52B1"
+  mText: "Rewards for corresponding grades will be issued via email when corresponding points are reached."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3733,7 +3733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D"
+  mText: "Current ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3959,7 +3959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u9635\u8425\uFF1A\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Current camp: Beskod"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4151,7 +4151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D25\u8005\u9635\u8425\u5956\u52B1"
+  mText: "Loser camp rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4330,7 +4330,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

@@ -11904,7 +11904,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9690\u79C1\u6761\u6B3E"
+  mText: "Privacy Policy"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12071,7 +12071,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13446,7 +13446,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D85\u9AD8"
+  mText: "super high"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13518,7 +13518,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13590,7 +13590,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2D"
+  mText: "Medium"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13662,7 +13662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14462,7 +14462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14855,7 +14855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "3D\u81EA\u7531\u89C6\u89D2"
+  mText: "3D free perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15429,7 +15429,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6162"
+  mText: "slow"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15515,7 +15515,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5FEB"
+  mText: "Fast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16049,7 +16049,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u4FE1\u606F"
+  mText: "personal information"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16235,7 +16235,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -19297,7 +19297,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770BVIP\u7279\u6743"
+  mText: "View VIP privileges"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -20231,7 +20231,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u753B\u9762"
+  mText: "game screen"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20537,7 +20537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20783,7 +20783,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2D"
+  mText: "Medium"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21029,7 +21029,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21445,7 +21445,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540C\u5C4F\u73A9\u5BB6\u6570"
+  mText: "Number of players on the same screen"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21517,7 +21517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21589,7 +21589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21661,7 +21661,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21733,7 +21733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21805,7 +21805,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21877,7 +21877,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u8BED\u97F3"
+  mText: "game voice"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22294,7 +22294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u70B9\u70B9\u6EF4\u6EF4\u70B9\u70B9\u6EF4\u6EF4"
+  mText: "bit by bit bit by bit bit by bit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22400,7 +22400,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u5728\u672C\u6E38\u620F\u5B9E\u540D"
+  mText: "Already registered in this game"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23204,7 +23204,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u65E0"
+  mText: "None"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23408,7 +23408,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854"
+  mText: "military rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23618,7 +23618,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7\u79F0\u53F7\u79F0\u53F7\u79F0\u53F7"
+  mText: "title title title title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23914,7 +23914,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8EAB\u4EFD\u4F1A\u5458"
+  mText: "status member"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -24000,7 +24000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u516C\u4F1A"
+  mText: "Dragon Nest Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24086,7 +24086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u4FE1223\u533A"
+  mText: "WeChat area 223"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -25022,7 +25022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -25094,7 +25094,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5468\u4E8C\u3001\u5468\u4E09\u3001\u5468\u4E94"
+  mText: "Tuesday, Wednesday, Friday"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25314,7 +25314,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u817E\u8BAF\u6E38\u620F\u8BB8\u53EF\u53CA\u670D\u52A1\u534F\u8BAE"
+  mText: "Tencent Game License and Service Agreement"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -25446,7 +25446,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u670D\u52A1\u6761\u6B3E"
+  mText: "Terms of Service"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -25671,7 +25671,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31"
+  mText: "Achievement"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25923,7 +25923,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u8FBE\u6210"
+  mText: "achievement achieved"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -26115,7 +26115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7"
+  mText: "Title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26247,7 +26247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4FEE\u6539\u79F0\u53F7"
+  mText: "Modify title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -26319,7 +26319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5934\u8854"
+  mText: "title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26591,7 +26591,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u5934\u8854"
+  mText: "Upgrade title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -26723,7 +26723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854"
+  mText: "military rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -27049,7 +27049,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C6\u89D2\u8BBE\u7F6E"
+  mText: "Viewing angle settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27215,7 +27215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C6\u89D2\u8BBE\u7F6E"
+  mText: "Viewing angle settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27381,7 +27381,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u4E16\u754C\u8BED\u97F3"
+  mText: "Automatically play world voices"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -27467,7 +27467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u63A8\u9001\u8BBE\u7F6E"
+  mText: "Push settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27693,7 +27693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u63A8\u9001\u8BBE\u7F6E"
+  mText: "Push settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28290,7 +28290,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -28362,7 +28362,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u7ED1\u5B9A\u624B\u673A"
+  mText: "Bind mobile phone now"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -28434,7 +28434,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -28666,7 +28666,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u6027\u5C55\u793A"
+  mText: "Personality display"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -28738,7 +28738,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u4FE1\u606F"
+  mText: "personal information"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28810,7 +28810,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7CFB\u7EDF\u8BBE\u7F6E"
+  mText: "System settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28956,7 +28956,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u91CD\u65B0\u767B\u5F55"
+  mText: "Re-login"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29028,7 +29028,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5207\u6362\u89D2\u8272"
+  mText: "Switch roles"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29100,7 +29100,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206\u8FA8\u7387"
+  mText: "resolution"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29172,7 +29172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F00\u901A\u8D85\u7EA7\u4F1A\u5458"
+  mText: "Activate Super Membership"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -29244,7 +29244,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8"
+  mText: "Event"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29316,7 +29316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5468\u671F"
+  mText: "cycle"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29388,7 +29388,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29460,7 +29460,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u63D0\u9192"
+  mText: "reminder"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29712,7 +29712,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BED\u97F3\u6280\u672F\u7531\u817E\u8BAFGVoice\u63D0\u4F9B"
+  mText: "Voice technology provided by Tencent GVoice"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29784,7 +29784,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u5F53\u524D\u8BED\u97F3"
+  mText: "Automatically play the current voice"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -29916,7 +29916,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u516C\u4F1A\u8BED\u97F3"
+  mText: "Automatically play guild voice"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -30048,7 +30048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u961F\u4F0D\u8BED\u97F3"
+  mText: "Automatically play team voice"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -30180,7 +30180,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u79C1\u804A\u8BED\u97F3"
+  mText: "Automatically play private chat voice"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -30312,7 +30312,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4EC5Wifi\u73AF\u5883\u81EA\u52A8\u64AD\u653E\u8BED\u97F3"
+  mText: "Automatically play voice only in Wifi environment"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -30444,7 +30444,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u8BED\u97F3"
+  mText: "game voice"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30576,7 +30576,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u8BED\u97F3"
+  mText: "game voice"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30648,7 +30648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540C\u5C4F\u4EBA\u6570"
+  mText: "Number of people on the same screen"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -30794,7 +30794,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u754C\u9762\u6D41\u7545"
+  mText: "Smooth interface"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -30866,7 +30866,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2D"
+  mText: "Medium"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -30938,7 +30938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -31010,7 +31010,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u90E8\u5206\u8BBE\u7F6E\u9700\u8981\u91CD\u542F\u540E\u751F\u6548"
+  mText: "Some settings need to be restarted to take effect"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -31082,7 +31082,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5927\u5192\u9669\u5927\u5192\u9669"
+  mText: "big adventure big adventure"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -31375,7 +31375,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u63A8\u9001\u8BBE\u7F6E"
+  mText: "Push settings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31705,7 +31705,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -32095,7 +32095,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u97F3\u6548"
+  mText: "Game sound effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -32485,7 +32485,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80CC\u666F\u97F3\u4E50"
+  mText: "background music"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -32809,7 +32809,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u57FA\u672C\u8BBE\u7F6E"
+  mText: "Basic settings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -33169,7 +33169,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C0F"
+  mText: "small"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -33255,7 +33255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C0F"
+  mText: "small"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -33668,7 +33668,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -33814,7 +33814,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -34141,7 +34141,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "3D\u89C6\u89D2"
+  mText: "3D perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -34408,7 +34408,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "2.5D\u89C6\u89D2"
+  mText: "2.5D perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -34661,7 +34661,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -34747,7 +34747,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "2.5D\u89C6\u89D2\u9002\u5408\u66553D\u7684\u73A9\u5BB6"
+  mText: "2.5D perspective is suitable for players who are confused by 3D"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -34959,7 +34959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7535\u53F0"
+  mText: "Radio"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -35091,7 +35091,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5BA2\u670D"
+  mText: "customer service"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -35423,7 +35423,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7CFB\u7EDF\u8BBE\u7F6E"
+  mText: "System settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -35629,7 +35629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BBE \u7F6E"
+  mText: "Settings"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -35715,7 +35715,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u624B\u67C4\u8BBE\u7F6E"
+  mText: "Controller settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -39043,7 +39043,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u751F\u6DAF"
+  mText: "personal career"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -39231,7 +39231,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82B1\u96E8\u6548\u679C"
+  mText: "flower rain effect"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -41091,7 +41091,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540C\u5C4F\u73A9\u5BB6\u6570"
+  mText: "Number of players on the same screen"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

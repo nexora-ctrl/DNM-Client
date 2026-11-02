@@ -1896,7 +1896,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u6D3B\u8DC3\u5EA6"
+  mText: "Activity this week"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -3036,7 +3036,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -3233,7 +3233,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u505C\u7684\u5192\u9669"
+  mText: "non-stop adventure"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3437,7 +3437,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97"
+  mText: "get"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -3617,7 +3617,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3882,7 +3882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97"
+  mText: "get"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -5094,7 +5094,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u505C\u7684\u5192\u9669\u4E0D\u505C\u7684\u5192\u9669"
+  mText: "Keep taking risks Keep taking risks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5340,7 +5340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u6D3B\u8DC3\u5EA6"
+  mText: "Today's activity"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

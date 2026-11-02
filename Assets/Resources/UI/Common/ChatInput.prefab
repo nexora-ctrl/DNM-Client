@@ -821,7 +821,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1 \u9001"
+  mText: "Send"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -986,7 +986,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165"
+  mText: "Click to Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1

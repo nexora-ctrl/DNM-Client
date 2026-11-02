@@ -1174,7 +1174,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1242,7 +1242,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "8-8\u6D77\u9F99\u590D\u5730\u5165\u53E3100%"
+  mText: "8-8 Hailong Forte entrance 100%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1390,7 +1390,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2009,7 +2009,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2077,7 +2077,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D"
+  mText: "Character name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2145,7 +2145,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2213,7 +2213,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u8FDB\u5EA6"
+  mText: "Current progress"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2395,7 +2395,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5EA6\u6392\u540D"
+  mText: "Progress ranking"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2520,7 +2520,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u7B97\u65F6\u95F4"
+  mText: "settlement time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2645,7 +2645,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5468\u65E5\u4F1A\u53D1\u653E\u6392\u540D\u5956\u52B1\uFF0C\u6BCF\u6B21\u5956\u52B1\u7ED3\u7B97\u540E\u5C06\u4F1A\u91CD\u65B0\u8FDB\u884C\u5206\u7EC4"
+  mText: "Ranking rewards will be distributed on Sunday, and the groups will be re-grouped after each reward is settled."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

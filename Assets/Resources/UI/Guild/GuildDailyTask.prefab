@@ -3559,7 +3559,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3891,7 +3891,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E\u8BA4"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4060,7 +4060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u4F1A\u4EFB\u52A1"
+  mText: "Custom House Quest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4206,7 +4206,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u8FD8\u6709\u5C1A\u672A\u5B8C\u6210\u7684\u8BA2\u5355\uFF0C\u786E\u8BA4\u8981\u73B0\u5728\u4EA4\u4ED8\u4EFB\u52A1\u5417\uFF1F"
+  mText: "You still have unfinished orders, are you sure you want to deliver the task now?"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4412,7 +4412,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u6210\u5168\u90E8\u4EFB\u52A1\u5956\u52B1"
+  mText: "Rewards for completing all tasks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4484,7 +4484,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u4ED8    \u4E2A\u4EFB\u52A1\u57FA\u7840\u5956\u52B1"
+  mText: "Deliver basic rewards for tasks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6129,7 +6129,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u6C42\u52A9\u6B21\u6570"
+  mText: "Number of requests for help per day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6201,7 +6201,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6392,7 +6392,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6C42\u52A9"
+  mText: "Ask for Help"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -6626,7 +6626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u8FD8\u53EF\u5237\u65B0x\u6B21\u4EFB\u52A1\u8BC4\u5206\uFF0C\u8BC4\u5206\u8D8A\u9AD8\u5956\u52B1\u8D8A\u597D"
+  mText: "You can also refresh the task score x times today. The higher the score, the better the reward."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7305,7 +7305,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u4EFB\u52A1\u57FA\u7840\u5956\u52B1"
+  mText: "Basic rewards for submitting tasks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7427,7 +7427,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u6210\u5168\u90E8\u8BA2\u5355\u5956\u52B1"
+  mText: "Rewards for completing all orders"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7499,7 +7499,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u4EFB\u52A1"
+  mText: "Refresh Quest"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7759,7 +7759,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E8B\u4EF6"
+  mText: "event"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8071,7 +8071,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u96C6\u4E00\u4E2A\u76D0\u70E4\u9CA4\u9C7C(\u7267\u5E08\u4E13\u5C5E)"
+  mText: "Collect a salt-grilled carp (priest only)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8584,7 +8584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u8BB0\u5F55"
+  mText: "refresh record"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8768,7 +8768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u5B8C\u6210\u5EA6"
+  mText: "task completion"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10925,7 +10925,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u7ED3\u679C"
+  mText: "refresh results"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11178,7 +11178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u4ED8"
+  mText: "Submit"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -12091,7 +12091,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9760\u4EBA\u4E0D\u5982\u9760\u81EA\u5DF1 \u4F60\u5C06\u65E5\u5E38\u4EFB\u52A1\u8BC4\u5206\u5237\u4E3A"
+  mText: "It is better to rely on yourself than to rely on others. You will rate your daily tasks as"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12163,7 +12163,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u597D\u53CB \u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Guild friend player’s nickname goes here"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -12255,7 +12255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u4EFB\u52A1"
+  mText: "Submit Quest"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -12340,7 +12340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u5237\u65B0\u8BB0\u5F55"
+  mText: "Task refresh record"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13003,7 +13003,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u751F\u6548\uFF1A"
+  mText: "Currently in effect:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13114,7 +13114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u597D\u53CB\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC\u4E3A\u60A8\u5237\u65B0\u4E86\u4EFB\u52A1\u5217\u8868"
+  mText: "The nickname of the guild friend player refreshes the task list for you here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13617,7 +13617,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1"
+  mText: "Quests"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13932,7 +13932,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14136,7 +14136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u4EFB\u52A1"
+  mText: "daily tasks"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -14402,7 +14402,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C06\u4F60\u7684\u65E5\u5E38\u4EFB\u52A1\u8BC4\u5206\u5237\u4E3A"
+  mText: "Refresh your daily task rating to"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -14614,7 +14614,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u751F\u6548\uFF1A"
+  mText: "Currently in effect:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

@@ -4408,7 +4408,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9C7C\u9975\u6570\u91CF"
+  mText: "Number of baits"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4506,7 +4506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u6536\u83B7"
+  mText: "This harvest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4892,7 +4892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7"
+  mText: "fishing level"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -5847,7 +5847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6CA1\u6709\u9493\u5230\u9C7C\u5462\uFF0C\u7EE7\u7EED\u52AA\u529B\u54E6"
+  mText: "I haven’t caught a fish yet, keep working hard."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6586,7 +6586,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u7EA7"
+  mText: "Level 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6899,7 +6899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u589E\u9C7C\u79CD"
+  mText: "New fish species"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6971,7 +6971,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7"
+  mText: "fishing level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7043,7 +7043,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u529F\u7387"
+  mText: "success rate"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7115,7 +7115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u9700\u7ECF\u9A8C"
+  mText: "Required experience"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7673,7 +7673,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7      \u7EA7"
+  mText: "Fishing level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8029,7 +8029,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u9493\u9C7C\u4E2D\u2026"
+  mText: "Automatic fishing..."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9621,7 +9621,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7"
+  mText: "fishing level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9818,7 +9818,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9C7C\u9975\u4E0D\u8DB3"
+  mText: "Not enough bait"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

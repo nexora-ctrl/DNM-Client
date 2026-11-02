@@ -565,7 +565,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5192\u9669\u5BB6\uFF0C\u51FB\u7834\u5C01\u5370\u6C34\u6676\uFF0C\u6311\u6218\u4F60\u7684\u6781\u9650\u5427\uFF01"
+  mText: "Adventurer, break the seal crystal and challenge your limits!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -691,7 +691,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96BE\u5EA6"
+  mText: "difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

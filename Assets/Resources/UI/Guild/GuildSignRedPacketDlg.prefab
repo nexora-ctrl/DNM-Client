@@ -3799,7 +3799,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u7EA2\u5305"
+  mText: "Send red envelopes"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3945,7 +3945,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91D1\u5E01"
+  mText: "Gold"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4161,7 +4161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u5171\u6709                     \u4E2A"
+  mText: "There are a total of"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4233,7 +4233,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5185\u6709\u7EA2\u5305      \u4E2A"
+  mText: "There are red envelopes inside"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5532,7 +5532,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7EA2\u5305"
+  mText: "Guild Red Envelope"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -5882,7 +5882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "99\u4EBA"
+  mText: "99 people"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -6323,7 +6323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305\u52A0\u6210\uFF1A"
+  mText: "Red envelope bonus:"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 1
@@ -6395,7 +6395,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u5728\u7EBF\u4EBA\u6570"
+  mText: "Number of people currently online"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6467,7 +6467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u8BF4\u660E"
+  mText: "How to play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6583,7 +6583,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\r1.\u7EA2\u5305\u7531\u519B\u56E2\u957F\u6216\u526F\u519B\u56E2\u957F\u53D1\u653E\uFF0C\u6BCF\u65E5\u5956\u52B15\u70B9\u5237\u65B0\u3002\n\r2.\u519B\u56E2\u5728\u7EBF\u4EBA\u6570\u8D8A\u591A\uFF0C\u53D1\u653E\u7EA2\u5305\u65F6\u5956\u52B1\u5C31\u4F1A\u8D8A\u9AD8\u3002\n\r3.\u6BCF\u4E2A\u7EA2\u5305\u7684\u6570\u91CF\u56FA\u5B9A\uFF0C\u6BCF\u4E2A\u6210\u5458\u5F53\u5929\u6700\u591A\u9886\u53D62\u4E2A\u7B7E\u5230\u7EA2\u5305\u3002\r\n\r4.\u7EA2\u5305\u53EF\u53D1\u653E\u65F6\u95F4\u4E3A19:00-22:00\u3002\r"
+  mText: "1. Red envelopes are distributed by the legion commander or deputy legion commander, and the daily reward is refreshed at 5 points.\n2. The more people in the legion are online, the higher the rewards will be when issuing red envelopes.\n3. The number of each red envelope is fixed, and each member can receive up to 2 sign-in red envelopes on the same day.\n4. Red envelopes can be distributed between 19:00-22:00."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7267,7 +7267,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305\u6C60"
+  mText: "red envelope pool"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9338,7 +9338,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53BB\u7B7E\u5230"
+  mText: "Go and sign in"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9662,7 +9662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6C42\u7EA2\u5305"
+  mText: "Gimme a Red Envelope"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10257,7 +10257,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u7EA2\u5305"
+  mText: "historical red envelope"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

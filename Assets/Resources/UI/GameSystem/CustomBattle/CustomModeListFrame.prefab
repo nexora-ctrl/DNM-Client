@@ -1460,7 +1460,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u7EC8\u6781\u6311\u6218\u585E"
+  mText: "Ultimate Ladder Challenge Plug"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80E1\u535A\u8043\u7684\u4E89\u9738\u8D5B"
+  mText: "Hu Bodan’s competition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1818,7 +1818,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2 \u4E0E"
+  mText: "Join"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2210,7 +2210,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u6BD4\u8D5B\u540D\u79F0\u641C\u7D22~"
+  mText: "Enter the game name to search~"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2447,7 +2447,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0[-]"
+  mText: "refresh[-]"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2768,7 +2768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u6BD4\u8D5B"
+  mText: "my game"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3027,7 +3027,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u7EC7\u8005"
+  mText: "organizer"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3113,7 +3113,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D"
+  mText: "name name name name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3259,7 +3259,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3391,7 +3391,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B"
+  mText: "Check"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3667,7 +3667,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6BD4\u8D5B"
+  mText: "There are currently no matches"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4081,7 +4081,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EBA\u5DF2\u53C2\u4E0E"
+  mText: "People have participated"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4167,7 +4167,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u6BD4\u8D5B"
+  mText: "Create a contest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4319,7 +4319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u8DE8\u670D\u6BD4\u8D5B"
+  mText: "Show cross-server matches"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

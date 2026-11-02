@@ -4000,7 +4000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE8\u80F8\u7684\u9F99\u7389"
+  mText: "Big breasted dragon jade"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4798,7 +4798,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99 \u7389"
+  mText: "Dragon Jade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4930,7 +4930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8981\u9576\u5D4C\u7684\u88C5\u5907"
+  mText: "Select the equipment to be embedded"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5133,7 +5133,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -5873,7 +5873,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE8\u80F8\u7684\u9F99\u7389"
+  mText: "Big breasted dragon jade"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -6147,7 +6147,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672A\u6FC0\u6D3B\u7EC4\u5408"
+  mText: "Inactive combination"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -6219,7 +6219,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9576\u5D4C\u9F99\u7389"
+  mText: "Click to inlay dragon jade"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -6291,7 +6291,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EA\u80FD\u9576\u5D4C\u5565\u5565"
+  mText: "You can only inlay whatever you want"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -6648,7 +6648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u89D2\u8272\u89E3\u9501"
+  mText: "level character unlock"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9288,7 +9288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7389\u83B7\u53D6"
+  mText: "Obtain Dragon Jade"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10020,7 +10020,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5378\u4E0B\u5168\u90E8"
+  mText: "Remove all"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11337,7 +11337,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u540D\u5B57"
+  mText: "Set name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -16822,7 +16822,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EC4 \u5408"
+  mText: "combination"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -17646,7 +17646,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EA\u80FD\u9576\u5D4C\u5565\u5565"
+  mText: "You can only inlay whatever you want"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -18104,7 +18104,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8981\u9576\u5D4C\u7684\u88C5\u5907"
+  mText: "Select the equipment to be embedded"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21079,7 +21079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5347 \u7EA7"
+  mText: "Upgrade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -23481,7 +23481,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u9576\u5D4C"
+  mText: "One-click inlay"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -26733,7 +26733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5148\u7A7F\u6234\u88C5\u5907\u518D\u6765\u9576\u5D4C\u9F99\u7389\u54E6"
+  mText: "Wear the equipment first and then embed the dragon jade."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -27325,7 +27325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u66FF \u6362"
+  mText: "Replace"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -27577,7 +27577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8981\u9576\u5D4C\u7684\u88C5\u5907"
+  mText: "Select the equipment to be embedded"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

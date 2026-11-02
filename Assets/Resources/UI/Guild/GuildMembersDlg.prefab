@@ -2510,7 +2510,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2670,7 +2670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u4E2A\u6708\u524D"
+  mText: "1 month ago"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2861,7 +2861,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72B6\u6001"
+  mText: "Status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2983,7 +2983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5934\u8854"
+  mText: "title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3420,7 +3420,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3824,7 +3824,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u4EFB\u52A1\u54C1\u8D28"
+  mText: "Daily task quality"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3924,7 +3924,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F20\u627F"
+  mText: "inheritance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3996,7 +3996,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D21\u732E"
+  mText: "Contribution"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4096,7 +4096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4F4D"
+  mText: "Position"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5054,7 +5054,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0"
+  mText: "Refresh"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -5378,7 +5378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u4F1A\u957F"
+  mText: "President President"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6089,7 +6089,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6161,7 +6161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u7BA1\u7406"
+  mText: "Member management"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -6392,7 +6392,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F20\u627F"
+  mText: "inheritance"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -6464,7 +6464,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD0\u52BF\u5E73\u5E73"
+  mText: "mediocre fortune"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

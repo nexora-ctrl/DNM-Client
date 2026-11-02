@@ -1646,7 +1646,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u5409\u5927\u5229\uFF0C\u552F\u72EC\u4F60\u5E78\u5B58"
+  mText: "You alone survived"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2143,7 +2143,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "4\u520620\u79D2"
+  mText: "4 minutes and 20 seconds"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2213,7 +2213,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4 \u56DE"
+  mText: "Back"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2399,7 +2399,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88AB \u51FB\u6740"
+  mText: "killed"
   mFontSize: 25
   mFontStyle: 0
   mAlignment: 1
@@ -3348,7 +3348,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u6740"
+  mText: "5 kills"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 1
@@ -3478,7 +3478,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8BC4\u5206"
+  mText: "Get a rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3787,7 +3787,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4031,7 +4031,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C1/12\u540D"
+  mText: "No. 1/12"
   mFontSize: 40
   mFontStyle: 0
   mAlignment: 1
@@ -4301,7 +4301,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u751F\u5B58\u65F6\u95F4"
+  mText: "survival time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3

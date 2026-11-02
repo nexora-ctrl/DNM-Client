@@ -982,7 +982,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1194,7 +1194,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7"
+  mText: "Upgrade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1266,7 +1266,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1000\u516C\u4F1A\u7ECF\u9A8C"
+  mText: "1000 guild experience"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1352,7 +1352,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u672F\u653B\u51FB\u653B\u51FB 100"
+  mText: "Spell Attack Attack 100"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -1546,7 +1546,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5927\u7B49\u7EA7"
+  mText: "maximum level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2487,7 +2487,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u5F3A\u5316"
+  mText: "Attack enhancement"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2579,7 +2579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7ECF\u9A8C"
+  mText: "Guild experience"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2819,7 +2819,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u4E0A\u9650 1"
+  mText: "Level cap 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3

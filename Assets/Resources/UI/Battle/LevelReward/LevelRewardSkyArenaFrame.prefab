@@ -1769,7 +1769,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2402,7 +2402,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u6E0A\u7B2C\u516D\u5C42"
+  mText: "The sixth level of the abyss"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2470,7 +2470,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B7B\u4EA1"
+  mText: "Deaths"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2808,7 +2808,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6740\u654C"
+  mText: "Kill the enemy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2876,7 +2876,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u6210\u5458"
+  mText: "Teammate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3079,7 +3079,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u4E3A\u597D\u53CB"
+  mText: "Add as friend"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4402,7 +4402,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u83B7\u5F97"
+  mText: "Congratulations on getting"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4527,7 +4527,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u5BC6\u5EA6"
+  mText: "intimacy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5251,7 +5251,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[876F34]\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "[876F34]Hehehehehehehehe"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

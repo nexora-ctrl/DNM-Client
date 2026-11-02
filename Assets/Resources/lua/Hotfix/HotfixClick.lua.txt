@@ -1,4 +1,4 @@
-﻿--
+--
 --  HotfixClick.lua
 --  Created by huailiang.peng on 2016/03/14 11:35:35
 --
@@ -19,8 +19,8 @@ local BefRegist =
 -- 在点击之后派发
 local AftRegist = 
 {
-	["DungeonSelect(Clone)/Bg/Hard"]    = {DungeonSelect.UpDateGo,"关卡选择界面"},
-	["DungeonSelect(Clone)/Bg/Normal"]  = {DungeonSelect.UpDateGo,"关卡选择界面"},
+	["DungeonSelect(Clone)/Bg/Hard"]    = {DungeonSelect.UpDateGo,"Stage Selection"},
+	["DungeonSelect(Clone)/Bg/Normal"]  = {DungeonSelect.UpDateGo,"Stage Selection"},
 }
 
 

@@ -1536,7 +1536,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u5DF2\u9886\u53D6"
+  mText: "Received today"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -1657,7 +1657,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u65F6"
+  mText: "Limited Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -2045,7 +2045,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5305\u88F9\u9886\u53D6"
+  mText: "Package pickup"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2131,7 +2131,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C[b]10[/b]\u5143\u793C\u5305"
+  mText: "Gift package worth [b]10[/b] yuan"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2217,7 +2217,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u5143\u8D2D\u4E70"
+  mText: "Buy for 1 yuan"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2516,7 +2516,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u751C\u5FC3\u7F8E\u5C11\u5973\u7684\u79C1\u4EBA\u73CD\u85CF"
+  mText: "The private collection of the sweet girl in Dragon Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2954,7 +2954,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u53EF\u9886\u53D6"
+  mText: "Available every day"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3301,7 +3301,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u4E13\u5C5E\u793C\u5305"
+  mText: "Privileged exclusive gift pack"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

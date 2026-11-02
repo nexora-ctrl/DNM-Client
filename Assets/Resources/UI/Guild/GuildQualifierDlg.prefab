@@ -3228,7 +3228,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5C1A\u672A\u5F00\u59CB\uFF0C\u6682\u65E0\u6392\u540D"
+  mText: "The event has not started yet and there is no ranking yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3334,7 +3334,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u6D3B\u52A8\u989D\u5916\u5956\u52B1\uFF08\u5269\u4F593\u6B21\uFF09"
+  mText: "Additional rewards for participating in the event (3 remaining times)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3626,7 +3626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5929\u68AF\u8D5B"
+  mText: "Guild Ladder Tournament"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3698,7 +3698,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u522999\u573A"
+  mText: "99 wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4168,7 +4168,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4725,7 +4725,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4797,7 +4797,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7189,7 +7189,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7397,7 +7397,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u5728\u516C\u4F1A\u5C1A\u672A\u83B7\u5F97\u53C2\u8D5B\u8D44\u683C"
+  mText: "Your guild has not yet qualified for the competition"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 0
@@ -7715,7 +7715,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u540D\u5956\u52B1"
+  mText: "Guild ranking rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7787,7 +7787,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8289,7 +8289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8760,7 +8760,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u6392\u540D"
+  mText: "All rankings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8846,7 +8846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u6392\u540D"
+  mText: "All rankings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8946,7 +8946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u516C\u4F1A\u6392\u540D"
+  mText: "Ranking of this guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9078,7 +9078,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u516C\u4F1A\u6392\u540D"
+  mText: "Ranking of this guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9279,7 +9279,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u6392\u540D\u80FD\u83B7\u5F97\u989D\u5916\u5956\u52B1(\u90AE\u4EF6)"
+  mText: "Personal rankings can earn additional rewards (email)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9697,7 +9697,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FD\u738B\u5361\u897F\u4E4C\u65AF\u4F3C\u4E4E\u5F88\u70ED\u8877\u548C\u5927\u81E3\u4EEC\u5728\u7ADE\u6280\u573A\n\u6253\u8D4C\u54EA\u4E9B\u516C\u4F1A\u66F4\u5F3A\u4E00\u4E9B"
+  mText: "King Cassius seems to be enjoying being in the arena with his ministers\nBet on which guild is stronger"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10156,7 +10156,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u5929\u68AF\u8D5B"
+  mText: "Go to Ladder Match"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

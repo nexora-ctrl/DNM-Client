@@ -1814,7 +1814,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u6280\u80FD\u70B9"
+  mText: "Gain skill points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2270,7 +2270,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u8FBE\u4EBA"
+  mText: "Fishing expert"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2954,7 +2954,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u5347\u81F3"
+  mText: "Congratulations on rising to"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3200,7 +3200,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7"
+  mText: "fishing level"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3517,7 +3517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u5347\u4E3A"
+  mText: "rise to"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -3589,7 +3589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u7B49\u7EA7"
+  mText: "level level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3755,7 +3755,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u65B0\u6280\u80FD"
+  mText: "Unlock new skills"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4958,7 +4958,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7"
+  mText: "Lv."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1

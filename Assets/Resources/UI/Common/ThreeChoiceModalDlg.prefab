@@ -576,7 +576,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u6B27\u6C14"
+  mText: "Claim Luck"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -859,7 +859,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u5566\u565C\uFF01\u6B27\u7687\u964D\u4E34\uFF0C\u5FEB\u8BA9\u963F\u5C14\u7279\u91CC\u4E9A\u5927\u9646\u7684\u52C7\u58EB\u6CBE\u6CBE\u6B27\u6C14~"
+  mText: "Lucky star descends! May the warriors of Althea share the great luck~"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -947,7 +947,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B8B\u5FCD\u62D2\u7EDD"
+  mText: "Decline"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u5410\u69FD"
+  mText: "Feedback"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

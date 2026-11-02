@@ -1941,7 +1941,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2108,7 +2108,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u6B21\u514D\u8D39"
+  mText: "Free for first time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3159,7 +3159,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "9\u670820\u65E5-9\u670831\u65E5"
+  mText: "September 20-September 31"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3374,7 +3374,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A9\u670820\u65E5-9\u670831\u65E5"
+  mText: "Event time: September 20th - September 31st"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3506,7 +3506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A"
+  mText: "Activity time:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3996,7 +3996,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62BD\u5956\u8BB0\u5F55"
+  mText: "Lottery records"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4876,7 +4876,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u914D\u7F6E"
+  mText: "Configuration"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

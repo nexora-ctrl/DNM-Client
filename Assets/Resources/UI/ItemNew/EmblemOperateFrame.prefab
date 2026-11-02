@@ -1946,7 +1946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EB9\u7AE0\u52A0\u6210"
+  mText: "Heraldic bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2032,7 +2032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EB9\u7AE0\u52A0\u6210"
+  mText: "Heraldic bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EB9\u7AE0\u5236\u4F5C"
+  mText: "Heraldry Craft"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

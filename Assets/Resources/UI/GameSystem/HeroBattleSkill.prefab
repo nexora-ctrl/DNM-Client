@@ -1669,7 +1669,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1860,7 +1860,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u82F1\u96C4"
+  mText: "buy hero"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2277,7 +2277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\uFF0C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\uFF0C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD"
+  mText: "A brief introduction to the Charge and Swing skill. A brief introduction to the Charge and Swing skill. A brief introduction to the Charge and Swing skill."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2363,7 +2363,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADC\u4EBA\u306E\u5263\u3092\u55B0\u3048"
+  mText: "龙人の剣を喰え"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3224,7 +3224,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u9009\u62E9\u5012\u8BA1\u65F6"
+  mText: "Hero selection countdown"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3396,7 +3396,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u514D"
+  mText: "Limited exemption"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3528,7 +3528,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F53\u9A8C"
+  mText: "experience"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -4537,7 +4537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u62E5\u6709"
+  mText: "Already owned"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -4683,7 +4683,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u53CB\u5DF2\u9009"
+  mText: "Teammate selected"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -4903,7 +4903,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u4F53\u9A8C\u5238"
+  mText: "Use experience coupon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -5215,7 +5215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u7684\u963F\u5C14\u6770\u5854"
+  mText: "heroic aljeta"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

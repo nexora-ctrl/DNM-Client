@@ -4448,7 +4448,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1\u72AC\u5DE2\u7A74"
+  mText: "Cerberus Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4534,7 +4534,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1\u72AC\u5DE2\u7A74"
+  mText: "Cerberus Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4788,7 +4788,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -4874,7 +4874,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1\u6A21\u5F0F"
+  mText: "hell mode"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -5554,7 +5554,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350"
+  mText: "Recommended"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5698,7 +5698,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "32\u7EA7\u5168\u5957A\u88C5\u5E76\u5F3A\u5316\u5230+9\u8FDB\u884C\u6311\u6218"
+  mText: "A full set of level 32 A equipment and strengthened to +9 for challenge"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -5770,7 +5770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1\u72AC\u5DE2\u7A74"
+  mText: "Cerberus Nest"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -5842,7 +5842,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6D88\u8017\u5DE2\u7A74\u6B21\u6570\u548C\u4F53\u529B"
+  mText: "Does not consume nest times and physical strength"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -6121,7 +6121,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u7B49\u7EA7"
+  mText: "Enter level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6473,7 +6473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u96BE\u5EA6"
+  mText: "Normal difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -6628,7 +6628,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B80\u5355"
+  mText: "Easy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -7781,7 +7781,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u6218\u529B"
+  mText: "my fighting power"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7853,7 +7853,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u6B21\u6570"
+  mText: "Number of purchases"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8057,7 +8057,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u6218\u529B"
+  mText: "Recommended combat power"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8708,7 +8708,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE2\u7A74"
+  mText: "Nest"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -9040,7 +9040,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A"
+  mText: "Normal"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9232,7 +9232,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56F0\u96BE"
+  mText: "Hard"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9764,7 +9764,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1"
+  mText: "Hell"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9956,7 +9956,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u901A\u6389\u843D"
+  mText: "First pass drop"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10122,7 +10122,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u6389\u843D"
+  mText: "may fall"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10274,7 +10274,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u4EBA\u6570"
+  mText: "Recommended number of people"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10833,7 +10833,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11235,7 +11235,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u5956\u52B1"
+  mText: "View rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11912,7 +11912,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u6B21\u6570"
+  mText: "Number of challenges"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12344,7 +12344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56F0\u96BE"
+  mText: "Hard"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13304,7 +13304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u626B\u8361"
+  mText: "sweep"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

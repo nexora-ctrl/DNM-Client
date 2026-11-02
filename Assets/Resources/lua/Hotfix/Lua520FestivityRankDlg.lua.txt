@@ -23,11 +23,11 @@ local closeBtnObj = nil
 local m_TabPool
 
 --回头根据配表走
-local rankRewardTitleStr = "奖励"
-local activityEndTimeStr = "活动结束：2018年6月22日23:59"
-local rankRewardTips = "服务器前十名的玩家将获得专属奖励哦，活动结束后以邮件形式发送"
-local tab1Str = "个人奖励"
-local tab2Str = "排名奖励"
+local rankRewardTitleStr = "Rewards"
+local activityEndTimeStr = "Event ends: 2018-06-22 23:59"
+local rankRewardTips = "Top 10 players will receive exclusive rewards via mail."
+local tab1Str = "Personal Rewards"
+local tab2Str = "Ranking Rewards"
 
 --排行奖励界面的 UILabel
 local titleLb = nil
@@ -423,7 +423,7 @@ function Lua520FestivityRankDlg.OnShow()
     if not IsNil(CurrRankValueLb) then
         local theRankValue = Lua520FestivityDoc.GetMyRankValue()
         if theRankValue == 4294967295 then
-            CurrRankValueLb.text = "未上榜"
+            CurrRankValueLb.text = "Unranked"
         else
             CurrRankValueLb.text = "第"..tostring(theRankValue + 1).."名"
         end

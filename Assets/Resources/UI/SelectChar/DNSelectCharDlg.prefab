@@ -2079,7 +2079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u59CB\u6E38\u620F"
+  mText: "Start Game"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2496,7 +2496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2828,7 +2828,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u89D2\u8272"
+  mText: "Select Character"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3485,7 +3485,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u73A9\u5BB6\u540D\u5B57"
+  mText: "Enter Character Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4248,7 +4248,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4 \u56DE"
+  mText: "Return"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5247,7 +5247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709\u5F3A\u5927\u7684\u8FD1\u6218\u653B\u51FB\u529B\uFF0C\u6D3B\u8DC3\u5728\u6218\u6597\u7684\u6700\u524D\u65B9\u3002\u4ED6\u4EEC\u9760\u7740\u5F3A\u52B2\u7684\u529B\u91CF\u548C\u8FC7\u4EBA\u7684\u4F53\u529B\u8F7B\u677E\u7C89\u788E\u654C\u4EBA\u7684\u9632\u5FA1\u3002"
+  mText: "Has powerful melee attack power, active on the forefront of battle. They rely on strong power and exceptional stamina to easily crush enemy defenses."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5264,7 +5264,7 @@ MonoBehaviour:
   mGradientTop: {r: 0.9647059, g: 0.9843137, b: 0.77254903, a: 1}
   mGradientBottom: {r: 1, g: 0.7231237, b: 0.42647058, a: 1}
   mSpacingX: 0
-  mSpacingY: 10
+  mSpacingY: 0
   mShrinkToFit: 0
   mMaxLineWidth: 0
   mMaxLineHeight: 0
@@ -5333,7 +5333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u7C7B\u578B\uFF1A\u8FD1\u8DDD\u79BB\u7269\u7406\u653B\u51FB\n\u804C\u4E1A\u7279\u8272\uFF1A\u79FB\u52A8\u901F\u5EA6\u5FEB\n\u64CD\u4F5C\u96BE\u5EA6\uFF1A"
+  mText: "Attack Type: Melee Physical Attack\nClass Trait: High Movement Speed\nDifficulty:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5350,7 +5350,7 @@ MonoBehaviour:
   mGradientTop: {r: 0.9647059, g: 0.9843137, b: 0.77254903, a: 1}
   mGradientBottom: {r: 1, g: 0.7231237, b: 0.42647058, a: 1}
   mSpacingX: 0
-  mSpacingY: 9
+  mSpacingY: 0
   mShrinkToFit: 0
   mMaxLineWidth: 0
   mMaxLineHeight: 0
@@ -6262,7 +6262,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6514,7 +6514,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6766,7 +6766,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6958,7 +6958,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7310,7 +7310,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8282,7 +8282,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u5F00\u653E"
+  mText: "Not Open Yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

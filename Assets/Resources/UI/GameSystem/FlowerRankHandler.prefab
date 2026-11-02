@@ -8949,7 +8949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7684\u540D\u5B57"
+  mText: "guild name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9226,7 +9226,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9472,7 +9472,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u671F\u95F4\u5185\uFF0C\u9B45\u529B\u503C\u8FBE\u5230xxxx\u70B9\uFF0C\u5373\u53EF\u83B7\u5F97\u6D3B\u52A8\u53C2\u4E0E\u5956\u52B1"
+  mText: "During the event period, if the charm value reaches xxxx points, you can get event participation rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -10743,7 +10743,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u82B1"
+  mText: "Send Flower"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10815,7 +10815,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7684\u540D\u5B57"
+  mText: "guild name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11067,7 +11067,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11272,7 +11272,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u503C"
+  mText: "Charm value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -12216,7 +12216,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u503C"
+  mText: "Charm value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -12368,7 +12368,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12678,7 +12678,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6\u5956\u52B1"
+  mText: "Acquire Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12764,7 +12764,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12886,7 +12886,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1-10\u540D\u5956\u52B1\u7531\u90AE\u4EF6\u53D1\u653E"
+  mText: "Rank 1-10 Rewards shall be issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13018,7 +13018,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -15175,7 +15175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u5956"
+  mText: "Participation Award"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -15401,7 +15401,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15473,7 +15473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956 \u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15893,7 +15893,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC0\u4E48\u561B\uFF01\u5C45\u7136\u8FD8\u6CA1\u4EBA\u4E0A\u699C\uFF1F\u597D\u65E0\u804A\u54E6~~"
+  mText: "What! No one has made the list yet? So boring~~"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -16299,7 +16299,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16902,7 +16902,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956 \u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16974,7 +16974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6628\u65E5\u6392\u540D"
+  mText: "Yesterday's ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17466,7 +17466,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -19815,7 +19815,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6628\u65E5\u699C"
+  mText: "Yesterday"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -19967,7 +19967,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D10\u540D\u73A9\u5BB6\u53EF\u4EE5\u83B7\u5F97\u79F0\u53F7\u54E6~\u8D76\u5FEB\u767B\u4E0A\u9B45\u529B\u6392\u884C\u699C\u5427~"
+  mText: "The top 10 players can get the title~Hurry up and climb the charm rankings~"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20329,7 +20329,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0TA\u7684\u9B45\u529B999999\u70B9"
+  mText: "Increase TA’s charm by 999999 points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21073,7 +21073,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21521,7 +21521,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0TA\u7684\u9B45\u529B999999\u70B9"
+  mText: "Increase TA’s charm by 999999 points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21687,7 +21687,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22161,7 +22161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u503C"
+  mText: "Charm value"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22247,7 +22247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5171\u6536\u5230"
+  mText: "Received in total"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22333,7 +22333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5171\u9001\u51FA"
+  mText: "Sent out in total"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22997,7 +22997,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -23083,7 +23083,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -23896,7 +23896,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u503C"
+  mText: "Charm value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -24134,7 +24134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24798,7 +24798,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u9C9C\u82B1"
+  mText: "my flowers"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -25202,7 +25202,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -26236,7 +26236,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u503C"
+  mText: "Charm value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -27105,7 +27105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27177,7 +27177,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u82B1"
+  mText: "Send Flower"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -29214,7 +29214,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u699C\u5355\u524D10\u540D\u90FD\u53EF\u4EE5\u83B7\u9650\u65F6\u65F6\u88C5\u54E6\uFF01"
+  mText: "The top 10 on the list can get limited-time fashion!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -29300,7 +29300,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5468\u699C\u5237\u65B0\u65F6\u95F4\u4E3A\u6BCF\u5468\u4E005\u70B9"
+  mText: "The weekly list is refreshed every Monday at 5 o'clock"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -29386,7 +29386,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u699C\u5355\u524D10\u540D\u90FD\u53EF\u4EE5\u83B7\u5F97\u4E13\u5C5E\u79F0\u53F7\u54E6"
+  mText: "The top 10 on the list will all get exclusive titles."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -29632,7 +29632,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u699C"
+  mText: "Activity Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29718,7 +29718,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u699C"
+  mText: "Activity Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

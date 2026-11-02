@@ -1500,7 +1500,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u7EC8\u6781\u6311\u6218\u8D5B"
+  mText: "Ladder Ultimate Challenge"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1572,7 +1572,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u7EC7\u8005"
+  mText: "organizer"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1644,7 +1644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80E1\u535A\u8043\u80E1\u535A\u8043\u535A\u8043"
+  mText: "Hu Bodan Hu Bodan Bodan"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1836,7 +1836,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u89C4\u6A21"
+  mText: "Competition size"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2220,7 +2220,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u4F55\u4EBA"
+  mText: "anyone"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2292,7 +2292,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u5165\u65B9\u5F0F"
+  mText: "How to join"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2556,7 +2556,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u65F6\u957F"
+  mText: "Match duration"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2628,7 +2628,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u623F\u95F4ID"
+  mText: "Room ID"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3092,7 +3092,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u7ED3\u675F\u8FD8\u6709"
+  mText: "Still far from the end"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3621,7 +3621,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u5F00\u59CB"
+  mText: "Start now"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3903,7 +3903,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7F16\u8F91"
+  mText: "Edit"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3975,7 +3975,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80E1\u535A\u8043\u80E1\u535A\u8043\u535A\u8043\u7684\u6BD4\u8D5B"
+  mText: "Hu Bodan Hu Bodan Bodan’s game"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

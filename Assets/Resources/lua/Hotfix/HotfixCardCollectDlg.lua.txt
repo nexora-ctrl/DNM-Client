@@ -1,4 +1,4 @@
-﻿CardCollectDlg={}
+CardCollectDlg={}
 local this = CardCollectDlg
 
 function CardCollectDlg.BeforeRefresh(go)

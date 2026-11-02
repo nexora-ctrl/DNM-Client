@@ -1137,7 +1137,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u901A\u8D85\u7EA7\u4F1A\u5458"
+  mText: "Activate Super Membership"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1319,7 +1319,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u901A\u4F1A\u5458"
+  mText: "Activation Membership"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1513,7 +1513,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D85\u7EA7\u4F1A\u5458\u793C\u5305"
+  mText: "Super member gift package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1593,7 +1593,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u901A\u793C\u5305"
+  mText: "Open gift package"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2082,7 +2082,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u901A\u793C\u5305"
+  mText: "Open gift package"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2150,7 +2150,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "QQ\u4F1A\u5458/\u8D85\u7EA7\u4F1A\u5458\u5C0A\u4EAB"
+  mText: "Exclusive for QQ members/super members"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2242,7 +2242,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\r\u4E00\uFF1A\u5F70\u663E\u8EAB\u4EFD\u6807\u8BC6\n\u7279\u6743\u4E8C\uFF1AQQ\u4F1A\u5458\\\u8D85\u7EA7\u4F1A\u5458\u4E13\u5C5E\u65B0\u624B\u793C\u5305(\u9650\u9886\u4E00\u6B21)\n\u7279\u6743\r\u4E09\uFF1AQQ\u4F1A\u5458\\\u8D85\u7EA7\u4F1A\u5458\u4E13\u5C5E\u5F00\u901A\u793C\u5305(\u6BCF\u4EBA\u9650\u9886\u4E00\u6B21)\n\u7279\u6743\u56DB\uFF1AQQ\u4F1A\u5458\\\u8D85\u7EA7\u4F1A\u5458\u4E13\u5C5E\u7ED3\u7B97\u52A0\u6210"
+  mText: "privilege1: Demonstrate identity\nPrivilege 2: QQ member\\super member exclusive novice gift pack (limited to one time)\nprivilegeThree: Exclusive activation gift package for QQ members\\super members (each person can only receive it once)\nPrivilege 4: Exclusive settlement bonus for QQ members\\super members"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2322,7 +2322,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "QQ\u4F1A\u5458\u793C\u5305"
+  mText: "QQ membership gift package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2664,7 +2664,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u5458\u7CBE\u5F69\u7279\u6743"
+  mText: "Exciting privileges for members"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

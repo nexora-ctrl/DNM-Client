@@ -1303,7 +1303,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "[f690ff]\r\u5F81\u670D\u6700\u5F3A\u5175\u5668"
+  mText: "[f690ff]Conquer the strongest weapon"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 2
@@ -1535,7 +1535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "[f690ff]\r\u5F81\u670D\u6700\u5F3A\u5175\u5668"
+  mText: "[f690ff]Conquer the strongest weapon"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 2
@@ -1775,7 +1775,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "[f690ff]\r\u5F81\u670D\u6700\u5F3A\u5175\u5668"
+  mText: "[f690ff]Conquer the strongest weapon"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 2

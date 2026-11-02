@@ -782,7 +782,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u52A0\u6210"
+  mText: "resurrection bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1038,7 +1038,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B"
+  mText: "resurrection"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1118,7 +1118,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u590D\u6D3B\u6B21\u6570:1/3"
+  mText: "Remaining number of resurrections: 1/3"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1630,7 +1630,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

@@ -1748,7 +1748,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u533A"
+  mText: "Zone 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2046,7 +2046,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E\u8BA4"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2190,7 +2190,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u89D2\u8272"
+  mText: "Please select a role"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2753,7 +2753,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u5927\u533A"
+  mText: "Please select a region"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -3093,7 +3093,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u2605\u7ED1\u5B9A\u89D2\u8272\u540E\uFF0C\u4E0D\u53EF\u4FEE\u6539\u2605"
+  mText: "★After the character is bound, it cannot be modified★"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4692,7 +4692,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u533A"
+  mText: "Zone 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4764,7 +4764,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u65B0\u670D\u521B\u5EFA\u89D2\u8272\u5373\u53EF\u83B7\u5F97\u4E00\u4E2A\u8D85\u503C\u793C\u5305\uFF0C\u5305\u542B"
+  mText: "Go to a new server and create a character to get a value-for-money gift package, including"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

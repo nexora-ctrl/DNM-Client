@@ -5564,7 +5564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u83B7\u53D6"
+  mText: "Go to get"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5756,7 +5756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u83B7\u53D6"
+  mText: "Go to get"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6173,7 +6173,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6109\u5FEB"
+  mText: "Pleasurable"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6744,7 +6744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9A91\u4E58"
+  mText: "Mount"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7608,7 +7608,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B"
+  mText: "Activate"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -8030,7 +8030,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60\u6280\u80FD\u4E66"
+  mText: "Study skills book"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8923,7 +8923,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u653B\u51FB\u653B\u51FB"
+  mText: "ATK ATK ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9696,7 +9696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u73A9\u5BB6\u6CA1\u6709\u6FC0\u6D3B\u4EFB\u4F55\u5750\u9A91"
+  mText: "The current player does not have any active mounts"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10594,7 +10594,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9A91\u4E58"
+  mText: "Ridden"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -10819,7 +10819,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8001\u738B\u8001\u738B"
+  mText: "Laowang Laowang"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -11085,7 +11085,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11834,7 +11834,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C\u8F6C\u79FB"
+  mText: "experience transfer"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11948,7 +11948,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79FB\u52A8\u901F\u5EA6"
+  mText: "Movement speed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12114,7 +12114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u89D2\u517D\u72EC\u89D2\u517D"
+  mText: "unicorn unicorn"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -12346,7 +12346,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653E\u751F"
+  mText: "release"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -12678,7 +12678,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u89D2\u517D \u7075\u5149\u4E00\u95EA\uFF01\u9886\u609F\u4E86 \u6280\u80FD\u540D\u79F0"
+  mText: "Unicorn had a flash of inspiration! Understood the skill name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13724,7 +13724,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C+10%"
+  mText: "Experience +10%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14050,7 +14050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9AD8\u54C1\u8D28\u9972\u6599"
+  mText: "High quality feed"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -14395,7 +14395,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9971\u8179+"
+  mText: "Full +"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -14481,7 +14481,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C+"
+  mText: "Experience+"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -14899,7 +14899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u7EA7\u5F00\u542F"
+  mText: "Open at level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15238,7 +15238,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5750\u9A91"
+  mText: "Mount"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -15423,7 +15423,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u9972\u6599"
+  mText: "There are currently no feeds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15937,7 +15937,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u642D\u4E58\u8BBE\u7F6E"
+  mText: "Ride settings"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -16214,7 +16214,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9971\u8179\u5EA6=0%\u65F6\uFF0C\u5FC3\u60C5\u4F1A\u51CF\u5C11\r\n\u9971\u8179\u5EA6>70%\u65F6\uFF0C\u5582\u517B\u7ECF\u9A8C\u964D\u4F4E20%\r\n\u9971\u8179\u5EA6=100%\u65F6\uFF0C\u5582\u517B\u7ECF\u9A8C\u964D\u4F4E80%"
+  mText: "When satiety = 0%, your mood will decrease\nWhen satiety is >70%, feeding experience is reduced by 20%\nWhen satiety = 100%, feeding experience is reduced by 80%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -17592,7 +17592,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -17664,7 +17664,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C"
+  mText: "Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17736,7 +17736,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60\u6761\u4EF6\uFF1A\u7B49\u7EA710\u5F00\u653E"
+  mText: "Learning conditions: Open to level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

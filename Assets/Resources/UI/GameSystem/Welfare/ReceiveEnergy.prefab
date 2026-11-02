@@ -1656,7 +1656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88\u8BA2\u9605"
+  mText: "Unsubscribe"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2302,7 +2302,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA2\u9605\u63D0\u9192"
+  mText: "Subscribe to reminders"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2505,7 +2505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u9886\u4F53\u529B"
+  mText: "Daily stamina"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2649,7 +2649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u665A\u991018:00-20:00"
+  mText: "Daily dinner 18:00-20:00"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3079,7 +3079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u5348\u991012:00-14:00"
+  mText: "Daily lunch 12:00-14:00"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3726,7 +3726,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

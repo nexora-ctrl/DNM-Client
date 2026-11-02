@@ -3296,7 +3296,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u8BF4\u660E"
+  mText: "Activity description"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3546,7 +3546,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

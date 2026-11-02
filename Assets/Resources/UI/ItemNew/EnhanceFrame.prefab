@@ -2141,7 +2141,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A\u5316\u6210\u529F\u7387 80% + 10%"
+  mText: "Strengthening success rate 80% + 10%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2247,7 +2247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63D0\u5347\u4EBA\u7269\u7B49\u7EA7\u53EF\u589E\u52A0\u5F3A\u5316\u7B49\u7EA7\u4E0A\u9650"
+  mText: "Upgrading the character level can increase the upper limit of enhancement level."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2379,7 +2379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A81\u7834\u6210\u529F\u7387100%"
+  mText: "Breakthrough Success 100%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2616,7 +2616,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A \u5316"
+  mText: "Enhance"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3182,7 +3182,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u][b]\u83B7\u53D6\u9014\u5F84[-][-]"
+  mText: "[u][b]Acquisition methods[-][-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3344,7 +3344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u][b]\u83B7\u53D6\u9014\u5F84[-][-]"
+  mText: "[u][b]Acquisition methods[-][-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3488,7 +3488,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A\u5316\u6D88\u8017"
+  mText: "Enhance Cost"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3912,7 +3912,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3984,7 +3984,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A\u5316\u7B49\u7EA7\u53EF100%\u8F6C\u79FB\u5230\u5176\u4ED6\u88C5\u5907"
+  mText: "Enhancement Level can be 100% transferred to other Gear."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4070,7 +4070,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A\u5316\u5931\u8D25\u5E76\u4E0D\u4F1A\u9500\u6BC1\u88C5\u5907\u54E6"
+  mText: "Failure to strengthen will not destroy the equipment."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4314,7 +4314,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4580,7 +4580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A \u5316"
+  mText: "Enhance"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

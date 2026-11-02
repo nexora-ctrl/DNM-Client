@@ -1,4 +1,4 @@
-﻿--
+--
 --  LuaFashionCompoundAvatarHandler.lua
 --  Created by huailiang.peng on 2017/09/05 15:20:23
 --  Please make sure you file start with "Hotfix" or "Lua"
@@ -372,8 +372,8 @@ function LuaFashionCompoundAvatarHandler.OnMetarialNotEnough( ... )
 	if not IsNil(modal.gameObject) then
 		local oklable = modal.gameObject.transform:Find("Bg/OK/Label"):GetComponent("UILabel")
 		local canlable = modal.gameObject.transform:Find("Bg/Cancel/Label"):GetComponent("UILabel")
-		oklable.text = "确定"
-		canlable.text = "取消"
+		oklable.text = "Confirm"
+		canlable.text = "Cancel"
 	end
 end
 

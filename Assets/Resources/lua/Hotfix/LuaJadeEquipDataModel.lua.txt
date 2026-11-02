@@ -1,4 +1,4 @@
-﻿require "XJadeEquipNew_pb.lua"
+require "XJadeEquipNew_pb.lua"
 require "LuaJadeGroupTableTable.lua"
 require "LuaJadeSealTableTable.lua"
 

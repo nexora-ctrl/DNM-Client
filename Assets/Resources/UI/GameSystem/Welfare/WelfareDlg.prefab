@@ -1584,7 +1584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u5B9D\u5E93"
+  mText: "diamond treasury"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2520,7 +2520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u5B9D\u5E93"
+  mText: "diamond treasury"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2851,7 +2851,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u798F\u5229"
+  mText: "Welfare"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

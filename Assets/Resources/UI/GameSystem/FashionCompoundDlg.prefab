@@ -432,7 +432,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5408\u6210\u5931\u8D25\u5C06\u6263\u9664\u4E00\u4EF6\u6D88\u8017\u54C1\uFF0C\u5E76\u63D0\u5347\u5408\u6210\u6210\u529F\u7387"
+  mText: "If the synthesis fails, one consumable will be deducted and the synthesis success rate will be increased."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1568,7 +1568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9009\u62E9\u9700\u8981\u5408\u6210\u7684\u90E8\u4F4D"
+  mText: "Click to select the part to be synthesized"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1774,7 +1774,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5408\u6210"
+  mText: "fashion synthesis"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

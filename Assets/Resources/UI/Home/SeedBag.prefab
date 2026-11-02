@@ -1649,7 +1649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CA1\u6709\u79CD\u5B50\u54AF \u53BB\u5546\u5E97\u770B\u770B\u5427"
+  mText: "There are no seeds. Go to the store and check."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1846,7 +1846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79CD \u690D"
+  mText: "planting"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1990,7 +1990,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u8BA1\u4EA7\u91CF"
+  mText: "expected output"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2062,7 +2062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53BB\u5546\u5E97"
+  mText: "go to store"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2787,7 +2787,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79CD\u690D\u80CC\u5305"
+  mText: "planting backpack"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2919,7 +2919,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F5C\u7269\u540D\u79F0"
+  mText: "crop name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3005,7 +3005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA7\u7269\u9884\u89C8"
+  mText: "Product preview"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3330,7 +3330,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63CF\u8FF0\r\u4E24\u884C\u63CF\u8FF0\r\u4E24\u884C\u63CF\u8FF0\r\u4E24\u884C\u63CF\u8FF0\r\u4E24\u884C\u63CF\u8FF0\r\u4E24\u884C\u63CF\u8FF0\r\u4E24\u884C"
+  mText: "DescriptionTwo lines of descriptionTwo lines of descriptionTwo lines of descriptionTwo lines of descriptionTwo lines of descriptiontwo lines"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3482,7 +3482,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u683D\u57F9\u65F6\u95F4"
+  mText: "Cultivation time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

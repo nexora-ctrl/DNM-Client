@@ -3297,7 +3297,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76AE\u76AE\u867E\u4E94\u82B1\u8089\u4E94\u4EC1\u6708\u997C"
+  mText: "Pipi Shrimp Pork Belly and Five Nuts Mooncake"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3520,7 +3520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5236\u4F5C\u6599\u7406"
+  mText: "Make food"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3776,7 +3776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u7EA7\u6599\u7406"
+  mText: "Level 1 cuisine"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4032,7 +4032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0\u98DF\u7269\u7684\u63CF\u8FF0"
+  mText: "Description of food Description of food Description of food Description of food Description of food Description of food Description of food Description of food Description of food Description of food"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4264,7 +4264,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u5236\u4F5C"
+  mText: "One-click production"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4908,7 +4908,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u9700\u98DF\u6750"
+  mText: "Required ingredients"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4980,7 +4980,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u98DF\u7269\u63CF\u8FF0"
+  mText: "food description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5080,7 +5080,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u6BCF\u65E5\u53EF\u5236\u4F5C3\u6B21)"
+  mText: "(can be produced 3 times a day)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5152,7 +5152,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6599\u7406\u7ECF\u9A8C+"
+  mText: "Cooking experience+"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -5252,7 +5252,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83DC\u7684\u540D\u5B57\u5728\u8FD9\u91CC\u554A"
+  mText: "The name of the dish is here"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6424,7 +6424,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76AE\u76AE\u867E\u4E94\u82B1\u8089\u4E94\u4EC1\u6708\u997C"
+  mText: "Pipi Shrimp Pork Belly and Five Nuts Mooncake"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6636,7 +6636,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6599\u7406\u7B49\u7EA7"
+  mText: "Cuisine level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6736,7 +6736,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u7EA7\u6599\u7406"
+  mText: "Level 1 cuisine"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7317,7 +7317,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u8BA4"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7996,7 +7996,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8162,7 +8162,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8353,7 +8353,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u5236\u4F5C\u4E2D\u2026\u2026"
+  mText: "In progress..."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

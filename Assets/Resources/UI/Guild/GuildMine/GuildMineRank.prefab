@@ -1651,7 +1651,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90\u8D21\u732E\u6392\u884C\u699C"
+  mText: "Resource contribution ranking list"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1719,7 +1719,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1787,7 +1787,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D"
+  mText: "Character name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1855,7 +1855,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u5C5E\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1923,7 +1923,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90\u8D21\u732E\u5EA6"
+  mText: "Resource contribution"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1991,7 +1991,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u5C06\u5728\u6D3B\u52A8\u7ED3\u675F\u65F6\u901A\u8FC7\u90AE\u4EF6\u53D1\u653E"
+  mText: "Rewards will be distributed via email at the end of the event"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2301,7 +2301,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2597,7 +2597,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3718,7 +3718,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3947,7 +3947,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4015,7 +4015,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u554A"
+  mText: "name name name name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

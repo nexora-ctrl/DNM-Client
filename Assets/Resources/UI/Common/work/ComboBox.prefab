@@ -533,7 +533,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u96BE\u5EA6"
+  mText: "Normal difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

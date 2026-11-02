@@ -847,7 +847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1053,7 +1053,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u4F11\u606F\u533A"
+  mText: "Current rest area"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1401,7 +1401,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5F00\u59CB\u5012\u8BA1\u65F6"
+  mText: "Competition Countdown"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -1654,7 +1654,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00"
+  mText: "Leave"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

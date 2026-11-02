@@ -172,7 +172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u8DE8\u5E73\u53F0\u8BBE\u8BA1\u65F6\u9700\u8981\u7EDF\u4E00\u89C4\u8303\u662F\u6709\u539F\u56E0\u7684\u3002\u4F46\u662F\u5728\u5404\u4E2A\u5E73\u53F0\u4E0A\u8BBE\u8BA1\u5F97\u5B8C\u5168\u4E00\u6837\u4E5F\u662F\u4E0D\u53EF\u53D6\u7684\uFF0C\u4F60\u8FD8\u662F\u9700\u8981\u5C0A\u91CD\u6BCF\u79CD\u98CE\u683C."
+  mText: "There's a reason why you need to have unified specifications when designing across platforms. But it is not advisable to design exactly the same on every platform. You still need to respect each style."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

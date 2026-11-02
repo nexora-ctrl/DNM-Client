@@ -1,4 +1,4 @@
-﻿--
+--
 --  LuaFashionCompoundBagHandler.lua
 --  Created by huailiang.peng on 2017/10/09 09:40:32
 --  Please make sure you file start with "Hotfix" or "Lua"

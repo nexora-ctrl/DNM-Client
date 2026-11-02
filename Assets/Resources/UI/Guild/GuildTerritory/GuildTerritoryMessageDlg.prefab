@@ -1336,7 +1336,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1422,7 +1422,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u5723\u5929\u5802"
+  mText: "holy heaven"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1798,7 +1798,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u516C\u4F1A\u9886\u5730\u7ED3\u675F,\u606D\u559C[c][ffdc00]\u9F99\u4E4B\u8C37\u516C\u4F1A[-][/c]\u5360\u9886\u4E86[c][ffdc00]\u795E\u5723\u5929\u5802[-][/c]!!"
+  mText: "The guild territory ends today. Congratulations to [c][ffdc00] Dragon Nest Guild[-][/c] for occupying [c][ffdc00] Holy Paradise[-][/c]!!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1884,7 +1884,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5730\u540D\u79F0"
+  mText: "Territory name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1984,7 +1984,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5730\u7B49\u7EA7"
+  mText: "Territory level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2056,7 +2056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u9886\u516C\u4F1A\u540D\u79F0"
+  mText: "Occupy guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

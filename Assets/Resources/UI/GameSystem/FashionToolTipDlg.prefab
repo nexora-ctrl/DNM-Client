@@ -2915,7 +2915,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u540D\u5B57\u9884\u7559\u516B\u5B57+10"
+  mText: "Equipment Name +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2995,7 +2995,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u4EE5\u4E0A"
+  mText: "20 and above"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3075,7 +3075,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u7B49\u7EA7"
+  mText: "Req. Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3200,7 +3200,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3280,7 +3280,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\u9700\u6C42"
+  mText: "Career needs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3348,7 +3348,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3416,7 +3416,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5934\u76D4"
+  mText: "Helmet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3496,7 +3496,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u65F6\u9650"
+  mText: "fashion time limit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3564,7 +3564,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u79D2\uFF08\u9996\u6B21\u6625\u5E26\u5F00\u59CB\u5012\u8BA1\u65F6\uFF09"
+  mText: "20 seconds (countdown to first spring belt begins)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3943,7 +3943,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u6548\u679C"
+  mText: "Set effect"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4217,7 +4217,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u4EF6\u6548\u679C"
+  mText: "2 effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4536,7 +4536,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u57FA\u672C\u5C5E\u6027"
+  mText: "Basic Attribute"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4794,7 +4794,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4997,7 +4997,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u89E3"
+  mText: "Dismantle"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5464,7 +5464,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u8D28\u6F5C\u529B"
+  mText: "Qualification potential"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5837,7 +5837,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u8D44\u8D28"
+  mText: "Quality"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6210,7 +6210,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u8D44\u8D28"
+  mText: "Quality"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

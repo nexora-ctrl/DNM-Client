@@ -1411,7 +1411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u767B\u9646[ff0000]\u4E09\u5929[-]\u5373\u53EF\u83B7\u5F97S\u7EA7\u7CBE\u7075XXX"
+  mText: "Log in for [ff0000] for three days [-] to get S-level Elf XXX"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2262,7 +2262,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C      \u5929"
+  mText: "day"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2334,7 +2334,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u4E0D\u53EF\u9886"
+  mText: "Not available yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2431,7 +2431,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

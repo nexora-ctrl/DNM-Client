@@ -1285,7 +1285,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C"
+  mText: "Fish"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1514,7 +1514,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79CD\u690D"
+  mText: "planting"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1846,7 +1846,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7684\u5BB6\u56ED\u7684\u5BB6\u56ED\u7684\u5BB6\u56ED\u7684\u5BB6"
+  mText: "home home home home home"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

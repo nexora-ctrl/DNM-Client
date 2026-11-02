@@ -895,7 +895,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u54E5\uFF0C\u4EBA\u771F\u4E0D\u662F\u6211\u6740\u7684,\u8981\u95EE..."
+  mText: "Brother, I really didn’t kill the person. If you want to ask..."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1462,7 +1462,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u5386\u53F2"
+  mText: "Enter history"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1644,7 +1644,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u5386\u53F2"
+  mText: "Enter history"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1904,7 +1904,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8868 \u60C5"
+  mText: "Expression"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2086,7 +2086,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8868 \u60C5"
+  mText: "Expression"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

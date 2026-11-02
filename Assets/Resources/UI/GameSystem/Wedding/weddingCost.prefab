@@ -1133,7 +1133,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E  \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1772,7 +1772,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6  \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2126,7 +2126,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u6D88\u8017\u8C6A\u534E\u5A5A\u793C\u5377"
+  mText: "Requires deluxe wedding coupons"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2196,7 +2196,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8C6A\u534E\u5A5A\u793C\u9644\u8D60"
+  mText: "Luxurious wedding bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2266,7 +2266,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8C6A\u534E\u5A5A\u793C"
+  mText: "luxury wedding"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2558,7 +2558,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5305\u542B\u4E00\u573A\u5962\u534E\u7684\u5A5A\u793C\u4F1A\u573A\u5E03\u7F6E\n\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\n\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\n\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\n\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212\u4E00\u679A\u5962\u534E\u7684\u5A5A\u6212"
+  mText: "Includes a luxurious wedding venue decoration\nA luxurious wedding ring A luxurious wedding ring\nA luxurious wedding ring\nA luxurious wedding ring A luxurious wedding ring\nA luxurious wedding ring A luxurious wedding ring"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

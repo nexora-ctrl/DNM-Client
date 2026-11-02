@@ -684,7 +684,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -756,7 +756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2926,7 +2926,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8BC4\u5206"
+  mText: "Ladder rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3600,7 +3600,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3992,7 +3992,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4144,7 +4144,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4230,7 +4230,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4462,7 +4462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8BC4\u5206"
+  mText: "Ladder rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

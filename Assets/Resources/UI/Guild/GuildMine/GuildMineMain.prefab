@@ -4838,7 +4838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "buff\u540D\u5B57\u554A\u554A"
+  mText: "buff name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4910,7 +4910,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A2\u7D22\u65F6\u95F4-5\u79D2\u554A\u554A\u554A\u554A"
+  mText: "Exploration time-5 seconds ah ah ah ah"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4982,7 +4982,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -6529,7 +6529,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+50%"
+  mText: "Attack +50%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6615,7 +6615,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u589E\u76CA"
+  mText: "Challenge gain"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6687,7 +6687,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90"
+  mText: "Resources"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7483,7 +7483,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96BE\u5EA6"
+  mText: "difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8129,7 +8129,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7684\u540D\u79F0\u5728\u8FD9\u91CC"
+  mText: "The name of the guild is here"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8355,7 +8355,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u602A\u7269\u7684\u540D\u79F0\u663E\u793A"
+  mText: "Monster name display"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8441,7 +8441,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6709\u65B0\u7684\u63A2\u7D22\u53D1\u73B0"
+  mText: "There are new discoveries to be made"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8719,7 +8719,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A2 \u7D22"
+  mText: "Explore"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8805,7 +8805,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A2\u7D22\u5012\u8BA1\u65F6"
+  mText: "Countdown to exploration"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9626,7 +9626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u77FF\u8109\u4E89\u593A\u6218"
+  mText: "Clash of Mines"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -9978,7 +9978,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5012\u8BA1\u65F6"
+  mText: "Event countdown"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10050,7 +10050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B88\u536B\u602A\u7269"
+  mText: "guard monster"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10122,7 +10122,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B80\u5355"
+  mText: "Easy"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -10194,7 +10194,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11640,7 +11640,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u65B0\u63A2\u7D22"
+  mText: "rediscover"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11922,7 +11922,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177"
+  mText: "Props"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12114,7 +12114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C"
+  mText: "Ranking"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13047,7 +13047,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13327,7 +13327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311 \u6218"
+  mText: "Challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -13609,7 +13609,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A2\u7D22\u4E2D..."
+  mText: "Exploring..."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

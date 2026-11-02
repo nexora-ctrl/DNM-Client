@@ -72,3 +72,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .idea
 Assets/Plugins/IOS/libapollo_voice.a
+
+XProject
+*.bak
+*.bak.meta
+*.log
+*.zip
+.vsconfig
+

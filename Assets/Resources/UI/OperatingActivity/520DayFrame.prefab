@@ -746,7 +746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u540D"
+  mText: "first place"
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 2
@@ -1326,7 +1326,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u699C\u5355"
+  mText: "View the list"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1426,7 +1426,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5012\u8BA1\u65F6 00:00:00"
+  mText: "Event countdown 00:00:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1891,7 +1891,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7684\u63CF\u8FF0\u5728\u8FD9\u91CC\n\u591A\u884C\u60C5\u51B5\u4ECE\u5DE6\u4E0B\u671D\u5411\u4E0A\u5411\u53F3\u5EF6\u957F\n\u624B\u52A8\u6362\u884C"
+  mText: "Description of the event here\nMulti-line cases extend from bottom left to top to right\nManual line wrapping"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

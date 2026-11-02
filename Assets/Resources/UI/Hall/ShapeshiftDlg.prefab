@@ -806,7 +806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u516B\u4E2A\u5B57\u7684"
+  mText: "The prop name is eight characters long"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -878,7 +878,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F \u7528"
+  mText: "Use"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2030,7 +2030,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u8EAB\u836F\u6C34"
+  mText: "Transformation Potion"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

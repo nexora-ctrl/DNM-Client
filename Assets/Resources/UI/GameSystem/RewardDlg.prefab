@@ -9568,7 +9568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ADE \u6280"
+  mText: "athletics"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9654,7 +9654,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ADE \u6280"
+  mText: "athletics"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9914,7 +9914,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u526F \u672C"
+  mText: "Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10000,7 +10000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u526F \u672C"
+  mText: "Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10594,7 +10594,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u793E \u4EA4"
+  mText: "Social"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10680,7 +10680,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u793E \u4EA4"
+  mText: "Social"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10940,7 +10940,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B \u52A8"
+  mText: "Event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11026,7 +11026,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B \u52A8"
+  mText: "Event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11620,7 +11620,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u6597"
+  mText: "Combat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11706,7 +11706,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218 \u6597"
+  mText: "Combat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12057,7 +12057,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "72:10:36\u540E\u7ED3\u675F"
+  mText: "End after 72:10:36"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12463,7 +12463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206 \u4EAB"
+  mText: "Share"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12664,7 +12664,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u6B21\u6570\u4EC5\u9650\u4E3B\u57CE\u3001\u9F99\u672C\u9996\u901A\u3001\u5DE2\u7A74\u9996\u901A\uFF08\u5730\u72F1\u6A21\u5F0F\uFF09\u3001\u82F1\u96C4\u6218\u573A\u3001\u5929\u68AF\u6709\u6548"
+  mText: "The number of sharing is only valid for the main city, first pass of the dragon den, first pass of the lair (hell mode), hero battlefield, and ladder."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12830,7 +12830,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u540D\u79F0"
+  mText: "Achievement name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13564,7 +13564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8"
+  mText: "Event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13650,7 +13650,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u5B8C\u6210\u5EA6"
+  mText: "achievement completion"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13736,7 +13736,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14007,7 +14007,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u70B9\u6570\u8FBE\u5230XXX\u53EF\u83B7\u5F97"
+  mText: "Achievement points can be obtained when reaching XXX"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16034,7 +16034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u70B9\u6570"
+  mText: "achievement points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -16226,7 +16226,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597"
+  mText: "Combat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16585,7 +16585,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE2\u7A74"
+  mText: "Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16657,7 +16657,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u526F\u672C"
+  mText: "Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17575,7 +17575,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A"
+  mText: "Normal"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17892,7 +17892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "72:10:36\u540E\u7ED3\u675F"
+  mText: "End after 72:10:36"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18360,7 +18360,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E0000:50\u5206\u4EAB\u6B21\u6570\u8FDB\u884C\u91CD\u7F6E"
+  mText: "The sharing count is reset every Monday at 00:50"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21841,7 +21841,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -21985,7 +21985,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u76EE\u6807"
+  mText: "level goals"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -22191,7 +22191,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22277,7 +22277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22670,7 +22670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -22802,7 +22802,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7:"
+  mText: "Title:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22888,7 +22888,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\uFF01\u52A0\u5165\u516C\u4F1A\u52A0\u5165\u516C"
+  mText: "Achieved! Join a guildJoin a guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22974,7 +22974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE\n\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE"
+  mText: "Four people can clear Cerberus' Lair without dying - Hard\nFour people can clear Cerberus' Lair without dying - Hard"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23325,7 +23325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -23990,7 +23990,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u6D77\u9F99\u5DE2\u7A74-\u56F0\u96BE\n"
+  mText: "Four people can clear the Sea Dragon's Lair without dying - Difficult"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24076,7 +24076,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99\u901A\u5173\u914D\u7F6E"
+  mText: "Hailong customs clearance configuration"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -25136,7 +25136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u52A9\u6218\u4EFB\u52A1"
+  mText: "Assistance mission"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -25280,7 +25280,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -25432,7 +25432,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E00"
+  mText: "Every Mon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25564,7 +25564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u613F\u610F\u53C2\u4E0E\u9F99\u7A74\u52A9\u6218"
+  mText: "I am willing to participate in the dragon lair battle"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25636,7 +25636,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u52A9\u6218\u9F99\u672C\uFF0C\u5373\u53EF\u7D2F\u8BA1\u52A9\u6218\u6B21\u6570\uFF0C\u9886\u53D6\u9F99\u672C\u52A9\u6218\u5956\u52B1\u5145\u503C\u540E\u52A9\u6218\u6B21\u6570\u548C\u5BF9\u5E94\u5956\u52B1\u90FD\u4F1A\u5237\u65B0"
+  mText: "By assisting Long Ben every week, you can accumulate the number of assists. After receiving Long Ben's assist rewards and recharging, the number of assists and corresponding rewards will be refreshed."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25983,7 +25983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6210\u5C31\u540D\u79F0"
+  mText: "Achievement name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -26174,7 +26174,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -26739,7 +26739,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u8FBE\u6210"
+  mText: "Not yet achieved"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -27602,7 +27602,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5373\u53EF\u83B7\u5F97\uFF1A"
+  mText: "Share to get:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -28021,7 +28021,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u540D"
+  mText: "first place"
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 2
@@ -28454,7 +28454,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -28647,7 +28647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u8FBE\u6210"
+  mText: "Not yet achieved"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29325,7 +29325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -29551,7 +29551,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B \u52A8"
+  mText: "Event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29637,7 +29637,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B \u52A8"
+  mText: "Event"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -30080,7 +30080,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u76EE\u6807"
+  mText: "target"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -30152,7 +30152,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -35008,7 +35008,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u4E2D\u82E5\u5B58\u5728\u8DE8\u670D\u73A9\u5BB6\uFF0C\u5219\u526F\u672C\u7C7B\u76EE\u6807\u65E0\u6CD5\u5B8C\u6210"
+  mText: "If there are cross-server players in the team, the dungeon objectives cannot be completed."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -35345,7 +35345,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6982 \u8981"
+  mText: "Summary"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -35697,7 +35697,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE2 \u7A74"
+  mText: "Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -36269,7 +36269,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u666E \u901A"
+  mText: "Normal"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -36607,7 +36607,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u91D1\u5E01 [ffffff]500008\n\u91D1\u5E01 [ffffff]400008"
+  mText: "gold coin [ffffff]500008\ngold coin [ffffff]400008"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -36838,7 +36838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99\u901A\u5173\u914D\u7F6E"
+  mText: "Hailong customs clearance configuration"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -37009,7 +37009,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BE6\u60C5"
+  mText: "Details"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -37389,7 +37389,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7\u540D\u79F0\u79F0\u53F7\u540D\u79F0\u540D\u79F0"
+  mText: "title name title name name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38846,7 +38846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u795E\u4E00\u6837\u7684\u5B58\u5728"
+  mText: "God-like existence"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -39739,7 +39739,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u795E\u4E00\u6837\u7684\u5B58\u5728"
+  mText: "God-like existence"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -40170,7 +40170,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7"
+  mText: "Title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -40517,7 +40517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u526F \u672C"
+  mText: "Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -41399,7 +41399,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\uFF01\u52A0\u5165\u516C\u4F1A\u52A0\u5165\u516C"
+  mText: "Achieved! Join a guildJoin a guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -42145,7 +42145,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6982 \u8981"
+  mText: "Summary"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -42351,7 +42351,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BE6\u60C5"
+  mText: "Details"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -42689,7 +42689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -42867,7 +42867,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -43207,7 +43207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE\n\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u72F1\u72AC\u5DE2\u7A74-\u56F0\u96BE"
+  mText: "Four people can clear Cerberus' Lair without dying - Hard\nFour people can clear Cerberus' Lair without dying - Hard"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -43313,7 +43313,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u91CD\u7F6E\u65F6\u95F4\uFF1A"
+  mText: "Reset time:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -43977,7 +43977,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u526F \u672C"
+  mText: "Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -44049,7 +44049,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u52A9\u6218\u6B21\u6570\uFF1A"
+  mText: "Number of assists this week:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -44516,7 +44516,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -44668,7 +44668,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u56DB\u4EBA\u4E0D\u6B7B\u901A\u5173\u5730\u6D77\u9F99\u5DE2\u7A74-\u56F0\u96BE\n"
+  mText: "Four people can clear the Sea Dragon's Lair without dying - Difficult"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -45333,7 +45333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE2 \u7A74"
+  mText: "Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -45519,7 +45519,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u76EE\u6807"
+  mText: "Combat power target"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -45656,7 +45656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -45894,7 +45894,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -46620,7 +46620,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u666E \u901A"
+  mText: "Normal"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -46752,7 +46752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u76EE\u6807"
+  mText: "target"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

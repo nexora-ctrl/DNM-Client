@@ -1391,7 +1391,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7\u5C01\u5370\u4E3A40\u7EA7\uFF0C\u60A8\u53EF\u4EE5\u4F53\u9A8C\u66F4\u591A\u7CBE\u5F69\u5185\u5BB9"
+  mText: "The next level seal is level 40, you can experience more exciting content"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1637,7 +1637,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u529F\u80FD"
+  mText: "new features"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -1994,7 +1994,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u62A4\u961F\u957F"
+  mText: "Protect Captain"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2320,7 +2320,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u7EA7\u5F00\u653E"
+  mText: "Level 3 open"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

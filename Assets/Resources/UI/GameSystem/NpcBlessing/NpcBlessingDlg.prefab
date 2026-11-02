@@ -1451,7 +1451,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u5320"
+  mText: "Tianjiang"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1799,7 +1799,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u7269"
+  mText: "holy object"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2020,7 +2020,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u7269"
+  mText: "holy object"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2202,7 +2202,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53EF\u8D60\u9001"
+  mText: "Available for gift today"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2434,7 +2434,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u5320"
+  mText: "Tianjiang"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2526,7 +2526,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u5C5E\u6027"
+  mText: "Total attributes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3019,7 +3019,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60\u9001\u6B21\u6570+2"
+  mText: "Number of gifts +2"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3768,7 +3768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "NPC\u5723\u7269"
+  mText: "NPC holy objects"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3900,7 +3900,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u5C5E\u6027"
+  mText: "Total attributes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

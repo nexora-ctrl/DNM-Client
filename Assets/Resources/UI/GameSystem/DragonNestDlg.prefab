@@ -2908,7 +2908,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3186,7 +3186,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A74"
+  mText: "Dragon’s Lair"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3317,7 +3317,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u602A\u7269\u8840\u91CF  80%"
+  mText: "Monster HP 80%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3619,7 +3619,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u8BF4\u660E"
+  mText: "How to play"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3871,7 +3871,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u6B63\u5728\u9010\u6E10\u5931\u53BB\u90AA\u6076\u7684\u9F99\u9B42\u529B\u91CF"
+  mText: "BOSS is gradually losing the evil dragon soul power"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3957,7 +3957,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u6218\u529B"
+  mText: "Recommended combat power"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4209,7 +4209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u7684\u5361\u5361\u91CC"
+  mText: "Resurrection of Kakali"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4766,7 +4766,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5218,7 +5218,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u6389\u843D"
+  mText: "may fall"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5819,7 +5819,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99_\u9ED1\u5C71\u6D1E\u7A9F"
+  mText: "Sea Dragon_Black Mountain Cave"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5951,7 +5951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u91CD\u7F6E\u65F6\u95F4[b9ff3f]\u5468\u4E09 \u5468\u4E09"
+  mText: "Weekly reset time [b9ff3f] Wednesday Wednesday"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6622,7 +6622,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99\u5DE2\u7A74"
+  mText: "Sea Dragon Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6893,7 +6893,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u7684\u5361\u5361\u91CC"
+  mText: "Resurrection of Kakali"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -7065,7 +7065,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6218\u529B"
+  mText: "Current combat strength"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7137,7 +7137,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027"
+  mText: "Properties"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7223,7 +7223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u5C5E\u6027"
+  mText: "Recommended properties"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7381,7 +7381,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u7B49\u7EA7"
+  mText: "Enter level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7539,7 +7539,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u4EBA\u6570"
+  mText: "Recommended number of people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -10367,7 +10367,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927 \u5E08"
+  mText: "master"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -10865,7 +10865,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u7B49\u7EA7"
+  mText: "Enter level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -10937,7 +10937,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786C \u6838"
+  mText: "hardcore"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11473,7 +11473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730 \u72F1"
+  mText: "Hell"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11545,7 +11545,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730 \u72F1"
+  mText: "Hell"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11689,7 +11689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u7684\u5361\u5361\u91CC"
+  mText: "Resurrection of Kakali"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12041,7 +12041,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786C \u6838"
+  mText: "hardcore"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -12429,7 +12429,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u626B\u8361"
+  mText: "sweep"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12595,7 +12595,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u5C5E\u6027"
+  mText: "Recommended properties"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13143,7 +13143,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u4EBA\u6570"
+  mText: "Recommended number of people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13369,7 +13369,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027"
+  mText: "Properties"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13486,7 +13486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786C \u6838"
+  mText: "hardcore"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -13648,7 +13648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927 \u5E08"
+  mText: "master"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

@@ -897,7 +897,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C \u544A"
+  mText: "Notice"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1383,7 +1383,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u77E5\u9053\u5566"
+  mText: "Understood"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

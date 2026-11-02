@@ -2881,7 +2881,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3212,7 +3212,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD1\u671F\u5546\u54C1\u5E73\u5747\u6210\u4EA4\u4EF7\u683C"
+  mText: "Average transaction price of recent commodities"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3337,7 +3337,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4EF7"
+  mText: "Total Price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3587,7 +3587,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6570\u91CF"
+  mText: "Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3837,7 +3837,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EF7"
+  mText: "Unit Price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4087,7 +4087,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u4E0A\u67B6"
+  mText: "Shelve Item"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4312,7 +4312,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u65B0\u4E0A\u67B6"
+  mText: "Re-shelve Item"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4662,7 +4662,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u54C1\u4E0B\u67B6"
+  mText: "Unshelf Item"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4830,7 +4830,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u7EED\u8D39"
+  mText: "handling fee"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5150,7 +5150,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u4EF7\u683C"
+  mText: "Recommended price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

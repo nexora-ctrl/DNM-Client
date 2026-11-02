@@ -1679,7 +1679,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075"
+  mText: "Grade Fairy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -1940,7 +1940,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075"
+  mText: "Grade Fairy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2201,7 +2201,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075"
+  mText: "Grade Fairy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2462,7 +2462,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075"
+  mText: "Grade Fairy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2723,7 +2723,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075"
+  mText: "Grade Fairy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -3426,7 +3426,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7CBE\u7075\u6536\u85CF\u518C"
+  mText: "Fairy Collection"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3903,7 +3903,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u5B75\u5316 X \u6B21\uFF0C\u5FC5\u5B9A\u83B7\u5F97A\u7EA7\u7CBE\u7075"
+  mText: "After hatching X times, you will definitely get an A-level elf."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

@@ -1327,7 +1327,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570"
+  mText: "Remaining times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1623,7 +1623,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards are issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1705,7 +1705,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2D\u9014\u9000\u51FA\u79EF\u5206\u4E0D\u6E05\u96F6\u4F46\u6BCF\u5468\u6BCF\u4E2A\u79EF\u5206\u5956\u52B1\u53EA\u80FD\u83B7\u53D6\u4E00\u6B21"
+  mText: "Points will not be cleared if you quit midway, but each point reward can only be obtained once per week."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2265,7 +2265,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5230\u8FBE"
+  mText: "Score Attained"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2654,7 +2654,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u79EF\u5206"
+  mText: "Current points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2936,7 +2936,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5956\u52B1"
+  mText: "Point Rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

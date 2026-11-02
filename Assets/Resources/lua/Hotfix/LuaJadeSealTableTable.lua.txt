@@ -1,4 +1,4 @@
-﻿require "HotfixGlobal.lua"
+require "HotfixGlobal.lua"
 
 --generate by ProtoGen at date: 2018/3/26 15:17:26
 

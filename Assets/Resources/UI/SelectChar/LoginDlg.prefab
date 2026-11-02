@@ -3938,7 +3938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u5BA2\u767B\u5F55"
+  mText: "Guest Login"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4130,7 +4130,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u670D\u52A1\u5668"
+  mText: "My Server"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4202,7 +4202,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "722\u6D4B\u8BD5\u670D\u5DF2\u6EE1\n\u961F\u5217\u4F4D\u7F6E\uFF1A6562\n\u9884\u8BA1\u7B49\u5F85\uFF1A\u5927\u4E8E30\u5206\u949F"
+  mText: "722 Test Suit Full\nCohort position: 6562\nEstimated wait: greater than 30 minutes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5492,7 +5492,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D4B\u8BD5"
+  mText: "Test"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5578,7 +5578,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EF4\u62A4"
+  mText: "Maintenance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6711,7 +6711,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7206\u6EE1"
+  mText: "Full"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6783,7 +6783,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D41\u7545"
+  mText: "Smooth"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6855,7 +6855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u670D"
+  mText: "New Server"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7087,7 +7087,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u670D\u52A1\u5668"
+  mText: "My Server"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7367,7 +7367,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D26\u53F7"
+  mText: "Account"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7439,7 +7439,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u7528\u6237\u540D"
+  mText: "Enter Username"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8151,7 +8151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u5BC6\u7801"
+  mText: "Enter Password"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8393,7 +8393,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350"
+  mText: "Recommended"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8465,7 +8465,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u706B\u7206"
+  mText: "Busy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8670,7 +8670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6E38\u620F"
+  mText: "Enter Game"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -9298,7 +9298,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u670D\u52A1\u5668"
+  mText: "Select Server"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9430,7 +9430,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51B0\u971C\u4E4B\u9B42-263\u533A"
+  mText: "Soul of Frost - S263"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9681,7 +9681,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9000\u51FA\u6392\u961F"
+  mText: "Leave Queue"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10095,7 +10095,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u5BC6\u7801"
+  mText: "Enter Password"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10167,7 +10167,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u]\u70B9\u51FB\u66F4\u6362"
+  mText: "[u]Click to Change"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10299,7 +10299,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u7528\u6237\u540D"
+  mText: "Enter Username"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10371,7 +10371,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BC6\u7801"
+  mText: "Password"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10523,7 +10523,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5185\u90E8\u8D26\u53F7"
+  mText: "Test Account"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -10915,7 +10915,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0E\u5FAE\u4FE1\u597D\u53CB\u73A9"
+  mText: "Quick Login"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -11147,7 +11147,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0EQQ\u597D\u53CB\u73A9"
+  mText: "Play with Friends"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -11912,7 +11912,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "263\u533A   \u51B0\u971C\u4E4B\u9B42"
+  mText: "Server 263 - Soul of Frost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11998,7 +11998,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EF4\u62A4"
+  mText: "Maintenance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12150,7 +12150,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u670D"
+  mText: "New Server"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12302,7 +12302,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u706B\u7206"
+  mText: "Busy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12454,7 +12454,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7206\u6EE1"
+  mText: "Full"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12606,7 +12606,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350"
+  mText: "Recommended"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12758,7 +12758,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D4B\u8BD5"
+  mText: "Test"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12910,7 +12910,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D41\u7545"
+  mText: "Smooth"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13062,7 +13062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Velskud Velskud"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -13205,7 +13205,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Velskud Velskud"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -13277,7 +13277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D\uFF1A"
+  mText: "Character Name:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

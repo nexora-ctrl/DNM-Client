@@ -2264,7 +2264,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u8FD8\u6CA1\u6709\u597D\u53CB\u54E6"
+  mText: "You have no friends yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2938,7 +2938,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u6CA1\u6709\u4EFB\u4F55\u8BB0\u5F55\u54E6"
+  mText: "There is currently no record"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3238,7 +3238,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB\u6392\u540D"
+  mText: "Friends ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3330,7 +3330,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB6\u56ED\u65E5\u5FD7"
+  mText: "Home Log"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4032,7 +4032,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4100,7 +4100,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E2E\u52A9\u6B21\u6570 20"
+  mText: "Help times 20"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4237,7 +4237,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DC\u8BBF"
+  mText: "visit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4377,7 +4377,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 0
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D\u5E2E\u4F60\u7684"
+  mText: "Character names help you"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4520,7 +4520,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 0
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1 \u5C0F\u65F6\u524D"
+  mText: "1 hour ago"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -4600,7 +4600,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB6\u56ED\u603B\u89C8"
+  mText: "Home Overview"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4749,7 +4749,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88AB\u8BBF\u95EE\u6B21\u6570"
+  mText: "Number of visits"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4909,7 +4909,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u7EA7"
+  mText: "Level 5"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -4977,7 +4977,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9493\u9C7C\u7B49\u7EA7"
+  mText: "fishing level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5183,7 +5183,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9C7C\u9975\u6570\u91CF"
+  mText: "Number of baits"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5411,7 +5411,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79CD\u690D\u6570\u91CF"
+  mText: "Planting quantity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5617,7 +5617,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u83B7\u5012\u8BA1\u65F6"
+  mText: "Countdown to harvest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5765,7 +5765,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB6\u56ED\u72B6\u51B5"
+  mText: "Home status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6016,7 +6016,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u5BB6\u56ED"
+  mText: "Go home"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

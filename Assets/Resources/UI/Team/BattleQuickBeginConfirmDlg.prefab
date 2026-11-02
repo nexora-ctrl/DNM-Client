@@ -381,7 +381,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -574,7 +574,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -762,7 +762,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u5339\u914D\u5230\u73A9\u5BB6\uFF0C\u6B63\u5728\u8FDB\u5165\u6218\u6597\u4E2D..."
+  mText: "The player has been matched and entering the battle..."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

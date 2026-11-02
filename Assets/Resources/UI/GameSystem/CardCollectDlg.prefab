@@ -10235,7 +10235,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u8981\u5206\u89E3\u7684\u5361\u724C\u6570\u91CF"
+  mText: "Enter the number of cards to be dismantled"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10529,7 +10529,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u5408"
+  mText: "combination"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10675,7 +10675,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u6FC0\u6D3B"
+  mText: "Activated"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10938,7 +10938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536 \u96C6"
+  mText: "collect"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -11217,7 +11217,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709\u6570\u91CF"
+  mText: "Quantity owned"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11375,7 +11375,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u89E3"
+  mText: "Dismantle"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11632,7 +11632,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE \u9274"
+  mText: "Picture book"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -12253,7 +12253,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5151 \u6362"
+  mText: "Exchange"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12325,7 +12325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE\u9274\u5151\u6362\n\u5927\u9646\u63A2\u9669\u4EA7\u51FA"
+  mText: "Redeem illustrated book\nContinental exploration output"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12397,7 +12397,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53BB\u6389"
+  mText: "remove"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -12589,7 +12589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53BB\u6389"
+  mText: "remove"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -12961,7 +12961,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE \u9274"
+  mText: "Picture book"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -13182,7 +13182,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u52A0\u6210"
+  mText: "Attribute bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13254,7 +13254,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+33333\n2"
+  mText: "Attack +33333\n2"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13590,7 +13590,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5151 \u6362"
+  mText: "Exchange"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13722,7 +13722,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7F81\u7ECA\u540D\u5B57"
+  mText: "Bond name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13899,7 +13899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5C14\u7279\u91CC\u4E9A"
+  mText: "Altria"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13971,7 +13971,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u56FE\u9274\u7EC4\u5408\u6570\u52A0\u6210"
+  mText: "Activate illustrated book combination number bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14103,7 +14103,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5C14\u7279\u91CC\u4E9A"
+  mText: "Altria"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -14427,7 +14427,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "XX\u7EA7\u89E3\u9501"
+  mText: "Level XX unlocked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14559,7 +14559,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u9700\u8981\u4E24\uFF0C\u624D\u80FD\u914D\u8868"
+  mText: "You need two to match the watch"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -14722,7 +14722,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0 \u6D3B"
+  mText: "Activate"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14794,7 +14794,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0 \u6D3B"
+  mText: "Activate"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -17534,7 +17534,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F3A\u8EAB\u5065\u4F53\uFF0C\u836F\u5230\u75C5\u9664"
+  mText: "Strengthen the body and cure diseases with medicine"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -17738,7 +17738,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u52A0\u6210"
+  mText: "Attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -17810,7 +17810,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+22222"
+  mText: "Attack +22222"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -18062,7 +18062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "35\u7EA7\u89E3\u9501"
+  mText: "Unlocked at level 35"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18434,7 +18434,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u6FC0\u6D3B"
+  mText: "Activated"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -18506,7 +18506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u7EC4\u5408\u6570\u52A0\u6210"
+  mText: "Activation combination bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -18592,7 +18592,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+33333\n2\n3\n4"
+  mText: "Attack +33333\n2\n3\n4"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -19260,7 +19260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F20\u8BF4\u4E4B\u70E4\u8725\u8734\u5927\u817F"
+  mText: "The legendary grilled lizard thigh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -19332,7 +19332,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5151\u6362"
+  mText: "Exchange"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -19833,7 +19833,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u83B7\u5F97"
+  mText: "available"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20218,7 +20218,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE\u9274\u5206\u89E3"
+  mText: "Illustrated decomposition"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -20549,7 +20549,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B         \u4E2A\u7EC4\u5408\u53EF\u89E3\u9501"
+  mText: "Activate combinations to unlock"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -20716,7 +20716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57"
+  mText: "name name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20788,7 +20788,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u522B\u5FD8\u8BB0\u544A\u8BC9\u522B\u4EBA\u6211\u8FD9\u662F\u4E16\u754C\u4E0A\u6700\u597D\u7684\u53A8\u5E08"
+  mText: "Don't forget to tell people I'm the best chef in the world"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -22954,7 +22954,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u52FE\u9009\u8981\u5206\u89E3\u7684\u54C1\u8D28"
+  mText: "Click to check the quality you want to decompose"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23026,7 +23026,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -23203,7 +23203,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -23500,7 +23500,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u89E3"
+  mText: "Dismantle"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -23614,7 +23614,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u52A0\u6210"
+  mText: "Attribute bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23686,7 +23686,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u5408\u6570\u52A0\u6210"
+  mText: "Combination number bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -23818,7 +23818,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+33333\n2"
+  mText: "Attack +33333\n2"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23904,7 +23904,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u4F60"
+  mText: "congratulations"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -24009,7 +24009,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -25047,7 +25047,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5151 \u6362"
+  mText: "Exchange"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -25598,7 +25598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5361\u724C\u788E\u7247\u53EF\u901A\u8FC7\u5206\u89E3\u591A\u4F59\u7684\u5361\u724C\u83B7\u5F97"
+  mText: "Card fragments can be obtained by dismantling excess cards."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -25976,7 +25976,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7F81\u7ECA\u540D\u7F81\u7ECA\u540D\u7F81\u7ECA\u540D"
+  mText: "bond name bond name bond name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26062,7 +26062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7F81\u7ECA\u540D\u7F81\u7ECA\u540D\u7F81\u7ECA\u540D"
+  mText: "bond name bond name bond name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -27472,7 +27472,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EFF"
+  mText: "green"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27544,7 +27544,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u84DD"
+  mText: "blue"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27776,7 +27776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7D2B"
+  mText: "purple"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27848,7 +27848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6A59"
+  mText: "Orange"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28180,7 +28180,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B99\u4E2A"
+  mText: "Activate 99"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -28372,7 +28372,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE \u9274"
+  mText: "Picture book"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28444,7 +28444,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u5927\u9646\u63A2\u9669\u83B7\u5F97\u5361\u724C"
+  mText: "Go to the mainland to explore and obtain cards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -28709,7 +28709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB+2000"
+  mText: "Physical attack +2000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -28781,7 +28781,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE\u9274\u603B\u5C5E\u6027\u52A0\u6210"
+  mText: "The total attribute bonus of the illustrated book"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30282,7 +30282,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EA2"
+  mText: "red"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -30399,7 +30399,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "X\u7EA7\u89E3\u9501"
+  mText: "X level unlocked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30472,7 +30472,6 @@ MonoBehaviour:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
   mText: '1
-
     2
 
     3
@@ -31031,7 +31030,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A81 \u7834"
+  mText: "Breakthrough"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -31666,7 +31665,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u53D6\u9014\u5F84"
+  mText: "How to get it"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

@@ -637,7 +637,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u5929\u8FD8\u53EF\u4EE5\u53D1\u5E03       \u6761\u4FE1\u606F"
+  mText: "You can still post a message today"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -707,7 +707,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BFB\u627E\u961F\u4F0D"
+  mText: "Find a team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -777,7 +777,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BFB\u627E\u961F\u4F0D"
+  mText: "Find a team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1225,7 +1225,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6CA1\u6709\u4EBA\u53D1\u5E03\u62DB\u52DF\u961F\u4F0D\u54E6"
+  mText: "No one has posted a recruitment team yet."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1597,7 +1597,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BFB\u627E\u961F\u53CB"
+  mText: "Looking for teammates"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1848,7 +1848,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BFB\u627E\u961F\u53CB"
+  mText: "Looking for teammates"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -7695,7 +7695,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7926,7 +7926,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F85\u52A9"
+  mText: "Auxiliary"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8101,7 +8101,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u6807\u5173\u5361"
+  mText: "target level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8595,7 +8595,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8FD9\u91CC\u5C1D\u8BD5\n\u5BFB\u627E\u961F\u4F0D\u54E6"
+  mText: "Click here to try\nLooking for the team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8665,7 +8665,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533  \u8BF7"
+  mText: "Apply"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8968,7 +8968,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u53D1\u9001\u6D88\u606F\u5230\u4E16\u754C\u9891\u9053"
+  mText: "Click to send message to World Channel"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9183,7 +9183,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u9700\u6C42"
+  mText: "Combat power requirements"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9468,7 +9468,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218 \u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9561,7 +9561,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E16\u754C\u558A\u8BDD"
+  mText: "world shouting"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9701,7 +9701,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A"
+  mText: "Ahhhhhhhhhhhhhhhhhhh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9843,7 +9843,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u53CB\u9A8C\u8BC1"
+  mText: "Teammate verification"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10044,7 +10044,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u6807\u5173\u5361"
+  mText: "target level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10560,7 +10560,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u672C\u65F6\u95F4"
+  mText: "Refresh time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10630,7 +10630,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9632\u5FA1"
+  mText: "DEF"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10801,7 +10801,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u540D\u79F0"
+  mText: "Team name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11123,7 +11123,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516B\u4E2A\u5B57\u516B\u4E2A\u5B57\u516B\u4E2A"
+  mText: "eight characters eight characters eight"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11483,7 +11483,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u9650"
+  mText: "All"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -11857,7 +11857,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64C5\u957F\uFF1A"
+  mText: "Good at:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11927,7 +11927,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u5E03\u6D88\u606F"
+  mText: "Post a message"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -12077,7 +12077,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB\u52DF\u5927\u5385"
+  mText: "Recruitment Hall"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12337,7 +12337,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9632\u5FA1"
+  mText: "DEF"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12607,7 +12607,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u9650"
+  mText: "All"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -13191,7 +13191,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5766\u514B"
+  mText: "Tank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -13261,7 +13261,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u51FA"
+  mText: "DPS"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -13485,7 +13485,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u7533\u8BF7"
+  mText: "Already applied"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -13826,7 +13826,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B\uFF1A"
+  mText: "Type:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13940,7 +13940,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB  \u52DF"
+  mText: "Recruit"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14162,7 +14162,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u53EF\u4EE5\u8FDB\u884C\u5BFB\u627E\u5F3A\u529B\u9F99\u672C\u961F\u4F0D\u7684\u64CD\u4F5C\uFF0C\u7533\u8BF7\u901A\u8FC7\u5373\u53EF\u4EE5\u52A0\u5165\u5230\u961F\u957F\u8BBE\u7F6E\u7684\u7FA4\u804A\u4E2D\u8BA8\u8BBA\u65B9\u6848"
+  mText: "Here you can search for a powerful dragon team. Once your application is approved, you can join the group chat set up by the captain to discuss the plan."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14369,7 +14369,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u5929\u8FD8\u53EF\u4EE5\u53D1\u5E03       \u6761\u4FE1\u606F"
+  mText: "You can still post a message today"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -14840,7 +14840,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F85\u52A9"
+  mText: "Auxiliary"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15002,7 +15002,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u53EF\u4EE5\u66F4\u6362\u540D\u5B57"
+  mText: "Click to change the name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15400,7 +15400,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8FD9\u91CC\u5C1D\u8BD5\n\u5BFB\u627E\u961F\u5458\u54E6"
+  mText: "Click here to try\nLooking for team members"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15632,7 +15632,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5766\u514B"
+  mText: "Tank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -15857,7 +15857,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CBB\u7597"
+  mText: "Heal"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -16119,7 +16119,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u62DB\u52DF"
+  mText: "Recruited"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -16405,7 +16405,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516B\u4E2A\u5B57\u516B\u4E2A\u5B57\u516B\u4E2A"
+  mText: "eight characters eight characters eight"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -17103,7 +17103,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CBB\u7597"
+  mText: "Heal"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -17253,7 +17253,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u672C\u65F6\u95F4"
+  mText: "Refresh time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17323,7 +17323,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u53EF\u4EE5\u53D1\u5E03\u81EA\u8EAB\u6D88\u606F\u4F9B\u4ED6\u4EBA\u8FDB\u884C\u62DB\u52DF\uFF0C\u6210\u529F\u88AB\u62DB\u52DF\u7684\u73A9\u5BB6\u5C06\u88AB\u62C9\u5165\u961F\u957F\u8BBE\u7F6E\u7684\u7FA4\u804A\u4E2D\uFF0C\u8FDB\u884C\u5237\u672C\u8BA8\u8BBA"
+  mText: "Here you can publish your own information for others to recruit. Players who are successfully recruited will be pulled into the group chat set up by the team leader for discussion on brushing up."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17509,7 +17509,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u59D3  \u540D"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18424,7 +18424,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A"
+  mText: "Ahhhhhhhhhhhhhhhhhhh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -19122,7 +19122,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u5EFA\u961F\u4F0D"
+  mText: "Create a new team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19417,7 +19417,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u5E03\u62DB\u52DF"
+  mText: "Post recruitment"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -19500,7 +19500,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6CA1\u6709\u4EBA\u53D1\u5E03\u6D88\u606F\u54E6"
+  mText: "No one has posted anything yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -19705,7 +19705,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65B0\u5EFA\u961F\u4F0D"
+  mText: "Create a new team"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19775,7 +19775,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20647,7 +20647,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u51FA"
+  mText: "DPS"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

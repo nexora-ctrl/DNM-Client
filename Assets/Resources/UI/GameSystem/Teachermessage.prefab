@@ -1019,7 +1019,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1243,7 +1243,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5\u53D7\u62A5\u544A"
+  mText: "Accept Report"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1495,7 +1495,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u63A5\u53D7\u62A5\u544A"
+  mText: "Accept reports with one click"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1747,7 +1747,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u6D88\u606F"
+  mText: "Master and Disciple News"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1885,7 +1885,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5\u53D7"
+  mText: "Accept"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2068,7 +2068,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2355,7 +2355,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u606F\u6D88\u606F\u6D88\u606F\u6D88\u606F\u6D88\u606F\u6D88\u606F"
+  mText: "message message message message message"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3359,7 +3359,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E05\u7A7A\u5217\u8868"
+  mText: "Clear List"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

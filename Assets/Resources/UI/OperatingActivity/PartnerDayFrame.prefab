@@ -1494,7 +1494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u548C\u81EA\u5DF1\u7684\u6218\u53CB\u4EEC\u7EC4\u961F\uFF0C\u5B8C\u6210\u4E0B\u9762\u7684\u6D3B\u52A8\uFF0C\u53EF\u4EE5\u83B7\u5F97\u989D\u5916\u6218\u53CB\u5927\u793C\u54E6\uFF01"
+  mText: "Team up with your comrades and complete the following activities to get extra comrade gifts!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1580,7 +1580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u5956\u52B1"
+  mText: "Get rewarded"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1742,7 +1742,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EC\u96C6\u6218\u53CB"
+  mText: "Gather comrades"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1963,7 +1963,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0E\u6218\u53CB\u7EC4\u961F\u80DC\u5229\u5B8C\u621010\u6B21\u4FDD\u62A4\u961F\u957F"
+  mText: "Team up with comrades and successfully protect the captain 10 times"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2035,7 +2035,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u5BA3\u8A93\u6210\u529F\uFF0C\u6BCF\u65E5\u53EF\u4EE5\u83B7\u5F97\u9F99\u5E01\uFF0C\u7EFF\u739B\u7459\uFF0C\u6218\u53CB\u5E01\u7B49\u5956\u52B1\uFF0C\u4E00\u8D77\u7EC4\u961F\u8FD8\u6709\u7EC4\u961F\u72B6\u6001\u52A0\u6210\uFF0C\u5FEB\u53BB\u7ED3\u6210\u6218\u53CB\u5427\uFF01"
+  mText: "If the comrade-in-arms oath is successful, you can get rewards such as dragon coins, green agate, and comrade-in-arms coins every day. If you form a team together, you will also get a team status bonus. Go and become comrades-in-arms!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2181,7 +2181,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F593\u5929\uFF08\u6B21\u65E5\u5956\u52B1\u91CD\u7F6E\uFF09"
+  mText: "3 days remaining (rewards reset the next day)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2339,7 +2339,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9886\u53D6"
+  mText: "Claimed"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2411,7 +2411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u5B8C\u6210"
+  mText: "Incomplete"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2543,7 +2543,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3482,7 +3482,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u6B21\u6570"
+  mText: "Number of rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3568,7 +3568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u6D3B\u52A8"
+  mText: "Participate in activities"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

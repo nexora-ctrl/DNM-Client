@@ -1930,7 +1930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u7EA2\u5305"
+  mText: "View red envelope"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2016,7 +2016,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u7B54\u8C22"
+  mText: "Quick Thanks"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2342,7 +2342,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521A\u521A"
+  mText: "Just Then"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -2768,7 +2768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u91CF"
+  mText: "total amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2974,7 +2974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9886\u53D6"
+  mText: "Claimed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3406,7 +3406,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3699,7 +3699,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4205,7 +4205,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u7EA2\u5305"
+  mText: "red envelope"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4311,7 +4311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u8981\u73A9\u5BB6\u540D\u5B57 \u5728\u5C0F\u4E11\u6251\u514B\u4E2D\u62BD\u51FA\u4E86\u846B\u82A6\uFF01"
+  mText: "No player name required Drawing a full house in Joker Poker!"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

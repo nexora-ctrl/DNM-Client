@@ -530,7 +530,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u67C4\u952E\u4F4D\u56FE"
+  mText: "Controller key bitmap"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -743,7 +743,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u67C4\u8FDE\u63A5"
+  mText: "Controller Connection"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1214,7 +1214,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u67C4\u8BBE\u7F6E"
+  mText: "Controller settings"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

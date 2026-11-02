@@ -1084,7 +1084,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7CBE\u7075\u6536\u85CF\u518C"
+  mText: "Fairy Collection"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1550,7 +1550,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7CBE\u7075"
+  mText: "Fairy"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2048,7 +2048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u5236\u4F5C"
+  mText: "Equipment production"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2134,7 +2134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u5236\u4F5C"
+  mText: "Equipment production"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1579,7 +1579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u4EFB\u610F \u5DE2\u7A74\n\u5373\u53EF\u83B7\u5F97 +10\u8FDB\u5EA6\u503C"
+  mText: "Clear any nest\nYou will get +10 progress value"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1651,7 +1651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u4EFB\u610F \u9F99\u7A74\n\u5373\u53EF\u83B7\u5F97 +20\u8FDB\u5EA6\u503C"
+  mText: "Clear any level Dragon's Lair\nYou will get +20 progress value"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2285,7 +2285,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u8FDB\u5EA6:"
+  mText: "Current progress:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3048,7 +3048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u8FDB\u5EA6\u503C\u5373\u53EF\u9886\u53D6"
+  mText: "Accumulated progress value can be collected"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3154,7 +3154,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u5269\u4F59\u6B21\u6570"
+  mText: "Today's remaining times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3286,7 +3286,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8FDB\u5EA6\u5373\u53EF\u9886\u53D6\u53F3\u4FA7\u65F6\u88C5"
+  mText: "After gaining progress, you can receive the costume on the right"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3358,7 +3358,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3502,7 +3502,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u8FDB\u5EA6\u503C\u5373\u53EF\u9886\u53D6"
+  mText: "Accumulated progress value can be collected"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3574,7 +3574,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u5269\u4F59\u6B21\u6570"
+  mText: "Today's remaining times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3646,7 +3646,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DE2\u7A74"
+  mText: "Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4167,7 +4167,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u672C"
+  mText: "Dragon Lair"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5079,7 +5079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5151,7 +5151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "(\u5927\u5E08\u96BE\u5EA6)"
+  mText: "(Master difficulty)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

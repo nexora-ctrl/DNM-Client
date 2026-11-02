@@ -1663,7 +1663,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u5956\u52B1"
+  mText: "Get rewarded"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2365,7 +2365,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4 \u56DE"
+  mText: "Back"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2707,7 +2707,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u77FF\u8109\u8D44\u6E90"
+  mText: "Obtain mineral resources"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2837,7 +2837,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u60A8\uFF0C\u5927\u5192\u9669\u6311\u6218\u6210\u529F!!"
+  mText: "Congratulations on your successful adventure challenge!!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

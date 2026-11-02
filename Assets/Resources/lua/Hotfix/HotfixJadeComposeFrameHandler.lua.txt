@@ -1,4 +1,4 @@
-﻿require "LuaJadeEquipDataModel.lua"
+require "LuaJadeEquipDataModel.lua"
 
 --新龙玉系统升级合成界面
 JadeComposeFrameHandler = {}

@@ -3608,7 +3608,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3740,7 +3740,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u539F\u56E0"
+  mText: "Reason"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4004,7 +4004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7"
+  mText: "bethcoder"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4076,7 +4076,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -4268,7 +4268,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -4620,7 +4620,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5822,7 +5822,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u539F\u56E0"
+  mText: "Reason"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7142,7 +7142,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8FD4\u56DE"
+  mText: "Click to return"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7906,7 +7906,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7"
+  mText: "bethcoder"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

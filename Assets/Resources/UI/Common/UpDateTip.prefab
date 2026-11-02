@@ -494,7 +494,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -664,7 +664,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -866,7 +866,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u5728WiFi\u73AF\u5883\u4E0B\u4E0B\u8F7D"
+  mText: "Please download under Wi-Fi environment"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1291,7 +1291,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u73B0\u65B0\u7248\u672C\uFF0C\u7ACB\u5373\u66F4\u65B0"
+  mText: "New version found, update now"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1423,7 +1423,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90\u5927\u5C0F\uFF1A80.0MB"
+  mText: "Resource Size: 80.0MB"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

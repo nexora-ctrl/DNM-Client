@@ -1324,7 +1324,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u5151\u6362"
+  mText: "Reward Redemption"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1516,7 +1516,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EBA\u6311\u6218"
+  mText: "Single player challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1588,7 +1588,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u95E8\u7968\u5C06\u5728\u6BCF\u59295\u70B9\u53D1\u653E"
+  mText: "Tickets will be distributed at 5 o'clock every day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1810,7 +1810,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u7FA4\u75AF\u72C2\u7684\u9E2D\u5B50\u5FC5\u987B\u5168\u90E8\u6E05\u9664\u624D\u80FD\u5151\u6362\u4E30\u539A\u5956\u52B1"
+  mText: "This group of crazy ducks must all be cleared to redeem generous rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2566,7 +2566,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

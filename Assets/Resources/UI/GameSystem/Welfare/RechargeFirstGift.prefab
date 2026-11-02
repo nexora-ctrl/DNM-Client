@@ -748,7 +748,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u5145\u503C\u6EE1[b9f20d][b] 6 [/b][-]\u5143\u5373\u53EF\u83B7\u5F97[b9f20d][b]\u5929\u4F7F\u4E4B\u7FFC[/b][-]\uFF01"
+  mText: "If the accumulated recharge reaches [b9f20d][b] 6 [/b][-] yuan, you can get [b9f20d][b]Angel Wings[/b][-]!"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1105,7 +1105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1677,7 +1677,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5145 \u503C"
+  mText: "Recharge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

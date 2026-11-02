@@ -1,4 +1,4 @@
-﻿--
+--
 --  LuaFashionCompoundSuccHandler.lua
 --  Created by huailiang.peng on 2017/09/05 09:40:32
 --  Please make sure you file start with "Hotfix" or "Lua"

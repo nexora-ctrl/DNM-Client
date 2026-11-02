@@ -2848,7 +2848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F53\u9A8C\u65B0\u804C\u4E1A"
+  mText: "Experience a new career"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3039,7 +3039,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u66F4\u65B0\u804C\u4E1A"
+  mText: "Change to new occupation"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3390,7 +3390,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3496,7 +3496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4032,7 +4032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB\u8BF4\u660E\u5728\u8FD9\u91CC\uFF0C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\n\u4E09\u884C"
+  mText: "Warrior instructions are here , and a brief introduction to the charge and weapon wielding skill is here\nthree lines"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4264,7 +4264,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4350,7 +4350,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4422,7 +4422,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u66F4\u804C\u4E1A"
+  mText: "Change occupation"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4855,7 +4855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u83B7\u53D6"
+  mText: "Go to get"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5059,7 +5059,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u6D88\u8017"
+  mText: "Required"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5296,7 +5296,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u66F4\u804C\u4E1A\u540E\u6218\u529B\u53EF\u80FD\u4F1A\u6709\u7A0D\u8BB8\u964D\u4F4E"
+  mText: "Combat strength may be slightly reduced after changing professions"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5608,7 +5608,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u751F\u8F6C\u804C\u4FDD\u7559\u73A9\u5BB6\u4E4B\u524D\u7684\u804C\u4E1A\u7B49\u7EA7\u3001\u7ECF\u9A8C\u3001\u5750\u9A91\u3001\u65F6\u88C5\u3001\u7CBE\u7075\u3001\u9644\u9B54\u3001\u7EB9\u7AE0\uFF08\u5305\u542B\u91D1\u5C5E\u677F\uFF0C\u62C6\u4E0B\u6765\u653E\u80CC\u5305\u91CC\uFF09\u4EE5\u53CA\u88C5\u5907\u5F3A\u5316\u7B49\u7EA7\u3010\u7B56\u5212\u914D\u7F6E\u505A\u4E0B\u62C9\u3011"
+  mText: "Rebirth and job transfer retain the player's previous career level, experience, mounts, fashions, elves, enchantments, emblems (including metal plates, which can be removed and placed in the backpack) and equipment enhancement levels [Plan the configuration and pull down]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5680,7 +5680,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u5C06\u8F6C\u804C\u4E3A [c][ff9145]\u6218\u58EB\uFF08\u7269\u653B\u5C5E\u6027\uFF09"
+  mText: "You will be transferred to [c][ff9145]Warrior (physical attack attribute)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5752,7 +5752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5929,7 +5929,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u66F4\u65B0\u804C\u4E1A"
+  mText: "Change to new occupation"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

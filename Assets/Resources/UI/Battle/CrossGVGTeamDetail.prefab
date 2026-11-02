@@ -1829,7 +1829,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u5475\u5475\u5475\u54C8"
+  mText: "Hehehehehehehehe"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2006,7 +2006,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u5475\u5475\u5475\u54C8"
+  mText: "Hehehehehehehehe"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2466,7 +2466,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2666,7 +2666,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2886,7 +2886,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00\u5173\u5361"
+  mText: "Leave the level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4038,7 +4038,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4426,7 +4426,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3652\u4EBF"
+  mText: "365.2 billion"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -4599,7 +4599,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9694\u58C1\u8001\u9694\u58C1\u8001\u9694\u9694"
+  mText: "next door old next door old next door"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4671,7 +4671,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6740"
+  mText: "K"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -4897,7 +4897,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u52A0\u8F7D"
+  mText: "Loading"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5024,7 +5024,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6740"
+  mText: "K"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -5297,7 +5297,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D"
+  mText: "Team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

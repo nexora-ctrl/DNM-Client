@@ -857,7 +857,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u6B21\u6311\u6218"
+  mText: "challenge again"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u6B21\u6570\u8017\u5C3D"
+  mText: "Resurrection times exhausted"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1354,7 +1354,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB \u5F00"
+  mText: "Leave"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1435,7 +1435,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5931\u8D25\u4E0D\u6263\u4F53\u529B"
+  mText: "Failure does not deduct physical strength"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1528,7 +1528,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB \u5F00"
+  mText: "Leave"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

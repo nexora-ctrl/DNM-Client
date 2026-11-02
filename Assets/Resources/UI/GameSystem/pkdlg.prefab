@@ -2048,7 +2048,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "  \u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2116,7 +2116,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2241,7 +2241,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 0
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u5206\u949F\u524D"
+  mText: "10 minutes ago"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2411,7 +2411,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2593,7 +2593,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5\u53D7"
+  mText: "Accept"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2730,7 +2730,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5207\u78CB\u9080\u8BF7"
+  mText: "Invitation to discuss"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2980,7 +2980,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E05\u7A7A\u5217\u8868"
+  mText: "Clear List"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3128,7 +3128,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3196,7 +3196,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3264,7 +3264,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3332,7 +3332,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3628,7 +3628,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3819,7 +3819,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

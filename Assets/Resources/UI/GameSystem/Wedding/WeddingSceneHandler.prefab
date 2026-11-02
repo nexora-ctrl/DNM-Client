@@ -2181,7 +2181,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u8A93"
+  mText: "Swear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2311,7 +2311,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u79D8\u5609\u5BBE\u5C06\u57285\u5206\u949F\u540E\u5230\u8FBE\u5A5A\u5BB4\u4F1A\u573A"
+  mText: "The mysterious guest will arrive at the wedding banquet venue in 5 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2575,7 +2575,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5A5A\u5BB4\u5C06\u572820\u5206\u949F\u540E\u7ED3\u675F"
+  mText: "The wedding banquet will end in 20 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2865,7 +2865,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7684\u5A5A\u793C\u7684\u5A5A\u793C\u7684\u5A5A\u548C\u7684\u5A5A\u793C\u7684\u5A5A\u793C\u7684\u5A5A"
+  mText: "the wedding the wedding the wedding the wedding the wedding the wedding"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3115,7 +3115,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u5BA3\u8A93"
+  mText: "I want to take an oath"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3776,7 +3776,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E78\u798F\u503C:"
+  mText: "Happiness value:"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -5370,7 +5370,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E78\u798F\u503C"
+  mText: "Happiness"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5567,7 +5567,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1.\u653E\u70DF\u82B1\uFF0C\u6492\u82B1\uFF0C\u53D1\u559C\u7CD6\uFF0C\u65F6\u95F4\u90FD\u53EF\u4EE5\u589E\u52A0\u8FD9\u573A\u5A5A\u793C\u7684\u5E78\u798F\u503C\uFF0C\u5F53\u5E78\u798F\u503C\u8FBE\u5230100\u65F6\u53EF\u8FDB\u884C\u5BA3\u8A93\n\n2.\u6BCF\u6B21\u6492\u82B1\u9700\u8981\u6D88\u801710000\u91D1\u5E01\uFF0C\u91D1\u5E01\u6D88\u8017\u6309\u7167\u65B0\u4EBA\u53CC\u65B9\u6211\u7684\u9080\u8BF7\u6570\u91CF\u603B\u548C\u6765\u51B3\u5B9A\uFF0C\u6BCF\u6B21\u64CD\u4F5C\u540E\u670910s\u7684cd\u65F6"
+  mText: "1. Setting off fireworks, scattering flowers, and handing out wedding candies can increase the happiness value of this wedding. When the happiness value reaches 100, you can take an oath.\n\n2. Each time you throw flowers, you need to consume 10,000 gold coins. The gold coin consumption is determined by the total number of invitations from both parties. When there is a 10s CD after each operation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

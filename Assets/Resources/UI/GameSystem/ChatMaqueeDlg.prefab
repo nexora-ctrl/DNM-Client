@@ -304,7 +304,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A\u8840\u6761\u4E0A\u8981\u663E\u793A"
+  mText: "The blood bar should be displayed. The blood bar should be displayed. The blood bar should be displayed. The blood bar should be displayed. The blood bar should be displayed."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

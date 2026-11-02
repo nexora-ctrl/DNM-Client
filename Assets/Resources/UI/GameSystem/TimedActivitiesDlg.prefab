@@ -613,7 +613,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -826,7 +826,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1198,7 +1198,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

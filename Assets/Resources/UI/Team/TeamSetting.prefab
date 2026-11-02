@@ -2647,7 +2647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u94BB\u77F3\u8D4F\u91D1\u56E2\u9700\u8981\u7D2F\u8BA1\u6D88\u8017\u94BB\u77F33000\u94BB"
+  mText: "To open a diamond bounty group, you need to consume a total of 3,000 diamonds."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2949,7 +2949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u5B58\u8BBE\u7F6E"
+  mText: "Save settings"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3041,7 +3041,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u6C42\u6218\u6597\u529B"
+  mText: "Need combat power"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3713,7 +3713,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u6863\u6B21"
+  mText: "Reward level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4066,7 +4066,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u91D1\u5238"
+  mText: "bounty coupon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4166,7 +4166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u4E3B\u6559\u5DE2\u7A74\u8D4F\u91D1\u5238"
+  mText: "Archbishop's Lair Bounty Ticket"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4800,7 +4800,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u91D1\u5238"
+  mText: "bounty coupon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4900,7 +4900,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u91D1\u5238"
+  mText: "bounty coupon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5569,7 +5569,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u91D1\u961F\u4F0D"
+  mText: "bounty team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5963,7 +5963,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u4E3B\u6559\u5DE2\u7A74\u8D4F\u91D1\u5238"
+  mText: "Archbishop's Lair Bounty Ticket"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6741,7 +6741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D4F\u91D1\u5238"
+  mText: "bounty coupon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6974,7 +6974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u529B\u9700\u6C42"
+  mText: "Combat power requirements"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

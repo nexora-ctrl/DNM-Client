@@ -2182,7 +2182,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u83B7\u53D6>>"
+  mText: "Go to get>>"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2254,7 +2254,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u8FBE\u5230"
+  mText: "Combat strength reached"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2640,7 +2640,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u52A0\u6210"
+  mText: "Combat power bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2726,7 +2726,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u52A0\u6210"
+  mText: "Combat power bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2852,7 +2852,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u540D\u79F0"
+  mText: "Item name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3498,7 +3498,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u664B\u5347\u6761\u4EF6"
+  mText: "Promotion conditions"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3675,7 +3675,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u664B \u5347"
+  mText: "promotion"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3827,7 +3827,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5934\u8854"
+  mText: "title"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4467,7 +4467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u52A0\u6210"
+  mText: "Combat power bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4619,7 +4619,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8FBE\u5230\u6700\u9AD8\u5934\u8854"
+  mText: "Reached the highest title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5161,7 +5161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u52A0\u6210"
+  mText: "Combat power bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

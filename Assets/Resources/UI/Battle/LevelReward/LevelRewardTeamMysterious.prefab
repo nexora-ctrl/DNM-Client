@@ -3062,7 +3062,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u8840\u91CF\u226550%"
+  mText: "Remaining blood volume ≥50%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3345,7 +3345,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4336,7 +4336,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "4\u5206\u949F\u5185\u901A\u5173"
+  mText: "Complete the level in 4 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4766,7 +4766,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u8FC7\u5173\u5361"
+  mText: "Pass the level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5204,7 +5204,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u65F6\u95F4 05:00"
+  mText: "Customs clearance time 05:00"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5554,7 +5554,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u79D8\u5883\u5347\u81F320\u5C42\uFF01"
+  mText: "The Great Secret Realm has reached level 20!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6570,7 +6570,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u6740"
+  mText: "First Blood"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7063,7 +7063,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7226,7 +7226,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EE7\u7EED\u6311\u6218"
+  mText: "Continue Challenge"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

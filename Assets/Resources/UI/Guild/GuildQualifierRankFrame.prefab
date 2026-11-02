@@ -1231,7 +1231,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516C\u4F1A\u540D\u79F0"
+  mText: "Guild nameGuild name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1356,7 +1356,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A\u6570"
+  mText: "Number of wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1424,7 +1424,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1549,7 +1549,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u6B21"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1674,7 +1674,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5929\u68AF\u8D5B\u6392\u540D"
+  mText: "Guild Ladder Tournament Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1455,7 +1455,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1550,7 +1550,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1622,7 +1622,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1754,7 +1754,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8E22\u51FA\u7FA4\u804A"
+  mText: "Kick out of group chat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1886,7 +1886,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Bethcod Bethcod"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2760,7 +2760,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8E22\u51FA\u7FA4\u804A"
+  mText: "Kick out of group chat"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3610,7 +3610,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1AName"
+  mText: "Union Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3682,7 +3682,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u7BA1\u7406"
+  mText: "Member management"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3846,7 +3846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0\u6210\u5458"
+  mText: "Add members"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4120,7 +4120,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0\u6210\u5458"
+  mText: "Add members"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4571,7 +4571,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB \u52A0"
+  mText: "Add"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

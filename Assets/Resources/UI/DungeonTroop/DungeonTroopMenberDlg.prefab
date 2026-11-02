@@ -2160,7 +2160,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2320,7 +2320,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u7EBF"
+  mText: "online"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2511,7 +2511,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72B6\u6001"
+  mText: "Status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2633,7 +2633,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5934\u8854\u540D\u79F0"
+  mText: "Title name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3025,7 +3025,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3429,7 +3429,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u6D3B\u8DC3\u5EA6"
+  mText: "daily activity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3515,7 +3515,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3615,7 +3615,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4F4D"
+  mText: "Position"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4545,7 +4545,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u4F1A\u957F"
+  mText: "President President"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6843,7 +6843,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA1\u6838"
+  mText: "Review"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6949,7 +6949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u7ED1QQ\u7FA4"
+  mText: "Unbound QQ Group"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7166,7 +7166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7"
+  mText: "Lv."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7390,7 +7390,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u5956\u52B1"
+  mText: "Challenge rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7522,7 +7522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5956\u52B1"
+  mText: "Activity Reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7806,7 +7806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u964D\u4F4E\u5403\u996D\u901F\u5EA6 66%"
+  mText: "Reduce eating speed by 66%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8078,7 +8078,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A\u5FAE\u4FE1\u7FA4"
+  mText: "Bind WeChat group"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8229,7 +8229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u548C\u6218\u961F\u6210\u5458\u4E00\u8D77\u7EC4\u961F\u53EF\u4EE5\u83B7\u5F97\u7EC4\u961F\u72B6\u6001\u52A0\u6210"
+  mText: "Team up with team members to gain team status bonuses"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8727,7 +8727,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u957F\u7C73\u5DE5\u8D44\u5C31\u662F\u573A"
+  mText: "Captain Mi’s salary is just a matter of time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9079,7 +9079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9171,7 +9171,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u5206\u961F\u540D\u5B57\u540D\u5B57\u540D"
+  mText: "Team name name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9489,7 +9489,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u6218\u529B\uFF1A"
+  mText: "Total combat strength:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9595,7 +9595,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7"
+  mText: "next level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9792,7 +9792,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u957F\uFF1A"
+  mText: "Captain:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10164,7 +10164,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\uFF1A"
+  mText: "Level:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10959,7 +10959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u7EA7"
+  mText: "Level 1"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11031,7 +11031,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79BB\u5F00\u6218\u961F"
+  mText: "Leave the team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11103,7 +11103,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EBA"
+  mText: "people"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11175,7 +11175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6218\u961F\u7B49\u7EA7"
+  mText: "Current team level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11281,7 +11281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7"
+  mText: "Lv."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11467,7 +11467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u964D\u4F4E\u5403\u996D\u901F\u5EA6 66%"
+  mText: "Reduce eating speed by 66%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11604,7 +11604,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u52A0\u6210"
+  mText: "Team bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11828,7 +11828,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u5546\u5E97"
+  mText: "Team Store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11960,7 +11960,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u6563\u6218\u961F"
+  mText: "Disband the team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

@@ -1862,7 +1862,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u6218"
+  mText: "declare war"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1956,7 +1956,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5730\u7B49\u7EA7\uFF1A"
+  mText: "Territory level:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2024,7 +2024,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u6218\u6570\u91CF\uFF1A"
+  mText: "Number of war declarations:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2092,7 +2092,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u636E\u516C\u4F1A\uFF1A"
+  mText: "Occupying the guild:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2160,7 +2160,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5730\u540D\u79F0\uFF1A"
+  mText: "Territory name:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2566,7 +2566,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u7ED3\u76DF"
+  mText: "Apply for alliance"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2783,7 +2783,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3184,7 +3184,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165"
+  mText: "enter"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3479,7 +3479,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u6218\u5217\u8868"
+  mText: "List of declarations of war"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3559,7 +3559,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u6218\u5217\u8868"
+  mText: "List of declarations of war"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3897,7 +3897,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u76DF\u516C\u4F1A"
+  mText: "Allied guilds"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3977,7 +3977,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u76DF\u516C\u4F1A"
+  mText: "Allied guilds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4284,7 +4284,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u516C\u4F1A\u516C\u4F1A\u4F1A"
+  mText: "Dragon Nest Guild Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4444,7 +4444,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[c][ffdc00]\u795E\u5723\u5929\u5802[-][c]"
+  mText: "[c][ffdc00]Holy Heaven[-][c]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4524,7 +4524,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4843,7 +4843,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u7ED3\u76DF"
+  mText: "Apply for alliance"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

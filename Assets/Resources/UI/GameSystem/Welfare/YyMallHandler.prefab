@@ -1783,7 +1783,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6E90\u7C7B"
+  mText: "Resources"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2117,7 +2117,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7279\u6B8A\u7C7B"
+  mText: "Special class"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2323,7 +2323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39\u5237\u65B0"
+  mText: "Free Refresh"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2460,7 +2460,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u4E13\u5C5E"
+  mText: "Exclusive privileges"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3172,7 +3172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u5546\u54C1"
+  mText: "View product"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3573,7 +3573,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0"
+  mText: "Refresh"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -3885,7 +3885,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8D2D\u4E70"
+  mText: "Purchased"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3957,7 +3957,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0"
+  mText: "Refresh"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -4384,7 +4384,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u514D\u8D39\u5237\u65B0"
+  mText: "Extra free refresh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4590,7 +4590,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -5426,7 +5426,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u53EF\u90FD\u662F\u9AD8\u7EA7\u8D27\u6162\u6162\u6311\u9009\u54E6\uFF01"
+  mText: "Mine are all high-end goods, so choose slowly!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5638,7 +5638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u65E0\u5237\u65B0\u6B21\u6570"
+  mText: "No refresh times"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -6013,7 +6013,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u51CC\u66685\u70B9\u91CD\u7F6E\u5237\u65B0\u6B21\u6570"
+  mText: "Refresh times are reset at 5 a.m. every day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

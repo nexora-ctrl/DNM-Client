@@ -1648,7 +1648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E09 [fcd034]21:10-21:15[-] \u53EF\u53C2\u52A0"
+  mText: "Available every Wednesday [fcd034]21:10-21:15[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2114,7 +2114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2323,7 +2323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B80\u4ECB"
+  mText: "Introduction"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2455,7 +2455,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u5956\u52B1\u5C06\u901A\u8FC7\u90AE\u7BB1\u53D1\u9001\uFF09"
+  mText: "(Rewards will be sent via email)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2737,7 +2737,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u7A7A\u7ADE\u6280\u573A"
+  mText: "Sky Arena"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2915,7 +2915,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EBA\u8FDB\u5165"
+  mText: "Single person entry"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -3092,7 +3092,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -4880,7 +4880,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8[-]"
+  mText: "Reward Preview[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

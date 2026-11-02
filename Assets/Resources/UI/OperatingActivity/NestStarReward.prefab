@@ -1869,7 +1869,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EE\u874E\u5730\u72F1\u5956\u52B1"
+  mText: "Manticore Hell Rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1949,7 +1949,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60\u9001\u8D85\u5C4C\u79F0\u53F7"
+  mText: "Give a super dick title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2107,7 +2107,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2403,7 +2403,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u4E2A\u4EBA\u4EC5\u80FD\u6536\u5230\u4E00\u6B21\u5956\u52B1"
+  mText: "Each person can only receive the reward once"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

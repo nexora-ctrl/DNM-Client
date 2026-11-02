@@ -756,7 +756,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57\u957F\u5EA66\u4E2A\u5B57\u4EE5\u5185"
+  mText: "Team name must be within 6 characters in length"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -975,7 +975,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u521B\u5EFA\u6218\u961F\u540D\u79F0"
+  mText: "Click to create a team name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1043,7 +1043,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u6218\u961F"
+  mText: "Create Squad"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1225,7 +1225,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88"
+  mText: "Cancel"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1395,7 +1395,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E\u8BA4"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

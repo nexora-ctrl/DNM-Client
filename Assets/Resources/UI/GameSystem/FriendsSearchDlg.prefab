@@ -1913,7 +1913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0\u597D\u53CB"
+  mText: "Add Friend"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2096,7 +2096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u73A9\u5BB6\u540D\u5B57\u6216ID"
+  mText: "Click to enter player name or ID"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2401,7 +2401,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB \u52A0"
+  mText: "Add"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2533,7 +2533,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6362\u4E00\u6279\uFF083s\uFF09"
+  mText: "Change a batch (3s)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3223,7 +3223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u7EBF"
+  mText: "online"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3375,7 +3375,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u4E3A\u597D\u53CB"
+  mText: "Add as friend"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3553,7 +3553,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3639,7 +3639,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425Name"
+  mText: "Camp Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3725,7 +3725,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425"
+  mText: "camp"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3811,7 +3811,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1AName"
+  mText: "Guild Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3897,7 +3897,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4069,7 +4069,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4412,7 +4412,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Bethcod Bethcod Bethcod"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

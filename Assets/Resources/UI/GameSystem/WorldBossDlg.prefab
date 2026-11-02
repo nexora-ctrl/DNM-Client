@@ -4875,7 +4875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u4E3B\u57CE-\u5956\u52B1-\u7CFB\u7EDF\u5956\u52B1\u4E2D\u8FDB\u884C\u9886\u53D6"
+  mText: "Get it in the main city-rewards-system rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7097,7 +7097,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7169,7 +7169,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u8FDB\u5165"
+  mText: "Ranking entry"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7416,7 +7416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8374,7 +8374,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956"
+  mText: "Ranking Award"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8565,7 +8565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u53C2\u4E0E\u4EBA\u6570\u8D8A\u591A\uFF0C\u62CD\u5356\u7269\u54C1\u8D8A\u591A)"
+  mText: "(The more participants, the more items will be auctioned)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -8651,7 +8651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6765\u81EA\u661F\u661F\u7684\u5927\u7329\u7329"
+  mText: "Gorilla from the stars"
   mFontSize: 40
   mFontStyle: 0
   mAlignment: 1
@@ -8723,7 +8723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u653E\u65F6\u95F4"
+  mText: "Opening hours"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8941,7 +8941,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u884C"
+  mText: "Guild Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -9013,7 +9013,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u884C"
+  mText: "Guild Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -9277,7 +9277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u6392\u884C"
+  mText: "Personal Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -9349,7 +9349,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u6392\u884C"
+  mText: "Personal Ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -9823,7 +9823,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E16\u754CBOSS"
+  mText: "World Boss"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -10732,7 +10732,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA2\u9605\u63D0\u9192"
+  mText: "Subscribe to reminders"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10804,7 +10804,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u8D77\u6311\u6218"
+  mText: "Challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11463,7 +11463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F24\u5BB3"
+  mText: "damage"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11535,7 +11535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11847,7 +11847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11933,7 +11933,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5264\u4E07"
+  mText: "52.64 million"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -12288,7 +12288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12374,7 +12374,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12626,7 +12626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12712,7 +12712,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "52\u4E07"
+  mText: "520,000"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -12937,7 +12937,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3B\u8981\u6392\u884C\u5956\u52B1"
+  mText: "Main ranking rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13149,7 +13149,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8584\u846CBuff\u4E13\u4EAB"
+  mText: "Exclusive for Thin Burial Buff"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14128,7 +14128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -14844,7 +14844,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5DF2\u5F00\u542F \u4ECA\u65E5BOSS\u5DF2\u88AB\u51FB\u6740"
+  mText: "The event has started. The BOSS has been killed today."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -14916,7 +14916,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DDD\u79BB\u5F00\u542F\u8FD8\u6709"
+  mText: "Still far from opening"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15074,7 +15074,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88\u8BA2\u9605"
+  mText: "Unsubscribe"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

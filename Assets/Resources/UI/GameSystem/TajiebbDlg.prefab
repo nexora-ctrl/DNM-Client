@@ -759,7 +759,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u901A\u5173\u79D8\u8BC0\u8D76\u7D27\u5B66\u4E60\u4E00\u4E0B\u4E60\u4E00\u4E0B\u6253BOSS\u7684\u65B0\u6280\u5DE7\u5427\uFF01"
+  mText: "The secret to clearing levels quickly. Hurry up and learn new techniques for defeating BOSS!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -859,7 +859,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u3010\u6D77\u9F99-\u9ED1\u5C71\u6D1E\u7A9F\u9ED1\u5C71\u6D1E\u7A9F\u3011"
+  mText: "[Hailong-Heishan Cave Heishan Cave]"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1377,7 +1377,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u653B\u7565"
+  mText: "Check Guide"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1588,7 +1588,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "91\u592923\u5C0F\u65F6"
+  mText: "91 days and 23 hours"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

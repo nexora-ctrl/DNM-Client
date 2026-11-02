@@ -320,7 +320,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u5149\u53EF\u4EE5\u901D\uFF0C\u521D\u5FC3\u6C38\u4E0D\u706D\uFF0C\u9F99\u4E4B\u8C37\u624B\u6E38\u611F\u8C22\u5E7F\u5927\u8C37\u8FF7\u4EEC\u7684\u53C2\u52A0\u548C\u4F53\u9A8C\r\n\u53C2\u4E0E\u7EC8\u6781\u6D4B\u8BD5\u7684\u73A9\u5BB6\uFF0C\u521B\u5EFA\u89D2\u8272\u5E76\u8FDE\u7EED\u767B\u5F55\u6EE18\u5929\n\r\u5373\u53EF\u5728\u6E38\u620F\u6B63\u5F0F\u4E0A\u7EBF\u65F6\u9886\u53D6\u7EDD\u7248\u79F0\u53F7\u201C\u5F00\u8C37\u5143\u52CB\u201D"
+  mText: "Time can pass, but the original intention will never die. Dragon Nest Mobile Game thanks all the Valley fans for their participation and experience.\nPlayers who participate in the ultimate test, create a character and log in for 8 consecutive days\nYou can receive the out-of-print title \"Old Founder\" when the game is officially launched."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

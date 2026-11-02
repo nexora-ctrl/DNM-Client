@@ -2068,7 +2068,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u65B9\u6B63\u5728\u9009\u62E9\u5361\u724C"
+  mText: "The opponent is selecting a card"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -2403,7 +2403,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3027,7 +3027,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u4E00\u5F20\u8981\u4EA4\u6362\u7684\u5361\u724C"
+  mText: "Select a Card to Trade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -3109,7 +3109,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E\u8BA4\u4EA4\u6362"
+  mText: "Confirm Trading"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4072,7 +4072,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4314,7 +4314,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5361\u724C\u4EA4\u6362"
+  mText: "card exchange"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6884,7 +6884,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6309\u4F4F\u8BF4\u8BDD"
+  mText: "Hold to speak"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7250,7 +7250,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u6587\u5B57"
+  mText: "Enter text"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

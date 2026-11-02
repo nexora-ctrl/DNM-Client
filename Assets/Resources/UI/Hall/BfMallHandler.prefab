@@ -1882,7 +1882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2123,7 +2123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u51CC\u66685\u70B9\u91CD\u7F6E"
+  mText: "Resets daily at 5:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2564,7 +2564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u795E\u79D8\u5546\u5E97\u5C06\u57287\u592912\u5C0F\u65F643\u5206\u540E\u5173\u95ED"
+  mText: "The Mystery Shop will close in 7 days, 12 hours and 43 minutes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3109,7 +3109,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39\u5237\u65B0"
+  mText: "Free Refresh"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

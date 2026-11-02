@@ -2083,7 +2083,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u65AF\u8FBE\u65AF\u963F\u65AF\u8FBE\u7684"
+  mText: "Asdas Asda's"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2227,7 +2227,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u70B9"
+  mText: "winning points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2327,7 +2327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2399,7 +2399,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2757,7 +2757,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD15\u573A"
+  mText: "Last 5 games"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3477,7 +3477,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD15\u573A"
+  mText: "Last 5 games"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3835,7 +3835,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3907,7 +3907,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4007,7 +4007,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u70B9"
+  mText: "winning points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4211,7 +4211,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u65AF\u8FBE\u65AF\u963F\u65AF\u8FBE\u7684"
+  mText: "Asdas Asda's"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

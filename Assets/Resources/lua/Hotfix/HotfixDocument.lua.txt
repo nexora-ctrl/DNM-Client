@@ -1,4 +1,4 @@
-﻿--
+--
 --  HotfixDocument.lua
 --  Created by huailiang.peng on 2016/10/25 12:18:23
 --

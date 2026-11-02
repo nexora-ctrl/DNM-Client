@@ -3129,7 +3129,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE2\u7A74\u5956\u52B1"
+  mText: "lair reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3215,7 +3215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u7231\u7684\u5192\u9669\u5BB6\u5FEB\u6765\u9886\u53D6\u5236\u4F5C\u88C5\u5907\u5427\u3002\u8BF7\u4E00\u5B9A\u8981\u6253\u8D25\u5DE2\u7A74\u602A\u7269\u5B88\u62A4\u963F\u5C14\u7279\u91CC\u4E9A\u5927\u9646\u54E6\uFF01"
+  mText: "Dear adventurers, come and get the crafting equipment. Please be sure to defeat the lair monsters and protect the Altria continent!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3426,7 +3426,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4069,7 +4069,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4666,7 +4666,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u522B\u9988\u8D60"
+  mText: "special gift"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4752,7 +4752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u522B\u9988\u8D60"
+  mText: "special gift"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5019,7 +5019,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u798F\u5229"
+  mText: "Daily benefits"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5105,7 +5105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u798F\u5229"
+  mText: "Daily benefits"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5452,7 +5452,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9886\u53D6\u5012\u8BA1\u65F6\uFF1A02\u592924\u5C0F\u65F600\u5206"
+  mText: "Countdown to reward collection: 02 days, 24 hours and 00 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -5846,7 +5846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u4E00\u6B21\u5DE2\u7A74\u526F\u672C\u901A\u5173\u526F\u672C\u901A\u5173\u526F\u672C"
+  mText: "Clear the lair dungeon once. Clear the dungeon. Clear the dungeon."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

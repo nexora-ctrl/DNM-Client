@@ -1445,7 +1445,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB4\u4F1A\u5F00\u542F\u540E\uFF0C\u5C06\u4F1A\u548C\u5BB6\u56ED\u4E2D\u53CB\u597D\u5EA6\u6700\u9AD8\u76843\u4EBA\u4E00\u8D77\u4EAB\u53D7\u7F8E\u9152\u4F73\u80B4"
+  mText: "After the banquet starts, you will enjoy fine wine and delicious food with the three most friendly people in your home."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1990,7 +1990,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB4\u4F1A\u63CF\u8FF0"
+  mText: "Banquet description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2070,7 +2070,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F\u7528\u795E\u5723\u4F7F"
+  mText: "use holy use holy use holy use holy use holy use holy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2342,7 +2342,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u795E\u5957\u9910"
+  mText: "Goddess package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2410,7 +2410,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB4\u4F1A\u5956\u52B1"
+  mText: "Banquet rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2478,7 +2478,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BB4\u4F1A\u5FC5\u987B\u5728\u60A8\u7684\u5BB6\u56ED\u4E2D\u81F3\u5C11\u67094\u4EBA\u65F6\u624D\u4F1A\u5F00\u542F"
+  mText: "The party can only be started when there are at least 4 people in your home"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2546,7 +2546,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u795E\u793C\u5305"
+  mText: "Goddess Gift Pack"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2638,7 +2638,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " (\u6BCF\u5468\u6700\u591A\u9886\u53D64\u6B21\uFF09"
+  mText: "(Can be collected up to 4 times per week)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2706,7 +2706,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7\u597D\u53CB"
+  mText: "Invite friends"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2786,7 +2786,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3E\u529E\u5973\u795E\u5957\u9910\u5BB4\u4F1A"
+  mText: "Host a Goddess Package Banquet"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2911,7 +2911,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3E\u529E\u5BB4\u4F1A"
+  mText: "hold a banquet"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3039,7 +3039,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u9700\u98DF\u6750"
+  mText: "Required ingredients"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3478,7 +3478,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u795E\u5957\u9910"
+  mText: "Goddess package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

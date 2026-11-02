@@ -2607,7 +2607,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u7EA7\u5F00\u542F"
+  mText: "Open at level 23"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3004,7 +3004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u9886\u53D6"
+  mText: "Available for collection"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3076,7 +3076,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A\u8FBE\u523012\u573A\u6216\u8D25\u573A\u8FBE\u52303\u573A\uFF0C\u8D5B\u671F\u7ED3\u675F\uFF0C\u91CD\u65B0\u5F00\u59CB"
+  mText: "When the number of wins reaches 12 or the number of losses reaches 3, the season ends and starts again."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3819,7 +3819,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D25\u573A"
+  mText: "Losses"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3891,7 +3891,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC"
+  mText: "Win"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3963,7 +3963,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u9AD8\u5956\u52B1"
+  mText: "highest reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4095,7 +4095,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62A5\u540D"
+  mText: "Register"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4329,7 +4329,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

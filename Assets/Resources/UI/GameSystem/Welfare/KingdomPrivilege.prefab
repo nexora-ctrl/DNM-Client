@@ -875,7 +875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u738B\u56FD\u7279\u6743"
+  mText: "kingdom privileges"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C100\u9F99\u5E01"
+  mText: "Worth 100 dragon coins"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1542,7 +1542,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BAB\u5EF7\u8D35\u65CF(30\u5929)"
+  mText: "Court Nobility (30 days)"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1699,7 +1699,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u]\u7279\u6743\u8BE6\u60C5[/u]"
+  mText: "[u]Privilege details[/u]"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1771,7 +1771,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u8D2D\u6B21\u6570+100%\n\u514D\u8D39\u590D\u6D3B\u6B21\u6570+1\n\u514D\u8D39\u590D\u6D3B\u6B21\u6570+1\n\u514D\u8D39\u590D\u6D3B\u6B21\u6570+1\n......"
+  mText: "Purchase limit +100%\nFree resurrection times +1\nFree resurrection times +1\nFree resurrection times +1\n..."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1857,7 +1857,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u5269\u4F59\u5929\u65701\u5929"
+  mText: "Privilege remaining days: 1 day"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2048,7 +2048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u5143\u52A0\u5165\u5BAB\u5EF7"
+  mText: "Join the palace for 10 yuan"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

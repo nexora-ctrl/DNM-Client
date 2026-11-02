@@ -1452,7 +1452,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B22\u4E50\u8425\u5730"
+  mText: "happy camp"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2097,7 +2097,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u4E11\u6251\u514B"
+  mText: "Joker Poker"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2951,7 +2951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A3\u7EA7\u5F00\u542F"
+  mText: "Guild level 3 opens"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3083,7 +3083,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u6D3E\u5BF9"
+  mText: "Start the party"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3365,7 +3365,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0\u6D3E\u5BF9"
+  mText: "attend a party"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3509,7 +3509,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9519\u8FC7\u5F00\u542F\u65F6\u95F4"
+  mText: "Missed Activation Time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3581,7 +3581,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540E\u5F00\u542F"
+  mText: "open later"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3974,7 +3974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9519\u8FC7\u5F00\u542F\u65F6\u95F4\n\u5C1A\u672A\u5F00\u542F"
+  mText: "Missed start time\nNot yet opened"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -3153,7 +3153,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5982\u679C\u6240\u6709\u5546\u54C1\u88AB\u4E00\u53E3\u4EF7\u4E70\u4E0B\uFF0C\u5206\u7EA2\u5C06\u7A0D\u540E\u90AE\u4EF6\u53D1\u653E\uFF0C\u8BF7\u8010\u5FC3\u7B49\u5F85"
+  mText: "If all the items are purchased at a fixed price, the dividends will be distributed via email later, please wait patiently."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4463,7 +4463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0"
+  mText: "Prop name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4845,7 +4845,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E16\u754C\u62CD\u5356\u7ED3\u679C"
+  mText: "W. Auction Result"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5052,7 +5052,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u64C2\u53F0\u8D5B"
+  mText: "Guild Arena"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5377,7 +5377,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u540D"
+  mText: "Activity name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5449,7 +5449,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u4EA4\u65F6\u95F4"
+  mText: "Transaction time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5549,7 +5549,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0"
+  mText: "Prop name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5695,7 +5695,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u670820\u65E520:20"
+  mText: "December 20, 20:20"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5781,7 +5781,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9AD8\u54C1\u8D28\u739B\u7459"
+  mText: "High quality agate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6150,7 +6150,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u4EF7"
+  mText: "Bid"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6308,7 +6308,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u5546\u54C1\u54E6\uFF01"
+  mText: "There are currently no products!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6380,7 +6380,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u53E3\u4EF7"
+  mText: "Buy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6662,7 +6662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E16\u754C\u62CD\u5356\u7ED3\u679C"
+  mText: "W. Auction Result"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6734,7 +6734,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u53E3\u4EF7"
+  mText: "Buy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6834,7 +6834,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u7ADE\u4EF7"
+  mText: "current bid"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6906,7 +6906,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u65F6\u95F4"
+  mText: "remaining time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7006,7 +7006,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u4EA4\u7ED3\u679C"
+  mText: "Transaction results"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7152,7 +7152,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7331,7 +7331,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7673,7 +7673,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7759,7 +7759,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8430,7 +8430,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7531\u4E8E\u60A8\u6CA1\u6709\u53C2\u4E0E\u6D3B\u52A8\uFF0C\u60A8\u6CA1\u6709\u83B7\u5F97\u62CD\u5356\u91D1\u5206\u7EA2\u7684\u8D44\u683C"
+  mText: "You are not qualified to receive Auction Bonuses since you did not participate in the event."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -8775,7 +8775,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "55\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "55 props props props"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9357,7 +9357,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u8BA1\u62CD\u5356\u7ED3\u675F\u80FD\u591F\u83B7\u5F97\u5206\u7EA2"
+  mText: "It is expected that dividends will be obtained at the end of the auction"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

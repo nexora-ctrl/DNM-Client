@@ -8499,7 +8499,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "52\u7EA7"
+  mText: "Level 52"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8804,7 +8804,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5149\u653B"
+  mText: "light attack"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8876,7 +8876,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u5236\u4F5C\u4E2D\u2026\u2026"
+  mText: "In progress..."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -8962,7 +8962,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5236\u4F5C\u7EB9\u7AE0\u6D88\u8017"
+  mText: "Cost of making a coat of arms"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9214,7 +9214,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10340,7 +10340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10472,7 +10472,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10558,7 +10558,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11159,7 +11159,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11325,7 +11325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5236\u4F5C"
+  mText: "Craft"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11397,7 +11397,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "52\u7EA7"
+  mText: "Level 52"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11576,7 +11576,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u88C5\u5907\u804C\u4E1A"
+  mText: "Choose equipment occupation"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12594,7 +12594,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12916,7 +12916,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u526F\u6B66\u5668"
+  mText: "Support Weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13357,7 +13357,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1"
+  mText: "Items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13522,7 +13522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u53D6\u91D1\u5C5E\u677F"
+  mText: "get metal plate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13674,7 +13674,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u5236\u4F5C"
+  mText: "Item creation"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -13746,7 +13746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u5236\u4F5C"
+  mText: "Equipment production"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14045,7 +14045,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -14511,7 +14511,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F13\u7BAD\u624B"
+  mText: "Archer"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14597,7 +14597,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u5E08"
+  mText: "mage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14683,7 +14683,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14769,7 +14769,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u786E\u5B9A\u8981\u8FDB\u884C\u5236\u4F5C\u5417\uFF1F\n\u5236\u4F5C\u65F6\u5C06\u4F1A\u6D88\u8017\u76F8\u5173\u7684\u6750\u6599\u548C\u91D1\u5E01"
+  mText: "Are you sure you want to make it?\nRelevant materials and gold coins will be consumed during production."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -15001,7 +15001,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u6750\u6599"
+  mText: "Need materials"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15520,7 +15520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u5957"
+  mText: "Gloves"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15606,7 +15606,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F69\u6234\u7B49\u7EA7"
+  mText: "Wearing level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15678,7 +15678,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\u9700\u6C42"
+  mText: "Career needs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15978,7 +15978,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16229,7 +16229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u7B49\u7EA7"
+  mText: "Equipment level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17061,7 +17061,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "30\u7EA7"
+  mText: "Level 30"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17735,7 +17735,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -18126,7 +18126,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5236\u4F5C"
+  mText: "Craft"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19099,7 +19099,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u529B\u91CF+\uFF0810 - 20\uFF09\n\u529B\u91CF+\uFF0810.0% - 20.0%\uFF09"
+  mText: "Strength + (10 - 20)\nStrength+(10.0% - 20.0%)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -20144,7 +20144,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u5728\u53F3\u4FA7\u5305\u88F9\u4E2D\u9009\u62E9\u4E00\u4E2A\u91D1\u5C5E\u677F\u5236\u4F5C\u7EB9\u7AE0"
+  mText: "Select a Plate from the Inventory on the right to create an Heraldry."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -20919,7 +20919,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E26\u54C1\u8D28\u989C\u8272\u7684\u7EB9\u7AE0\u540D Lv.1"
+  mText: "Heraldic name with quality color Lv.1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -21005,7 +21005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21151,7 +21151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21237,7 +21237,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F13\u7BAD\u624B"
+  mText: "Archer"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21323,7 +21323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21409,7 +21409,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -21615,7 +21615,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u5236\u4F5C"
+  mText: "Equipment production"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23716,7 +23716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC5\u663E\u793A\u5F53\u524D\u9002\u7528"
+  mText: "Show only currently applicable"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -25704,7 +25704,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5149\u653B"
+  mText: "light attack"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -31608,7 +31608,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -32288,7 +32288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u5E08"
+  mText: "mage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -33158,7 +33158,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5236\u4F5C"
+  mText: "Craft"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -33759,7 +33759,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u88C5\u5907\u804C\u4E1A"
+  mText: "Choose equipment occupation"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -33945,7 +33945,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -34738,7 +34738,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC5\u663E\u793A\u5F53\u524D\u9002\u7528"
+  mText: "Show only currently applicable"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -35747,7 +35747,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -36043,7 +36043,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u7684\u624B\u5957"
+  mText: "Akali's gloves"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -36957,7 +36957,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -37744,7 +37744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u6750\u6599"
+  mText: "Need materials"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38053,7 +38053,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38125,7 +38125,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F13\u7BAD\u624B"
+  mText: "Archer"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -38675,7 +38675,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -38875,7 +38875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1"
+  mText: "Items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38947,7 +38947,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u526F\u6B66\u5668"
+  mText: "Support Weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -39731,7 +39731,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -39816,7 +39816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

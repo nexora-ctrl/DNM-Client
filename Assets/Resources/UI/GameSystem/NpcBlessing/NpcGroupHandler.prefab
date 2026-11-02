@@ -1723,7 +1723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u7EA7\u52A0\u6210"
+  mText: "Next level bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2027,7 +2027,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u5723\u7269\u8FBE\u523080\u7EA7"
+  mText: "All holy objects have reached level 80"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2634,7 +2634,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u6FC0\u6D3B"
+  mText: "Inactive"
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 2
@@ -3370,7 +3370,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B"
+  mText: "Activate"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3489,7 +3489,7 @@ MonoBehaviour:
   fontSuffix:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u5320\u6548\u679C"
+  mText: "Tianjiang effect"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3572,7 +3572,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u6761\u4EF6"
+  mText: "Activation conditions"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4093,7 +4093,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9EC4\u91D1\u9E45\u7684\u4E30\u6536"
+  mText: "Harvest of the Golden Goose"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4545,7 +4545,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u5320\u7B49\u7EA7"
+  mText: "Heavenly craftsman level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4710,7 +4710,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

@@ -256,7 +256,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72C2\u98CE"
+  mText: "strong wind"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 2
@@ -324,7 +324,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53CC\u500D\u79EF\u5206"
+  mText: "Double points"
   mFontSize: 32
   mFontStyle: 0
   mAlignment: 2

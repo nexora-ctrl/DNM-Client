@@ -2946,7 +2946,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[ef2717]\u5373\u5C06\u590D\u6D3B\u5373\u5C06\u590D\u6D3B"
+  mText: "[ef2717]Is about to be resurrectedI am about to be resurrected"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3028,7 +3028,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[21b2ff]\u5373\u5C06\u590D\u6D3B\u5373\u5C06"
+  mText: "[21b2ff]Resurrection is coming soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -3573,7 +3573,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u62A5"
+  mText: "battle report"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

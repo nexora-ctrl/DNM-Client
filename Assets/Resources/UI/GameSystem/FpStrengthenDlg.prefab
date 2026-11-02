@@ -2528,7 +2528,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u63A8\u8350\u6218\u529B:"
+  mText: "Recommended combat power:"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 3
@@ -3519,7 +3519,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u51FA\u795E\u5165\u5316"
+  mText: "Superb"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3591,7 +3591,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6807\u9898\u6807\u9898\u6807\u9898\u6807\u9898"
+  mText: "title title title title"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3691,7 +3691,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u7B7E\u5230\u5956\u52B1\u7269\u54C1\u6BCF\u65E5\u7B7E\u5230\u6BCF\u65E5\u7B7E"
+  mText: "Daily sign-in reward itemsDaily sign-inDaily sign-in"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3843,7 +3843,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4937,7 +4937,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u53D8\u5F3A"
+  mText: "I want to become stronger"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5023,7 +5023,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u53D8\u5F3A"
+  mText: "I want to become stronger"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5123,7 +5123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u6218\u529B:"
+  mText: "My combat power:"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 3
@@ -5467,7 +5467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u7EA7"
+  mText: "Rating"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 3
@@ -6115,7 +6115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53D8\u5F3A"
+  mText: "become stronger"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

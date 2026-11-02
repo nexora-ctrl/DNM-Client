@@ -2128,7 +2128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u53EC\u552410\u6B21\u5FC5\u5B9A\u83B7\u5F97A\u7EA7\u7CBE\u7075"
+  mText: "Every time you summon 10 times, you will get an A-level elf."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3364,7 +3364,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3873,7 +3873,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C \u6210"
+  mText: "Complete"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4381,7 +4381,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EC\u5524\u4E00\u6B21"
+  mText: "Summon once"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4578,7 +4578,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EC\u5524\u5341\u6B21"
+  mText: "Summon ten times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5121,7 +5121,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u89C8"
+  mText: "Preview"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5378,7 +5378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A00\u6709\u7684\u7CBE\u7075\u86CB"
+  mText: "Rare elf eggs"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 1
@@ -5524,7 +5524,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EC\u5524\u5341\u6B21"
+  mText: "Summon ten times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6093,7 +6093,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EC\u5524\u4E00\u6B21"
+  mText: "Summon once"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6450,7 +6450,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u89C8"
+  mText: "Preview"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6707,7 +6707,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73CD\u8D35\u7684\u7CBE\u7075\u86CB"
+  mText: "precious elf egg"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 1

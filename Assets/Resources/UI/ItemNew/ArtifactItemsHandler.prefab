@@ -1876,7 +1876,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u7EA7\u9F99\u5668"
+  mText: "Level 20 Dragon Weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2172,7 +2172,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u7EA7\u9F99\u5668"
+  mText: "Level 20 Dragon Weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

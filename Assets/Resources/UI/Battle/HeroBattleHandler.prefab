@@ -2261,7 +2261,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3663,7 +3663,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u5012\u8BA1\u65F6"
+  mText: "Revive Countdown"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4418,7 +4418,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u9886\u4E2D..."
+  mText: "Occupying..."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4960,7 +4960,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u65F6\u4E2D..."
+  mText: "During overtime..."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7317,7 +7317,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96C6\u5408"
+  mText: "collection"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7467,7 +7467,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u968F\u7740\u65F6\u95F4\uFF0C\u6BCF\u4E2A\u73A9\u5BB6\u90FD\u5C06\u83B7\u5F97\u4E0A\u53E4\u529B\u91CF\uFF0C\u636E\u70B9\u8303\u56F4\u5185\uFF0C\u88AB\u653B\u51FB\u65F6\u4E0A\u53E4\u529B\u91CF\u83B7\u5F97\u91CF\u4F1A\u589E\u52A0\uFF0C\u5F53\u4E0A\u53E4\u529B\u91CF\u4E3A100%\u65F6\uFF0C\u53EF\u53D1\u52A8\u4E0A\u53E4\u6280\u80FD\u3002\n[fc4545]\u653B\u51FB\u7C7B\u4E0A\u53E4\u6280\u80FD[-]\uFF1A\u77ED\u65F6\u95F4\u5185\uFF0C\u5927\u5E45\u63D0\u5347\u81EA\u5DF1\u7684\u653B\n[45a4fc]\u9632\u5FA1\u529B\u4E0A\u53E4\u6280\u80FD[-]\uFF1A\u77ED\u65F6\u95F4\u5185\uFF0C\u63D0\u5347\u81EA\u8EAB\u7684\u514D\u4F24\uFF0C\u5E76\u83B7\u5F97\u51CF\u5C11\u6280\u80FD\u51B7\u5374\u65F6\u95F4\u7684\u6548\u679C\n[56fc45]\u79FB\u52A8\u4E0A\u53E4\u6280\u80FD[-]\uFF1A\u77ED\u65F6\u95F4\u5185\u5927\u5E45\u589E\u52A0\u81EA\u8EAB\u7684\u79FB\u52A8\u901F\u5EA6\u548C\u653B\u51FB\u901F\u5EA6"
+  mText: "Over time, each player will gain ancient power. Within the stronghold range, the amount of ancient power obtained when attacked will increase. When the ancient power reaches 100%, ancient skills can be activated.\n[fc4545] Attack ancient skills [-]: In a short period of time, your attack power will be greatly improved.\n[45a4fc] Defense Ancient Skill [-]: For a short period of time, increase your own damage immunity and gain the effect of reducing the skill cooldown.\n[56fc45] Mobile ancient skill [-]: greatly increase one's own movement speed and attack speed in a short period of time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9533,7 +9533,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u95F4\u8DDD\u95F4\u8DDD\u95F4\u8DDD\u95F4\u8DDD"
+  mText: "spacing spacing spacing spacing"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9875,7 +9875,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u66F4\u6362\u82F1\u96C4"
+  mText: "Change hero"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10166,7 +10166,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u6377\u4FE1\u53F7\u5FEB\u6377\u4FE1\u53F7"
+  mText: "quick signal quick signal"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

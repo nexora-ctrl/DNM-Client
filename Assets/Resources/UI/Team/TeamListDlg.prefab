@@ -2630,7 +2630,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u5DF2\u521B\u5EFA\u7684\u961F\u4F0D"
+  mText: "No team has been created yet"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2776,7 +2776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5173\u5361"
+  mText: "Activity level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2942,7 +2942,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8001\u738B\u8001\u738B\u8001\u738B\u8001\u7684\u5C0F"
+  mText: "Lao Wang, Lao Wang, Lao Wang, Lao Xiao"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3114,7 +3114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "36\u7EA7"
+  mText: "Level 36"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3200,7 +3200,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8001\u738B\u8001\u738B\u8001\u738B\u8001\u738B\u7684\u5C0F\u961F"
+  mText: "Laowang Laowang Laowang Laowang’s team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3553,7 +3553,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u52A0\u5165"
+  mText: "Apply to join"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4020,7 +4020,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u6807\u5173\u5361"
+  mText: "target level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4211,7 +4211,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4402,7 +4402,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EBA\u6570"
+  mText: "Count"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4593,7 +4593,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u7B49\u7EA7"
+  mText: "Enter level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4784,7 +4784,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u540D"
+  mText: "Team name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4930,7 +4930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5357,7 +5357,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u5217\u8868"
+  mText: "Team List"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5743,7 +5743,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u9700\u6C42"
+  mText: "Combat power requirements"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6169,7 +6169,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F"
+  mText: "Received Aljeta's blessing. Received Aljeta's blessing. Received Aljeta's blessing."
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -6301,7 +6301,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F"
+  mText: "Received Aljeta's blessing. Received Aljeta's blessing. Received Aljeta's blessing."
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1

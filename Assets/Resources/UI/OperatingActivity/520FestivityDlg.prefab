@@ -399,7 +399,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A\u6D3B\u52A8\u65F6\u95F4\uFF1A\u6D3B\u52A8\u65F6\u95F4\uFF1A\u6D3B"
+  mText: "Activity time: Activity time: Activity time: Activity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3188,7 +3188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u670D\u604B\u7231\u503C"
+  mText: "Full server love value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3325,7 +3325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u604B\u7231\u503C"
+  mText: "love value"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3417,7 +3417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D21 \u732E"
+  mText: "Contribution"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3709,7 +3709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D21 \u732E"
+  mText: "Contribution"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4208,7 +4208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4394,7 +4394,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4894,7 +4894,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6147,7 +6147,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1[-]"
+  mText: "Reward[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6660,7 +6660,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6806,7 +6806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7598,7 +7598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

@@ -2289,7 +2289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39"
+  mText: "Free"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3047,7 +3047,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DDD\u79BB\u4E0B\u6B21\u514D\u8D39 00:00:00"
+  mText: "Free until next time 00:00:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3304,7 +3304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E70\u5341\u4E2A"
+  mText: "buy ten"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3376,7 +3376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u8D2D\u4E701\u4E2A\u5C06\u8D60\u90011\u4E2A[ffdc00]\u7A00\u6709[-]\u7684\u7CBE\u7075\u86CB\u54E6"
+  mText: "For every purchase, you will receive a [ffdc00] rare [-] elf egg."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4644,7 +4644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DDD\u79BB\u4E0B\u6B21\u514D\u8D39 00:00:00"
+  mText: "Free until next time 00:00:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5034,7 +5034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u57CE\u56DE\u9988\u6D3B\u52A8\u8D60\u9001"
+  mText: "Mall feedback event gifts"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5241,7 +5241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u8D2D\u4E701\u4E2A\u5C06\u8D60\u90011\u4E2A[cfff0d]\u73CD\u8D35[-]\u7684\u7CBE\u7075\u86CB\u54E6"
+  mText: "For every purchase, you will get 1 [cfff0d] precious [-] elf egg as a gift."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -5373,7 +5373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E70\u4E00\u4E2A"
+  mText: "buy one"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5577,7 +5577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E70\u4E00\u4E2A"
+  mText: "buy one"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5801,7 +5801,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6149,7 +6149,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39"
+  mText: "Free"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6932,7 +6932,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E70\u5341\u4E2A"
+  mText: "buy ten"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

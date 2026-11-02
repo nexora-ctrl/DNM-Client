@@ -495,7 +495,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u597D\uFF0C\u52C7\u58EB\uFF0C\u6211\u662F\u5192\u9669\u5BB6\u5411\u5BFC\u827E\u7433\u3002\u9B54\u7269\u7ED1\u67B6\u4E86\u4F20\u8BF4\u4E2D\u7684\u5148\u77E5\uFF0C\u6211\u4EEC\u5FEB\u53BB\u6551\u56DE\u5148\u77E5\u5427\uFF01"
+  mText: "Hello, warrior, I am Erin, the adventurer guide. The monster kidnapped the legendary prophet, let's go and rescue the prophet!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

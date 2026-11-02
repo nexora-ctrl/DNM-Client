@@ -1898,7 +1898,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2565,7 +2565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u65F6\u95F4"
+  mText: "Time Cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3890,7 +3890,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u7269\u54C1"
+  mText: "Get items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4180,7 +4180,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "8\u79D2\u540E\u81EA\u52A8\u518D\u6B21\u6311\u6218"
+  mText: "Automatically challenge again after 8 seconds"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -4509,7 +4509,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u6B21\u6311\u6218"
+  mText: "challenge again"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

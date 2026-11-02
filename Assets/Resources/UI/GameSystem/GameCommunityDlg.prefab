@@ -2532,7 +2532,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FC3\u60A6\u7279\u6743"
+  mText: "Happy privilege"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2962,7 +2962,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA2\u670D"
+  mText: "customer service"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3242,7 +3242,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B98\u7F51"
+  mText: "Official website"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3672,7 +3672,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8C03\u67E5\u95EE\u5377"
+  mText: "Questionnaire"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4027,7 +4027,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7535\u89C6\u53F0"
+  mText: "TV station"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4307,7 +4307,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBA\u575B"
+  mText: "Forum"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4662,7 +4662,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5174\u8DA3\u90E8\u843D"
+  mText: "Interest tribe"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5017,7 +5017,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u793E\u533A"
+  mText: "micro community"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6372,7 +6372,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62A2\u798F\u5229"
+  mText: "Grab benefits"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6802,7 +6802,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F17\u53F7"
+  mText: "Official account"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7082,7 +7082,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "V\u7279\u6743"
+  mText: "V privilege"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7512,7 +7512,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u5C0F\u60A6"
+  mText: "Game Xiaoyue"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8179,7 +8179,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u64AD"
+  mText: "Start broadcasting"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8734,7 +8734,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u793C\u5305\u4E2D\u5FC3"
+  mText: "Gift Pack Center"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

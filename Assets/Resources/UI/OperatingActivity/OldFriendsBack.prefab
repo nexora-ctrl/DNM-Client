@@ -623,7 +623,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u4E2A\u597D\u53CB"
+  mText: "3 friends"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -709,7 +709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u4E2A\u597D\u53CB"
+  mText: "3 friends"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -795,7 +795,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6\u5956\u52B1"
+  mText: "Acquire Reward"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1286,7 +1286,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u8BE6\u60C5"
+  mText: "View details"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

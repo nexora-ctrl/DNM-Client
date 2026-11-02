@@ -3294,7 +3294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u7F8E\u627E\u56DE"
+  mText: "Perfectly retrieved"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3440,7 +3440,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u7F8E\u627E\u56DE"
+  mText: "Perfectly retrieved"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4535,7 +4535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u627E\u56DE"
+  mText: "retrieve"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4772,7 +4772,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8FBE\u5230\u6700\u5927\u4F53\u529B\uFF0C\u9700\u8981\u6D88\u8017\u4F53\u529B\u624D\u80FD\u7EE7\u7EED\u627E\u56DE\u54E6\uFF01"
+  mText: "The maximum physical strength has been reached. You need to consume physical strength to continue to recover!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -5500,7 +5500,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8D39"
+  mText: "consumption"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5632,7 +5632,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u53EF\u627E\u56DE\u7684\u5956\u52B1\u54E6!"
+  mText: "There are currently no rewards to retrieve!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6341,7 +6341,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D \u8D39"
+  mText: "Free"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -6487,7 +6487,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6628\u65E5\u5348\u9910\u672A\u9886\u53D6\u5177\u4F53\u5185\u5BB9\u8BF7\u53C2\u8003\n\u6628\u65E5\u5348\u9910\u672A\u9886\u53D6\u5177\u4F53\u5185\u5BB9\u8BF7\u53C2\u8003"
+  mText: "Yesterday’s lunch was not picked up, please refer to the details.\nYesterday’s lunch was not picked up, please refer to the details."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6573,7 +6573,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u5348\u9910"
+  mText: "Daily lunch"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -7645,7 +7645,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u53EF\u627E\u56DE25\u70B9"
+  mText: "You can get 25 points back this time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -7731,7 +7731,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u4E2A\u9053\u5177\u53EF\u4EE5\u62B5\u62635\u9F99\u5E01"
+  mText: "Each prop can be deducted 5 dragon coins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7803,7 +7803,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5E01\u627E\u56DE"
+  mText: "Dragon Coin Retrieval"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7949,7 +7949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8140,7 +8140,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8381,7 +8381,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u627E\u56DE"
+  mText: "Normal retrieval"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8467,7 +8467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u627E\u56DE"
+  mText: "Normal retrieval"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8673,7 +8673,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6EA2\u51FA\u7ECF\u9A8C\u627E\u56DE\u6E05\u96F6"
+  mText: "Overflow experience retrieval and clearing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

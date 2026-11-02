@@ -1389,7 +1389,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u7B49\u7EA7"
+  mText: "Req. Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1806,7 +1806,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u8BF4\u660E"
+  mText: "Prop description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1895,7 +1895,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\u9700\u6C42"
+  mText: "Career needs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2048,7 +2048,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u5957\u88C5\u5C5E\u6027"
+  mText: "Show package properties"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2227,7 +2227,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E"
+  mText: "A lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2307,7 +2307,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u7528"
+  mText: "General"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2387,7 +2387,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u4EE5\u4E0A"
+  mText: "20 and above"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2563,7 +2563,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2631,7 +2631,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6750\u6599"
+  mText: "Material"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2699,7 +2699,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u65F6\u9650"
+  mText: "fashion time limit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2846,7 +2846,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u79D2\uFF08\u9996\u6B21\u6625\u5E26\u5F00\u59CB\u5012\u8BA1\u65F6\uFF09"
+  mText: "20 seconds (countdown to first spring belt begins)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3358,7 +3358,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u540D\u5B57\u9884\u7559\u516B\u5B57+10"
+  mText: "Equipment Name +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

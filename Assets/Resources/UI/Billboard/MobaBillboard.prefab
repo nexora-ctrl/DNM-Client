@@ -1476,7 +1476,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[53d103]\r\u8840\u8272[0aabd0]\u8840\u6761\u8272[e8280c]\u8840\u6761\u8272"
+  mText: "[53d103]Blood color [0aabd0] blood bar color [e8280c] blood bar color"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2

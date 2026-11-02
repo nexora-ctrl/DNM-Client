@@ -2194,7 +2194,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u4EF6\u6548\u679C"
+  mText: "2 effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2518,7 +2518,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u6548\u679C"
+  mText: "Set effect"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2693,7 +2693,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u540D\u5B57"
+  mText: "Set name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3096,7 +3096,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5668\u6548\u679C\uFF08\u968F\u673A\u83B7\u5F971\u4E2A\u6280\u80FD\u6548\u679C\uFF09"
+  mText: "Dragon weapon effect (randomly obtain 1 skill effect)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3178,7 +3178,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u4EF6\u6548\u679C\n2\u4EF6\u6548\u679C\n2\u4EF6\u6548\u679C"
+  mText: "2 effects\n2 effects\n2 effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5255,7 +5255,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56FE\u518C\u9884\u89C8"
+  mText: "Album preview"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5741,7 +5741,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "60\u7EA7\u9F99\u5668"
+  mText: "Level 60 Dragon Weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5891,7 +5891,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "60\u7EA7\u9F99\u5668"
+  mText: "Level 60 Dragon Weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6584,7 +6584,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6666,7 +6666,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

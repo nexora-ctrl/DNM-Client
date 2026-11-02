@@ -352,7 +352,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E8C\u86CB;\u72D7\u5269;\u54B8\u9C7C\r\n\u5C0F\u767D;\u90ED\u7487"
+  mText: "Erdan; leftover dog; salted fish\nXiaobai;Guo Xuan"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

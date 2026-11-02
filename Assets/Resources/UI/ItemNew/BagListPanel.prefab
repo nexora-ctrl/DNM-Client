@@ -2410,7 +2410,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2496,7 +2496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8"
+  mText: "All"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2824,7 +2824,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80CC \u5305"
+  mText: "Bag"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

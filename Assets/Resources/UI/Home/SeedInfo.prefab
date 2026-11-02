@@ -1808,7 +1808,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86"
+  mText: "Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -1900,7 +1900,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86"
+  mText: "Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2025,7 +2025,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F5C\u7269\u7684\u540D\u79F0\u82F9\u679C\u6811"
+  mText: "crop name apple tree"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2105,7 +2105,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u57F9\u517B\u51B7\u5374\u4E2D1hour20min"
+  mText: "Culture and cooling for 1 hour and 20 minutes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2185,7 +2185,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F593\u5C0F\u65F630\u5206"
+  mText: "3 hours and 30 minutes remaining"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -2265,7 +2265,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u683D\u57F9\u4E2D"
+  mText: "Under cultivation"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2345,7 +2345,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u524D\u72B6\u6001"
+  mText: "current status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u8BA1\u4EA7\u91CF"
+  mText: "expected output"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2641,7 +2641,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u957F\u7387"
+  mText: "growth rate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2709,7 +2709,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u9700\u8981\u57F9\u517B\uFF09"
+  mText: "(requires training)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2942,7 +2942,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u57F9\u517B\u8BB0\u5F55"
+  mText: "Culture records"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3022,7 +3022,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86\u89D2\u8272\u540D\u7ED9\u4F60\u6D47\u6C34\u4E86"
+  mText: "Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You Character Name: I've Watered You"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3346,7 +3346,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA7\u7269\u9884\u89C8"
+  mText: "Product preview"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3625,7 +3625,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536 \u83B7"
+  mText: "Bounty"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3872,7 +3872,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65BD\u80A5"
+  mText: "fertilize"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4119,7 +4119,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9664\u866B"
+  mText: "Pest removal"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4366,7 +4366,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D47\u6C34"
+  mText: "watering"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4556,7 +4556,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62FF\u4E00\u70B9"
+  mText: "take some"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4746,7 +4746,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88\u79CD\u690D"
+  mText: "Cancel planting"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

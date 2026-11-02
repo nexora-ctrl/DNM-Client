@@ -534,7 +534,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u59BB\u5B50\u738B\u5973\u58EB\u8BF4\uFF0C\u81EA\u5DF1\u4F4F\u5728\u9633\u5149100\u5C0F\u533A\u9644\u8FD1\uFF0C35\u5C81\u7684\u8001\u516C\u6240\u5F00\u7684\u516C\u53F8\u7ECF\u8425\u4E0D\u5584\uFF0C\u6B20\u4E0B\u5DE8\u989D\u503A\u52A1"
+  mText: "His wife, Ms. Wang, said that she lives near the Sunshine 100 Community. The company run by her 35-year-old husband is not operating well and owes huge debts."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -604,7 +604,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "36\u7EA7\u5F00\u542F"
+  mText: "Open at level 36"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -969,7 +969,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6C11\u79F0\u6C11\u79F0"
+  mText: "People's name People's name"
   mFontSize: 36
   mFontStyle: 0
   mAlignment: 0

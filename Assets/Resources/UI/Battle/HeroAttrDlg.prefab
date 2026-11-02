@@ -2059,7 +2059,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u8BF4\u660E"
+  mText: "How to play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2211,7 +2211,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u8BE6\u60C5"
+  mText: "Skill details"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2333,7 +2333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7"
+  mText: "Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2405,7 +2405,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u8BE6\u60C5"
+  mText: "Property details"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2477,7 +2477,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B54\u6CD5\u6D88\u8017\uFF1A"
+  mText: "Mana consumption:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2549,7 +2549,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027"
+  mText: "Properties"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2983,7 +2983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81F4\u547D\u4E00\u51FB\u62B5\u6297\uFF1A"
+  mText: "Critical hit resistance:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3189,7 +3189,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u5C0F\u6280\u5DE7"
+  mText: "Hero Tips"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3462,7 +3462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u540D\u5B57\u82F1\u96C4\u540D\u5B57"
+  mText: "hero name hero name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -4323,7 +4323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80FD\u91CF\u7206\u70B8\u80FD\u91CF\u7206\u70B8"
+  mText: "energy explosion energy explosion"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4545,7 +4545,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u5C5E\u6027"
+  mText: "Hero attributes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4617,7 +4617,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\n\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\n\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\n\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\n\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\u82F1\u96C4\u5C0F\u6280\u5DE7\n\u5C0F\u6280"
+  mText: "Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips\nTips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips\nTips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips\nTips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips\nTips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips Hero Tips\nLittle tricks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5007,7 +5007,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]\u80FD\u91CF\u7206\u70B8\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]\u80FD\u91CF\u7206\u70B8\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB"
+  mText: "Quickly launch [cfff0d] 3[-] attacks forward. Quickly launch [cfff0d]3[-] attacks forward. Launch [cfff0d] energy explosion quickly. Launch [cfff0d]3[-] attacks forward quickly. Quickly launch [cfff0d]3[-] attacks forward. Launch [cfff0d] energy explosion quickly. Launch [cfff0d]3[-] attacks forward quickly. Launch [cfff0d]3[-] attacks quickly forward."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5367,7 +5367,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51B7\u5374\u65F6\u95F4\uFF1A"
+  mText: "Cooling time:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -5690,7 +5690,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u5C5E\u6027"
+  mText: "Hero attributes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5867,7 +5867,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u8BE6\u60C5"
+  mText: "Skill details"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5959,7 +5959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u8BF4\u660E"
+  mText: "How to play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

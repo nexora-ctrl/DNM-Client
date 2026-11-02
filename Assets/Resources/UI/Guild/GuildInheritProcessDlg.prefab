@@ -332,7 +332,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F20\u627F\u4E2D..."
+  mText: "Inherited..."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -653,7 +653,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E29\u99A8\u63D0\u793A:\u5176\u4ED6\u64CD\u4F5C\u4F1A\u4E2D\u65AD\u4F20\u529F"
+  mText: "Warm reminder: Other operations will interrupt the transfer of power"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

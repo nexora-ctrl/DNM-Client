@@ -1178,7 +1178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u5373\u5C06\u8FDB\u5165\u4E00\u4E2A\u53F2\u8BD7\u96BE\u5EA6\u7684\u5E7B\u5883\uFF0C\u6BCF\u4E00\u6B21\u6B7B\u4EA1\u5C06\u51CF\u5C1130\u79D2\u901A\u5173\u65F6\u95F4"
+  mText: "You are about to enter a fantasy world of epic difficulty. Each death will reduce the clearance time by 30 seconds."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -1494,7 +1494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5173\u5361\u540D\u5B57\u5173\u5361\u540D\u5B57\u5173"
+  mText: "level name level name level"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1688,7 +1688,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[0cff00]\u516C\u4F1A\u6210\u5458[-]\u7EC4\u961F\u53EF\u83B7\u5F97[0cff00]\u516C\u4F1A\u8D21\u732E[-]\u53CA\u6982\u7387[0cff00]\u9F99\u5E01,[-][0cff00]\u597D\u53CB\u7EC4\u961F[-]\u53EF\u5F97\u5230\u793C\u7269\uFF0C\u6982\u7387\u83B7\u5F97[0cff00]\u9F99\u5E01[-]"
+  mText: "[0cff00] Guild members [-] can get [0cff00] guild contribution [-] and probability [0cff00] Dragon Coins when they form a team, [-] [0cff00] Friends can get gifts when they form a team [-] and have a probability of [0cff00] Dragon Coins [-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2414,7 +2414,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u7684\u8BA2\u5355\u63D0\u4EA4\u6210\u529F"
+  mText: "Your order was submitted successfully"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2880,7 +2880,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u59CB\u6218\u6597"
+  mText: "Start Battle"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2966,7 +2966,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9093\u80AF\u83B1\u745E\u62C9\u83B1\u745E\u62C9"
+  mText: "Duncan Lereira Lereira"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3416,7 +3416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9093\u80AF\u83B1\u745E\u62C9"
+  mText: "Duncan Lereira"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3744,7 +3744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C \u610F"
+  mText: "Accept"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4026,7 +4026,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2 \u7EDD"
+  mText: "Reject"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5195,7 +5195,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u53C2\u4E0E\u6218\u6597\u5339\u914D\u540E\u5C06\u65E0\u6CD5\u9000\u51FA\u76F4\u5230\u8D5B\u5B63\u7ED3\u675F\uFF0C\u786E\u8BA4\u540C\u610F\u4E0E\u4EE5\u4E0A\u961F\u5458\u7EC4\u5EFA\u6218\u961F\u5417?"
+  mText: "Squads participating in Battle Matching will not be able to withdraw until the end of the season. Confirm team composition and create Squad?"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2

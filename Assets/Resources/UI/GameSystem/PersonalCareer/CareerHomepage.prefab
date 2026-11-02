@@ -2207,7 +2207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70AB\u8000\u4E00\u4E0B"
+  mText: "show off"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2279,7 +2279,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u90E8\u5206\u4EAB"
+  mText: "External sharing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3247,7 +3247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDE\u7EED\u767B\u5F55\u5929\u6570"
+  mText: "Number of consecutive login days"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3319,7 +3319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u8FBE\u523040\u7EA7\u7B56\u5212\u914D\u7F6E\u5B572222222222222222222222222222222222222222222222223"
+  mText: "The level reaches level 40. Planning configuration word 2222222222222222222222222222222222222222222222223"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3531,7 +3531,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "45\u5929"
+  mText: "45 days"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3737,7 +3737,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3882,7 +3882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u6E38\u620F\u65F6\u957F"
+  mText: "Total game time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -4573,7 +4573,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u70B9\u6EF4\u6EF4\u70B9\u70B9\u6EF4\u6EF4"
+  mText: "bit by bit bit by bit bit by bit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4645,7 +4645,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4789,7 +4789,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u5E08\u6CD5"
+  mText: "mage method"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4861,7 +4861,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u4FE1\u670D\u52A1\u5668 [\u6D4B\u8BD5223\u533A] "
+  mText: "WeChat Server [Test Area 223]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4947,7 +4947,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5019,7 +5019,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u9F99\u4E4B\u8C37"
+  mText: "Dragon Nest Dragon Nest"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5163,7 +5163,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5415,7 +5415,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u5BA3\u8A00\uFF1A"
+  mText: "Personal declaration:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5487,7 +5487,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "99999\u5C0F\u65F6"
+  mText: "99999 hours"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -5833,7 +5833,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u53EF\u81EA\u4E3B\u586B\u5199\u73A9\u5BB6\u4E2A\u4EBA\u4FE1\u606F\u5E76\u7528\u4E8E\u5C55\u793A"
+  mText: "Players can fill in their personal information and use it for display"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

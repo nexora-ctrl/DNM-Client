@@ -804,7 +804,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u9886\u4E2D\u65AD"
+  mText: "Occupation Interrupted"
   mFontSize: 48
   mFontStyle: 0
   mAlignment: 0
@@ -872,7 +872,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u9886\u6210\u529F"
+  mText: "Occupation Successful"
   mFontSize: 48
   mFontStyle: 0
   mAlignment: 0
@@ -997,7 +997,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u5360\u9886\u4E2D..."
+  mText: "Occupying now..."
   mFontSize: 32
   mFontStyle: 0
   mAlignment: 0

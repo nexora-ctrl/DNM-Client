@@ -1727,7 +1727,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u52293\u573A"
+  mText: "3 wins"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1799,7 +1799,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5931\u8D253\u573A"
+  mText: "Failed 3 games"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1871,7 +1871,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5931\u8D253\u573A"
+  mText: "Failed 3 games"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1943,7 +1943,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u52293\u573A"
+  mText: "3 wins"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -2035,7 +2035,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u4EFB\u610F\u5904\u9000\u51FA"
+  mText: "Click anywhere to exit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2255,7 +2255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2579,7 +2579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u540D\u540D\u540D\u540D\u540D"
+  mText: "Guild Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

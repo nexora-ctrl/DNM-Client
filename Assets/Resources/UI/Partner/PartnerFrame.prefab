@@ -4096,7 +4096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u5BA3\u8A93"
+  mText: "Go to take the oath"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4463,7 +4463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u603B\u53CB\u597D\u5EA6"
+  mText: "Overall friendliness of comrades"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5170,7 +5170,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u5546\u5E97"
+  mText: "Comrade Store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5427,7 +5427,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88\u89E3\u9664"
+  mText: "Cancel Termination"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5607,7 +5607,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u9664\u6218\u53CB\u5173\u7CFB"
+  mText: "Terminate comradeship"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5934,7 +5934,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -6006,7 +6006,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -6493,7 +6493,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5o\u8D2D\u4E70\u53EF\u4EE5h \u5927\u6CFD"
+  mText: "Daily purchases can be made in Daze"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6766,7 +6766,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u5546\u5E97"
+  mText: "Comrade Store"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7000,7 +7000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709{0}\u5C0F\u65F6{1}\u5206\u949F\u6B63\u5F0F\u89E3\u9664\u6218\u53CB\u5173\u7CFB"
+  mText: "There are {0} hours and {1} minutes left to officially terminate the comradeship relationship."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7177,7 +7177,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u670B\u53CB\u53EF\u4EE5\u6CA1\u6709\uFF0C\u4F46\u57FA\u53CB\u4E0D\u80FD\u6CA1\u6709--\u76D6\u4F26\n\u5973\u670B\u53CB\u53EF\u4EE5\u6CA1\u6709\uFF0C\u4F46\u57FA\u53CB\u4E0D\u80FD\u6CA1\u6709--\u76D6\u4F26\u5973\u670B\u53CB\u53EF\u4EE5\u6CA1\u6709\uFF0C\u4F46\u57FA\u53CB\u4E0D\u80FD\u6CA1\u6709--\u76D6\u4F26"
+  mText: "You can live without a girlfriend, but you can’t live without a gay friend - Galen\nYou can live without a girlfriend, but you can't live without a gay friend - Galen You can live without a girlfriend, but you can't live without a gay friend - Galen"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -8189,7 +8189,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u670B000000000000000000000000000000000000"
+  mText: "Girlfriend000000000000000000000000000000000000"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8563,7 +8563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8735,7 +8735,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u52A0\u6210"
+  mText: "Comrade bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8893,7 +8893,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9051,7 +9051,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9209,7 +9209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9547,7 +9547,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7\u597D\u53CB\u7EC4\u961F\r\n\u6FC0\u6D3B\u53CB\u60C5\u52A0\u6210"
+  mText: "Invite friends to form a team\nActivate friendship bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10195,7 +10195,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7"
+  mText: "next level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10267,7 +10267,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10425,7 +10425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53CB\u597D\u5EA6\u603B\u503C"
+  mText: "total friendliness"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10583,7 +10583,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u52A0\u6210"
+  mText: "get bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10887,7 +10887,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u52A0\u6210"
+  mText: "Comrade bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -10959,7 +10959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11117,7 +11117,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u603B\u53CB\u597D\u5EA6"
+  mText: "Overall friendliness of comrades"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11275,7 +11275,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u52A0\u6210"
+  mText: "get bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11579,7 +11579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB\u52A0\u6210"
+  mText: "Friend bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11651,7 +11651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11809,7 +11809,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53CB\u597D\u5EA6\u603B\u503C"
+  mText: "total friendliness"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11967,7 +11967,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u52A0\u6210"
+  mText: "get bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12245,7 +12245,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u662F\u7531\u7B56\u5212\u914D\u7684"
+  mText: "This is arranged by the planner"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -12417,7 +12417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12589,7 +12589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u52A0\u6210"
+  mText: "Comrade bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12747,7 +12747,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7EA7[-]"
+  mText: "[b]level[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -13164,7 +13164,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u754C\u9762"
+  mText: "Comrade interface"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13264,7 +13264,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u6D3B\u8DC3\u5EA6"
+  mText: "Comrade activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13546,7 +13546,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u53CB\u7EC4\u961F"
+  mText: "Comrades team up"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -13632,7 +13632,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u9664\u5173\u7CFB\u4E2D"
+  mText: "Terminating the relationship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13762,7 +13762,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

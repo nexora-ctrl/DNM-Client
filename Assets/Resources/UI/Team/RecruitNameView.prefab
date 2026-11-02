@@ -601,7 +601,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u591A\u53EF\u4EE5\u8F93\u5165\u516B\u4E2A\u5B57"
+  mText: "You can enter up to eight characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED9\u961F\u4F0D\u8D77\u4E2A\u540D\u5B57\u5427"
+  mText: "Give the team a name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

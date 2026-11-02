@@ -1,4 +1,4 @@
-﻿
+
 -- require "LuaJadeGroupTableTable.lua"
 -- require "LuaJadeSealTableTable.lua"
 require "LuaJadeEquipDataModel.lua"

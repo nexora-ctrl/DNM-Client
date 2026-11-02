@@ -875,7 +875,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u6307\u4E0A\u6ED1\uFF0C\u53D6\u6D88\u53D1\u9001"
+  mText: "Swipe up to cancel sending"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

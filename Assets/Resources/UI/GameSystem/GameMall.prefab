@@ -9859,7 +9859,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u539F"
+  mText: "restore"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10025,7 +10025,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5145\u503C"
+  mText: "Recharge"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10244,7 +10244,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D41\u91CF\u5305[-]"
+  mText: "Traffic package[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -10316,7 +10316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA2\u670D[-]"
+  mText: "Customer Service[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -10567,7 +10567,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9002\u5EA6\u5A31\u4E50  \u7406\u6027\u6D88\u8D39"
+  mText: "Moderate entertainment and rational consumption"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11329,7 +11329,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u5C5E\u6027\u52A0\u6210"
+  mText: "Charm attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11647,7 +11647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11733,7 +11733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u9B45\u529B\u5C5E\u6027\u52A0\u6210"
+  mText: "Currently no charm attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11971,7 +11971,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u4EF6\u6548\u679C"
+  mText: "2 effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12137,7 +12137,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5C5E\u6027\u52A0\u6210"
+  mText: "Costume Attribute Bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -12289,7 +12289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u65F6\u88C5\u5C5E\u6027\u52A0\u6210"
+  mText: "There is currently no fashion attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12361,7 +12361,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u5957\u88C5\u6548\u679C\u52A0\u6210"
+  mText: "There is currently no set effect bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12599,7 +12599,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12685,7 +12685,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u6548\u679C\u52A0\u6210"
+  mText: "Set effect bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -12851,7 +12851,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u65F6\u88C5\u5C5E\u6027\u52A0\u6210 "
+  mText: "There is currently no fashion attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13223,7 +13223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u793C\u7269\u76D2"
+  mText: "gift box"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13715,7 +13715,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E00\u65E9\u4E0A5\u70B9\u5237\u65B0"
+  mText: "Refresh at Mon. 0500"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -13801,7 +13801,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0\u540D\u79F0\u540D\u79F0\u540D\u79F0"
+  mText: "name name name name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14355,7 +14355,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5750\u9A91"
+  mText: "Mount"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14441,7 +14441,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5750\u9A91"
+  mText: "Mount"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14806,7 +14806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u793C\u5305"
+  mText: "Package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14892,7 +14892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u793C\u5305"
+  mText: "Package"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15311,7 +15311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u622A\u6B622017-05-05 22\u65F6"
+  mText: "The event ends at 22:00 on May 05, 2017"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -15517,7 +15517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u8BF4\u660E"
+  mText: "Prop description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15743,7 +15743,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D \u4E70"
+  mText: "Buy"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -16070,7 +16070,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "Vip\u7279\u6743"
+  mText: "VIP privileges"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -16404,7 +16404,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u5145\u503C60\u5143\u5373\u53EF\u5347\u7EA7"
+  mText: "Recharge 60 yuan to upgrade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -16670,7 +16670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7279\u6743 1"
+  mText: "[b]Privilege 1"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -16816,7 +16816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u7279\u6743 0"
+  mText: "[b]Privilege 0"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -17286,7 +17286,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "7\u5929\u5468\u5361"
+  mText: "7 days weekly card"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -18174,7 +18174,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "V0\u7279\u6743"
+  mText: "V0 privileges"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -18320,7 +18320,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37"
+  mText: "Dragon Nest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -18598,7 +18598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u793C\u5305"
+  mText: "Privilege gift pack"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -18821,7 +18821,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF4\u660E\u5185\u5BB9"
+  mText: "Description content"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -19413,7 +19413,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -19499,7 +19499,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u5546\u54C1\u54E6\uFF01"
+  mText: "There are currently no products!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20348,7 +20348,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027"
+  mText: "Properties"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20420,7 +20420,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u6B21\u6570100\u6B21"
+  mText: "Purchased 100 times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -20784,7 +20784,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4EF7"
+  mText: "Total Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21016,7 +21016,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6570\u91CF"
+  mText: "Amount"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -21280,7 +21280,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u5546\u57CE"
+  mText: "Diamond Market"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22022,7 +22022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22108,7 +22108,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22274,7 +22274,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546 \u57CE"
+  mText: "Shop"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -23247,7 +23247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u8D2D\u4E70+100%"
+  mText: "Privilege purchase +100%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -23444,7 +23444,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D \u4E70"
+  mText: "Buy"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -23516,7 +23516,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60 \u9001"
+  mText: "Gift"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -24728,7 +24728,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u9053\u5177\u540D\u79F0"
+  mText: "prop name prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -25227,7 +25227,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u552E\u5B8C"
+  mText: "Sold out"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -26271,7 +26271,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u6D88\u8017\u54C1"
+  mText: "Consumables"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -26357,7 +26357,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u6D88\u8017\u54C1"
+  mText: "Consumables"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -26894,7 +26894,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u9053\u5177\u540D\u79F0"
+  mText: "prop name prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -27393,7 +27393,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u552E\u5B8C"
+  mText: "Sold out"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -28311,7 +28311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -28756,7 +28756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5"
+  mText: "Costume"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28842,7 +28842,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5"
+  mText: "Costume"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29102,7 +29102,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7389"
+  mText: "Dragon Jade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29188,7 +29188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7389"
+  mText: "Dragon Jade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29782,7 +29782,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29868,7 +29868,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -30188,7 +30188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u9650\u8D2D"
+  mText: "Weekly purchase limit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -30274,7 +30274,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u9650\u8D2D"
+  mText: "Weekly purchase limit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -31063,7 +31063,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8363\u8A89\u5546\u5E97"
+  mText: "Glory Shop"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

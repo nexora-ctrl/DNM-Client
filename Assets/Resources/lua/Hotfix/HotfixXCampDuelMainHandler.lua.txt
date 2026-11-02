@@ -1,4 +1,4 @@
-﻿require "XCampDuel_pb.lua"
+require "XCampDuel_pb.lua"
 
 XCampDuelMainHandler={}
 local this = XCampDuelMainHandler
@@ -115,7 +115,7 @@ function XCampDuelMainHandler._OnChestClick(go)
 	end
 	
 	local tip
-	tip="内含"
+	tip="Contains"
 	local cnt=m_ChestData.Reward.count
 	print("cnt:"..cnt)
 	for i=0, cnt-1 do
@@ -124,7 +124,7 @@ function XCampDuelMainHandler._OnChestClick(go)
 		local item=Hotfix.CallDocumentStaticMethod("XBagDocument", true, "GetItemConf",itemid)
 		local itemName=item.ItemName[0]
 		print(tostring(itemName))
-		tip=tip..itemCount.."个"..itemName
+		tip=tip..itemCount..""..itemName
 		if i ~= cnt-1 then
 			tip=tip.."，"
 		end

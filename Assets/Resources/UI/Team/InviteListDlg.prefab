@@ -2792,7 +2792,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7\u8FDB\u5165"
+  mText: "Invite to enter"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3211,7 +3211,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u4E0D\u63A5\u53D7"
+  mText: "Not accepted yet"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3402,7 +3402,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "6\u5206\u949F\u524D"
+  mText: "6 minutes ago"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3560,7 +3560,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u9080\u8BF7"
+  mText: "No invitation yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3857,7 +3857,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB"
+  mText: "Friends"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4600,7 +4600,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u95F4"
+  mText: "Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5003,7 +5003,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u5FFD\u7565"
+  mText: "Ignore all"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5089,7 +5089,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57"
+  mText: "name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5280,7 +5280,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5471,7 +5471,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EBA\u6570"
+  mText: "Count"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5662,7 +5662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5173\u5361"
+  mText: "Stage"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6686,7 +6686,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516B\u4E2A\u5B57\u516B\u4E2A\u5B57\u516B\u4E2A"
+  mText: "eight characters eight characters eight"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7007,7 +7007,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0 \u5165"
+  mText: "Join"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7093,7 +7093,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A"
+  mText: "Ahhhhhhhhhhhhhhhhhhh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7239,7 +7239,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F"
+  mText: "Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8126,7 +8126,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u5206\u949F\u5185\u5C4F\u853D\u9080\u8BF7"
+  mText: "Block invitations within 10 minutes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

@@ -15,12 +15,12 @@ function XDragonGuildMainHandler.AfterHandlerShow(go)
 	return false
 end
 function XDragonGuildMainHandler.OnClick(...)
-	Hotfix.LuaMessageBoxConfirm("是否退出",this.ReqLeave,this.OnCancel)
+	Hotfix.LuaMessageBoxConfirm("Confirm exit?",this.ReqLeave,this.OnCancel)
 	local modal = Hotfix.GetSingleMember("UI.ModalDlg","uiBehaviour",true,false,false)
 	local oklable = modal.gameObject.transform:Find("Bg/OK/Label"):GetComponent("UILabel")
 	local canlable = modal.gameObject.transform:Find("Bg/Cancel/Label"):GetComponent("UILabel")
-	oklable.text = "确定"
-	canlable.text = "取消"
+	oklable.text = "Confirm"
+	canlable.text = "Cancel"
 	return true
 end
 function XDragonGuildMainHandler.ReqLeave()

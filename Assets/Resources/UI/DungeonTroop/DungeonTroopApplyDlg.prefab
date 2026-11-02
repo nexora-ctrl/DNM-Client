@@ -1260,7 +1260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u5BA1\u6279"
+  mText: "Approval required"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1568,7 +1568,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B22\u8FCE\u52A0\u5165\u9F99\u672C\u6218\u961F\uFF0C\u4E00\u8D77\u6311\u6218\u9F99\u672C\uFF0C\u83B7\u5F97\u4E30\u539A\u5956\u52B1\uFF01"
+  mText: "Welcome to join the Longben team, challenge Longben together, and get generous rewards!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1640,7 +1640,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5426"
+  mText: "No"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2400,7 +2400,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533 \u8BF7"
+  mText: "Apply"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2486,7 +2486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u5165\u516C\u4F1A"
+  mText: "Invite"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2558,7 +2558,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u516C\u4F1A"
+  mText: "Enter the guild"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3134,7 +3134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB\u52DF\u6761\u4EF6"
+  mText: "Recruitment conditions"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3393,7 +3393,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u8981\u6C42"
+  mText: "Combat strength requirements"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

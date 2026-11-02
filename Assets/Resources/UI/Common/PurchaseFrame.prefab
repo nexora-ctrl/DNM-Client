@@ -1565,7 +1565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709"
+  mText: "own"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -1742,7 +1742,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4EF6"
+  mText: "pieces"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1814,7 +1814,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u786E\u8BA4\u8D2D\u4E70"
+  mText: "Confirm Purchase"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2245,7 +2245,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D \u4E70"
+  mText: "Buy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2947,7 +2947,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EF\u8D2D"
+  mText: "Available for purchase"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -3652,7 +3652,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "(\u672C\u5468\u8FD8\u80FD\u8D2D\u4E7050\u4EF6)"
+  mText: "(50 more can be purchased this week)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3724,7 +3724,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177"
+  mText: "Props"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -3796,7 +3796,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4EF6"
+  mText: "pieces"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

@@ -2618,7 +2618,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -2784,7 +2784,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "npc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01\nnpc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01"
+  mText: "NPC, what do you want from me?\nNPC, what do you want from me?"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3215,7 +3215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u5904\u7406\u5E08\u5F92\u5173\u7CFB"
+  mText: "Handling Mentorship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3552,7 +3552,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2D\u6587n\u4E2D\u6587"
+  mText: "Chinese n Chinese"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3638,7 +3638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3914,7 +3914,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5 \u53D7"
+  mText: "Accept"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4074,7 +4074,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4408,7 +4408,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4494,7 +4494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4566,7 +4566,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4982,7 +4982,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5248,7 +5248,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5400,7 +5400,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[\u5B8C\u6210\u4EFB\u52A1]\u60A8\u5C06\u83B7\u5F97"
+  mText: "[Complete the task] You will get"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -7178,7 +7178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u5904\u7406\u5E08\u5F92\u5173\u7CFB"
+  mText: "Handling Mentorship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8710,7 +8710,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8796,7 +8796,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "npc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01\nnpc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01"
+  mText: "NPC, what do you want from me?\nNPC, what do you want from me?"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8868,7 +8868,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "npc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01\nnpc\u8BF7\u95EE\u4F60\u627E\u6211\u4EC0\u4E48\u4E8B\uFF01"
+  mText: "NPC, what do you want from me?\nNPC, what do you want from me?"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8940,7 +8940,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9084,7 +9084,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u6362"
+  mText: "Trade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9350,7 +9350,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60\u9001"
+  mText: "Gift"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9542,7 +9542,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u5904\u7406\u5E08\u5F92\u5173\u7CFB"
+  mText: "Handling Mentorship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9694,7 +9694,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6"
+  mText: "Rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10128,7 +10128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5\u53D7"
+  mText: "Accept"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10504,7 +10504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u5904\u7406\u5E08\u5F92\u5173\u7CFB"
+  mText: "Handling Mentorship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10696,7 +10696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6"
+  mText: "Rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10848,7 +10848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u89E3\u9664"
+  mText: "Unlocking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

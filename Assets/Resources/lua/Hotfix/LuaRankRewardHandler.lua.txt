@@ -1,4 +1,4 @@
-﻿require "LuaRankRewardDocument.lua"
+require "LuaRankRewardDocument.lua"
 LuaRankRewardHandler={}
 local this = LuaRankRewardHandler
 

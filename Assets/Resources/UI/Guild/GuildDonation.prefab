@@ -1978,7 +1978,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2064,7 +2064,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709"
+  mText: "own"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2730,7 +2730,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u8D60"
+  mText: "Donate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3344,7 +3344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C \u6210"
+  mText: "Complete"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3883,7 +3883,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4360,7 +4360,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7A9D\u91CC\u7684\u4E00\u6839\u8349\u836F"
+  mText: "Dragon Herb"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -4598,7 +4598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u6350\u8D60"
+  mText: "No donations yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4845,7 +4845,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u6392\u540D"
+  mText: "Today's ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4931,7 +4931,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u6392\u540D"
+  mText: "Today's ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5178,7 +5178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u6392\u540D"
+  mText: "Historical ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5264,7 +5264,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u6392\u540D"
+  mText: "Historical ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5455,7 +5455,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u8D60"
+  mText: "Donate"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -8746,7 +8746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6750\u6536\u96C6"
+  mText: "Material collection"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8877,7 +8877,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u5956\u52B1"
+  mText: "personal rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9435,7 +9435,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5956\u52B1"
+  mText: "Guild Challenge"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9969,7 +9969,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u6350\u732E\u8BB0\u5F55"
+  mText: "No donation record yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10075,7 +10075,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10147,7 +10147,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u8D60"
+  mText: "Donate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10433,7 +10433,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7F34\u7EB3"
+  mText: "pay"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10645,7 +10645,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60AC\u8D4F\u6350\u8D60"
+  mText: "Reward donation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10871,7 +10871,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -11228,7 +11228,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u8D60\u6392\u884C"
+  mText: "Donation ranking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11313,7 +11313,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6XXXXXX \u6350\u732E\u4E86\u7CBE\u81F4\u7684\u4E1D\u7EF8x6"
+  mText: "Player XXXXXX donated exquisite silk x6"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11974,7 +11974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12494,7 +12494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u6350\u8D60"
+  mText: "daily donation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12735,7 +12735,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u5B8C\u6210"
+  mText: "Completed"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12807,7 +12807,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u6750\u6536\u96C6"
+  mText: "Material collection"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13134,7 +13134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60AC\u8D4F\u6350\u8D60"
+  mText: "Reward donation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13233,7 +13233,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u732E\u8BB0\u5F55"
+  mText: "Donation record"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -13849,7 +13849,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6350\u732E\u8BB0\u5F55"
+  mText: "Donation record"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -14123,7 +14123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u5E38\u6350\u8D60"
+  mText: "daily donation"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -14232,7 +14232,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u4E0D\u53D7\u516C\u4F1A\u4E0A\u9650\u5F71\u54CD"
+  mText: "Rewards are not affected by the guild limit"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15376,7 +15376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u8D44\u6750\u6536\u96C6\u6B21\u6570"
+  mText: "Material collection times this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

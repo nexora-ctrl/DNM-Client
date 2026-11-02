@@ -1480,7 +1480,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u53D1\u9001\u7EA2\u5305"
+  mText: "Send red envelope"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1657,7 +1657,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1729,7 +1729,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305\u540D\u79F0\u7EA2\u5305\u540D\u79F0\u540D\u79F0"
+  mText: "red envelope name red envelope name name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2636,7 +2636,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u53EF\u53D1\u9001\u7684\u7EA2\u5305\u54E6"
+  mText: "There are currently no red envelopes to send."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3067,7 +3067,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6765\u81EA"
+  mText: "from"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3139,7 +3139,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305"
+  mText: "Red envelope"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3271,7 +3271,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305\u6C60"
+  mText: "red envelope pool"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3343,7 +3343,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91D1\u989D"
+  mText: "Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

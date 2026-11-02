@@ -2689,7 +2689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3223,7 +3223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u4E0A\u9650\u516B\u5B57\n\u73A9\u5BB6\u540D\u5B57\n\u73A9\u5BB6\n\u73A9\u5BB6\u540D\u5B57\u4E0A\u9650"
+  mText: "The maximum number of characters for a player's name\nplayer name\nplayer\nPlayer name limit"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3488,7 +3488,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u9A91\u4E0A\u5750\u9A91\u9A70\u9A8B\u5427\uFF01\u5927\u5BB6\u4E92\u5E2E\u4E92\u52A9\uFF0C\u4EE5\u6700\u540E\u4E00\u4E2A\u5230\u8FBE\u7EC8\u70B9\u7684\u73A9\u5BB6\u7684\u65F6\u95F4\u4E3A\u6700\u7EC8\u6210\u7EE9\uFF0C\u6240\u7528\u65F6\u95F4\u8D8A\u77ED\u6210\u7EE9\u8D8A\u597D\u6240\u7528\u65F6\u95F4\u8D8A\u77ED\u6210\u7EE9\u8D8A\u597D"
+  mText: "Team up and ride on your mounts! Everyone helps each other, and the time of the last player to reach the finish line is the final score. The shorter the time, the better the score. The shorter the time, the better the score."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3946,7 +3946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76EE\u524D\u65E0\u6392\u540D"
+  mText: "No ranking at the moment"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4018,7 +4018,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u660E\u65E5\u9884\u544A"
+  mText: "Tomorrow's notice"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4118,7 +4118,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u8D5B\u9A6C"
+  mText: "Guild horse racing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4250,7 +4250,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4322,7 +4322,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u7528\u65F6"
+  mText: "Time to clear customs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4394,7 +4394,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229\u6761\u4EF6"
+  mText: "Victory conditions"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4480,7 +4480,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u6210\u5458"
+  mText: "Teammate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4866,7 +4866,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4938,7 +4938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u96BE\u5EA6"
+  mText: "Current difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5010,7 +5010,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u6389\u843D"
+  mText: "may fall"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5396,7 +5396,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570"
+  mText: "Remaining times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5482,7 +5482,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5C0F\u5996\u7CBE"
+  mText: "Guild Goblin"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 1
@@ -5554,7 +5554,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5927\u5192\u9669"
+  mText: "Guild Adventure"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -5905,7 +5905,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5192\u9669\u6218\u7EE9\u699C"
+  mText: "Adventure record list"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6159,7 +6159,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u51CC\u66685:00\u66F4\u65B0"
+  mText: "Updated daily at 5:00 am"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -6670,7 +6670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A2\u7EA7\u53EF\u8FDB\u5165"
+  mText: "Guild level 2 can enter"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

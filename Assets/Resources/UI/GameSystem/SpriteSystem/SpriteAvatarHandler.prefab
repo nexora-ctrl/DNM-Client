@@ -659,7 +659,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B 5024"
+  mText: "Combat strength 5024"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -728,7 +728,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u7CBE\u7075\u7684\u540D\u5B57\u5728\u8FD9\u91CC"
+  mText: "The elf's name is here"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

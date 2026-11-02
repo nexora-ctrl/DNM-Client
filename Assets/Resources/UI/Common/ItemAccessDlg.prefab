@@ -1106,7 +1106,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u4E3B\u7EBF/\u7ECF\u9A8C\u526F\u672C\u83B7\u5F97\u7AE0\u8282\u661F\u7EA7\u94BB\u77F3\u5956\u52B1"
+  mText: "Clear the main story/experience dungeon to obtain chapter star diamond rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1344,7 +1344,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u672A\u5F00\u542F"
+  mText: "Not open yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1786,7 +1786,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2042,7 +2042,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u526F\u672C"
+  mText: "Ordinary copy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2396,7 +2396,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u53D6\u9014\u5F84"
+  mText: "How to get it"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2956,7 +2956,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

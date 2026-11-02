@@ -943,7 +943,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u89E3"
+  mText: "Dismantle"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1333,7 +1333,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u89E3\u53EF\u8FD4\u8FD8\u90E8\u5206\u836F\u6C34"
+  mText: "Decomposition can return some potions"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1403,7 +1403,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B998"
+  mText: "Combat power 998"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2500,7 +2500,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECE\u5DE6\u4FA7\u9009\u62E9\u60F3\u8981\u5206\u89E3\u7684\u7CBE\u7075"
+  mText: "Select the sprite you want to decompose from the left"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2630,7 +2630,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0F\u5929\u4F7F\u5C0F\u5929\u4F7F\u5C0F\u5929"
+  mText: "little angel little angel little day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

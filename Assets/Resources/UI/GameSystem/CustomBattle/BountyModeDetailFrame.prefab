@@ -1805,7 +1805,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u8FDB\u5EA6"
+  mText: "Challenge progress"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1887,7 +1887,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653E\u5F03"
+  mText: "give up"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2142,7 +2142,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2535,7 +2535,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u9886\u53D6"
+  mText: "Available for collection"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2849,7 +2849,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u7684\u5956\u52B1"
+  mText: "your reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3563,7 +3563,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u573A\u83B7\u80DC\u5956\u52B1"
+  mText: "Next win reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3775,7 +3775,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D25\u573A"
+  mText: "Losses"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4061,7 +4061,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9 \u6218"
+  mText: "battle"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4650,7 +4650,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u7EC8\u6781\u6311\u6218\u8D5B\u6218\u8D5B"
+  mText: "Ladder Ultimate Challenge Tournament"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

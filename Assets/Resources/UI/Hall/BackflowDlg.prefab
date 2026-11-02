@@ -667,7 +667,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5269\u4F59\u65F6\u95F4"
+  mText: "Remaining time of activity"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -813,7 +813,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u8FD4\u57FA\u8C37"
+  mText: "Return to base valley"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -899,7 +899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u8FD4\u57FA\u8C37"
+  mText: "Return to base valley"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2552,7 +2552,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u592923\u5C0F\u65F645\u5206"
+  mText: "3 days, 23 hours and 45 minutes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

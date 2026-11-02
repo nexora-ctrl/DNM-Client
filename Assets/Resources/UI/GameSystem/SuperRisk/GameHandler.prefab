@@ -7180,7 +7180,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u523B\u6253\u5F00"
+  mText: "Open immediately"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -8126,7 +8126,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u5F00\u59CB!"
+  mText: "[b]Start!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13462,7 +13462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A7A\u7BB1\u4F4D"
+  mText: "Empty box position"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13662,7 +13662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9AB0\u5B50\u6062\u590D\u5012\u8BA1\u65F6"
+  mText: "Dice recovery countdown"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -13754,7 +13754,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570"
+  mText: "Remaining times"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13979,7 +13979,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u53EF\u80FD\u83B7\u5F97"
+  mText: "possible to obtain"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -14251,7 +14251,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u83B7\u5F97\u7684\u968F\u673A\u793C\u76D2!"
+  mText: "Random Bonus Package received!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -14383,7 +14383,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D \u4E70"
+  mText: "Buy"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -14655,7 +14655,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -14847,7 +14847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5426"
+  mText: "No"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -15192,7 +15192,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -15324,7 +15324,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B9D\u7BB1\u4F4D\u7F6E\u5DF2\u6EE1\uFF0C\u662F\u5426\u524D\u5F80\u5B9D\u7BB1\u52A0\u901F"
+  mText: "The treasure chest is full. Do you want to go to the treasure chest to speed up?"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -15657,7 +15657,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u518D\u63D0\u793A"
+  mText: "Don't Remind Me Again"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16582,7 +16582,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u59CB\u89E3\u9501"
+  mText: "Start unlocking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -16859,7 +16859,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u5012\u8BA1\u65F6\uFF1A"
+  mText: "Start countdown:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -17003,7 +17003,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u5F00\u59CB!"
+  mText: "[b]Start!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -17236,7 +17236,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5C14\u7279\u91CC\u4E9A\u5927\u9646"
+  mText: "Altria continent"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -17643,7 +17643,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u8F6E"
+  mText: "next round"
   mFontSize: 40
   mFontStyle: 0
   mAlignment: 0
@@ -17715,7 +17715,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u957F\u6309\u9AB0\u5B50\u8FDB\u884C\u6295\u63B7 \r\u9002\u65F6\u7684\u677E\u624B\u53EF\u589E\u52A0\u9AB0\u5B50\u70B9\u6570\u7684\u6982\u7387"
+  mText: "Press and hold the dice to throwTimely release can increase the probability of dice points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18340,7 +18340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9AB0\u5B50\u6570\u91CF+2"
+  mText: "Number of dice +2"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21208,7 +21208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u5F00\u542F"
+  mText: "Turn on now"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -22103,7 +22103,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u5F00\u542F"
+  mText: "Click to open"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22426,7 +22426,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u89E3\u9501"
+  mText: "Click to unlock"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23148,7 +23148,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C8\u83B7\u5F97\u4E86\u4E00\u4E2A\u5E78\u8FD0\u793C\u76D2\n\u53EF\u80FD\u5F00\u51FA\u9AD8\u54C1\u8D28\u7684\u56FE\u9274\u54DF\uFF0C\u9700\u8981\u4F7F\u7528\u9F99\u5E01\u5F00\u542F\u5417\uFF1F"
+  mText: "Got another lucky gift box\nIt is possible to open a high-quality illustrated book. Do I need to use Dragon Coins to open it?"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

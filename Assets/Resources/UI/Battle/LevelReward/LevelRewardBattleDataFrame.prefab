@@ -3053,7 +3053,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u6210\u5458"
+  mText: "Teammate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3235,7 +3235,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3417,7 +3417,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F24\u5BB3\u603B\u91CF"
+  mText: "Total DMG"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3599,7 +3599,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u6CBB\u7597\u91CF"
+  mText: "Total Healing"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3781,7 +3781,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B7B\u4EA1\u6B21\u6570"
+  mText: "Deaths"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3963,7 +3963,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u9AD8\u8FDE\u51FB\u6570"
+  mText: "Max Combo"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4280,7 +4280,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[876F34]\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "[876F34]Hehehehehehehehe"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5742,7 +5742,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F24\u5BB3\u767E\u5206\u6BD4"
+  mText: "DMG Percentage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6092,7 +6092,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u4FE1\u606F"
+  mText: "combat information"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6261,7 +6261,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u65F6\u95F4 05:00"
+  mText: "Customs clearance time 05:00"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -7190,7 +7190,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E\u6570"
+  mText: "LIKE Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -7556,7 +7556,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218\u6570"
+  mText: "Spectators"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3

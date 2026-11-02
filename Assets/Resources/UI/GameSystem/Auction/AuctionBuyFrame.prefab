@@ -2909,7 +2909,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3248,7 +3248,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u552E\uFF1A200"
+  mText: "On sale: 200"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3398,7 +3398,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8981\u8D2D\u4E70\u7684\u5546\u54C1"
+  mText: "Select the item you want to buy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3874,7 +3874,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4531,7 +4531,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u5929"
+  mText: "5 days"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4723,7 +4723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EF7:"
+  mText: "Unit price:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4881,7 +4881,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D44\u8D28:"
+  mText: "Qualifications:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5496,7 +5496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5582,7 +5582,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5997,7 +5997,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6176,7 +6176,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6499,7 +6499,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u5546\u54C1\u54E6\uFF01"
+  mText: "There are currently no products!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6631,7 +6631,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u54C1\u8D2D\u4E70\u540E\u7ED1\u5B9A"
+  mText: "Bind the product after purchase"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6822,7 +6822,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u52A8\u5237\u65B0"
+  mText: "Manual refresh"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7175,7 +7175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC5\u663E\u793A\u5F53\u524D\u9002\u7528"
+  mText: "Show only currently applicable"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7448,7 +7448,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC5\u663E\u793A\u6709\u8D27"
+  mText: "Show only available items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7851,7 +7851,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u5237\u65B0\u65F6\u95F430\u520659\u79D2"
+  mText: "Automatic refresh time 30 minutes and 59 seconds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

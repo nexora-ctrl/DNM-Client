@@ -1,4 +1,4 @@
-﻿require "LuaCampDuelRankRewardTable.lua"
+require "LuaCampDuelRankRewardTable.lua"
 
 XCampDuelRankRewardHandler={}
 local this = XCampDuelRankRewardHandler

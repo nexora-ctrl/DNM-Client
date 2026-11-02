@@ -4656,7 +4656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C6\u5929"
+  mText: "Day 6"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4994,7 +4994,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C7\u5929"
+  mText: "Day 7"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5146,7 +5146,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C3\u5929"
+  mText: "Day 3"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5218,7 +5218,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5012\u8BA1\u65F6 00:00:00"
+  mText: "Event countdown 00:00:00"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 1
@@ -6088,7 +6088,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C2\u5929"
+  mText: "Day 2"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6343,7 +6343,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C1\u5929"
+  mText: "Day 1"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6515,7 +6515,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5145 \u503C"
+  mText: "Recharge"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7221,7 +7221,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C5\u5929"
+  mText: "Day 5"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7293,7 +7293,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C4\u5929"
+  mText: "Day 4"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

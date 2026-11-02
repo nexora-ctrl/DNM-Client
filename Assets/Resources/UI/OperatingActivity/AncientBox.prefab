@@ -1016,7 +1016,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u7EA7\u5B9D\u7BB1"
+  mText: "Level 1 treasure chest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1427,7 +1427,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1818,7 +1818,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u9700\u70B9\u6570"
+  mText: "Points required"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2198,7 +2198,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "200\u70B9"
+  mText: "200 points"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2414,7 +2414,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u6570\u5956\u52B1"
+  mText: "Points reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

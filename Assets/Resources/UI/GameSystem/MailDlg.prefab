@@ -4873,7 +4873,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644\u4EF6"
+  mText: "Accessories"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -5105,7 +5105,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u90AE\u4EF6\u5185\u5BB9"
+  mText: "Email content"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5836,7 +5836,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u90AE \u4EF6"
+  mText: "Mail"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -6701,7 +6701,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u9875"
+  mText: "Next page"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7150,7 +7150,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644\u4EF6"
+  mText: "Accessories"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8029,7 +8029,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u53D6\u9644\u4EF6"
+  mText: "Receive Mail"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8101,7 +8101,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u6536\u53D6"
+  mText: "Collect with one click"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8572,7 +8572,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81\u961F"
+  mText: "Dragon Expedition Team"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8658,7 +8658,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7CFB\u7EDF\u90AE\u4EF6"
+  mText: "System Mail"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9005,7 +9005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5220\u9664\u9009\u4E2D"
+  mText: "Remove selected"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9157,7 +9157,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6807\u9898"
+  mText: "Title"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9229,7 +9229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u9009"
+  mText: "Select all"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14780,7 +14780,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u90AE\u4EF6\u540D\u79F0"
+  mText: "Email name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14852,7 +14852,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u4E00\u9875"
+  mText: "Previous page"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15058,7 +15058,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6709\u6548\u671F"
+  mText: "Effective Period"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

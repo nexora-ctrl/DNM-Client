@@ -3952,7 +3952,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4098,7 +4098,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u953B\u9020\u5C5E\u6027"
+  mText: "Current forging properties"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4541,7 +4541,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u5C5E\u6027\u6570\u503C\u4E0D\u6EE1\u610F\u53EF\u4EE5\u6D17\u7EC3\u4FEE\u6539"
+  mText: "If you are not satisfied with the attribute values, you can refine and modify them."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4627,7 +4627,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B \u9020"
+  mText: "Forge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5404,7 +5404,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u7CBE\u70BC\u77F3\u53EF100%\u91CD\u65B0\u751F\u6210\u953B\u9020\u5C5E\u6027"
+  mText: "Using refined stones can regenerate 100% of forging attributes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5531,7 +5531,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u953B\u9020\u77F3\u53EF100%\u6FC0\u6D3B\u953B\u9020\u5C5E\u6027"
+  mText: "Using a forging stone activates 100% of the forging attributes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5603,7 +5603,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "80%\u4FDD\u7559\u539F\u5C5E\u6027"
+  mText: "80% retain original properties"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5689,7 +5689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B\u9020\u6210\u529F\u540E\u53EF\u968F\u673A\u6FC0\u6D3B\u4EE5\u4E0B\u5C5E\u6027\u4E2D\u7684\u4EFB\u610F\u4E00\u6761\n\u4F7F\u7528\u953B\u9020\u77F3\u53EF100%\u6FC0\u6D3B"
+  mText: "After forging successfully, any one of the following attributes can be randomly activated.\n100% activation with forge stone"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5761,7 +5761,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B\u9020\u6210\u529F\u4F1A\u5C06\u5F53\u524D\u953B\u9020\u5C5E\u6027\u91CD\u7F6E\u4E3A\u4EE5\u4E0B\u4EFB\u4E00\u5C5E\u6027"
+  mText: "Successful forging will reset the current forging attributes to any of the following attributes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6232,7 +6232,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u674E\u73B2\u91CC\u91CF\u529B\u529B"
+  mText: "Li Lingli measures his ability"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6319,7 +6319,6 @@ MonoBehaviour:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
   mText: '+50~10000000
-
 '
   mFontSize: 18
   mFontStyle: 0
@@ -6666,7 +6665,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B\u9020\u6210\u529F"
+  mText: "Forging success"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7049,7 +7048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u667A\u6167\u7684\u89C1\u4E60\u4FEE\u58EB\u978B\u5B50"
+  mText: "Wise Novice Shoes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -7458,7 +7457,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u6D17\u70BC"
+  mText: "Go to refinement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7635,7 +7634,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u662F\u5426\u8986\u76D6\u5F53\u524D\u953B\u9020\u5C5E\u6027"
+  mText: "Whether to overwrite the current forging attributes"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7992,7 +7991,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8152,7 +8151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8324,7 +8323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u8BA4"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8581,7 +8580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u6D88\u8017"
+  mText: "Need to consume"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -8667,7 +8666,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9376,7 +9375,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u6D17\u70BC"
+  mText: "Go to refinement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9462,7 +9461,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B \u9020"
+  mText: "Forge"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9568,7 +9567,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F85\u953B\u9020\u6FC0\u6D3B"
+  mText: "To be activated for forging"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -10178,7 +10177,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u9884\u89C8"
+  mText: "Property preview"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10475,7 +10474,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B\u9020\u7ED3\u679C\u9884\u89C8"
+  mText: "Forging result preview"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10704,7 +10703,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u953B\u9020\u77F3"
+  mText: "Use forge stone"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10836,7 +10835,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u953B\u9020\u5C5E\u6027"
+  mText: "Forging properties"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11124,7 +11123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u518D\u63D0\u793A"
+  mText: "Don't Remind Me Again"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

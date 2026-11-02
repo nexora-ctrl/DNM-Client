@@ -811,7 +811,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u4FE1\u606F"
+  mText: "Attribute information"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1049,7 +1049,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81F4\u547D\u4E00\u51FB\u62B5\u6297"
+  mText: "critical hit resistance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1207,7 +1207,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0\u6280\u80FD[\u4E8C\u8FDE\u5C04]\u7684\u4F24\u5BB310%"
+  mText: "Increase the damage of skill [Double Shot] by 10%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

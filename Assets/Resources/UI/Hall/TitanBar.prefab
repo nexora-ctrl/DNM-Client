@@ -919,7 +919,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C9\u9192\u89C9\u9192\u836F\u6C34"
+  mText: "Awakening Awakening Potion"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

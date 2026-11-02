@@ -5563,7 +5563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u8BB0\u5F55"
+  mText: "Challenge record"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5745,7 +5745,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709\u6CA1\u4EFB\u4F55\u8BB0\u5F55"
+  mText: "Are there any records?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6040,7 +6040,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635.."
+  mText: "Player's nickname..."
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 0
@@ -6758,7 +6758,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EA\u4FDD\u7559\u6700\u8FD1\u5341\u573A\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Only the last ten battle records are kept"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6830,7 +6830,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Battle record"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6962,7 +6962,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u65B9"
+  mText: "Our side"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7034,7 +7034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u654C\u65B9"
+  mText: "enemy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7106,7 +7106,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F"
+  mText: "Military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8125,7 +8125,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D5B\u5B63\u65F6\u95F4: 2017.1.1-2017.1.2"
+  mText: "Season time: 2017.1.1-2017.1.2"
   mFontSize: 23
   mFontStyle: 0
   mAlignment: 0
@@ -8197,7 +8197,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S1\u8D5B\u5B63"
+  mText: "S1 season"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -8341,7 +8341,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8413,7 +8413,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854"
+  mText: "military rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8665,7 +8665,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F"
+  mText: "Military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8737,7 +8737,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854\u5956\u52B1"
+  mText: "Military rank rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9001,7 +9001,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F"
+  mText: "Military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9073,7 +9073,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9884\u5907\u5F79"
+  mText: "Reserve"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9145,7 +9145,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u519B\u8854"
+  mText: "no rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9217,7 +9217,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u9636\u519B\u8854"
+  mText: "next rank"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -9409,7 +9409,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6240\u9700\u519B\u529F"
+  mText: "Required military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9655,7 +9655,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10036,7 +10036,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11363,7 +11363,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F\u8303\u56F4"
+  mText: "Scope of military merit"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11555,7 +11555,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854"
+  mText: "military rank"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -12359,7 +12359,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79C3\u9E6B\u5DF2\u6362"
+  mText: "The vulture has changed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12752,7 +12752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\u5956\u52B1"
+  mText: "Achieve rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12824,7 +12824,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u519B\u8854"
+  mText: "military rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13644,7 +13644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u62A4\u961F\u957F"
+  mText: "Protect Captain"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -13716,7 +13716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u62A4\u961F\u957F"
+  mText: "Protect Captain"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -13980,7 +13980,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u6218\u573A"
+  mText: "Hero Battlefield"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -14052,7 +14052,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u6218\u573A"
+  mText: "Hero Battlefield"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -14204,7 +14204,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79C3\u9E6B\u5DF2\u6362"
+  mText: "The vulture has changed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14791,7 +14791,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15260,7 +15260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15332,7 +15332,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15404,7 +15404,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15746,7 +15746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D5B\u5B63\u5956\u52B1"
+  mText: "Season rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -15818,7 +15818,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D5B\u5B63\u5956\u52B1"
+  mText: "Season rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -16082,7 +16082,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\u5956\u52B1"
+  mText: "Achieve rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -16154,7 +16154,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u6210\u5956\u52B1"
+  mText: "Achieve rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -16478,7 +16478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u679C"
+  mText: "result"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

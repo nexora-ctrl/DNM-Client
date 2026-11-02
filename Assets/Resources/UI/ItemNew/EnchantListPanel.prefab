@@ -1204,7 +1204,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9644\u9B54\u77F3\u83B7\u53D6"
+  mText: "Obtain enchantment stone"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2490,7 +2490,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE8\u80F8\u7684\u9F99\u7389"
+  mText: "Big breasted dragon jade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2618,7 +2618,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u53EF\u7528\u7684\u9644\u9B54\u77F3"
+  mText: "There are currently no enchanting stones available"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3162,7 +3162,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "30\u7EA7\u9644\u9B54\u77F3\u53EA\u80FD\u5BF930\u7EA7\u4EE5\u4E0B\u88C5\u5907\u8FDB\u884C\u9644\u9B54"
+  mText: "Level 30 enchantment stones can only enchant equipment below level 30."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3408,7 +3408,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u9644\u9B54\u77F3"
+  mText: "Select Enchantment Stone"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3640,7 +3640,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u5408\u6210"
+  mText: "Quick Synth"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -768,7 +768,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51C6\u5907\u8FDB\u5165\u6218\u6597..."
+  mText: "Get ready for battle..."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

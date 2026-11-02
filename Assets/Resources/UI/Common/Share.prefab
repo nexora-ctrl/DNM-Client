@@ -4838,7 +4838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u9501\u66F4\u591A"
+  mText: "Unlock more"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5227,7 +5227,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3\u9501\u6761\u4EF6"
+  mText: "Unlock conditions"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5605,7 +5605,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u65481"
+  mText: "Special effects 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6482,7 +6482,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6A21\u5F0F"
+  mText: "mode"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7138,7 +7138,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB"
+  mText: "Share"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7839,7 +7839,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u65481"
+  mText: "Special effects 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10308,7 +10308,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6548"
+  mText: "special effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11124,7 +11124,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u62CD"
+  mText: "remake"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11506,7 +11506,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "Y\u8F74\u4E0A\u52A0"
+  mText: "Add to Y axis"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11738,7 +11738,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12294,7 +12294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A8\u4F5C"
+  mText: "action"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12903,7 +12903,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u95F4\u8DDD+44"
+  mText: "Spacing +44"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13778,7 +13778,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\xB7\u9B45\u529B\u70B9\u8FBE\u52301000\uFF08800/1000)"
+  mText: "·Charm points reach 1000 (800/1000)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13890,7 +13890,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u6211\u6211\u6211\u6211\u6211\u6211\u6211"
+  mText: "me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -14298,7 +14298,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u5B58"
+  mText: "save"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -14564,7 +14564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C45\u4E2D\u6392\u5E8F"
+  mText: "Sort by center"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -15109,7 +15109,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53BB\u63D0\u5347"
+  mText: "to promote"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15249,7 +15249,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u670D\u52A1\u5668\u52A1\u5668"
+  mText: "server server"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -15401,7 +15401,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

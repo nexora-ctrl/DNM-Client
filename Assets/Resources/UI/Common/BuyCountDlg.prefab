@@ -802,7 +802,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u6570\u6BCF\u65E505:00\u91CD\u7F6E"
+  mText: "Times reset at 05:00 every day"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -890,7 +890,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1166,7 +1166,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u4ECA\u65E5\u8FD8\u53EF\u8D2D\u4E70      \u6B21\uFF09"
+  mText: "(You can still purchase times today)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1483,7 +1483,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BC6\u7801\u8F93\u5165\u9519\u8BEF\uFF0C\u8BF7\u91CD\u65B0\u8F93\u5165"
+  mText: "The password you entered is wrong, please re-enter it."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1551,7 +1551,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70\u6B21\u6570"
+  mText: "Number of purchases"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

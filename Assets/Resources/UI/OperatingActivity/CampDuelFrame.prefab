@@ -4371,7 +4371,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39\u9F13\u821E"
+  mText: "free inspiration"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -4587,7 +4587,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206"
+  mText: "Point"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4687,7 +4687,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6770\u5170\u7279       VS      \u8D1D\u601D\u67EF\u5FB7"
+  mText: "Geraint VS Bethcod"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5223,7 +5223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425\u5BF9\u51B3"
+  mText: "Faction showdown"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6693,7 +6693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u9001\u5BF9\u5E94\u6700\u9AD8\u79EF\u5206\u5956\u52B1"
+  mText: "After the event, an email will be sent corresponding to the highest points reward."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6945,7 +6945,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5E01\u9F13\u821E"
+  mText: "Dragon coin encouragement"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -7017,7 +7017,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425\u5BF9\u51B3"
+  mText: "Faction showdown"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7379,7 +7379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u79EF\u5206"
+  mText: "Current points"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -7559,7 +7559,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206"
+  mText: "Point"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8041,7 +8041,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u9635\u8425\u52A0\u5165"
+  mText: "Please choose a camp to join first"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8166,7 +8166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6770\u5170\u7279\u9635\u8425"
+  mText: "Geraint camp"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8386,7 +8386,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u6770\u5170\u7279\u9635\u8425"
+  mText: "Choose Geraint’s camp"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8492,7 +8492,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8928,7 +8928,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1[-]"
+  mText: "Ranking rewards[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9247,7 +9247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D21 \u732E"
+  mText: "Contribution"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9319,7 +9319,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u53EF\u83B7\u5F97\u5347\u7EA7\u5956\u52B1"
+  mText: "Points can be used to obtain upgrade rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9436,7 +9436,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F13 \u821E"
+  mText: "Cheering"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10605,7 +10605,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D21 \u732E"
+  mText: "Contribution"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10900,7 +10900,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u51CC\u66685\u70B9\u91CD\u7F6E\u70B9\u6570"
+  mText: "Points reset at 5am"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11000,7 +11000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "2017\u5E7412\u670812\u65E55\uFF1A00"
+  mText: "December 12, 2017 5:00"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11159,7 +11159,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u8D1D\u601D\u67EF\u5FB7\u9635\u8425"
+  mText: "Choose Bescord camp"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11251,7 +11251,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9F13 \u821E"
+  mText: "Cheering"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11651,7 +11651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\uFF08\u514D\u8D39\uFF09"
+  mText: "(free)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11723,7 +11723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5956\u52B1[-]"
+  mText: "Points reward[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12411,7 +12411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u518D\u83B7\u5F97"
+  mText: "get again"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12762,7 +12762,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u9F13\u821E\u589E\u52A0"
+  mText: "This encouragement increases"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13175,7 +13175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u8D21\u732E\u9053\u5177\u589E\u52A0"
+  mText: "This time the contribution props have increased"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13258,7 +13258,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "NPC\u6587\u5B57"
+  mText: "NPC text"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13530,7 +13530,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u8981\u653E\u4E00\u6BB5\u4ECB\u7ECD\u6587\u5B57\uFF0C\u627E\u7B56\u5212"
+  mText: "I want to put an introductory text here, look for the planner"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13750,7 +13750,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EF\u7528\u79EF\u5206\u6362\u53D6\u6770\u5170\u7279\u7CBE\u7075\u788E\u7247"
+  mText: "Points can be exchanged for Geraint Elf Shards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

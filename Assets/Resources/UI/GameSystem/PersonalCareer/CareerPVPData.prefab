@@ -3148,7 +3148,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u5B66\u8005\u80DC\u7387"
+  mText: "Win rate against scholars"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3899,7 +3899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u573A\u6B21"
+  mText: "Number of sessions"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4071,7 +4071,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u751F\u6DAF"
+  mText: "personal career"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4345,7 +4345,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4417,7 +4417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u4FE1\u606F"
+  mText: "Battle information"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4503,7 +4503,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u9AD8\u8FDE\u80DC"
+  mText: "Highest Streak"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4661,7 +4661,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D25\u573A"
+  mText: "Losses"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4833,7 +4833,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387\u7EDF\u8BA1"
+  mText: "Winning rate statistics"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4991,7 +4991,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u58EB\u80DC\u7387"
+  mText: "Win rate against warriors"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5063,7 +5063,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u5F13\u7BAD\u624B\u80DC\u7387"
+  mText: "Win rate against archers"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5307,7 +5307,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u9B54\u6CD5\u5E08\u80DC\u7387"
+  mText: "Win rate against magician"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5435,7 +5435,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u6700\u9AD8\u6BB5\u4F4D"
+  mText: "highest rank in history"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5521,7 +5521,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u9635\u8BE6\u60C5"
+  mText: "Match details"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6113,7 +6113,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6365,7 +6365,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6451,7 +6451,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u8D5B\u5B63"
+  mText: "this season"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6885,7 +6885,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u6BD4\u8D5B"
+  mText: "All games"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6971,7 +6971,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u6BD4\u8D5B"
+  mText: "All games"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7207,7 +7207,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u5DF2\u8D85\u8D8A100%\u5168\u670D\u73A9\u5BB6\uFF09"
+  mText: "(Has surpassed 100% of all players in the server)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7279,7 +7279,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u8BC4\u5206"
+  mText: "Current rating"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7439,7 +7439,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8D5B"
+  mText: "Ladder"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7705,7 +7705,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8D5B"
+  mText: "Ladder"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7850,7 +7850,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5555\u540D"
+  mText: "5555 people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7922,7 +7922,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5555\u540D\u4EE5\u5916"
+  mText: "Except 5555 people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7994,7 +7994,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u670D\u6392\u540D"
+  mText: "Server-wide ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8913,7 +8913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70AB\u8000\u4E00\u4E0B"
+  mText: "show off"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9286,7 +9286,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u90E8\u5206\u4EAB"
+  mText: "External sharing"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9403,7 +9403,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u804C\u4E1A\u6392\u540D"
+  mText: "Ranking of this profession"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9531,7 +9531,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u7267\u5E08\u80DC\u7387"
+  mText: "Win rate against priest"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

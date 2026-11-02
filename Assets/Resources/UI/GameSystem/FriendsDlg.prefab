@@ -7203,7 +7203,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u53BB\u9080\u8BF7\u60A8\u7684\u597D\u53CB\u4E00\u8D77\u73A9\u5427~"
+  mText: "Go and invite your friends to play together~"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -7604,7 +7604,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -8468,7 +8468,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3.\u8D60\u9001\u548C\u6536\u53D6\u793C\u7269\u5747\u6709\u4E0A\u9650\uFF0C\u8D85\u8FC7\u4E0A\u9650\u5C06\u65E0\u6CD5\u7EE7\u7EED\u8D60\u9001\u6216\u6536\u53D6"
+  mText: "3. There is an upper limit for giving and receiving gifts. If the upper limit is exceeded, you will no longer be able to give or receive gifts."
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -8647,7 +8647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB \u52A0"
+  mText: "Add"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8969,7 +8969,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u4FE1\u597D\u53CB"
+  mText: "WeChat friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9140,7 +9140,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF4\u660E"
+  mText: "Info"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9757,7 +9757,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Bethcod Bethcod"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9999,7 +9999,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0QQ"
+  mText: "Add QQ"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10151,7 +10151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FFD \u7565"
+  mText: "ignore"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10322,7 +10322,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10394,7 +10394,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB\u540D\u79F0\u597D\u53CB\u540D\u79F0"
+  mText: "friend name friend name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10710,7 +10710,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7"
+  mText: "Bethcod Bethcod"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10796,7 +10796,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53CB\u597D\u5EA6"
+  mText: "friendliness"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -10868,7 +10868,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89E3 \u9664"
+  mText: "Lift"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11149,7 +11149,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u56DE\u793C"
+  mText: "Returned gift"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11281,7 +11281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u4FE1\u597D\u53CB"
+  mText: "WeChat friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11353,7 +11353,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u8FD8\u6CA1\u6709\u597D\u53CB\u54E6\uFF0C\u5FEB\u53BB\u6DFB\u52A0\u597D\u53CB\u5427~"
+  mText: "You don’t have any friends yet, please add friends now~"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -11505,7 +11505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11741,7 +11741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804A\u5929"
+  mText: "chat"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -11977,7 +11977,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u5728\u9ED1\u540D\u5355\u4E2D\u7684\u73A9\u5BB6"
+  mText: "There are currently no players on the blacklist"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -12123,7 +12123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b]\u5728\u7EBF"
+  mText: "[b]Online"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12627,7 +12627,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165\u73A9\u5BB6\u540D\u5B57"
+  mText: "Click to enter player name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -12844,7 +12844,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1AName"
+  mText: "Union Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -12988,7 +12988,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5207\u78CB"
+  mText: "Duel"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13115,7 +13115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DE\u793C"
+  mText: "return gift"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13384,7 +13384,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60\u9001"
+  mText: "Gift"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13835,7 +13835,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u6765\u4E00\u4E2A\u793C\u7269\uFF01"
+  mText: "Send a gift!"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -14637,7 +14637,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB"
+  mText: "Friends"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -14892,7 +14892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15550,7 +15550,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -15622,7 +15622,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9001\u793C"
+  mText: "Gift given"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15974,7 +15974,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FAE\u4FE1\u597D\u53CB"
+  mText: "WeChat friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -16106,7 +16106,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9886\u53D6"
+  mText: "Claimed"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16630,7 +16630,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1.\u5F53\u73A9\u5BB6\u4E0E\u597D\u53CB\u804A\u5929\u6216\u7EC4\u961F\u5B8C\u6210\u526F\u672C\u65F6\uFF0C\u53EF\u4EE5\u83B7\u5F97\u6D3B\u8DC3\u5EA6\uFF0C\u6BCF\u65E5\u6709\u4E0A\u9650\u3002\r"
+  mText: "1. When players chat with friends or form a team to complete a copy, they can gain activity, with a daily limit."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -16874,7 +16874,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C \u610F"
+  mText: "Accept"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -17275,7 +17275,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63D0\u793A"
+  mText: "Notice"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -17347,7 +17347,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u793C"
+  mText: "give gifts"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -18135,7 +18135,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5171\u9001\u7ED9\u60A8         \u4E2A\u793C\u7269\uFF0C\u6392\u540DNo."
+  mText: "I have given you a total of gifts, ranked No."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -18604,7 +18604,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0\u597D\u53CB"
+  mText: "Add Friend"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -19251,7 +19251,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -19627,7 +19627,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB\u540D\u79F0\u597D\u53CB\u540D\u79F0"
+  mText: "friend name friend name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19893,7 +19893,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -20289,7 +20289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -20572,7 +20572,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20644,7 +20644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -20776,7 +20776,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u5DF2\u6536\u793C"
+  mText: "Received a gift today"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20862,7 +20862,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u5FFD\u7565"
+  mText: "Ignore all"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -21246,7 +21246,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8"
+  mText: "Start Game"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21968,7 +21968,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -22040,7 +22040,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u4E0A\u53485\u70B9\u6E05\u7A7A\uFF0C\u8BF7\u53CA\u65F6\u6536\u53D6\u793C\u7269"
+  mText: "Cleared at 5 am every day, please collect gifts in time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22112,7 +22112,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0\u9ED1\u540D\u5355"
+  mText: "Add blacklist"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22184,7 +22184,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425"
+  mText: "camp"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -22449,7 +22449,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u793C\u7269"
+  mText: "receive gifts"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22687,7 +22687,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2.\u5F53\u6D3B\u8DC3\u5EA6\u8FBE\u5230{0}\u70B9\u540E\uFF0C\u5373\u53EF\u5411\u597D\u53CB\u8D60\u9001\u793C\u7269\u3002"
+  mText: "2. When the activity level reaches {0} points, you can give gifts to your friends."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -23073,7 +23073,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425Name"
+  mText: "Camp Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -23442,7 +23442,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB"
+  mText: "Friends"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -23807,7 +23807,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u793C\u7269"
+  mText: "receive gifts"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

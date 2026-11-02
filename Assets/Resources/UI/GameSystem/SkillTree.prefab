@@ -7415,7 +7415,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5207\u6362\u6280\u80FD\u9875\u2161"
+  mText: "Switch Skill Tab II"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7487,7 +7487,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u70B9\u6570"
+  mText: "remaining points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7791,7 +7791,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60"
+  mText: "Learn"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8979,7 +8979,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u79D2"
+  mText: "5 seconds"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -9065,7 +9065,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F4E"
+  mText: "Low"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -9151,7 +9151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51B7\u5374\u65F6\u95F4"
+  mText: "Cooling time"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -9223,7 +9223,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u8FF0"
+  mText: "Skill description"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -9295,7 +9295,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7"
+  mText: "next level"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -9367,7 +9367,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -12164,7 +12164,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6280\u80FD\u70B9"
+  mText: "Remaining skill points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12656,7 +12656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u9009\u62E9"
+  mText: "Current selection"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12847,7 +12847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6C\u804C\u9884\u89C8"
+  mText: "Job transfer preview"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12933,7 +12933,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u90E8\u7F72\u51FA\u7AD9\u7684\u4E3B\u52A8\u6280\u80FD"
+  mText: "Deploying outbound active skills"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -13099,7 +13099,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE"
+  mText: "Back"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13290,7 +13290,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88AB\u52A8\u6280\u80FD"
+  mText: "Passive Skill"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13376,7 +13376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u8FDE\u65A9(4/10)"
+  mText: "Three consecutive cuts (4/10)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13448,7 +13448,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\uFF0C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD"
+  mText: "A brief introduction to the charge and wield weapon skill. A brief introduction to the charge and wield weapon skill."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -13548,7 +13548,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADC\u4EBA\u306E\u5263\u3092\u55B0\u3048"
+  mText: "龙人の剣を喰え"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13634,7 +13634,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13720,7 +13720,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14094,7 +14094,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14180,7 +14180,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14400,7 +14400,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9AD8"
+  mText: "High"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14486,7 +14486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D85\u7EA7\u76D4\u7532\u9632\u5FA1"
+  mText: "super armor defense"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14558,7 +14558,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D85\u7EA7\u76D4\u7532\u653B\u51FB"
+  mText: "super armor attack"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14644,7 +14644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017\u9B54\u6CD5"
+  mText: "Consume magic"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14816,7 +14816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u9700\u8981\u89D2\u8272\u7B49\u7EA750)"
+  mText: "(Requires character level 50)"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14902,7 +14902,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6697\u9ED1"
+  mText: "dark"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -14988,7 +14988,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u603B\u653B\u51FB\u529B2020%"
+  mText: "Total physical attack power 2020%"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -15060,7 +15060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027"
+  mText: "Properties"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -15304,7 +15304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u]\u63A8\u8350\u52A0\u70B9"
+  mText: "[u]Recommend adding points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15966,7 +15966,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017\u6280\u80FD\u70B9\u8FBE\u523015\u53EF\u5B66\u4E60"
+  mText: "It can be learned by spending 15 skill points."
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -16500,7 +16500,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u6210\u89C9\u9192"
+  mText: "Complete Awakening"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16817,7 +16817,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u5B8C\u6210\u8F6C\u804C\u4EFB\u52A1\u540E \u53EF\u4EE5\u8FDB\u884C\u8F6C\u804C"
+  mText: "After completing the job transfer task, you can change jobs."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17128,7 +17128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u603B\u653B\u51FB\u529B2020%"
+  mText: "Total physical attack power 2020%"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -17200,7 +17200,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D"
+  mText: "Current"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -19657,7 +19657,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\uFF0C\u73B0\u5728\u6E38\u620F\u90FD\u4E24\u884C"
+  mText: "A brief introduction to the Charge and Wielding Weapon skill is here, and now the game is all two lines"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -19743,7 +19743,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u8FDE\u65A9(4/10)"
+  mText: "Three consecutive cuts (4/10)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -19829,7 +19829,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88AB\u52A8\u6280\u80FD"
+  mText: "Passive Skill"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20020,7 +20020,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -20539,7 +20539,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88AB\u52A8\u6280\u80FD\u65E0\u6CD5\u9884\u89C8"
+  mText: "Passive skills cannot be previewed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20966,7 +20966,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21252,7 +21252,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21338,7 +21338,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -21884,7 +21884,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u7F6E\u8F6C\u804C"
+  mText: "Reset job transfer"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22277,7 +22277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22363,7 +22363,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23996,7 +23996,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u7F6E\u6280\u80FD\u70B9"
+  mText: "Reset skill points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24382,7 +24382,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "30\u7EA7\u524D\u514D\u8D39"
+  mText: "Free before level 30"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -24699,7 +24699,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD"
+  mText: "Skills"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -24899,7 +24899,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\uFF0C\u73B0\u5728\u6E38\u620F\u90FD\u4E24\u884C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\uFF0C\u73B0\u5728\u6E38\u620F\u90FD\u4E24\u884C\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\uFF0C\u73B0\u5728\u6E38\u620F\u90FD\u4E24\u884C"
+  mText: "The introduction to the Charge and Swing Weapon skill is here, now in game both lines. The introduction to the Charge and Swing Weapon skill is here, in game now both lines. The introduction to the Charge and Swing Weapon skill is here, both in game now two lines."
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -25723,7 +25723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "120\u7EA7\u89E3\u9501"
+  mText: "Unlocked at level 120"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -29281,7 +29281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -29527,7 +29527,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -29599,7 +29599,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -29919,7 +29919,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -31455,7 +31455,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -31681,7 +31681,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -31753,7 +31753,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -31985,7 +31985,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -32167,7 +32167,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -32239,7 +32239,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -32491,7 +32491,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -32696,7 +32696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u5B8C\u6210\u8F6C\u804C\u4EFB\u52A1\u540E \u53EF\u4EE5\u8FDB\u884C\u8F6C\u804C"
+  mText: "After completing the job transfer task, you can change jobs."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -33229,7 +33229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -33491,7 +33491,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6C\u804C"
+  mText: "Specialize"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -34438,7 +34438,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -34670,7 +34670,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u96BE\u5EA6"
+  mText: "Operation difficulty"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -35124,7 +35124,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u70B9\u6570"
+  mText: "remaining points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -35910,7 +35910,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -36138,7 +36138,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -36590,7 +36590,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D\u4F5C\u51B2\u950B\u5E76\u6325\u821E\u7740\u6B66\u5668\u6280\u80FD\u7684\u4ECB\u7ECD\u5728\u8FD9\u91CC\u7A0D"
+  mText: "A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here. A brief introduction to the Charge and Swing Weapon skill is here."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -36662,7 +36662,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u9A91\u58EB"
+  mText: "Paladin"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

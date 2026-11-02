@@ -2097,7 +2097,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2741,7 +2741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3333,7 +3333,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u60A8\u52C7\u58EB,\u83B7\u5F97\u4E86\u4E00\u4E2A\u5E78\u8FD0\u793C\u76D2\uFF01\n\u5206\u4EAB\u53EF\u4EE5\u548C\u597D\u53CB\u5171\u540C\u62A2\u5B9D\u7BB1\u5956\u52B1\u54E6~"
+  mText: "Congratulations to you warrior, you got a lucky gift box!\nBy sharing, you can grab treasure chest rewards with your friends~"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3913,7 +3913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u4EAB"
+  mText: "Share"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -4090,7 +4090,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6 \u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -4162,7 +4162,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u83B7\u5F97\u7684\u968F\u673A\u793C\u76D2!"
+  mText: "Random Bonus Package received!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

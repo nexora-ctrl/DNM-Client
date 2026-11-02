@@ -1119,7 +1119,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "6\u592919\u5C0F\u65F659\u5206"
+  mText: "6 days, 19 hours and 59 minutes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1241,7 +1241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u540D"
+  mText: "first place"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -1447,7 +1447,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards are issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1921,7 +1921,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540E\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards will be issued later"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2504,7 +2504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u53EA\u6709\u6BCF\u5C40\u524D4\u540D\u624D\u80FD\u83B7\u5F97,\u6392\u540D\u5956\u52B1\u6BCF\u5468\u4E00\u7ED3\u7B97\u540E\u90AE\u4EF6\u53D1\u653E"
+  mText: "Points can only be earned for the top 4 players each round. Ranking rewards will be issued through mail on every Mon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2589,7 +2589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D"
+  mText: "Current ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2934,7 +2934,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

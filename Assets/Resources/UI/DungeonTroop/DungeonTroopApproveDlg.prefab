@@ -2130,7 +2130,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C\u610F"
+  mText: "Accept"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2566,7 +2566,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "57\u5206z\u949F\u524D"
+  mText: "57 minutes ago"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3077,7 +3077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D1\u5E03\u62DB\u52DF"
+  mText: "Post recruitment"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3268,7 +3268,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u5BA1\u6838"
+  mText: "Need Review"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3340,7 +3340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3412,7 +3412,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB\u52DF\u6761\u4EF6"
+  mText: "Recruitment conditions"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3920,7 +3920,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u65F6\u95F4"
+  mText: "Application time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4178,7 +4178,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4250,7 +4250,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4726,7 +4726,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u4EBA"
+  mText: "Applicant"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5184,7 +5184,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5256,7 +5256,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u4EBA\u6570"
+  mText: "Number of members"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5675,7 +5675,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A"
+  mText: "Class"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5761,7 +5761,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5847,7 +5847,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE\u7F6E\u62DB\u52DF"
+  mText: "Set up recruitment"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6190,7 +6190,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u62D2\u7EDD"
+  mText: "Reject with one click"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7279,7 +7279,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5141\u8BB8\u81EA\u52A8\u52A0\u5165\u6218\u961F"
+  mText: "Allow automatic joining of clans"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -7351,7 +7351,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u586B\u5219\u4E0D\u9650\u6218\u529B"
+  mText: "If you leave it blank, there will be no limit on combat power."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7517,7 +7517,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE\u7F6E\u62DB\u52DF"
+  mText: "Set up recruitment"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7679,7 +7679,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u6761\u4EF6"
+  mText: "Combat strength conditions"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8023,7 +8023,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD \u5B58"
+  mText: "Save"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

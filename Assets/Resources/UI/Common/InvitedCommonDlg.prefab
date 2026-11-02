@@ -1303,7 +1303,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D \u53CB"
+  mText: "Friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1371,7 +1371,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7\u597D\u53CB\u6216\u8005\u516C\u4F1A\u6210\u5458\u5956\u52B1[0cff00]+20%"
+  mText: "Reward for inviting friends or guild members [0cff00] +20%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D \u53CB"
+  mText: "Friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1673,7 +1673,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C \u4F1A"
+  mText: "Guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1798,7 +1798,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C \u4F1A"
+  mText: "Guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2120,7 +2120,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u5165\u516C\u4F1A"
+  mText: "Invite"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2281,7 +2281,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0\u597D\u53CB"
+  mText: "Add Friend"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2349,7 +2349,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u5728\u7EBF\u73A9\u5BB6"
+  mText: "No online players"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2506,7 +2506,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u8BF7"
+  mText: "Invite"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2845,7 +2845,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2913,7 +2913,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9080\u8BF7"
+  mText: "Invited"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2981,7 +2981,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080 \u8BF7"
+  mText: "Invite"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

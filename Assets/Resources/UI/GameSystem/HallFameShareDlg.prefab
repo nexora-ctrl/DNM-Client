@@ -1896,7 +1896,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB"
+  mText: "Share"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2082,7 +2082,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8D5B\u8D5B\u5B63\u540D\u4EBA"
+  mText: "Ladder Season Celebrities"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -2214,7 +2214,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5386\u53F2\u6210\u5C31"
+  mText: "historical achievements"
   mFontSize: 22
   mFontStyle: 2
   mAlignment: 0
@@ -2306,7 +2306,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF4\u53D4"
+  mText: "Uncle Ba"
   mFontSize: 24
   mFontStyle: 2
   mAlignment: 1
@@ -2478,7 +2478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u8D5B\u8D5B\u5B63\u65F6\u95F4"
+  mText: "Ladder season schedule"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -2650,7 +2650,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u5929\u68AF\u51A0\u519B\u6B21\u6570"
+  mText: "Cumulative number of ladder championships"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -2750,7 +2750,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7D2F\u8BA1\u5929\u68AF\u524D\u5341\u6B21\u6570"
+  mText: "Accumulated top ten times on the ladder"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -2922,7 +2922,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u8FD15\u4E2A\u8D5B\u5B63\u6392\u540D"
+  mText: "Ranking in the last 5 seasons"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 1

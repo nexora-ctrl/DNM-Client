@@ -968,7 +968,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BD5\u7EC3\u5546\u5E97"
+  mText: "Trial shop"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1570,7 +1570,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53EF\u53C2\u52A0\u6B21\u6570"
+  mText: "Number of times you can participate today"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -1728,7 +1728,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u6B21\u6311\u6218\u5956\u52B1"
+  mText: "Reward for each challenge"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2199,7 +2199,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53C2\u52A0\u6B21\u6570\u5DF2\u7ECF\u7528\u5B8C\u4E86\uFF0C\u660E\u5929\u518D\u6765\u5427\uFF01"
+  mText: "The number of entries for today has been used up, please come again tomorrow!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2271,7 +2271,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2-4\u4EBA\u7EC4\u961F\u6311\u6218\u968F\u673A\u6DF1\u6E0A"
+  mText: "Team up with 2-4 people to challenge the random abyss"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 1
@@ -2343,7 +2343,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2647,7 +2647,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u5C3D\u6DF1\u6E0A[-]"
+  mText: "Endless Abyss[-]"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

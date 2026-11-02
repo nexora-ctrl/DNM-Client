@@ -3813,7 +3813,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4045,7 +4045,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5993,7 +5993,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6665,7 +6665,7 @@ MonoBehaviour:
   fontSuffix:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7250,7 +7250,7 @@ MonoBehaviour:
   fontSuffix:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9689,7 +9689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10103,7 +10103,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u88C5\u5907\u5957\u88C5"
+  mText: "Level equipment set"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10598,7 +10598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u963F\u5361\u4E3D\u5957\u88C5"
+  mText: "Akali suit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

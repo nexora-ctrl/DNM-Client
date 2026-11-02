@@ -974,7 +974,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u500D\u79EF\u5206"
+  mText: "Triple Score"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -1245,7 +1245,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1325,7 +1325,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u62A5"
+  mText: "battle report"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1474,7 +1474,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u8DEF"
+  mText: "Hit the road"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1542,7 +1542,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2D\u8DEF"
+  mText: "middle road"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1634,7 +1634,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1702,7 +1702,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u7684\u516C\u4F1A\u516C\u4F1A"
+  mText: "Guild of Dragon Nest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1794,7 +1794,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5148\u516C\u4F1A"
+  mText: "Leading Guild"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1862,7 +1862,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u4E2A\u5B57"
+  mText: "name name name"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2454,7 +2454,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u8DEF"
+  mText: "bottom lane"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2534,7 +2534,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u5723\u5929\u5802"
+  mText: "holy heaven"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2833,7 +2833,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u65F6\u95F4"
+  mText: "remaining time"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -1139,7 +1139,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5206 \u4EAB"
+  mText: "Share"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1416,7 +1416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u3010\u6218\u58EB\u3011\u6765\u53BB\u5982\u98CE\uFF0C\u7CBE\u901A\u5251\u6C14\u7684\u738B\u8005"
+  mText: "[Warrior] Come and go like the wind, the king who is proficient in sword energy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1502,7 +1502,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u7684\u5251\uFF0C\u5C31\u662F\u6211\u7684\u5251\u5C31\u662F\u6211\u7684\u5251\u7684\u5251"
+  mText: "Your sword is my sword, my sword's sword"
   mFontSize: 22
   mFontStyle: 2
   mAlignment: 3
@@ -1574,7 +1574,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7"
+  mText: "bethcoder"
   mFontSize: 26
   mFontStyle: 2
   mAlignment: 3
@@ -2601,7 +2601,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E90\u6C0F\u6E90\u6E90\u6C0F\u6E90\u6E90\u6C0F"
+  mText: "Genji Genji Genji Genji"
   mFontSize: 26
   mFontStyle: 2
   mAlignment: 0

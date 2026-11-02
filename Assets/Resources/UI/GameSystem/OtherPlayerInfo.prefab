@@ -13588,7 +13588,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60\u6761\u4EF6\uFF1A\u7B49\u7EA710\u5F00\u653E"
+  mText: "Learning conditions: Open to level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13674,7 +13674,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C"
+  mText: "Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13760,7 +13760,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14356,7 +14356,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u7B49\u7EA730\uFF09"
+  mText: "(Level 30)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -14442,7 +14442,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u89D2\u517D"
+  mText: "unicorn"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14608,7 +14608,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79FB\u52A8\u901F\u5EA6"
+  mText: "Movement speed"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -15000,7 +15000,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u653B\u51FB\u653B\u51FB"
+  mText: "ATK ATK ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -15289,7 +15289,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15478,7 +15478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5 \u770B"
+  mText: "Check"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -15928,7 +15928,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7"
+  mText: "Title"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16060,7 +16060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth immortal myth"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -16252,7 +16252,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0D\u6B7B\u795E\u8BDD\u4E0D\u6B7B\u795E\u8BDD"
+  mText: "immortal myth immortal myth"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -16384,7 +16384,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79F0\u53F7"
+  mText: "Title"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23090,7 +23090,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23196,7 +23196,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23549,7 +23549,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u7A7A\u767D\u5904\u5173\u95ED"
+  mText: "Click on the blank space to close"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24188,7 +24188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5750\u9A91\u5C5E\u6027"
+  mText: "Mount attributes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24320,7 +24320,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5750\u9A91\u6280\u80FD"
+  mText: "Mount skills"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24449,7 +24449,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u73A9\u5BB6\u6CA1\u6709\u5750\u9A91"
+  mText: "The current player has no mount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -24663,7 +24663,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u73A9\u5BB6\u6CA1\u6709\u4E0A\u9635\u7CBE\u7075"
+  mText: "The current player has no elves in battle."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -26698,7 +26698,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u4F1A\u957F"
+  mText: "Guild President"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -26930,7 +26930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u77F3"
+  mText: "Messiahite"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -27096,7 +27096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5723\u676F"
+  mText: "Grail"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -27262,7 +27262,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u6676"
+  mText: "Dragonite"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -27428,7 +27428,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u89D2"
+  mText: "Dhorn"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -27984,7 +27984,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u516C\u544A"
+  mText: "Guild Announcement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -28056,7 +28056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6210\u5458"
+  mText: "guild member"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28128,7 +28128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7B49\u7EA7"
+  mText: "Guild level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -29815,7 +29815,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u7EA7\u5F00\u542F"
+  mText: "Open at level 10"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -30325,7 +30325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5 \u5907"
+  mText: "Gear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -30425,7 +30425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5 \u5907"
+  mText: "Gear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

@@ -1524,7 +1524,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A\u554A\u554A\u554A\u554A\u554A\u554A\u554A"
+  mText: "Ahhhhhhhhhhhhhhhhh"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1770,7 +1770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u6750\u6599"
+  mText: "Select material"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

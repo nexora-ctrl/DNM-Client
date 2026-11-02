@@ -4797,7 +4797,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u5956\u52B1"
+  mText: "Get rewarded"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5157,7 +5157,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u6B21\u6311\u6218Boss\u8840\u91CF\u4E0D\u4F1A\u6062\u590D"
+  mText: "The blood volume of the boss will not be restored next time you challenge him."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5229,7 +5229,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5406,7 +5406,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u5956\u52B1\u83B7\u5F97\u5956\u52B1"
+  mText: "get rewards get rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11065,7 +11065,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u901A\u5173\u7B2C\u4E00\u7AE0\uFF01"
+  mText: "Congratulations on clearing the first chapter!"
   mFontSize: 48
   mFontStyle: 0
   mAlignment: 0
@@ -11257,7 +11257,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70AB \u8000"
+  mText: "show off"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12141,7 +12141,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -12307,7 +12307,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9BOSS\u4F24\u5BB3 "
+  mText: "Damage to BOSS"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12473,7 +12473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "Boss\u5269\u4F59\u8840\u91CF"
+  mText: "Boss remaining health"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13247,7 +13247,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u7269\u54C1"
+  mText: "Get items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

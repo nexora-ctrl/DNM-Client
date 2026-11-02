@@ -2173,7 +2173,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "40\u7EA7\u5F00\u542F"
+  mText: "Open at level 40"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4137,7 +4137,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "40\u7EA7\u5F00\u542F"
+  mText: "Open at level 40"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4209,7 +4209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "40\u7EA7\u5F00\u542F"
+  mText: "Open at level 40"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4281,7 +4281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "60\u7EA7\u5F00\u542F"
+  mText: "Open at level 60"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4353,7 +4353,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "50\u7EA7\u5F00\u542F"
+  mText: "Open at level 50"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4425,7 +4425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "40\u7EA7\u5F00\u542F"
+  mText: "Open at level 40"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4497,7 +4497,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u9646\u63A2\u9669"
+  mText: "continental adventure"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4569,7 +4569,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "40\u7EA7\u5F00\u542F"
+  mText: "Open at level 40"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

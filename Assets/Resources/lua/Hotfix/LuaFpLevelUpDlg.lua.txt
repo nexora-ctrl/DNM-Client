@@ -1,4 +1,4 @@
-﻿--
+--
 --  LuaFpLevelUpDlg.lua
 --  Created by alexpeng on 2016/06/11 09:40:32
 --  Please make sure you file start with "Hotfix" or "Lua"

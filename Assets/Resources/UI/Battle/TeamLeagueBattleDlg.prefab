@@ -1777,7 +1777,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9000\u51FA\u4E0A\u9635\u961F\u5217"
+  mText: "Click to exit the queue"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2568,7 +2568,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57\u662F\u516B\u4E2A\u5B57"
+  mText: "The team name is eight characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -2636,7 +2636,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u654C\u65B9"
+  mText: "enemy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -2704,7 +2704,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64A4\u9500"
+  mText: "Cancel"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2864,7 +2864,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u65F6\u5019\u662F\u9EC4\u8272\u7684\u5B57"
+  mText: "The words are yellow when fighting"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3126,7 +3126,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u9635"
+  mText: "Deploy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3794,7 +3794,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u52A0\u5165\u4E0A\u9635\u961F\u5217"
+  mText: "Click to join the queue"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3919,7 +3919,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57\u662F\u516B\u4E2A\u5B57"
+  mText: "The team name is eight characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4134,7 +4134,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u65F6\u5019\u662F\u9EC4\u8272\u7684\u5B57"
+  mText: "The words are yellow when fighting"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4292,7 +4292,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5012\u8BA1\u65F6\u7ED3\u675F\u6B63\u5F0F\u5F00\u59CB"
+  mText: "The countdown ends and officially begins"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4885,7 +4885,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u65B9"
+  mText: "Our side"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

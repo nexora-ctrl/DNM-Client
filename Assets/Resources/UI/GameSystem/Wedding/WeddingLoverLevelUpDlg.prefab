@@ -1491,7 +1491,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1563,7 +1563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0"
+  mText: "Prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2048,7 +2048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2210,7 +2210,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u5BC6\u5347\u7EA7"
+  mText: "intimacy upgrade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2440,7 +2440,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u4F60\u63D0\u5347\u4F34\u4FA3\u7B49\u7EA7\u52305\u7EA7\uFF0C\u83B7\u5F97\u65B0\u7684\u4F34\u4FA3\u7279\u6743\uFF01"
+  mText: "Congratulations on raising your companion level to level 5 and gaining new companion privileges!"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2512,7 +2512,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u9053\u5177\u5DF2\u53D1\u9001\u5230\u60A8\u7684\u5305\u88F9\uFF0C\u8BF7\u6CE8\u610F\u67E5\u6536"
+  mText: "The activation items have been sent to your package, please check it carefully."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

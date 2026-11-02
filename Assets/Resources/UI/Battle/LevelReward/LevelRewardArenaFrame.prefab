@@ -1898,7 +1898,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u6B21\u5207\u78CB"
+  mText: "Discuss again"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2541,7 +2541,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2693,7 +2693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "xxx\u5DF2\u7ECF\u63D0\u524D\u88AB\u4EBA\u51FB\u8D25\u4E86\uFF0C\u4F60\u7684\u540D\u6B21\u53D8\u4E3Axx\u540D"
+  mText: "xxx has been defeated in advance, your ranking becomes xx"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3577,7 +3577,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6280\u573A\u6392\u540D\u4E0A\u5347"
+  mText: "Arena ranking rises"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3891,7 +3891,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u5728\u4E0EXXX\u7684\u5207\u78CB\u4E2D\u7565\u80DC\u4E00\u7B79"
+  mText: "Congratulations on being slightly better in the competition with XXX"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3963,7 +3963,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u4E0A\u5347"
+  mText: "Rank Improvement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -4431,7 +4431,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8363\u8A89"
+  mText: "get honor"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -4768,7 +4768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u5956\u52B1"
+  mText: "Extra bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -5980,7 +5980,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97"
+  mText: "get"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -6498,7 +6498,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8BC4\u5206"
+  mText: "Get a rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -6718,7 +6718,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[f3b65e]\u4E0A\u5347\u81F3 [ffffff]888[-] \u540D"
+  mText: "[f3b65e] rose to [ffffff]888[-]"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6831,7 +6831,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

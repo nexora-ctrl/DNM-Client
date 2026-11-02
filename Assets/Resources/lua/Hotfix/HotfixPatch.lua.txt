@@ -1,4 +1,4 @@
-﻿require "HotfixCallback.lua"
+require "HotfixCallback.lua"
 
 regist = {}
 

@@ -1568,7 +1568,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u7F34"
+  mText: "Submit"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2007,7 +2007,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u9053\u5177\u540D\u79F0"
+  mText: "prop name prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2537,7 +2537,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u7F34\u4E00\u4E2A\u9053\u5177\u53EF\u589E\u52A0\u4E00\u70B9\u60AC\u8D4F\u8FDB\u5EA6\u5F53\u524D\u60AC\u8D4F\u8FDB\u5EA6"
+  mText: "Turning in a prop can increase the current bounty progress by a little bit."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3336,7 +3336,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u9053\u5177\u540D\u79F0"
+  mText: "prop name prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

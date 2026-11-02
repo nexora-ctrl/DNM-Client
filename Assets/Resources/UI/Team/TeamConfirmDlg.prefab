@@ -871,7 +871,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540C \u610F"
+  mText: "Accept"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1334,7 +1334,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E73\u5747\u6218\u529B"
+  mText: "Average combat power"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1402,7 +1402,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2 \u7EDD"
+  mText: "Reject"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1547,7 +1547,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u56DB\u7AE0 4-1\u9ED1\u6697\u77FF\u5C71 \u6DF1\u6E0A"
+  mText: "Chapter 4 4-1 Dark Mine Abyss"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1719,7 +1719,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "h\u989D\u5475fdsf02"
+  mText: "hhehefdsf02"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -1787,7 +1787,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9080\u60A8\u52A0\u5165\u961F\u4F0D"
+  mText: "Invite you to join the team"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -1879,7 +1879,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u4EBA\u6570"
+  mText: "Number of Team Members"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

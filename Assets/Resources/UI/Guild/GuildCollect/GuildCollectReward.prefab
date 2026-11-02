@@ -1687,7 +1687,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5361\u724C\u5151\u6362"
+  mText: "Card redemption"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1992,7 +1992,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u96C6\u5361\u724C"
+  mText: "Collect cards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2072,7 +2072,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2913,7 +2913,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3039,7 +3039,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u5B8C\u6210"
+  mText: "Incomplete"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3107,7 +3107,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u67090\u79D2\u7ED3\u675F"
+  mText: "There are 0 seconds left to end"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -3187,7 +3187,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u4EE5\u548C\u516C\u4F1A\u4E2D\u7684\u540C\u4F34\u4EA4\u6362\u5361\u724C\u54E6"
+  mText: "You can exchange cards with your guild companions."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

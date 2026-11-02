@@ -1436,7 +1436,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u540D\u5B57\u7269\u54C1\u540D\u5B57"
+  mText: "Item name Item name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1748,7 +1748,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u5C06\u8D60\u9001\u7ED9\u540D\u5B57\u5B57"
+  mText: "You will be gifted with name words"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1948,7 +1948,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EC5\u4FDD\u5B58\u6700\u8FD120\u6761\u8BB0\u5F55"
+  mText: "Only save the latest 20 records"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2080,7 +2080,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u793C\u4EBA"
+  mText: "recipient"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2150,7 +2150,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1"
+  mText: "Items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2280,7 +2280,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E5\u671F"
+  mText: "Date"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2350,7 +2350,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u793C\u4EBA"
+  mText: "gift giver"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3052,7 +3052,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u793C\u8BB0\u5F55"
+  mText: "Gift record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3134,7 +3134,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9001\u793C\u8BB0\u5F55"
+  mText: "Gift record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3477,7 +3477,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u793C\u8BB0\u5F55"
+  mText: "Gift receipt record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3559,7 +3559,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u793C\u8BB0\u5F55"
+  mText: "Gift receipt record"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3641,7 +3641,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u793C\u7269\u76D2"
+  mText: "gift box"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

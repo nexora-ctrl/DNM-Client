@@ -692,7 +692,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u675F\u76F4\u64AD"
+  mText: "End live broadcast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -964,7 +964,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6253\u5F00\u6444\u50CF\u50CF"
+  mText: "Open camera"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1032,7 +1032,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536 \u8D77"
+  mText: "Close"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1675,7 +1675,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907\u73A9\u5BB6\u6CA1\u6709\u7A7F\u6234\u88C5\u5907"
+  mText: "Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment Player is not wearing equipment"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

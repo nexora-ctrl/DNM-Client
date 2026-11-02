@@ -4096,7 +4096,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D\u6587\u4E2D"
+  mText: "Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese Chinese"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1

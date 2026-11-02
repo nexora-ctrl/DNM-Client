@@ -1700,7 +1700,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u65E0\u4EBA\u4E0A\u9635"
+  mText: "No one from the team is participating"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 3
@@ -2060,7 +2060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u65E0\u4EBA\u4E0A\u9635"
+  mText: "No one from the team is participating"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 3
@@ -2212,7 +2212,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2598,7 +2598,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3050,7 +3050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u529B"
+  mText: "combat effectiveness"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3122,7 +3122,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u529B"
+  mText: "combat effectiveness"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3294,7 +3294,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3454,7 +3454,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4166,7 +4166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4433,7 +4433,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4773,7 +4773,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u6311\u6218\u5C06\u4ECE\u6DF1\u6E0A\u7B2C\u4E00\u5C42\u5F00\u59CB"
+  mText: "This challenge will start from the first level of the abyss"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

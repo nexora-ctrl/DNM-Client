@@ -528,7 +528,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u6210\u5458"
+  mText: "Teammate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1023,7 +1023,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u7684\u963F\u5C14\u6770\u5854\u554A"
+  mText: "The heroic Argenta"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0

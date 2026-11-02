@@ -794,7 +794,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -1108,7 +1108,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1188,7 +1188,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\uFF1A"
+  mText: "Level:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1906,7 +1906,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\uFF1A"
+  mText: "Occupation:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2120,7 +2120,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700 \u6C42"
+  mText: "demand"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2291,7 +2291,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653E \u5F03"
+  mText: "give up"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

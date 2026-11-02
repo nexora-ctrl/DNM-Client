@@ -938,7 +938,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6"
+  mText: "Rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1117,7 +1117,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -1346,7 +1346,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6\u64E6"
+  mText: "Rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub rub"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

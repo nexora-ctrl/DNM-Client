@@ -1337,7 +1337,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709122:45:45\u7ED3\u675F"
+  mText: "End in 122:45:45"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1423,7 +1423,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u6B21\u6570 3"
+  mText: "Remaining times 3"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1769,7 +1769,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u526F\u672C\u5956\u52B1"
+  mText: "Copy reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2139,7 +2139,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u6311\u6218"
+  mText: "Head to Challenges"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

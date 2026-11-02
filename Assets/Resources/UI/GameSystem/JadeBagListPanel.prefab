@@ -1780,7 +1780,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE8\u80F8\u7684\u9F99\u7389"
+  mText: "Big breasted dragon jade"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2316,7 +2316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u8981\u9576\u5D4C\u7684\u9F99\u7389"
+  mText: "Please select the dragon jade to be inlaid"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2522,7 +2522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u5408\u6210"
+  mText: "Quick Synth"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2678,7 +2678,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(49\u7EA7\u88C5\u5907\u9700\u8981\u9576\u5D4C49\u7EA7\u4EE5\u4E0A\u9F99\u7389)"
+  mText: "(Level 49 equipment needs to be inlaid with level 49 or above dragon jade)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3040,7 +3040,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u653B\u51FB\u653B\u51FB"
+  mText: "ATK ATK ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

@@ -4842,7 +4842,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C\u8F6C\u79FB"
+  mText: "experience transfer"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5079,7 +5079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u6C42\u6750\u6599"
+  mText: "Required materials"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5437,7 +5437,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6C\u79FB"
+  mText: "Transfer"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -6300,7 +6300,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9A91\u4E58"
+  mText: "Ridden"
   mFontSize: 17
   mFontStyle: 0
   mAlignment: 0
@@ -6778,7 +6778,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8001\u738B\u8001\u738B"
+  mText: "Laowang Laowang"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -7729,7 +7729,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u7EA7\u5F00\u542F"
+  mText: "Open at level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7975,7 +7975,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6C\u79FB\u540E\u572816\u7EA7\u4E4B\u524D\u7684\u5347\u7EA7\u90FD\u65E0\u6CD5\u9886\u609F\u6280\u80FD"
+  mText: "After transfer, you will not be able to comprehend skills if you upgrade before level 16."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8252,7 +8252,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6C\u79FB\u540E\u572816\u7EA7\u4E4B\u524D\u7684\u5347\u7EA7\u90FD\u65E0\u6CD5\u9886\u609F\u6280\u80FD"
+  mText: "After transfer, you will not be able to comprehend skills if you upgrade before level 16."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9340,7 +9340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u7EA7\u5F00\u542F"
+  mText: "Open at level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9840,7 +9840,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u89D2\u517D \u7075\u5149\u4E00\u95EA\uFF01\u9886\u609F\u4E86 \u6280\u80FD\u540D\u79F0"
+  mText: "Unicorn had a flash of inspiration! Understood the skill name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10196,7 +10196,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60\u6761\u4EF6\uFF1A\u7B49\u7EA710\u5F00\u653E"
+  mText: "Learning conditions: Open to level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10282,7 +10282,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C"
+  mText: "Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10368,7 +10368,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10860,7 +10860,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10946,7 +10946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C\u6280\u80FD\u63CF\u4E09\u884C"
+  mText: "Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines. Skills are drawn in three lines."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11032,7 +11032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B66\u4E60\u6761\u4EF6\uFF1A\u7B49\u7EA710\u5F00\u653E"
+  mText: "Learning conditions: Open to level 10"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11388,7 +11388,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72EC\u89D2\u517D \u7075\u5149\u4E00\u95EA\uFF01\u9886\u609F\u4E86 \u6280\u80FD\u540D\u79F0"
+  mText: "Unicorn had a flash of inspiration! Understood the skill name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1571,7 +1571,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B8B\u66B4\u7684\u5154\u5B50\u649E"
+  mText: "Brutal bunny banging"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1731,7 +1731,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u7B49\u7EA7"
+  mText: "Skill level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1968,7 +1968,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u957F\u6280\u80FD"
+  mText: "Captain Skill"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2185,7 +2185,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6301\u7EED\u65F6\u95F4"
+  mText: "duration"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2331,7 +2331,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u559D\u7CA5\u7684\u65F6\u5019\u7075\u5149\u4E00\u73B0\u83B7\u5F97\u53EF\u4EE5\u6CBB\u6108\u961F\u4F0D\u7684\u80FD\u529B\uFF0C\u662F\u4E2A\u53EF\u9760\u7684\u4F19\u4F34\u554A\uFF01\uFF01"
+  mText: "While eating porridge, he had a flash of inspiration and gained the ability to heal the team. He is a reliable partner! !"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2411,7 +2411,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u63CF\u8FF0"
+  mText: "Skill description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2614,7 +2614,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+100000"
+  mText: "Attack +100000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2694,7 +2694,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6548\u679C"
+  mText: "Current effect"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2918,7 +2918,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B8B\u66B4\u7684\u5154\u5B50\u649E"
+  mText: "Brutal bunny banging"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3078,7 +3078,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u54C1\u8D28"
+  mText: "Skill quality"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3393,7 +3393,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u957F\u6280\u80FD"
+  mText: "Captain Skill"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3608,7 +3608,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+100"
+  mText: "Attack +100"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3688,7 +3688,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u6548\u679C"
+  mText: "Skill effect"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

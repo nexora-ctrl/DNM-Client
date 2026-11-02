@@ -4976,7 +4976,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DC5\u5CF0\u699C"
+  mText: "Peak list"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5242,7 +5242,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u534A\u51B3\u8D5B20\uFF1A20\u5F00\u6218"
+  mText: "The semi-finals start at 20:20"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5402,7 +5402,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5788,7 +5788,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -6034,7 +6034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -6266,7 +6266,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6457,7 +6457,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -6703,7 +6703,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -6935,7 +6935,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7126,7 +7126,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -7372,7 +7372,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -7604,7 +7604,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7875,7 +7875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -8121,7 +8121,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -8273,7 +8273,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8544,7 +8544,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -8790,7 +8790,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -8942,7 +8942,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9213,7 +9213,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 3
@@ -9459,7 +9459,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 3
@@ -9611,7 +9611,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9882,7 +9882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 3
@@ -10128,7 +10128,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516B\u4E2A\u5B57\u554A"
+  mText: "Guild Name"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 3
@@ -10280,7 +10280,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218"
+  mText: "Spectate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10471,7 +10471,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "B\r\u7EC4"
+  mText: "Bgroup"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10557,7 +10557,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "A\r\u7EC4"
+  mText: "Agroup"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11501,7 +11501,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u8FD8\u6CA1\u6709\u53C2\u52A0\u8FC7\u6BD4\u8D5B\u5594"
+  mText: "You haven't participated in a competition yet"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -11587,7 +11587,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u8D5B\u6392\u540D\u524D8\u7684\u516C\u4F1A\u6700\u7EC8\u5165\u56F4\u5DC5\u5CF0\u5BF9\u51B3\n\u5DC5\u5CF0\u5BF9\u51B3\u6BCF\u4E2A\u516C\u4F1A\u53EF\u4E0A\u9635\u4E94\u540D\u6210\u5458\u8FDB\u884C1V1\u8F66\u8F6E\u6218"
+  mText: "The top 8 guilds in the points competition are finally shortlisted for the peak showdown\nIn the Peak Showdown, each guild can field five members for a 1V1 wheel battle."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -12858,7 +12858,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C1\u5C4A"
+  mText: "1st session"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13050,7 +13050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -14130,7 +14130,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DC5\u5CF0\u64C2\u53F0\u6218"
+  mText: "Peak arena battle"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

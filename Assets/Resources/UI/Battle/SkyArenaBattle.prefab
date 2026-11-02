@@ -729,7 +729,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u534A\u573A\u5373\u5C06\u5F00\u59CB"
+  mText: "The second half is about to begin"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -935,7 +935,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u51FA"
+  mText: "DPS"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u51FA"
+  mText: "DPS"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1071,7 +1071,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u961F"
+  mText: "Our team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1139,7 +1139,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u654C\u961F"
+  mText: "enemy team"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -1686,7 +1686,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5339\u914D\u5012\u8BA1\u65F6\uFF1A22:22"
+  mText: "Match countdown: 22:22"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

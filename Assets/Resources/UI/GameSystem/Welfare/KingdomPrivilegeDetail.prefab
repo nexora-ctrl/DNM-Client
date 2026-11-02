@@ -926,7 +926,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u8BE6\u60C5"
+  mText: "Privilege details"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1684,7 +1684,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u7231\u7684\u8C37\u8FF7\uFF1A\n\u5C0A\u8D35\u7684xxx\u542C\u95FB\u60A8\u52A0\u5165xxx\uFF0C\u7279\u6B64\u53D1\u6765\u8D3A\u7535\uFF01"
+  mText: "Dear Valley fans:\nDear xxx, I heard that you joined xxx, and hereby send you a congratulatory message!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1824,7 +1824,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2135,7 +2135,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\u7EA7\u7CBE\u7075\r"
+  mText: "Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf Level Elf"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2342,7 +2342,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BAB\u5EF7\u8D35\u65CF"
+  mText: "court nobles"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

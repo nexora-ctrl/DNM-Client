@@ -411,7 +411,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u7EA7\u7684\u5C0F\u6E23\u6E23\u4EEC\uFF01\u98A4\u6296\u5427\uFF01"
+  mText: "Level 1 little scumbags! Tremble!"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -593,7 +593,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80"
+  mText: "Go"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -930,7 +930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u8DEF\u8D70\u6765\uFF0C\u56DE\u5FC6\u90A3\u4E9B\u5E76\u80A9\u4F5C\u6218\u7684\u6E29\u6696\u3001\u6709\u6CEA\u6709\u7B11\u7684\u611F\u52A8\uFF01\n\u7EE7\u7EED\u524D\u884C\uFF0C\u4E3A\u4E86\u4FE1\u5B88\u66FE\u7ECF\u4E0E\u5E76\u80A9\u8001\u53CB\u7684\u8BFA\u8A00\uFF01\n\u91CD\u65B0\u542F\u822A\uFF0C\u8BA9\u6211\u4EEC\u91CD\u62FE\u90A3\u4EFD\u611F\u52A8\uFF01"
+  mText: "Along the way, I recall the warmth of fighting side by side, the touching moments of tears and laughter!\nKeep moving forward, in order to keep the promise we made with our old friends!\nSet sail again and let us regain that feeling!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

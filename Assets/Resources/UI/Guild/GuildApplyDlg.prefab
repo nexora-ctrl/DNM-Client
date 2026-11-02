@@ -964,7 +964,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DB\u52DF\u6761\u4EF6"
+  mText: "Recruitment conditions"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u5BA1\u6279"
+  mText: "Approval required"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1462,7 +1462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5426"
+  mText: "No"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1785,7 +1785,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B\u8981\u6C42"
+  mText: "Combat strength requirements"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1957,7 +1957,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533 \u8BF7"
+  mText: "Apply"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2134,7 +2134,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u516C\u4F1A"
+  mText: "Enter the guild"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2206,7 +2206,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u5165\u516C\u4F1A"
+  mText: "Invite"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3373,7 +3373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B22\u8FCE\u5927\u5BB6\u52A0\u5165\u672C\u4EBA\u7684\u516C\u4F1A\uFF0C\u5728\u672C\u516C\u4F1A\uFF0C\u4E00\u5207\u4EE5\u4F1A\u957F\u4E3A\u91CD\uFF0C\u4F1A\u957F\u7684\u547D\u4EE4\u4E0D\u5F97\u8FDD\u6297\uFF0C\u6BCF\u5929\u5FC5\u987B\u767D\u91D1\u7B7E\u5230\uFF0C\u4F1A\u957F\u7684\u547D\u4EE4\u9AD8\u4E8E\u4E00\u5207\uFF0C\u9AD8\u4E8E\u4E00\u5207\u61C2\u5417\uFF1F\u6BD4\u4F60\u56DE\u5BB6\u5403\u996D\u90FD\u9AD8\uFF01\u6700\u540E\uFF0C\u672C\u4EBA\u53EB\u7A0B\u660E\u660E\u3002\u6BD4\u4F60\u56DE\u5BB6\u5403\u996D\u90FD\u9AD8\uFF01\u6700\u540E\uFF0C\u672C\u4EBA\u53EB\u7A0B\u660E\u660E\u3002\u6BD4\u4F60\u56DE\u5BB6\u5403\u996D\u90FD\u9AD8\uFF01\u6700\u540E\uFF0C\u672C\u4EBA\u53EB\u7A0B\u660E\u660E\u3002\u6BD4\u4F60\u56DE\u5BB6\u5403\u996D\u90FD\u9AD8\uFF01"
+  mText: "Welcome everyone to join my guild. In this guild, everything is focused on the president. You must not disobey the president's orders. You must sign in platinum every day. The president's orders are above everything else. Do you understand? It’s higher than when you go home to eat! Finally, my name is Cheng Mingming. It’s higher than when you go home to eat! Finally, my name is Cheng Mingming. It’s higher than when you go home to eat! Finally, my name is Cheng Mingming. It’s higher than when you go home to eat!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

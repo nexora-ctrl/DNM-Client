@@ -6001,7 +6001,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u5956\u52B1"
+  mText: "Master and Disciple Rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -6127,7 +6127,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "60<=\u5B8C\u6210\u5E08\u5F92\u4EFB\u52A1\u6B21\u6570"
+  mText: "60<=number of master-apprentice tasks completed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6279,7 +6279,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5B8C\u7F8E\u51FA\u5E08"
+  mText: "Perfect start"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6620,7 +6620,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533\u8BF7\u6D88\u606F"
+  mText: "Application news"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8695,7 +8695,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9170,7 +9170,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u62DC\u5E08\u5185\u5BB9\u6211\u7684\u62DC\u5E08\u5185\u5BB9\u6211\u7684\u62DC\u5E08\u5185\u5BB9\u6211\u7684\u62DC\u5E08\u5185\u5BB9\u6211\u7684\u62DC\u5E08\u5185\u5BB9\u6211\u7684\u62DC\u5E08\u5185\u5BB9"
+  mText: "Contents of my apprenticeship Contents of my apprenticeship Contents of my apprenticeship Contents of my apprenticeship Contents of my apprenticeship Contents of my apprenticeship My apprenticeship content"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9296,7 +9296,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u6682\u65F6\u4E0D\u9700\u8981\u5F92\u5F1F\u6216\u8005\u5E08\u7236"
+  mText: "I don't need an apprentice or a master for the time being"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9546,7 +9546,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9697,7 +9697,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE  \u7F6E"
+  mText: "Settings"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -9823,7 +9823,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u5165"
+  mText: "Click to Enter"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9975,7 +9975,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u5BA3\u8A00"
+  mText: "my declaration"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10192,7 +10192,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5 \u53D7"
+  mText: "Accept"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10466,7 +10466,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5 \u53D7"
+  mText: "Accept"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10720,7 +10720,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u51FA\u5E08\u7684\u5F92\u5F1F2/2"
+  mText: "Disciple who has not yet left his master's degree 2/2"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11226,7 +11226,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE\u7F6E"
+  mText: "Settings"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11500,7 +11500,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u5546\u5E97"
+  mText: "Master and Apprentice Store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11696,7 +11696,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u952E\u62A5\u544A"
+  mText: "One-click reporting"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11920,7 +11920,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79C1\u804A"
+  mText: "PM"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -12103,7 +12103,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u89C4\u5219"
+  mText: "Bonus rules"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12461,7 +12461,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u5F92\u6761\u4EF6"
+  mText: "Conditions for accepting apprentices"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12727,7 +12727,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DC\u5E08\u6761\u4EF6"
+  mText: "Conditions for apprenticeship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13364,7 +13364,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u62DC\u5E08\u5BA3\u8A00"
+  mText: "Apprentice’s Declaration:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13432,7 +13432,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -13830,7 +13830,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u89C4\u5219"
+  mText: "Bonus rules"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14093,7 +14093,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u5546\u5E97"
+  mText: "Master and Apprentice Store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14425,7 +14425,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE\u7F6E"
+  mText: "Settings"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16319,7 +16319,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FA\u5E08\u6761\u4EF6\uFF1A\u5E08\u5F92\u4EFB\u52A110/20  \u62DC\u5E08\u5929\u65701/14"
+  mText: "Conditions for becoming a master: Master-apprentice mission 10/20, apprenticeship days 1/14"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -16387,7 +16387,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A020\u6B21\u6DF1\u6E0A\u526F\u672C\u6DF1\u6E0A\u526F\u672C\u6DF1\u6E0A\r"
+  mText: "Participate in 20 times of Abyss dungeon Abyss dungeon Abyss"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -16843,7 +16843,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u65E5\u5E08\u5F92\u4F20\u529F"
+  mText: "Daily master-disciple teaching"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17949,7 +17949,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u4EFB\u52A1"
+  mText: "Master and apprentice tasks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -18096,7 +18096,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62A5\u544A\u5956\u52B1"
+  mText: "Reporting rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -18222,7 +18222,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5EA6"
+  mText: "Progress"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -18715,7 +18715,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F92\u5F1F\u5956\u52B1"
+  mText: "Apprentice reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -18783,7 +18783,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u7236\u5956\u52B1"
+  mText: "Master reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -18851,7 +18851,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u7236\u5956\u52B1"
+  mText: "Master reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -18919,7 +18919,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F92\u5F1F\u5956\u52B1"
+  mText: "Apprentice reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -19103,7 +19103,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u901A\u51FA\u5E08"
+  mText: "Ordinary apprenticeship"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19255,7 +19255,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "50<=\u5B8C\u6210\u5E08\u5F92\u4EFB\u52A1\u6B21\u6570<60"
+  mText: "50<=Number of completed master-disciple tasks<60"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

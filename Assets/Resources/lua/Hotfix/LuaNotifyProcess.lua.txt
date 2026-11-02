@@ -1,4 +1,4 @@
-﻿--
+--
 --  LuaNotifyProcess.lua
 --  Created by alexpeng on 2016/06/07 07:26:47
 --  Please make sure you file start with "Hotfix" or "Lua"

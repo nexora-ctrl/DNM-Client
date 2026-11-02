@@ -911,7 +911,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -983,7 +983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u6392\u884C"
+  mText: "Personal Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1099,7 +1099,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3652\u4EBF"
+  mText: "365.2 billion"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -1424,7 +1424,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u54C8\u54C8\u54E6\u54E6"
+  mText: "Chat Message"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3545\u4E07"
+  mText: "35.45 million"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -1579,7 +1579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1736,7 +1736,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2056,7 +2056,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u662F\u63D0\u793A"
+  mText: "Here are the tips"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2160,7 +2160,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u5012\u8BA1\u65F6"
+  mText: "Revive Countdown"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

@@ -3067,7 +3067,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u670D\u7B2C2\u5468\u5F00\u542F\u516C\u4F1A\u64C2\u53F0\u6218\uFF0C\u4E24\u5468\u4E3A\u4E00\u4E2A\u8D5B\u671F\n\u5355\u5468\u5468\u4E00\u81F3\u5468\u4E8C19\uFF1A00\u516C\u4F1A\u8FBE\u52302\u7EA7\u5373\u53EF\u62A5\u540D\n\u6BCF\u5468\u4E8C\u3001\u5468\u56DB\u665A20\uFF1A00\u5DF2\u62A5\u540D\u516C\u4F1A\u8FDB\u884C\u79EF\u5206\u8D5B\n\u79EF\u5206\u8D5B\u7ED3\u675F\u7D2F\u79EF\u79EF\u5206\u6700\u9AD8\u7684\u524D8\u540D\u516C\u4F1A\u5C06\u5165\u56F4\u5DC5\u5CF0\u51B3\u6218\u5E76\u4E8E\u5F53\u5468\u516D\u665A20\uFF1A00\u8FDB\u884C\n\n\u6BCF\u4E2A\u516C\u4F1A\u53EF\u4E0A\u9635\u4E94\u540D\u6210\u5458\u8FDB\u884C1V1\u8F66\u8F6E\u6218\n\n\u6240\u6709\u53C2\u6218\u516C\u4F1A\u6210\u5458\u90FD\u53EF\u4EE5\u83B7\u5F97\u4E30\u539A\u5956\u52B1"
+  mText: "The guild arena battle will start in the second week after the server is launched. Two weeks are a competition period.\nYou can register if your guild reaches level 2 at 19:00 from Monday to Tuesday in a single week\nEvery Tuesday and Thursday night at 20:00, registered guilds will hold points competitions\nAt the end of the points competition, the top 8 guilds with the highest accumulated points will be shortlisted for the final showdown, which will be held at 20:00 that Saturday night.\n\nEach guild can field five members for 1V1 wheel battles\n\nAll guild members participating in the battle can receive generous rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3727,7 +3727,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956 \u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4255,7 +4255,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u8F6E\u5927\u5956"
+  mText: "Single round jackpot"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4584,7 +4584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB   \u5165"
+  mText: "Enter"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5137,7 +5137,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5374,7 +5374,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6251\u514B\u4E4B\u738B"
+  mText: "king of poker"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -5770,7 +5770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62A5 \u540D"
+  mText: "Register"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5988,7 +5988,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73B0\u5728\u53EF\u4EE5\u62A5\u540D\u4E86\uFF01"
+  mText: "Registration is now open!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6060,7 +6060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73B0\u5728\u53EF\u4EE5\u62A5\u540D\u4E86\uFF01"
+  mText: "Registration is now open!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6132,7 +6132,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B63\u5728\u5339\u914D\u4E2D"
+  mText: "Matching"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6655,7 +6655,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D10\u540D"
+  mText: "Top 10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

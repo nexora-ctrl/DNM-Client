@@ -2800,7 +2800,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u5408\u540D\u5B57"
+  mText: "combination name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3112,7 +3112,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3256,7 +3256,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u5E08"
+  mText: "mage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3434,7 +3434,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u884C\u6700\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A\u591A"
+  mText: "A line of up to more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more, more"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5650,7 +5650,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u5F00\u653E"
+  mText: "Not open"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6523,7 +6523,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E8C\u9F99\u7EC4\u5408"
+  mText: "Two dragon combination"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

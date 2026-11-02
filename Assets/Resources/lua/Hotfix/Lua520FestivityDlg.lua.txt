@@ -24,7 +24,7 @@ local normalDonateBtnObj = nil
 local normalDonateBtnPath = "Main/Rose1/BtnSubmit"
 
 --读表
-local tips = "所需道具不足，无法捐献"
+local tips = "Not enough items to donate"
 
 --特殊玫瑰捐献
 ---@type UnityEngine.GameObject
@@ -36,7 +36,7 @@ local specialDonateBtnObj = nil
 local specialDonateBtnPath = "Main/Rose2/BtnSubmit"
 
 local CurScoreTileLb = nil
-local CurScoreTileStr = "全服恋爱值"
+local CurScoreTileStr = "Server Romance Value"
 local CurScoreNumLb = nil
 
 ---@type UnityEngine.Transform
@@ -479,7 +479,7 @@ function Lua520FestivityDlg.RankingHandle(theMyRanking, rankSpr, rankLb)
 
 	if theMyRanking == 4294967295 then
 		rankLb.gameObject:SetActive(true)
-		rankLb.text = "未上榜"
+		rankLb.text = "Unranked"
 		return
 	end
 
@@ -701,9 +701,9 @@ end
 --
 --	if m_TimerLbl ~= nil then
 --	 	if seconds < 0 or min <0 or hour <0 then
---	    	m_TimerLbl.text = "活动倒计时 00:00:00"
+--	    	m_TimerLbl.text = "Event Countdown 00:00:00"
 --	    else
---	    	m_TimerLbl.text = "活动倒计时 "..s_hour..":"..s_min..":"..s_second
+--	    	m_TimerLbl.text = "Event Countdown "..s_hour..":"..s_min..":"..s_second
 --	    end
 --	end
 --end

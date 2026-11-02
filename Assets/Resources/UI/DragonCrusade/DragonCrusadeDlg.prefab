@@ -1939,7 +1939,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u8F7D\u4E2D"
+  mText: "Loading"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2011,7 +2011,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73CD\u60DC\u6BCF\u59292\u6B21\u6311\u6218\u8FDC\u5F81\u7684\u673A\u4F1A\uFF0C\u63D0\u5347\u6218\u529B\u4F1A\u8BA9\u6311\u6218\u66F4\u8F7B\u677E"
+  mText: "Cherish the opportunity to challenge the expedition twice a day. Improving your combat power will make the challenge easier."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2953,7 +2953,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u5C31\u4E0D\u544A\u8BC9\u4F60"
+  mText: "I won't tell you"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3169,7 +3169,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u5C31\u4E0D\u544A\u8BC9\u4F60"
+  mText: "I won't tell you"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4550,7 +4550,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E005\u70B9\u91CD\u7F6E"
+  mText: "Reset every Monday at 5 o'clock"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5175,7 +5175,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5379,7 +5379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5451,7 +5451,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u540D"
+  mText: "Character name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5523,7 +5523,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5655,7 +5655,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -5890,7 +5890,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u5C31\u4E0D\u544A\u8BC9\u4F60"
+  mText: "I won't tell you"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

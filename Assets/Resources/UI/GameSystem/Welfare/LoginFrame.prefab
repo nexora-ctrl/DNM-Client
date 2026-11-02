@@ -2884,7 +2884,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u606D\u559C\u83B7\u5F97       \u500D\u5956\u52B1"
+  mText: "Congratulations on getting twice the reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3050,7 +3050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u66B4\u51FB\u5956\u52B1"
+  mText: "Critical hit bonus"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3362,7 +3362,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "        \u5929"
+  mText: "d"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3594,7 +3594,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "QQ\u4F1A\u5458\u6BCF\u65E5\u7B7E\u5230\u53EF\u989D\u5916\u9886\u53D62000\u91D1\u5E01"
+  mText: "QQ members who sign in every day can receive an additional 2,000 gold coins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4091,7 +4091,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u8865\u7B7E"
+  mText: "Can be re-signed"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4544,7 +4544,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5043,7 +5043,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B7E \u5230"
+  mText: "Check-in"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5591,7 +5591,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u67081\u53F7\u91CD\u7F6E\u7B7E\u5230\u5956\u52B1"
+  mText: "Sign-in rewards reset on the 1st of every month"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -5883,7 +5883,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8\u5956\u52B11000\u91D1\u5E01"
+  mText: "The game center starts with a reward of 1,000 gold coins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6095,7 +6095,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8865\u7B7E"
+  mText: "Re-signing"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6167,7 +6167,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0A\u8D35\u7684\u5546\u4F1A\u4F1A\u5458\u4F60\u62E5\u6709\u7B7E\u5230\u7FFB\u500D\u7684\u7279\u6743\u54E6"
+  mText: "As a distinguished member of the Chamber of Commerce, you have the privilege of double your sign-in."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9015,7 +9015,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u4F1A\u6210\u5458\u7279\u6743\u53EF\u4EAB\u53D7\u5927\u91CF\u5956\u52B1\u7FFB\u500D\u798F\u5229"
+  mText: "Member privileges of the Chamber of Commerce can enjoy a large number of double bonus benefits"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9161,7 +9161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8\u5956\u52B11000\u91D1\u5E01"
+  mText: "The game center starts with a reward of 1,000 gold coins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

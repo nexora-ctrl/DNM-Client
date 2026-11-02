@@ -4587,7 +4587,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u4E0A\u67B6\u5546\u54C1"
+  mText: "Products already on the shelves"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4854,7 +4854,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62CD\u5356\u884C"
+  mText: "auction house"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4986,7 +4986,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62CD\u5356\u884C"
+  mText: "auction house"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5086,7 +5086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u7B97"
+  mText: "Settlement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5172,7 +5172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u7B97"
+  mText: "Settlement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5824,7 +5824,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -7731,7 +7731,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u67B6"
+  mText: "Removed from shelves"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8114,7 +8114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EA4\u6613\u6240"
+  mText: "exchange"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -8246,7 +8246,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u8D2D\u4E70"
+  mText: "I want to buy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8332,7 +8332,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u8D2D\u4E70"
+  mText: "I want to buy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8685,7 +8685,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72B6\u6001"
+  mText: "Status"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8983,7 +8983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u5929"
+  mText: "5 days"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9055,7 +9055,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u683C"
+  mText: "Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9241,7 +9241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u65F6\u95F4"
+  mText: "remaining time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9373,7 +9373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1"
+  mText: "Items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9505,7 +9505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6807\u6210\u529F"
+  mText: "Bid Success"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9697,7 +9697,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u7EED\u8D39"
+  mText: "handling fee"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10114,7 +10114,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u4EF7\u683C+10%"
+  mText: "Recommended price +10%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10220,7 +10220,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u54C1\u4E0B\u67B6"
+  mText: "Unshelf Item"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10643,7 +10643,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -10820,7 +10820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u65B0\u4E0A\u67B6"
+  mText: "Re-shelve Item"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11157,7 +11157,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u7269\u54C1a\u4E0A\u67B6"
+  mText: "Item a is put on the shelf"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -11458,7 +11458,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EF7"
+  mText: "Unit Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11759,7 +11759,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6570\u91CF"
+  mText: "Amount"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12060,7 +12060,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4EF7"
+  mText: "Total Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12192,7 +12192,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD1\u671F\u54C1\u5747\u6210\u4EA4\u4EF7\u683C"
+  mText: "Average transaction price of recent items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12618,7 +12618,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13236,7 +13236,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4EF7"
+  mText: "Total Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13474,7 +13474,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "5\u5929"
+  mText: "5 days"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13619,7 +13619,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5269\u4F59\u65F6\u95F4"
+  mText: "remaining time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13751,7 +13751,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1"
+  mText: "Items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13895,7 +13895,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u51FA\u552E"
+  mText: "Return for sale"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -14370,7 +14370,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EF7"
+  mText: "Unit Price"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14603,7 +14603,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u51FA\u552E"
+  mText: "I want to sell"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14689,7 +14689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u51FA\u552E"
+  mText: "I want to sell"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

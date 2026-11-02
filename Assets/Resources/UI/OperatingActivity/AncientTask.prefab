@@ -1162,7 +1162,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u53E4\u4EFB\u52A1"
+  mText: "ancient quest"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1381,7 +1381,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u5185\u5BB9"
+  mText: "Task content"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1795,7 +1795,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u6CE2\uFF1A\u5728\u8FDC\u79BB\u6C34\u6676\u4F4D\u7F6E\u5237N\u56E2\u602A\uFF0C\u5728\u7B49\u5019N\u79D2\u4E4B\u540E,\u5728\u6C34\u6676\u9644\u8FD1\u5237\u51E0\u4E2ABUFF\u602A\uFF08\u9700\u8981\u5206\u5934\u62E6\u622A\uFF0C\u5426\u5219\u63A5\u8FD1\u6C34\u6676\u6218\u6597\u4F1A\u88AB\u52A0\u6210\uFF09\n\u7B2C\u4E8C\u6CE2\uFF1A\u5728\u8FDC\u79BB\u6C34\u6676\u4F4D\u7F6E\u5237N\u56E2\u602A\uFF0C\u5728\u7B49\u5019N\u79D2\u4E4B\u540E\uFF0C\u5728\u5237\u602A\u4F4D\u7F6E\u5237\u51E0\u4E2ABUFF\u602A\uFF0C\u4E14BUFF\u602A\u79FB\u52A8\u901F\u5EA6\n\u6700\u7EC8\u6CE2\uFF1A\u5728\u6C34\u6676\u9644\u8FD1\u5237\u51FA\u73A9\u5BB6\u52A0\u6210BUFF\uFF0C\u8BBE\u7F6EBOSS\n\u8FDB\u653B\uFF0C\u8BBE\u7F6EBOSS\u591AAOE\uFF0C\u4E14N\u79D2\u540E\u56DE\u8840\u72C2\u66B4"
+  mText: "The first wave: Spawn N groups of monsters far away from the crystal. After waiting for N seconds, spawn a few BUFF monsters near the crystal (you need to intercept them separately, otherwise the battle close to the crystal will be bonused)\nThe second wave: Spawn N groups of monsters far away from the crystal. After waiting for N seconds, spawn a few BUFF monsters at the monster spawning position, and the BUFF monsters move at the same speed.\nFinal wave: Spawn player bonus BUFF near the crystal and set BOSS\nAttack, set up BOSS with multiple AOEs, and return blood violently after N seconds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1943,7 +1943,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2017.3.15\u5F00\u542F"
+  mText: "Opened on 2017.3.15"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -2219,7 +2219,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u5956\u52B1"
+  mText: "Task reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2659,7 +2659,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u53E4\u5965\u79D8\u7684\u5F00\u7AEF\uFF1A\u4E0A"
+  mText: "The Beginning of the Ancient Mysteries: Part 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3022,7 +3022,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u53E4\u5965\u79D8\u7684\u5F00\u7AEF\uFF1A\u4E0A"
+  mText: "The Beginning of the Ancient Mysteries: Part 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

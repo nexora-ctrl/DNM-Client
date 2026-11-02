@@ -1365,7 +1365,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C     \u540D"
+  mText: "No. 1"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1574,7 +1574,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1783,7 +1783,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177"
+  mText: "props props"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2480,7 +2480,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA1\u65F6"
+  mText: "Timing"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2723,7 +2723,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5708\u6570"
+  mText: "number of laps"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2885,7 +2885,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3660,7 +3660,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5373\u5C06\u79BB\u5F00\u8D5B\u573A"
+  mText: "About to leave the field"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3794,7 +3794,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u6D41\u91CF"
+  mText: "Free traffic"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

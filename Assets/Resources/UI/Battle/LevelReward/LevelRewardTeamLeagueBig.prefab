@@ -2344,7 +2344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8BC4\u5206"
+  mText: "Get a rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -2502,7 +2502,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u65E0\u4EBA\u4E0A\u9635"
+  mText: "No one from the team is participating"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 3
@@ -2716,7 +2716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u8363\u8A89"
+  mText: "get honor"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3096,7 +3096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u9635"
+  mText: "Not in action"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3254,7 +3254,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3408,7 +3408,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3566,7 +3566,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u65E0\u4EBA\u4E0A\u9635"
+  mText: "No one from the team is participating"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 3
@@ -3638,7 +3638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u4E0A\u5347"
+  mText: "Rank Improvement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -3790,7 +3790,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3876,7 +3876,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u9635"
+  mText: "Not in action"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4248,7 +4248,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4686,7 +4686,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4846,7 +4846,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -5558,7 +5558,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "23\u533A  \u827E\u6B27\u5C3C\u4E9A"
+  mText: "District 23 Ionia"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5825,7 +5825,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u540D\u5B57"
+  mText: "Team name"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -6165,7 +6165,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u4EFB\u610F\u533A\u57DF\u8FD4\u56DE"
+  mText: "Click on Any Area to Return"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

@@ -1,4 +1,4 @@
-﻿--
+--
 --  FashionCompoundData.lua
 --  Created by huailiang.peng on 2017/09/05 04:37:20
 --  Please make sure you file start with "Hotfix" or "Lua"

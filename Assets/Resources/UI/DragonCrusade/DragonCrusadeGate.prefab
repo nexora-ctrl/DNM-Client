@@ -2340,7 +2340,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8FDC\u5F81"
+  mText: "Dragon Expedition"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2546,7 +2546,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "32\u7EA7\u7B49\u7EA7\u5C01\u5370 \u5C01\u5370\u671F\u95F4boss\u6218\u529B\u4F1A\u5927\u5927\u589E\u5F3A"
+  mText: "Level 32 seal. During the seal period, the boss’s combat power will be greatly enhanced."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2678,7 +2678,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u6218\u529B\uFF1A3555\u4E07"
+  mText: "BOSS combat power: 35.55 million"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2750,7 +2750,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6218\u529B\uFF1A3555\u4E07"
+  mText: "Current combat strength: 35.55 million"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2902,7 +2902,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u6311\u6218"
+  mText: "Challenged"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4158,7 +4158,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u6B21\u6311\u6218\u90FD\u53EF\u4EE5\u83B7\u5F97\u6311\u6218\u793C\u5305"
+  mText: "You can get a challenge gift pack for every challenge"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -5469,7 +5469,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u7684\u540D\u5B57\u65B0\u6D77\u8BDA\u88AB\u79F0\u4F5C\u662F\u4E2D\u56FD\u7248\u7684\u300A\u79D2\u901F5\u5398\u7C73\u300B,\u8FD9\u6B3E\u4F5C\u54C1\u65E0\u8BBA\u662F\u5728\u753B\u5DE5\u8FD8\u662F\u58F0\u4F18\u9635\u5BB9\u4E0A\u90FD\u5C5E\u4E8E\u9876\u5C16\u4F5C\u54C1!"
+  mText: "Your Name is Makoto Shinkai, known as the Chinese version of \"5 Centimeters Per Second\". This work is top-notch in terms of both the artistry and the cast of voice actors!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5870,7 +5870,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u540D\u5B57"
+  mText: "BOSS name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -6106,7 +6106,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u5956\u52B1"
+  mText: "Clearance rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7273,7 +7273,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311 \u6218"
+  mText: "Challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

@@ -1250,7 +1250,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D\u5F80\u5BA1\u6838"
+  mText: "Go to review"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1378,7 +1378,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[d72020]\u8868\u73B0\u7CDF\u7CD5[de6300]\u6025\u9700\u63D0\u5347[84493e]\u8868\u73B0\u5E73\u5E73[44ab00]\u8868\u73B0\u826F\u597D[c92dd3]\u5B8C\u7F8E\u53D1\u6325"
+  mText: "[d72020]Poor performance[de6300]Need to improve[84493e]Mediocre performance[44ab00]Good performance[c92dd3]Perfect performance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1718,7 +1718,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -1846,7 +1846,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2450,7 +2450,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

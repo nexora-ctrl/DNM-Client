@@ -166,7 +166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F\u83B7\u5F97\u4E86\u963F\u5C14\u6770\u5854\u7684\u795D\u798F"
+  mText: "Received Aljeta's blessing. Received Aljeta's blessing. Received Aljeta's blessing."
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1

@@ -928,7 +928,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u7279\u6B8A\u60C5\u51B5"
+  mText: "No special circumstances"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1606,7 +1606,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1738,7 +1738,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DFB\u52A0\u597D\u53CB"
+  mText: "Add Friend"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1870,7 +1870,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u6CA1\u6709\u597D\u53CB\uFF0C\u5FEB\u53BB\u6DFB\u52A0\u597D\u53CB\u5427"
+  mText: "There are no friends at the moment. Please add friends now."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2414,7 +2414,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62DC\u8BBF"
+  mText: "visit"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

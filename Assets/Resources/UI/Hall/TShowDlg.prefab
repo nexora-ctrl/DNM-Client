@@ -3044,7 +3044,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7968\u6570"
+  mText: "Number of votes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3116,7 +3116,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3282,7 +3282,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3462,7 +3462,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94BB\u77F3\u6295\u7968"
+  mText: "diamond vote"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3817,7 +3817,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u73A9\u5BB6\u540D\u5B57\u641C\u7D22"
+  mText: "Enter player name to search"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3989,7 +3989,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u7968\u6570"
+  mText: "Current number of votes"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -4075,7 +4075,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5929\u6709\u4E00\u6B21\u514D\u8D39\u6295\u7968\u673A\u4F1A"
+  mText: "There is one free chance to vote every day"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4467,7 +4467,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[u]\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u5FB7[-]\u5411\u6211\u9001\u4E0A\u4E8699\u6735\uFF0C\u4EBA\u6C14\u5927\u589E"
+  mText: "[u] Bethcod Bethcod[-] sent me 99 flowers, and the popularity increased greatly"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -4720,7 +4720,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4806,7 +4806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u8DC3\u5EA6"
+  mText: "Activity"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4892,7 +4892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u514D\u8D39\u6295\u7968\u6B21\u6570\u7528\u5B8C"
+  mText: "Free voting runs out today"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5376,7 +5376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6295\u7968\u83B7\u5F97"
+  mText: "voted for"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -5860,7 +5860,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39\u6295\u7968"
+  mText: "free vote"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -6130,7 +6130,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7968\u6570\u6392\u540D\u524D5\u7684\u73A9\u5BB6\u53EF\u4EE5\u767B\u4E0AT\u53F0\u8FDB\u884C\u4E00\u5468\u7684\u56FA\u5B9A\u4F4D\u5C55\u793A\n\u6BCF\u5929\u9996\u6B21\u6295\u7968\u53EF\u83B7\u5F97\u5956\u52B1"
+  mText: "The top 5 players with the most votes can go on the T stage for a fixed-position display for a week\nGet rewards for voting for the first time every day"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6352,7 +6352,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u7968\u6570\u6392\u540D"
+  mText: "Current vote ranking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 1
@@ -6808,7 +6808,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6295\u7968"
+  mText: "Vote"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7379,7 +7379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u54C8\u54C8\u54E6\u54E6"
+  mText: "Chat Message"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -7479,7 +7479,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u5475\u54C8\u54C8\u54C8\u54E6\u54E6"
+  mText: "Chat Message"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7625,7 +7625,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57"
+  mText: "player name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

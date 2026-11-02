@@ -685,7 +685,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u77E5\u9053\u4E86"
+  mText: "I know"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

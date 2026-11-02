@@ -2859,7 +2859,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A9\u653B"
+  mText: "Assist"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3725,7 +3725,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u65B9\u5175\u7EBF20\u7EA7\uFF0C\u5373\u5C06\u6D3E\u51FA\u9AD8\u7EA7\u5175\u79CD"
+  mText: "Our troops are at level 20 and will soon send out advanced troops."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3811,7 +3811,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB  \u6740"
+  mText: "Kills"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

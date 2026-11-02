@@ -160,9 +160,9 @@ function Lua520DayFrame.OnTimer()
 
 	if m_TimerLbl ~= nil then
 	 	if seconds < 0 or min <0 or hour <0 then
-	    	m_TimerLbl.text = "活动倒计时 00:00:00"
+	    	m_TimerLbl.text = "Event Countdown 00:00:00"
 	    else
-	    	m_TimerLbl.text = "活动倒计时 "..s_hour..":"..s_min..":"..s_second
+	    	m_TimerLbl.text = "Event Countdown "..s_hour..":"..s_min..":"..s_second
 	    end
 	end
 end

@@ -649,7 +649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8DE8\u670D\u4E89\u9738"
+  mText: "Cross-server hegemony"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1165,7 +1165,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "32\u7EA7\u5F00\u653E"
+  mText: "Open at level 32"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -1331,7 +1331,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6765\u81EA\u661F\u661F\u7684\u5927\u7329\u7329"
+  mText: "Gorilla from the stars"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1463,7 +1463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6280\u540D\u4EBA\u5802"
+  mText: "athletics hall of fame"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1535,7 +1535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ADE\u6280\u519B\u8854"
+  mText: "competitive military rank"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

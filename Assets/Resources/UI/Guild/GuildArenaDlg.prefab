@@ -834,7 +834,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u64C2\u53F0\u6218"
+  mText: "Guild Arena"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 1
@@ -1623,7 +1623,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64C2\u53F0\u8D5B"
+  mText: "Arena match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1709,7 +1709,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64C2\u53F0\u8D5B"
+  mText: "Arena match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

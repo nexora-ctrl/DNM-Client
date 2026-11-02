@@ -4423,7 +4423,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u8D8A\u9AD8\u5956\u52B1\u8D8A\u597D\uFF0C\u7B2C\u4E00\u540D\u53EF\u83B7\u5F97\u6700\u5927\u5956\u52B1\u54E6\uFF01"
+  mText: "Better Rewards are provided for better Ranks. Rank 1 Champions get the best, of course."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4601,7 +4601,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u5C0F\u65F6"
+  mText: "1 hour"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5471,7 +5471,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u53CB\u53EF\u89C1"
+  mText: "Visible to friends"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5543,7 +5543,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u53EF\u89C1"
+  mText: "Guild visible"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5763,7 +5763,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u5E73\u6A21\u5F0F"
+  mText: "fair mode"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5835,7 +5835,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BBE\u7F6E\u5BC6\u7801"
+  mText: "Set password"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5981,7 +5981,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u73A9\u6CD5"
+  mText: "Choose how to play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6053,7 +6053,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u547D\u540D"
+  mText: "contest naming"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6125,7 +6125,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8F93\u51654-10\u5B57\u7684\u6BD4\u8D5B\u540D\u79F0"
+  mText: "Click to enter a 4-10 character name for the competition"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6431,7 +6431,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u7EC8\u6781\u6311\u6218\u8D5B"
+  mText: "Ladder Ultimate Challenge"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -6503,7 +6503,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "400\u7EA7\u5F00\u542F"
+  mText: "Open at level 400"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -7109,7 +7109,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF\u7EC8\u6781\u6311\u6218\u8D5B"
+  mText: "Ladder Ultimate Challenge"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -7434,7 +7434,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9009\u62E9"
+  mText: "Click to select"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -7672,7 +7672,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u9AD8\u5956\u52B1"
+  mText: "highest reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7804,7 +7804,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u786E\u5B9A\u8981\u521B\u5EFA"
+  mText: "Are you sure you want to create"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -7876,7 +7876,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5417\uFF1F"
+  mText: "?"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -7948,7 +7948,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80E1\u535A\u8043\u7684\u6BD4\u8D5B"
+  mText: "Hu Bodan's game"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8092,7 +8092,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9040,7 +9040,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u65F6\u95F4"
+  mText: "game time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9112,7 +9112,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA"
+  mText: "Create"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9244,7 +9244,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u6BD4\u8D5B"
+  mText: "Create a contest"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -9656,7 +9656,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2.5\u5C0F\u65F6"
+  mText: "2.5 hours"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9922,7 +9922,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u73A9\u6CD5"
+  mText: "Choose how to play"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -9994,7 +9994,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5956\u52B1"
+  mText: "Competition rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10171,7 +10171,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA"
+  mText: "Create"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -10409,7 +10409,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u81EA\u5B9A\u4E49\u8D5B\u4E8B"
+  mText: "Create a custom event"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -10733,7 +10733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u89C4\u6A21"
+  mText: "Competition size"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -10805,7 +10805,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51C6\u5907\u65F6\u95F4"
+  mText: "preparation time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

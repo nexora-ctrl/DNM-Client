@@ -3008,7 +3008,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u4E00\u6761\u5C5E\u6027\u6D17\u70BC"
+  mText: "Refine the Random Attribute after the 3 Refine Attributes are MAX"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3531,7 +3531,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3840,7 +3840,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -4221,7 +4221,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u9009\u62E9\u4E00\u6761\u5C5E\u6027\u6D17\u70BC"
+  mText: "Refine the Random Attribute after the 3 Refine Attributes are MAX"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4290,7 +4290,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u7269\u54C1"
+  mText: "Need items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5732,7 +5732,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D17 \u70BC"
+  mText: "Refine"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5973,7 +5973,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u6D17\u7EC3"
+  mText: "Equipment training"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6453,7 +6453,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u597D\u5E78\u8FD0\uFF0C\u6D17\u7EC3\u51FA\u4E00\u4E2A\u5F88\u597D\u7684\u5C5E\u6027\uFF0C\u66FF\u6362\u6210\u529F"
+  mText: "I'm so lucky. I developed a very good attribute and replaced it successfully."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6534,7 +6534,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

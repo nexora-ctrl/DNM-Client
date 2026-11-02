@@ -1006,7 +1006,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u9650\u5E7B\u5883[-]"
+  mText: "Infinite fantasy[-]"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1198,7 +1198,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u602A\u7269\u8BCD\u7F00"
+  mText: "monster affix"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -1454,7 +1454,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u65F6\u95F4      \u79D2"
+  mText: "Clearance time seconds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2086,7 +2086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u6311\u6218"
+  mText: "Team challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2921,7 +2921,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u8BF4\u660E"
+  mText: "How to play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11388,7 +11388,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u6392\u540D"
+  mText: "Member ranking"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11970,7 +11970,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u5C42\u6570"
+  mText: "Number of layers this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12115,7 +12115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u5E95\u5956\u52B1"
+  mText: "Guaranteed reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12187,7 +12187,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u901A\u5956\u52B1"
+  mText: "First Clear Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -12851,7 +12851,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u901A\u5173\u5C42\u6570\uFF1A  \u5C42"
+  mText: "Number of levels currently cleared: level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -13355,7 +13355,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u901A\u5956\u52B1"
+  mText: "First Clear Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13477,7 +13477,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5468\u4E005\u70B9\u91CD\u7F6E\u5237\u65B0\u8FDB\u5EA6\u65F6\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards will be sent via email when the refresh progress is reset at 5:00 on Monday"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -13880,7 +13880,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u65F6\u9650"
+  mText: "Customs clearance time limit"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13992,7 +13992,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u8BC4\u5206"
+  mText: "Current rating"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14064,7 +14064,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E7B\u5883\u5546\u5E97"
+  mText: "fantasy store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14379,7 +14379,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0"
+  mText: "None yet"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -14731,7 +14731,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15713,7 +15713,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "36\u5206\u949F"
+  mText: "36 minutes"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -16188,7 +16188,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D\uFF1A-"
+  mText: "Current Ranking:-"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -16260,7 +16260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6210\u5458"
+  mText: "guild member"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16526,7 +16526,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5468\u4E005\u70B9\u91CD\u7F6E\u5237\u65B0\u8FDB\u5EA6\u65F6\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards will be sent via email when the refresh progress is reset at 5:00 on Monday"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16930,7 +16930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u901A\u5956\u52B1"
+  mText: "First Clear Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -17696,7 +17696,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C42\u6570"
+  mText: "Number of layers"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18210,7 +18210,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -18356,7 +18356,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A8\u8350\u6218\u529B"
+  mText: "Recommended combat power"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -19004,7 +19004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u7684\u540D\u5B57\u5728\u8FD9\u91CC"
+  mText: "Members' names are here"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -19725,7 +19725,6 @@ MonoBehaviour:
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
   mText: '
-
 '
   mFontSize: 20
   mFontStyle: 0
@@ -20023,7 +20022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C42"
+  mText: "layer"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21157,7 +21156,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BCD\u7F00\u4ECB\u7ECD"
+  mText: "Introduction to affixes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -21678,7 +21677,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -21800,7 +21799,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -22566,7 +22565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -22787,7 +22786,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5230\u8FBE"
+  mText: "Ranking reached"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -23060,7 +23059,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A12\u670801\u65E5\u81F312\u670819\u65E5"
+  mText: "Event time: December 1st to December 19th"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -24325,7 +24324,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\n\u602A\u7269\u5C06\u83B7\u5F97\u653B\u51FB\u63D0\u5347\u52A0\u6210"
+  mText: "attack\nMonsters will receive an attack boost bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -24614,7 +24613,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -24946,7 +24945,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C42"
+  mText: "layer"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -25261,7 +25260,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u722C\u5854,\u6839\u636E\u961F\u957F\u5C42\u6570\u8FDB\u5165\u5173\u5361\r\u968F\u673A\u5173\u5361,\u968F\u673ABOSS\u80FD\u529B\u673A\u5236\r\u901A\u5173\u8D8A\u5FEB\u5C42\u6570\u589E\u52A0\u8D8A\u9AD8\uFF0C\u914D\u7F6E\u4E00\u4E0B~"
+  mText: "Climb the tower as a team and enter the level according to the captain's levelRandom levels, random BOSS ability mechanismThe faster you clear the level, the higher the level will be. Configure it ~"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -26177,7 +26176,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6210\u5458\u6392\u884C"
+  mText: "Member Ranking"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -26249,7 +26248,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5730\u72F1\u72AC\u5DE2\u7A74"
+  mText: "Cerberus Nest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -26401,7 +26400,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -26745,7 +26744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u83B7\u53D6\u8D44\u6E90\u4E0A\u9650"
+  mText: "Get resource limit this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -27366,7 +27365,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6392\u540D"
+  mText: "Current ranking"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28434,7 +28433,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C42\u6570\u5230\u8FBE"
+  mText: "Level reached"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -28506,7 +28505,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FDD\u5E95\u5956\u52B1"
+  mText: "Guaranteed reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -28652,7 +28651,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u9996\u6B21\u901A\u5173\u672A\u8FBE\u6210\u5C42\u6570\u53EF\u9886\u53D6"
+  mText: "If you clear the level for the first time this week and have not reached the level, you can receive it."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3

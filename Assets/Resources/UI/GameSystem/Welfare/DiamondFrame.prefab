@@ -1953,7 +1953,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u5143\u8D2D\u4E70"
+  mText: "Buy for 1 yuan"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2215,7 +2215,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B30\u5929\u6708\u5361"
+  mText: "Activate 30-day monthly card"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2301,7 +2301,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "30\u5929\u5185\u6BCF\u5929\u83B7\u5F97100\u94BB\u77F3"
+  mText: "Get 100 diamonds every day for 30 days"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2447,7 +2447,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u83B7\u5F97250"
+  mText: "Get 250 now"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -2613,7 +2613,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1\u5143\u8D2D\u4E70"
+  mText: "Buy for 1 yuan"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2875,7 +2875,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B7\u5929\u5468\u5361"
+  mText: "Activate 7-day weekly card"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2947,7 +2947,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u65F6"
+  mText: "Limited Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -3192,7 +3192,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5468\u5361\u6708\u5361\u53EF\u540C\u65F6\u751F\u6548"
+  mText: "Weekly Card and Monthly Card can be activated at the same time."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3858,7 +3858,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "7\u5929\u5185\u6BCF\u5929\u83B7\u5F97100\u94BB\u77F3"
+  mText: "Get 100 diamonds every day for 7 days"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4004,7 +4004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u83B7\u5F97250"
+  mText: "Get 250 now"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

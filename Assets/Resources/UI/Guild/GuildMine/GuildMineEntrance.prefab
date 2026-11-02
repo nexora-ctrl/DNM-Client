@@ -1446,7 +1446,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2316,7 +2316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u77FF\u8109"
+  mText: "Enter the vein"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2494,7 +2494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u77FF\u8109\u4E89\u593A\u6218"
+  mText: "Clash of Mines"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2892,7 +2892,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E94 20:00 - 20:20"
+  mText: "Every Friday 20:00 - 20:20"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2964,7 +2964,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u65F6\u95F4"
+  mText: "Turn on time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3230,7 +3230,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u5C55\u793A"
+  mText: "reward display"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3882,7 +3882,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u73A9\u6CD5"
+  mText: "Game play"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

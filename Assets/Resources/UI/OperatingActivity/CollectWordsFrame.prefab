@@ -1396,7 +1396,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5012\u8BA1\u65F610\u5929"
+  mText: "Countdown to 10 days"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1482,7 +1482,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u72C2\u6B22\u661F\u661F\u964D\u4E34\uFF0C\u6DF1\u6E0A\u3001\u5DE2\u7A74\u3001\u9F99\u672C\u5747\u4F1A\u6389\u843D\uFF0C\u5FEB\u53BB\u6536\u96C6\u5427\uFF01"
+  mText: "When the carnival stars arrive, the abyss, lair, and dragon book will all drop, so go and collect them!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2132,7 +2132,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u641C\u96C6\u7269\u54C1"
+  mText: "Collect items"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2218,7 +2218,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2304,7 +2304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3848,7 +3848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672A\u5B8C\u6210"
+  mText: "Incomplete"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4052,7 +4052,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9886\u53D6"
+  mText: "Claimed"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

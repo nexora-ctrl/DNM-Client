@@ -1730,7 +1730,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u5185\u5BB9\u4EFB\u52A1\u5185\u5BB9\u4EFB\u52A1"
+  mText: "mission content mission content mission"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2722,7 +2722,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3094,7 +3094,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4401,7 +4401,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4675,7 +4675,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u672A\u8FBE\u6210"
+  mText: "Not yet achieved"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5222,7 +5222,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u6807\u9898"
+  mText: "Task title"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5414,7 +5414,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u56DE\u6D41\u4EFB\u52A1"
+  mText: "reflow tasks"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

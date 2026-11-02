@@ -941,7 +941,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S\u7EA7\u5149\u660E\u9F99\u89D2"
+  mText: "S-class bright dragon horn"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1087,7 +1087,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9576\u5D4C\u540E\u6709\u6982\u7387\u6C38\u4E45\u589E\u52A0\u4E00\u6761\u6280\u80FD(\u6700\u591A\u52A0\u4E00\u6761)"
+  mText: "After inlaying, there is a probability of permanently adding a skill (at most one skill can be added)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1820,7 +1820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5668\u91CD\u94F8\u77F3"
+  mText: "Dragon weapon recast stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2331,7 +2331,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9576\u5D4C\u94ED\u6587"
+  mText: "Inlaid inscription"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2463,7 +2463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u94ED\u6587\u6280\u80FD\u5C06\u66FF\u6362\u9F99\u5668\u539F\u6709\u7684\u67D0\u6761\u6280\u80FD"
+  mText: "The inscription skill will replace one of the original skills of the dragon weapon."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1,4 +1,4 @@
-﻿require "LuaTimedActivitiesDoc.lua"
+require "LuaTimedActivitiesDoc.lua"
 
 
 LuaRechargeActivityHandler = {}

@@ -717,7 +717,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8FBE\u6700\u5927\u5F3A\u5316\u52A0\u6210\u7B49\u7EA7"
+  mText: "The maximum enhancement bonus level has been reached"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1178,7 +1178,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "d\u6B27\u8FBE\u52305\u7EA7\u6FC0\u6D3B\u65B0\u7684t\u4E8C\u5C0F"
+  mText: "D Europe reaches level 5 to activate the new T Erxiao"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1338,7 +1338,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1406,7 +1406,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7"
+  mText: "next level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1498,7 +1498,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "+5\u7EA7"
+  mText: "+5 levels"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1566,7 +1566,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u5C5E\u6027\u52A0\u6210"
+  mText: "Currently no attribute bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1634,7 +1634,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "150\u7EA7"
+  mText: "Level 150"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "10\u4EF6\u88C5\u5907\u5386\u53F2\u6700\u9AD8\u5F3A\u5316\u7B49\u7EA7"
+  mText: "10 pieces of equipment with the highest enhancement level in history"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1851,7 +1851,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u4E00\u7EA7\u6B66\u5668\u7279\u6548"
+  mText: "Activate level one weapon effects"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

@@ -790,7 +790,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65E0\u5DC5\u5CF0\u5BF9\u51B3\u8BB0\u5F55"
+  mText: "There is no record of peak duel"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -958,7 +958,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51A0\u519B:"
+  mText: "Champion:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1030,7 +1030,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5EB7\u62C9\u5FB7\u68E0\u96C5l\u62C9\u963F\u62C9"
+  mText: "Conrad Tangya Lara"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1399,7 +1399,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DC5\u5CF0\u699C"
+  mText: "Peak list"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1784,7 +1784,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u5C4A"
+  mText: "The first session"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1856,7 +1856,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E9A\u519B:"
+  mText: "Runner-up:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1942,7 +1942,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5566\u5566\u5566\u5EB7\u62C9\u5FB7\u68E0\u96C5"
+  mText: "La La La Conrad Tangya"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2074,7 +2074,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5 \u770B"
+  mText: "Check"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

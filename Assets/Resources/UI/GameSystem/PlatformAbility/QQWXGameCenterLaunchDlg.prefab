@@ -2189,7 +2189,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624BQ\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8\u7279\u6743"
+  mText: "Hand Q Game Center Activation Privilege"
   mFontSize: 30
   mFontStyle: 0
   mAlignment: 0
@@ -2269,7 +2269,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C0A\u8D35\u6E38\u620F\u4E2D\u5FC3\n\u542F\u52A8\u8EAB\u4EFD\u5C55\u793A"
+  mText: "Premium Game Center\nStart identity display"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2361,7 +2361,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8\u7528\u6237\n\u72EC\u4EAB\u8FDE\u7EED\u767B\u5F55\u793C\u5305"
+  mText: "game center launch user\nExclusive continuous login gift pack"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2429,7 +2429,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E38\u620F\u4E2D\u5FC3\u542F\u52A8\u7528\u6237\n\u5355\u5C40\u7ED3\u7B97\u91D1\u5E01+12%"
+  mText: "game center launch user\nSingle game settlement gold coins +12%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

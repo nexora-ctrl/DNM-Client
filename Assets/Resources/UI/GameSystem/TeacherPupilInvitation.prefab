@@ -1327,7 +1327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u6CA1\u6709\u7533\u8BF7\u6D88\u606F\u54E6\uFF01"
+  mText: "There is no application news yet!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1543,7 +1543,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1629,7 +1629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6E05\u7A7A\u5217\u8868"
+  mText: "Clear List"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1889,7 +1889,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E08\u5F92\u7533\u8BF7\u6D88\u606F"
+  mText: "Mentorship application news"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2035,7 +2035,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63A5\u53D7"
+  mText: "Accept"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2226,7 +2226,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u5F92"
+  mText: "Get an Apprentice"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2523,7 +2523,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BA3\u8A00\u663E\u793A\u51E0\u4E2A\u5B57...."
+  mText: "The manifesto shows a few words...."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2715,7 +2715,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3522,7 +3522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62D2\u7EDD"
+  mText: "Reject"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

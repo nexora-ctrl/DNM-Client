@@ -2079,7 +2079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E\u9886\u5956"
+  mText: "Reward for LIKE"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2151,7 +2151,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8D5E"
+  mText: "Liked"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -3792,7 +3792,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE[-]"
+  mText: "Return[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -3983,7 +3983,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -4069,7 +4069,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9996\u901A\u52C7\u58EB\u961F\u4F0D"
+  mText: "First pass to Warriors team"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4155,7 +4155,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2017\u5E7403\u670803\u65E512\u65F603\u5206\u901A\u5173\u72EE\u72EE\u874E\u5730\u72F1\u6A21\u5F0F\u4E94\u661F\u7EA7"
+  mText: "Cleared Manticore Hell Mode at 12:03 on March 3, 2017 with five stars"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -4241,7 +4241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u865A\u4F4D\u4EE5\u5F85"
+  mText: "Waiting for a vacant position"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

@@ -5745,7 +5745,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u5723\u5929\u5802"
+  mText: "holy heaven"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6231,7 +6231,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B2\u82B1\u6CBC\u6CFD"
+  mText: "lotus swamp"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6451,7 +6451,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u96F7\u5229\u9547\u9547"
+  mText: "prairie town"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6537,7 +6537,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5F00\u542F\u5F53\u592900\uFF1A00-21:20\u53EF\u4EE5\u4EFB\u610F\u8C03\u6574\u5BA3\u6218\u9886\u5730"
+  mText: "The declared war territory can be adjusted at will between 00:00 and 21:20 on the day the event starts."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6689,7 +6689,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60C5\u62A5"
+  mText: "intelligence"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -6835,7 +6835,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7043,7 +7043,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7070\u8272\u5E9F\u589F"
+  mText: "gray ruins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7309,7 +7309,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7535,7 +7535,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5229\u7269\u6C83\u7279"
+  mText: "Livewater"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7801,7 +7801,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8027,7 +8027,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D6B\u5C14\u9A6C\u5CB1"
+  mText: "Helmada"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8293,7 +8293,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8519,7 +8519,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u666E\u96F7\u5229\u9547"
+  mText: "town of prairie"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8785,7 +8785,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9011,7 +9011,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B54\u6CD5\u5C71\u810A"
+  mText: "magic ridge"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9277,7 +9277,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9617,7 +9617,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9823,7 +9823,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51EF\u5FB7\u62C9"
+  mText: "Kedra"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10194,7 +10194,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10460,7 +10460,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u795E\u5723\u5929\u5802"
+  mText: "holy heaven"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10572,7 +10572,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72C2\u98CE\u68EE\u6797"
+  mText: "Stormy Forest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10838,7 +10838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11064,7 +11064,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9634\u5F71\u68EE\u6797"
+  mText: "shadow forest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11330,7 +11330,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11556,7 +11556,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u878D\u89E3\u68EE\u6797"
+  mText: "Dissolve the forest"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11822,7 +11822,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12048,7 +12048,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96EA\u971C\u5761\u9053"
+  mText: "Snowy slope"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12314,7 +12314,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12540,7 +12540,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6C34\u6676\u8C37"
+  mText: "crystal valley"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -12806,7 +12806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Guild Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -14145,7 +14145,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u9886\u5730\uFF1A"
+  mText: "Guild Territory:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14217,7 +14217,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E89\u593A\u76EE\u6807\uFF1A"
+  mText: "Competing for goals:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14918,7 +14918,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -15825,7 +15825,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \u672C\u5468\u4E3A\u8DE8\u670D\u516C\u4F1A\u6218\u9009\u62D4\u5468\uFF0C\u672C\u5468\u65E5\u7684\u9886\u5730\u4E89\u593A\u6218\u524D5\u540D\u516C\u4F1A\u5C06\u4EE3\u8868\u672C\u670D\uFF0C\u81EA\u52A8\u8FDB\u5165\u8DE8\u670D\u516C\u4F1A\u6218\u79EF\u5206\u8D5B\u8FDB\u884C\u53AE\u6740"
+  mText: "This week is the cross-server guild war selection week. The top 5 guilds in this Sunday’s territory battle will represent the server and automatically enter the cross-server guild war points competition to fight."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -16037,7 +16037,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u5730\u4E89\u593A\u6218"
+  mText: "Territory Fight"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -16829,7 +16829,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

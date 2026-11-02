@@ -1714,7 +1714,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[b9ff3f][u]\u70B9\u51FB\u91CD\u8BD5"
+  mText: "[b9ff3f][u]Click to try again"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2236,7 +2236,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u4E4B\u8C37\u624B\u6E38"
+  mText: "Dragon Nest mobile game"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2547,7 +2547,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76F4\u64AD"
+  mText: "Live broadcast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2633,7 +2633,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u76F4\u64AD"
+  mText: "Live broadcast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3347,7 +3347,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C6\u9891"
+  mText: "video"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3433,7 +3433,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C6\u9891"
+  mText: "video"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3779,7 +3779,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0E\u670D\u52A1\u5668\u8FDE\u63A5\u4E22\u5931\uFF0C\u8BF7\u91CD\u65B0\u4E0E\u670D\u52A1\u5668\u5EFA\u7ACB\u8FDE\u63A5"
+  mText: "The connection to the server was lost, please re-establish a connection to the server."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

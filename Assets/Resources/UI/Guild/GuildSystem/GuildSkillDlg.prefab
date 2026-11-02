@@ -2468,7 +2468,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6280\u80FD"
+  mText: "Guild skills"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2629,7 +2629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2735,7 +2735,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1A\u79EF\u52065"
+  mText: "Union points 5"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2841,7 +2841,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u7EA7\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2947,7 +2947,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1A\u79EF\u52065"
+  mText: "Union points 5"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3033,7 +3033,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347 \u7EA7"
+  mText: "Upgrade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3311,7 +3311,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u5F3A\u5316"
+  mText: "Attack enhancement"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3563,7 +3563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7 1"
+  mText: "Level 1"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -3815,7 +3815,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5927\u7B49\u7EA7"
+  mText: "maximum level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -4072,7 +4072,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7814\u7A76"
+  mText: "Research"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4304,7 +4304,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6CD5\u672F\u653B\u51FB\u653B\u51FB 100"
+  mText: "Spell Attack Attack 100"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -4525,7 +4525,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u6211\u6211\u6211\u6211  +100"
+  mText: "Attack me me me +100"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5676,7 +5676,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u4F1A\u79EF\u5206"
+  mText: "union points"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5748,7 +5748,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u5F3A\u5316"
+  mText: "Attack enhancement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5820,7 +5820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9000\u51FA\u516C\u4F1A\u540E\uFF0C\u516C\u4F1A\u79EF\u5206\u548C\u516C\u4F1A\u6280\u80FD\u90FD\u4F1A\u4FDD\u7559"
+  mText: "After exiting the guild, guild points and guild skills will be retained."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6132,7 +6132,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB\u6211\u6211\u6211\u6211  +100"
+  mText: "Attack me me me +100"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

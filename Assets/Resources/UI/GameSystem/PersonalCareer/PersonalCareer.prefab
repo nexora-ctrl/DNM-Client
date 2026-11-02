@@ -858,7 +858,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u4E3B\u9875"
+  mText: "Personal homepage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -944,7 +944,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u4E3B\u9875"
+  mText: "Personal homepage"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1206,7 +1206,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u4EBA\u751F\u6DAF"
+  mText: "personal career"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

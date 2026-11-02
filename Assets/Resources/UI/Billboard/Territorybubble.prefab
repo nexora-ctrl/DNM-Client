@@ -316,7 +316,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5728\u8DE8\u5E73\u53F0\u8BBE\u8BA1"
+  mText: "Designing across platforms"
   mFontSize: 36
   mFontStyle: 0
   mAlignment: 2

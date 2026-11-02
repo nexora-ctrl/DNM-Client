@@ -1148,7 +1148,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272\u5916\u5F62\u8BBE\u7F6E"
+  mText: "Character appearance settings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1363,7 +1363,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u88C5\u5907\u6B66\u5668\u5916\u5F62"
+  mText: "Show the appearance of the equipped weapon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1554,7 +1554,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u663E"
+  mText: "Explicit"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -1769,7 +1769,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B66\u5668\u5916\u5F62\u8BBE\u7F6E"
+  mText: "Weapon appearance settings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2083,7 +2083,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u65F6\u88C5\u5916\u5F62"
+  mText: "Show fashion appearance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2457,7 +2457,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "14\u7EA7B\u54C1\u8D28\u4EE5\u4E0A\u88C5\u5907\u62E5\u6709\u88C5\u5907\u5916\u663E"
+  mText: "Equipment of level 14 or higher B quality has equipment appearance."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2615,7 +2615,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u88C5\u5907\u5916\u5F62"
+  mText: "Show equipment appearance"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2851,7 +2851,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u65F6\u88C5\u6B66\u5668\u5916\u5F62"
+  mText: "Shows the appearance of the costume weapon"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

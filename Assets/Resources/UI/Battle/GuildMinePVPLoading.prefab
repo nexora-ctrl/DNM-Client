@@ -1463,7 +1463,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u4F60\u62FF\u5230\u4E86\u83DC\u5200\uFF0C\u5C31\u53EF\u4EE5\u780D\u4EBA\u4E86"
+  mText: "When you get the kitchen knife, you can chop people"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1951,7 +1951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D"
+  mText: "Guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2037,7 +2037,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D"
+  mText: "Guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2525,7 +2525,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D"
+  mText: "Guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2611,7 +2611,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D"
+  mText: "Guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3567,7 +3567,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u9635\u4FE1\u606F"
+  mText: "Match information"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -4856,7 +4856,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5308,7 +5308,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u6709\u516B\u4E2A\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

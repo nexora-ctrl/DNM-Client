@@ -1532,7 +1532,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1601,7 +1601,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u5C06\u65E0\u6CD5\u5151\u6362\u5956\u52B1\uFF0C\u8BF7\u53CA\u65F6\u5151\u6362"
+  mText: "Rewards cannot be redeemed after the event ends, please redeem them in time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2124,7 +2124,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u5151\u6362"
+  mText: "Reward Redemption"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2193,7 +2193,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u641C\u96C6\u7269\u54C1"
+  mText: "Collect items"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2879,7 +2879,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 0
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5151\u6362"
+  mText: "Exchange"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -3007,7 +3007,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u72B6\u6001"
+  mText: "Status"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3160,7 +3160,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 0
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u5B8C\u6210"
+  mText: "Incomplete"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

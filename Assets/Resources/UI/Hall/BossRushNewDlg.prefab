@@ -6453,7 +6453,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u6FC0\u6D3B"
+  mText: "Privilege activation"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6778,7 +6778,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u6311\u6218\u589E\u76CA"
+  mText: "Gains from this challenge"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6850,7 +6850,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+50%"
+  mText: "Attack +50%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7219,7 +7219,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+50%"
+  mText: "Attack +50%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7296,7 +7296,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+50%"
+  mText: "Attack +50%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7368,7 +7368,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u5269\u4F59\u901A\u5173\u6B21\u6570"
+  mText: "Number of clearances remaining today"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -7706,7 +7706,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u514D\u8D39"
+  mText: "Free"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -7850,7 +7850,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u6B21\u6570"
+  mText: "Refresh times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8174,7 +8174,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u822C"
+  mText: "Average"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8246,7 +8246,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6311\u6218BOSS"
+  mText: "Current challenge BOSS"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -8318,7 +8318,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u751F\u547D"
+  mText: "HP"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8616,7 +8616,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB+50%"
+  mText: "Attack +50%"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8793,7 +8793,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u626B\u8361"
+  mText: "sweep"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -8951,7 +8951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9632\u5FA1"
+  mText: "DEF"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9079,7 +9079,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311 \u6218"
+  mText: "Challenge"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9522,7 +9522,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u5956\u52B1"
+  mText: "Challenge rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9933,7 +9933,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10005,7 +10005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96BE\u5EA6"
+  mText: "difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10091,7 +10091,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5584\u826F\u7684\u7F8A\u5988"
+  mText: "kind sheep mother"
   mFontSize: 44
   mFontStyle: 0
   mAlignment: 0
@@ -10561,7 +10561,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u540D\u5B57"
+  mText: "BOSS name"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10693,7 +10693,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u5237\u65B0\u4E2D..."
+  mText: "BOSS is refreshing..."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10973,7 +10973,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "BOSS\u54C1\u8D28\u8D8A\u9AD8\u5956\u52B1\u8D8A\u597D\uFF0C \u63A8\u8350\u5237\u65B0\u591A\u500D\u5956\u52B1\u548C\u9AD8\u52A0\u6210\u589E\u76CA"
+  mText: "The higher the quality of the BOSS, the better the rewards. It is recommended to refresh multiple rewards and high bonus gains."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11414,7 +11414,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u96BE\u5EA6"
+  mText: "Challenge difficulty"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11486,7 +11486,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u822C"
+  mText: "Average"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11995,7 +11995,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u589E\u76CA"
+  mText: "Challenge gain"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12820,7 +12820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0"
+  mText: "Refresh"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13032,7 +13032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5237\u65B0\u6B21\u6570+1"
+  mText: "Refresh times +1"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

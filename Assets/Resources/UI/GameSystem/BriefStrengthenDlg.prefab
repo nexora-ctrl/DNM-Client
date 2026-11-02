@@ -1088,7 +1088,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA9\u6211\u4EEC\u53BB\u63D0\u5347\u5B9E\u529B\u518D\u6765\u5427~"
+  mText: "Let’s improve our strength and come again~"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -1756,7 +1756,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D8\u5F3A\u9014\u5F84"
+  mText: "Ways to become stronger"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1828,7 +1828,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u66F4\u591A\u9014\u5F84"
+  mText: "More ways"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -1960,7 +1960,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907"
+  mText: "Gear"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

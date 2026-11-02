@@ -3837,7 +3837,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7\u7279\u6743"
+  mText: "next level privileges"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4161,7 +4161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u7279\u6743\u8BE6\u60C5"
+  mText: "Level privilege details"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4389,7 +4389,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u5546\u5E97"
+  mText: "companion store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4793,7 +4793,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635\u79F0\u5728\u8FD9\u91CC"
+  mText: "Player Name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4885,7 +4885,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1.\u5EFA\u7ACB\u60C5\u4FA3\u961F\u4F0D\u7C7B\u578B.\u5E76\u4E14\u4E24\u4EBA\u4E0D\u4E3A\u540C\u6027"
+  mText: "1. Create a couple team type. And the two people are not of the same sex."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -5288,7 +5288,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u65F6\u83B7\u5F97\u4E92\u76F8\u5B88\u62A4\u88AB\u52A8\u6280\u80FD"
+  mText: "When in a team, gain the passive skill of protecting each other."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5711,7 +5711,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u5A5A\u7EC4\u961F"
+  mText: "wedding team"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -5857,7 +5857,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u672A\u62E5\u6709\u7279\u6743"
+  mText: "Currently does not have privileges"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6166,7 +6166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u7279\u6743"
+  mText: "partner privileges"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6347,7 +6347,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u5BC6\u503C"
+  mText: "intimacy value"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6913,7 +6913,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u4F34\u4FA3\u7B49\u7EA7"
+  mText: "Current partner level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6985,7 +6985,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u7B49\u7EA7"
+  mText: "Partner level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7077,7 +7077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u6280\u80FD"
+  mText: "Companion skills"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7688,7 +7688,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u8FBE\u4E0A\u9650"
+  mText: "The limit has been reached"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8301,7 +8301,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u643A\u624BBUFF-\u589E\u52A010%\u8840\u91CF"
+  mText: "Partner joins hands BUFF - increases blood volume by 10%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8565,7 +8565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709\u7279\u6743"
+  mText: "have privileges"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8877,7 +8877,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E00\u51CC\u66685\u70B9\u91CD\u7F6E\u526F\u672C\u6B21\u6570\u548C\u6D3B\u8DC3\u5EA6"
+  mText: "The number of copies and activity are reset every Monday at 5 a.m."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -9205,7 +9205,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u526F\u672C\uFF082/2\uFF09"
+  mText: "Companion copy (2/2)"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9529,7 +9529,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0\u8FD9\u91CC\u662F\u63CF\u8FF0"
+  mText: "Description here is description here is description here is description here is description here is description here is description here is description here is description"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -10033,7 +10033,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u8981\u7ED3\u5A5A"
+  mText: "I want to Marry"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10216,7 +10216,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F34\u4FA3\u6D3B\u8DC3\u5EA6"
+  mText: "Partner activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10607,7 +10607,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EB2\u5BC6\u503C\u83B7\u53D6 "
+  mText: "Get intimacy value"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10723,7 +10723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u670B000000000000000000000000000000000000"
+  mText: "Girlfriend000000000000000000000000000000000000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -10855,7 +10855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u5230\u8FBE\u9876\u7EA7"
+  mText: "Reached top level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11580,7 +11580,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11999,7 +11999,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B"
+  mText: "BP"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12161,7 +12161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9632\u5FA1+5%"
+  mText: "Defense +5%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -12327,7 +12327,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u4E13\u5C5E\u88C5\u9970\u4FE1\u606F"
+  mText: "Team exclusive decoration information"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

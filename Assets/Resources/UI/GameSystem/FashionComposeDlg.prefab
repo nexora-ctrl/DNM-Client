@@ -2865,7 +2865,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u4F60\u771F\u662F\u8FD0\u6C14\u9006\u5929\u4E86"
+  mText: "You are so lucky"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2937,7 +2937,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u4F60\u5408\u6210\u51FA\u4E86"
+  mText: "Congratulations on your synthesis"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3793,7 +3793,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u653E\u5165A\u54C1\u8D28\u6C38\u4E45\u540C\u90E8\u4F4D\u65F6\u88C5"
+  mText: "Please put in A-quality permanent same-part fashion"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4930,7 +4930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u90E8\u4F4D"
+  mText: "parts"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5182,7 +5182,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u5957"
+  mText: "Gloves"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -5513,7 +5513,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E\u5B9A"
+  mText: "Confirm"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -5929,7 +5929,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5408\u6210\u9884\u89C8"
+  mText: "Composition preview"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -6564,7 +6564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u9F99\u9CDE\u94E0\u7532"
+  mText: "Dragon scale armor"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7741,7 +7741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5408\u6210"
+  mText: "Craft"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -8587,7 +8587,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5408\u6210"
+  mText: "fashion synthesis"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8659,7 +8659,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5546\u5E97"
+  mText: "fashion store"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

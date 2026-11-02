@@ -1418,7 +1418,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S\u7EA7\u5149\u660E\u9F99\u89D2"
+  mText: "S-class bright dragon horn"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1504,7 +1504,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6210\u529F\u7387\uFF1A100%"
+  mText: "Current success rate: 100%"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -1806,7 +1806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C06\u6280\u80FD\u6548\u679C\u878D\u5408\u5E76\u8986\u76D6\u5230\u4E3B\u9F99\u5668\u4E0A"
+  mText: "Integrate and cover the skill effects onto the main dragon weapon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1878,7 +1878,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u878D\u5408\u77F3"
+  mText: "Use Fusion Stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2010,7 +2010,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u878D\u5408"
+  mText: "Fuse"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2452,7 +2452,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F7F\u7528\u878D\u5408\u77F3\u53EF\u63D0\u5347\u6210\u529F\u7387"
+  mText: "Using fusion stones can increase the success rate"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2584,7 +2584,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u878D\u5408\u9F99\u5668"
+  mText: "Fusion Dragon Weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2823,7 +2823,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3B\u9F99\u5668"
+  mText: "Main dragon weapon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2975,7 +2975,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u5668\u91CD\u94F8\u77F3"
+  mText: "Dragon weapon recast stone"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

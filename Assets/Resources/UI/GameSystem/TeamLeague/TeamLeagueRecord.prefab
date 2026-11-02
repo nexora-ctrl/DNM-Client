@@ -1421,7 +1421,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1489,7 +1489,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u8BB0\u5F55"
+  mText: "Challenge record"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1569,7 +1569,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D25\u573A"
+  mText: "Losses"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1637,7 +1637,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1705,7 +1705,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5927\u8FDE\u80DC"
+  mText: "Biggest winning streak"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1773,7 +1773,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5927\u8FDE\u8D25"
+  mText: "Biggest losing streak"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1841,7 +1841,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u624B"
+  mText: "opponent"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1909,7 +1909,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u8D1F"
+  mText: "Win and Loss"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -1977,7 +1977,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2123,7 +2123,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "Lv.99\u5475\u5475\u54D2\u5475\u5475\u54D2"
+  mText: "Lv.99 hehehehehe"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2281,7 +2281,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BC4\u5206"
+  mText: "Rating"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3227,7 +3227,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u4FE1\u606F"
+  mText: "Battle information"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2

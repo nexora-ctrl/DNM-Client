@@ -1466,7 +1466,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4\u56DE\u4E3B\u57CE"
+  mText: "Return to Town"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3200,7 +3200,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u8D5E\u6570"
+  mText: "LIKE Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -3493,7 +3493,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C2\u6218\u6570"
+  mText: "Spectators"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -3630,7 +3630,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u4FE1\u606F"
+  mText: "combat information"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3785,7 +3785,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u961F\u4F0D\u6210\u5458"
+  mText: "Teammate"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4478,7 +4478,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[00bdff]\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "[00bdff]Hehehehehehehe"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4672,7 +4672,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EE7\u7EED\u89C2\u6218"
+  mText: "Keep Spectating"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

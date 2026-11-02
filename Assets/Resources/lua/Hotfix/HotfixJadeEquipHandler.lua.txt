@@ -1,4 +1,4 @@
-﻿require "LuaJadeEquipDataModel.lua"
+require "LuaJadeEquipDataModel.lua"
 
 --新龙玉系统视图--  hotfix
 JadeEquipHandler = {}
@@ -621,7 +621,7 @@ function JadeEquipHandler.ShaoCaoZuo(slotIndex)
 	-- 			if not IsNil(TargetTrans) then
 	-- 				local theNameLb = TargetTrans:Find("HasJade/AttrName"):GetComponent("UILabel")
 	-- 				if theNameLb ~= nil then
-	-- 					theNameLb.text = "全元素攻"
+	-- 					theNameLb.text = "All Element ATK"
 	-- 				end
 	-- 			end
 	-- 		end
@@ -650,7 +650,7 @@ function JadeEquipHandler.refreshFinde999(arr)
 				if theGroupId == 999 then
 					local theNameLb = tempTrans:Find("HasJade/AttrName"):GetComponent("UILabel")
 					if theNameLb ~= nil then
-						theNameLb.text = Hotfix.GetGlobalString("JadeAllElementattack")--"全元素攻"
+						theNameLb.text = Hotfix.GetGlobalString("JadeAllElementattack")--"All Element ATK"
 					end
 				end
 			end

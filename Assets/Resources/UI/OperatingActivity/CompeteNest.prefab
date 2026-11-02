@@ -951,7 +951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u83B7\u5F97"
+  mText: "possible to obtain"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -1037,7 +1037,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "(\u7ADE\u6280\u6A21\u5F0F)"
+  mText: "(competition mode)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1237,7 +1237,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u6839\u636E\u6392\u884C\u53EF\u83B7\u5F97\u4E0D\u540C\u79F0\u53F7"
+  mText: "Different titles can be obtained every week based on rankings"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1489,7 +1489,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6781\u9650\u9F99\u672C[-]"
+  mText: "Extreme Dragon Edition[-]"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -3513,7 +3513,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3639,7 +3639,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D\u5956\u52B1"
+  mText: "Ranking rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -3996,7 +3996,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D77\u9F99\u9F99\u7A74\uFF08\u7ADE\u6280\u6A21\u5F0F\uFF09"
+  mText: "Sea Dragon's Lair (Competitive Mode)"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4176,7 +4176,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672C\u6708\u9886\u5956\u6B21\u6570\uFF1A"
+  mText: "Number of prizes received this month:"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4403,7 +4403,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u5339\u914D"
+  mText: "Matchmaking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4955,7 +4955,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C[-]"
+  mText: "Ranking[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2

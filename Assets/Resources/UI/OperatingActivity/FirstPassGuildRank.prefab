@@ -3766,7 +3766,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C1\u540D"
+  mText: "No. 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3852,7 +3852,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u6B21"
+  mText: "Ranking"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3938,7 +3938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u5956\u52B1"
+  mText: "President's reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4104,7 +4104,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u526F\u4F1A\u957F/\u5B98\u5458\u5956\u52B1"
+  mText: "Vice President/Official Awards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4190,7 +4190,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u5458\u5956\u52B1"
+  mText: "Member Rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4336,7 +4336,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u6392\u540D:"
+  mText: "Guild Ranking:"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 3
@@ -4494,7 +4494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F60\u5F53\u524D\u8FD8\u6CA1\u6709\u52A0\u5165\u516C\u4F1A"
+  mText: "You are not currently a member of a guild"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4770,7 +4770,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u6392\u540D"
+  mText: "View ranking"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -4961,7 +4961,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u52A0\u5165\u516C\u4F1A"
+  mText: "Invite"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2

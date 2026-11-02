@@ -1,4 +1,4 @@
-﻿require "LuaJadeEquipDataModel.lua"
+require "LuaJadeEquipDataModel.lua"
 
 ----龙玉背包视图类 
 LuaJadeBagListPanel = {}
@@ -132,7 +132,7 @@ function LuaJadeBagListPanel.BagWrapContentUpdated(t, index)
 		if theGroupId == 999 then
 			local theLb = t:Find("AttrName"):GetComponent("UILabel")
 			if not IsNil(theLb) then
-				theLb.text = Hotfix.GetGlobalString("JadeAllElementattack")--"全元素攻"
+				theLb.text = Hotfix.GetGlobalString("JadeAllElementattack")--"All Element ATK"
 			end
 		end
 	end

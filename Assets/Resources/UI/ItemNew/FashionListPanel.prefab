@@ -6161,7 +6161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u90E8\u4F4D"
+  mText: "parts"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6473,7 +6473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u5957"
+  mText: "Gloves"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -6804,7 +6804,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5408\u6210"
+  mText: "fashion synthesis"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -8935,7 +8935,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8863\u67DC\u6362\u88C5"
+  mText: "wardrobe change"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -9141,7 +9141,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6 \u88C5"
+  mText: "Costume"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -13778,7 +13778,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u96C6\u518C"
+  mText: "collection book"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -14099,7 +14099,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u5C5E\u6027\u52A0\u6210"
+  mText: "Charm attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -14337,7 +14337,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14589,7 +14589,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2\u4EF6\u6548\u679C"
+  mText: "2 effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -14735,7 +14735,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u9B45\u529B\u5C5E\u6027\u52A0\u6210"
+  mText: "Currently no charm attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -14960,7 +14960,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5957\u88C5\u6548\u679C\u52A0\u6210"
+  mText: "Set effect bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -15046,7 +15046,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u65F6\u88C5\u5C5E\u6027\u52A0\u6210 "
+  mText: "There is currently no fashion attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -15417,7 +15417,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u83B7\u53D6"
+  mText: "fashion acquisition"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -15820,7 +15820,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5C5E\u6027\u52A0\u6210"
+  mText: "Costume Attribute Bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -16138,7 +16138,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u653B\u51FB"
+  mText: "ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16224,7 +16224,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u5957\u88C5\u6548\u679C\u52A0\u6210"
+  mText: "There is currently no set effect bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16373,7 +16373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u65E0\u65F6\u88C5\u5C5E\u6027\u52A0\u6210"
+  mText: "There is currently no fashion attribute bonus"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -16456,7 +16456,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u5C5E\u6027"
+  mText: "fashion attributes"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

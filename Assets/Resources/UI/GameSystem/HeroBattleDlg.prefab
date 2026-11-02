@@ -4676,7 +4676,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u80DC\u573A"
+  mText: "Current wins"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4848,7 +4848,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A\u5230\u8FBE"
+  mText: "Arrive at victory"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4920,7 +4920,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C1A\u672A\u8FBE\u6210"
+  mText: "Not yet achieved"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5086,7 +5086,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5232,7 +5232,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A\u5956\u52B1"
+  mText: "Win reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5332,7 +5332,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u9886\u53D6\u5956\u52B1"
+  mText: "Click to claim rewards"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5838,7 +5838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u573A"
+  mText: "Wins"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6109,7 +6109,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D25\u573A"
+  mText: "Losses"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6209,7 +6209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -6295,7 +6295,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0\u5373\u53EF\u83B7\u5F973\u6B21\u989D\u5916\u5956\u52B1(3/3)"
+  mText: "Participate to get 3 additional rewards (3/3)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6427,7 +6427,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u603B\u573A\u6B21"
+  mText: "Total Rounds"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6723,7 +6723,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u80DC\u522910\u573A\u5373\u53EF\u9886\u53D6"
+  mText: "Get it after winning 10 games every week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6809,7 +6809,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4F53\u9A8C\u65F6\u95F4\uFF1A2\u592922\u5C0F\u65F630\u5206\u949F"
+  mText: "Experience time: 2 days, 22 hours and 30 minutes"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7569,7 +7569,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7741,7 +7741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218\u58EB"
+  mText: "Warrior"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7907,7 +7907,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672A\u4E0A\u699C"
+  mText: "Unranked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8173,7 +8173,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u519B\u529F"
+  mText: "Military merit"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8894,7 +8894,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709\u6CA1\u4EFB\u4F55\u8BB0\u5F55"
+  mText: "Are there any records?"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9396,7 +9396,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9650\u514D\u82F1\u96C4+1"
+  mText: "Limited free hero +1"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9642,7 +9642,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u7684\u796D\u53F8\u5BFC\u5E08\u662F\u4F17\u6240\u5468\u77E5\u7684\u5168\u80FD\u5BFC\u5E08\u4F60\u503C\u5F97\u62E5\u6709\u5B57\u6570\u522B\u592A\u957F\uFF01"
+  mText: "The Heroic Priest Mentor is well known as the Almighty Mentor and you deserve it. Don’t let the word count be too long!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -13381,7 +13381,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u80DC\u7387"
+  mText: "Win Rate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -13473,7 +13473,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EBA\u5339\u914D"
+  mText: "Single Match"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -13605,7 +13605,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -15220,7 +15220,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u72C2\u6218\u58EB"
+  mText: "Berserker"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16286,7 +16286,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7ED3\u679C"
+  mText: "result"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16358,7 +16358,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EA\u4FDD\u7559\u6700\u8FD1\u5341\u573A\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Only the last ten battle records are kept"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16553,7 +16553,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -16930,7 +16930,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u672C\u5468\u80DC\u573A"
+  mText: "wins this week"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -17156,7 +17156,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u6218\u573A"
+  mText: "Hero Battlefield"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -17664,7 +17664,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u654C\u65B9"
+  mText: "enemy"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -17850,7 +17850,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u65B9"
+  mText: "Our side"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18050,7 +18050,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -18241,7 +18241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u8BB0\u5F55"
+  mText: "Challenge record"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -18653,7 +18653,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u5339\u914D"
+  mText: "Matchmaking"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -18785,7 +18785,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u9884\u89C8"
+  mText: "Skill preview"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -19253,7 +19253,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70"
+  mText: "Buy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20077,7 +20077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u7684\u6635.."
+  mText: "Player's nickname..."
   mFontSize: 15
   mFontStyle: 0
   mAlignment: 0
@@ -20323,7 +20323,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -20519,7 +20519,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20862,7 +20862,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5BF9\u6218\u8BB0\u5F55"
+  mText: "Battle record"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -20967,7 +20967,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u82F1\u96C4\u7684\u963F\u5C14\u6770\u5854"
+  mText: "heroic aljeta"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -21671,7 +21671,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u603B\u573A\u6B21"
+  mText: "Total Rounds"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -21763,7 +21763,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -22213,7 +22213,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -22310,7 +22310,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u653B\u7565"
+  mText: "How to play"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

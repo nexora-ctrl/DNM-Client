@@ -4313,7 +4313,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -4579,7 +4579,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u5956\u52B1"
+  mText: "Get rewarded"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5458,7 +5458,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B54\u9898\u7ED3\u675F\uFF0C      \u79D2\u540E\u81EA\u52A8\u5173\u95ED"
+  mText: "After answering the question, it will automatically close after seconds."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5530,7 +5530,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u59CB\u5012\u8BA1\u65F6"
+  mText: "Begin CD"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5602,7 +5602,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B22\u8FCE\u53C2\u52A0\u62A2\u7B54\u6D3E\u5BF9\u6D3B\u52A8\uFF0C\u7B54\u5BF9\u8D8A\u5FEB\u5956\u52B1\u8D8A\u597D\uFF01\u795D\u60A8\u597D\u8FD0\uFF01"
+  mText: "Welcome to the Q&A Party. The faster you answer correctly, the better the rewards will be! Good luck!"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -5928,7 +5928,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u624B\u52A8\u8F93\u5165"
+  mText: "Manual entry"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6123,7 +6123,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8DF3\u8FC7\u672C\u9898"
+  mText: "Skip this question"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6344,7 +6344,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "sd\u516C\u53F8\u98CE\u9AD8\u653E\u706B\u4E09\u5957\u623F\u5408\u6CD5\u5316sd\u516C\u53F8\u98CE\u9AD8\u653E\u706B\u4E09\u5957\u623F\u5408\u6CD5\u5316sd\u516C\u53F8\u98CE\u9AD8\u653E\u706B\u4E09\u5957\u623F\u5408\u6CD5\u5316"
+  mText: "The sd company’s arson of three houses was legalized. The sd company’s arson of three houses was legalized. The sd company’s arson of three houses was legalized."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6416,7 +6416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A"
+  mText: "Ah"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -6488,7 +6488,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81EA\u52A8\u64AD\u653E\u8BED\u97F3"
+  mText: "Automatically play voice"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6752,7 +6752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u9898\u5269\u4F59\u65F6\u95F4"
+  mText: "Remaining time for this question"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7004,7 +7004,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u9898\u5956\u52B1"
+  mText: "Rewards for this question"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -7148,7 +7148,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57"
+  mText: "player name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7220,7 +7220,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8575,7 +8575,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C1\u9898\u7B54\u6848"
+  mText: "Answer to question 1"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -8661,7 +8661,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211"
+  mText: "Me"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -8827,7 +8827,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6211\u7684\u79EF\u5206"
+  mText: "my points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -9564,7 +9564,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5E78\u8FD0\u95EE\u7B54"
+  mText: "Lucky Answer"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -9864,7 +9864,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10008,7 +10008,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u500D"
+  mText: "three times"
   mFontSize: 22
   mFontStyle: 2
   mAlignment: 0
@@ -10342,7 +10342,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -11213,7 +11213,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C\u4E00\u9898\u7B54\u6848"
+  mText: "Answer to the first question"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11299,7 +11299,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D1D\u601D\u67EF\u5FB7\u8D1D\u601D\u67EF\u52A0\u5165\u4E86\u8BED\u97F3\u6D3E\u5BF9\u623F\u95F4"
+  mText: "BethkoDeBescot joined the voice party room"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -11722,7 +11722,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9000\u51FA\u7B54\u9898"
+  mText: "Exit answering questions"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12010,7 +12010,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u5FEB"
+  mText: "Fastest"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 0
@@ -12082,7 +12082,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E09\u500D"
+  mText: "three times"
   mFontSize: 22
   mFontStyle: 2
   mAlignment: 0
@@ -12860,7 +12860,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u5BB6\u540D\u5B57\u73A9\u5BB6\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -14144,7 +14144,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6309\u4F4F\u7B54\u9898"
+  mText: "Press and hold to answer"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

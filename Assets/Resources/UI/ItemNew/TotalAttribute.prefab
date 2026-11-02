@@ -681,7 +681,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81F4\u547D\u4E00\u51FB"
+  mText: "Crit Strike"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -821,7 +821,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81F4\u547D\u4E00\u51FB"
+  mText: "Crit Strike"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -889,7 +889,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u6BCF\u4E00\u4E2A\u4F69\u6234\u7684\u6280\u80FD\u7EB9\u7AE0\u7684\u6548\u679C\uFF0C\u82E5\u6CA1\u6709\u4F69\u6234\u7EB9\u7AE0\uFF0C\u5219\u663E\u793A\u5C1A\u672A\u88C5\u5907\u6280\u80FD\u7EB9"
+  mText: "Displays the effect of each skill emblem worn. If no emblem is worn, it will display that the skill emblem has not been equipped."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -969,7 +969,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u81F4\u547D\u4E00\u51FB"
+  mText: "Crit Strike"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -1533,7 +1533,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EB9\u7AE0\u5C5E\u6027\u52A0\u6210"
+  mText: "Heraldry attribute bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1601,7 +1601,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[\u4E8C\u8FDE\u5C04]Lv.10"
+  mText: "[Two consecutive shots] Lv.10"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u589E\u52A0\u6280\u80FD[\u4E8C\u8FDE\u5C04]\u7684\u4F24\u5BB310%"
+  mText: "Increase the damage of skill [Double Shot] by 10%"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1842,7 +1842,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u663E\u793A\u6BCF\u4E00\u4E2A\u4F69\u6234\u7684\u6280\u80FD\u7EB9\u7AE0\u7684\u6548\u679C\uFF0C\u82E5\u6CA1\u6709\u4F69\u6234\u7EB9\u7AE0\uFF0C\u5219\u663E\u793A\u5C1A\u672A\u88C5\u5907\u6280\u80FD\u7EB9"
+  mText: "Displays the effect of each skill emblem worn. If no emblem is worn, it will display that the skill emblem has not been equipped."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

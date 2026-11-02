@@ -738,7 +738,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u914D\u7F6E\u6587\u5B57"
+  mText: "Settings"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1052,7 +1052,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E8C\u6B21\u786E\u8BA4\u6D88\u8017"
+  mText: "Confirm Cost"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1659,7 +1659,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u914D\u7F6E\u6587\u5B57"
+  mText: "Settings"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

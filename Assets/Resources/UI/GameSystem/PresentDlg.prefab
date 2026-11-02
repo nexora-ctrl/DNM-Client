@@ -931,7 +931,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u652F\u4ED8"
+  mText: "pay"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1057,7 +1057,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53D6\u6D88"
+  mText: "Cancel"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1389,7 +1389,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D60\u9001"
+  mText: "Gift"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1903,7 +1903,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u540D\u79F0\u9053\u5177\u540D\u79F0"
+  mText: "prop name prop name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2050,7 +2050,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5143"
+  mText: "Yuan"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2176,7 +2176,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7559\u8A00\uFF1A"
+  mText: "Leave a message:"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2244,7 +2244,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u8FD9\u91CC\u53EF\u4EE5\u7559\u8A00"
+  mText: "Click Here to Leave Your Message"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2398,7 +2398,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: " \uFF08\u8D60\u9001\u524D\u8BF7\u5148\u786E\u8BA4\u8BE5\u73A9\u5BB6\u672A\u66FE\u8D2D\u4E70\u8FC7\u8BE5\u65F6\u88C5\uFF09"
+  mText: "(Please confirm that the player has not purchased this costume before giving it away)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2478,7 +2478,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60A8\u5C06\u8D60\u9001\u7ED9\u540D\u5B57\u5C31\u662F\u8FD9\u4E48\u957F\u554A\u914D\u7F6E\u4E00\u884C\u5B57"
+  mText: "You will be gifted with one line of characters configured as the name is so long."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

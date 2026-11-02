@@ -1,4 +1,4 @@
-﻿--
+--
 --  HotfixHallDlg.lua
 --  Created by luo on 2018/03/05 17:51:15
 --  Please make sure you file start with "Hotfix" or "Lua"

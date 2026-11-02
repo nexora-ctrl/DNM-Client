@@ -4085,7 +4085,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9690\u85CF\u663E\u793A"
+  mText: "Hide show"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4746,7 +4746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u8BBE\u7F6E"
+  mText: "Privilege settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4958,7 +4958,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017\u94BB\u77F3\u6570\u989D"
+  mText: "Amount of diamonds consumed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5104,7 +5104,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u89C4\u5219"
+  mText: "privilege rules"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5325,7 +5325,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C4\u5219\u8BE6\u60C5"
+  mText: "Rule details"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5975,7 +5975,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989C\u8272"
+  mText: "color"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -6797,7 +6797,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u8BF4\u660E"
+  mText: "Privilege Description"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7494,7 +7494,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u8BBE\u7F6E"
+  mText: "Privilege settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7638,7 +7638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u6FC0\u6D3B"
+  mText: "Activated"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7730,7 +7730,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u554A\u554A\u554A"
+  mText: "Ahhhhh"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8058,7 +8058,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B"
+  mText: "Activate"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8378,7 +8378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u89C4\u5219"
+  mText: "privilege rules"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8466,7 +8466,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD9\u8FB9\u7684\u90FD\u4E0D\u8981\u7B49OB\u4E4B\u524D\u7B56\u5212\u8BF4\u4E0D\u6539\u4E86\u518D\u5220\u5427"
+  mText: "Don’t wait for the OB’s previous planning to say you won’t change it before deleting it."
   mFontSize: 66
   mFontStyle: 0
   mAlignment: 0
@@ -8720,7 +8720,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7\u82B1\u8D39"
+  mText: "Next level cost"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -8895,7 +8895,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "\u7279\u6743\u7B49\u7EA7"
+  mText: "privilege level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9198,7 +9198,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u6027\u5546\u5E97"
+  mText: "Personality store"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -9369,7 +9369,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E2A\u6027\u5C55\u793A"
+  mText: "Personality display"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -9692,7 +9692,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989C\u8272"
+  mText: "color"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10236,7 +10236,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219\u89C4\u683C\u89C4\u5219"
+  mText: "Rules specification rules specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule specification rule."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10782,7 +10782,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017\u94BB\u77F3\u6570\u989D"
+  mText: "Amount of diamonds consumed"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -10959,7 +10959,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804A\u5929\u5B57\u4F53\u989C\u8272"
+  mText: "Chat Text Color"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

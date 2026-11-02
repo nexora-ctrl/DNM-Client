@@ -1333,7 +1333,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u523B\u6253\u5F00"
+  mText: "Open immediately"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -1508,7 +1508,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u6311\u6218\u6210\u529F\uFF0C\u5012\u8BA1\u65F6\u7ED3\u675F\u540E\u53EF\u4EE5\u5F00\u542F\u5956\u52B1\u5B9D\u7BB1\u54E6\uFF01"
+  mText: "Congratulations on the successful challenge, the reward chest can be opened after the countdown is over!"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1828,7 +1828,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u80FD\u83B7\u5F97"
+  mText: "possible to obtain"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2621,7 +2621,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F00\u542F\u5012\u8BA1\u65F6"
+  mText: "Start countdown"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3
@@ -2796,7 +2796,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ACB\u5373\u9886\u53D6"
+  mText: "Get it now"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

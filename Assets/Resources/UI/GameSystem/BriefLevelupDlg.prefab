@@ -1453,7 +1453,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ECF\u9A8C"
+  mText: "EXP"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -1599,7 +1599,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u626B\u8361\u4E3B\u7EBF"
+  mText: "Sweep the main line"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -1685,7 +1685,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5927\u91CF"
+  mText: "Large Volume"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 1
@@ -1877,7 +1877,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u672A\u5F00\u653E"
+  mText: "Not Yet Unlocked"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2283,7 +2283,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA9\u6211\u4EEC\u53BB\u63D0\u5347\u5B9E\u529B\u518D\u6765\u5427~"
+  mText: "Let’s improve our strength and come again~"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2472,7 +2472,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u63D0\u5347"
+  mText: "Level up"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2

@@ -4117,7 +4117,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F93\u5165\u540D\u79F0\u641C\u7D22\u641C\u7D22"
+  mText: "Enter name search search"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4300,7 +4300,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u516C\u4F1A"
+  mText: "Create a guild"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4682,7 +4682,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u52A0\u5165"
+  mText: "Join quickly"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4859,7 +4859,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A"
+  mText: "Guild"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -6245,7 +6245,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C5E\u6027\u52A0\u6210"
+  mText: "Attribute bonus"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6376,7 +6376,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u5546\u5E97"
+  mText: "Guild Shop"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6507,7 +6507,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE5\u8D44\u5956\u52B1"
+  mText: "salary reward"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6638,7 +6638,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u7EA2\u5305"
+  mText: "Guild Red Envelope"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7125,7 +7125,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA"
+  mText: "Create"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -7542,7 +7542,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u8EAB\u4EFD"
+  mText: "President status"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7733,7 +7733,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u989D\u5916\u5956\u52B1"
+  mText: "Extra bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7924,7 +7924,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EA2\u5305\u53CC\u500D"
+  mText: "Double red envelope"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8115,7 +8115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6700\u9AD8\u6743\u9650"
+  mText: "highest authority"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8292,7 +8292,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4FEE\u6539\u4F1A\u5FBD"
+  mText: "Modify emblem"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8563,7 +8563,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u7279\u6743"
+  mText: "President's privileges"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8649,7 +8649,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u516C\u4F1A"
+  mText: "Create a guild"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -8721,7 +8721,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u521B\u5EFA\u516C\u4F1A\u540D\u79F0"
+  mText: "Click to create a guild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8950,7 +8950,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u957F\u5EA6\u4E3A4\u81F38\u4E2A\u5B57\u7B26"
+  mText: "Guild name length is 4 to 8 characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9378,7 +9378,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BF7\u63D0\u5347\u81F3VIP2"
+  mText: "Please upgrade to VIP2"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9524,7 +9524,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u521B\u5EFA\u516C\u4F1A"
+  mText: "Create a guild"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -9596,7 +9596,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u63D0\u5347VIP"
+  mText: "Promote VIP"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10218,7 +10218,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u52A0\u8F7D\u66F4\u591A"
+  mText: "Click to load more"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10384,7 +10384,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u79F0\u516C\u4F1A\u540D\u79F0"
+  mText: "Guild nameGuild name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -10575,7 +10575,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7533 \u8BF7"
+  mText: "Apply"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -10747,7 +10747,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F\u540D\u79F0\u4F1A\u957F\u540D\u79F0"
+  mText: "President's name President's name"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10938,7 +10938,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B"
+  mText: "Check"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11096,7 +11096,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u79F0"
+  mText: "Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11287,7 +11287,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EBA\u6570"
+  mText: "Count"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11478,7 +11478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7"
+  mText: "Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11669,7 +11669,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F1A\u957F"
+  mText: "Guild Leader"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

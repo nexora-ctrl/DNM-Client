@@ -1902,7 +1902,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u5468\u4E09 [fcd034]21:10-21:15[-] \u53EF\u53C2\u52A0"
+  mText: "Available every Wednesday [fcd034]21:10-21:15[-]"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2240,7 +2240,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u73A9\u6CD5\u4ECB\u7ECD"
+  mText: "Game introduction"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -2468,7 +2468,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6389\u843D\u9884\u89C8[-]"
+  mText: "Drop preview[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2752,7 +2752,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0\u6BD4\u8D5B"
+  mText: "take part in competition"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -3292,7 +3292,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u4E0E\u5956\u52B1"
+  mText: "Participation Reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3498,7 +3498,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5956\u52B1[-]"
+  mText: "Points reward[-]"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4648,7 +4648,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E71\u6597\u6218\u573A"
+  mText: "Brawl battlefield"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0

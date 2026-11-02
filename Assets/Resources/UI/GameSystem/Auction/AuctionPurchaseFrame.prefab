@@ -2393,7 +2393,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4EF7"
+  mText: "Total Price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2585,7 +2585,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u62E5\u6709"
+  mText: "own"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2859,7 +2859,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\uFF08\u8FD8\u5269100\uFF09"
+  mText: "(100 left)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2927,7 +2927,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u8D2D\u4E70"
+  mText: "Item purchase"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2995,7 +2995,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5355\u4EF7"
+  mText: "Unit Price"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3315,7 +3315,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6570\u91CF"
+  mText: "Amount"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3763,7 +3763,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8D2D\u4E70"
+  mText: "Buy"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -4070,7 +4070,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

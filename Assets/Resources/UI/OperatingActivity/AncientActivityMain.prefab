@@ -2054,7 +2054,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "3000\u5965\u79D8\u70B9\u5373\u53EF\u5151\u6362"
+  mText: "3000 secret points can be redeemed"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -2768,7 +2768,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EC8\u6781\u5956\u52B1"
+  mText: "ultimate reward"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -3276,7 +3276,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53EF\u83B7\u5F97200\u70B9\u4E0A\u53E4\u5965\u79D8"
+  mText: "Earn 200 points of ancient secrets"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3586,7 +3586,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u53E4\u4EFB\u52A1"
+  mText: "ancient quest"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -3855,7 +3855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u524D \u5F80"
+  mText: "Go"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 2
@@ -4303,7 +4303,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "[b]A\u7EA7\u5750\u9A91-\u5251\u9F7F\u864E"
+  mText: "[b]A-level mount-Sabertooth Tiger"
   mFontSize: 26
   mFontStyle: 2
   mAlignment: 1
@@ -4695,7 +4695,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u901A\u5173\u4EFB\u610F\u9F99\u7A741\u6B21"
+  mText: "Clear any dragon's lair 1 time"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5185,7 +5185,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A2017.7.12~2017.8.13"
+  mText: "Event time: 2017.7.12~2017.8.13"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -5257,7 +5257,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5965\u79D8\u70B9\u6570"
+  mText: "secret points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1

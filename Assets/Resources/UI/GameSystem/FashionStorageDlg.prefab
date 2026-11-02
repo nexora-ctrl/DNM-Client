@@ -6479,7 +6479,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u96C6\u9F50\u672A\u6765\u6218\u58EB\u65F6\u88C5\u89E3\u9501"
+  mText: "Collect all the future warrior costumes to unlock"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6639,7 +6639,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u88C5\u5907\u5373\u53EF\u6FC0\u6D3B\u5C5E\u6027\u9B45\u529B"
+  mText: "Obtain equipment to activate attribute charms"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6919,7 +6919,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u6536\u96C6"
+  mText: "Equipment collection"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7005,7 +7005,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u6536\u96C6"
+  mText: "Equipment collection"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8077,7 +8077,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7194\u5CA9\u65F63/7"
+  mText: "Lava Time 3/7"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8392,7 +8392,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u5F62\u8BBE\u7F6E"
+  mText: "form factor settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8478,7 +8478,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u5F62\u8BBE\u7F6E"
+  mText: "form factor settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8713,7 +8713,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8863\u67DC\u6362\u88C5"
+  mText: "wardrobe change"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -8865,7 +8865,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "S\u7EA7\u65F6\u88C5\u7279\u6548"
+  mText: "S-level fashion special effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9821,7 +9821,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u5957\u6536\u96C6\u6218\u529B+20000"
+  mText: "A full set of collected combat power +20000"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10078,7 +10078,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4 \u56DE"
+  mText: "Back"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10635,7 +10635,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u6FC0\u6D3B"
+  mText: "Charm activation"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -10883,7 +10883,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6536\u85CF1\u4EF6\u5957          \u529B\u91CF+100"
+  mText: "Collect 1 piece set, Strength +100"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -11644,7 +11644,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5916\u5F62\u8BBE\u7F6E\uFF0C\u4E0D\u4F1A\u5F71\u54CD\u6218\u529B"
+  mText: "Appearance settings will not affect combat effectiveness"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -11716,7 +11716,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9B45\u529B\u5C5E\u6027(0/7)"
+  mText: "Charm attribute(0/7)"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11788,7 +11788,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u6FC0\u6D3B"
+  mText: "Activated"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -12201,7 +12201,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u6536\u96C6"
+  mText: "Costume"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12287,7 +12287,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65F6\u88C5\u6536\u96C6"
+  mText: "Costume"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13283,7 +13283,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7194\u5CA9\u65F6\u88C5"
+  mText: "lava fashion"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -20637,7 +20637,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7206\u70B8\u53D1\u578B"
+  mText: "Afro hairstyle"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20841,7 +20841,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EFF\u8272"
+  mText: "green"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -20987,7 +20987,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67D3 \u53D1"
+  mText: "dye hair"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -21532,7 +21532,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0   \u6D3B"
+  mText: "Activate"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -21690,7 +21690,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EFF\u8272"
+  mText: "green"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22022,7 +22022,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u66F4\u591A\u7279\u6548\u656C\u8BF7\u671F\u5F85"
+  mText: "Stay tuned for more special effects"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22144,7 +22144,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u83B7\u5F97\u88C5\u5907\u5373\u53EF\u6FC0\u6D3B\u5C5E\u6027\u9B45\u529B"
+  mText: "Obtain equipment to activate attribute charms"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -22216,7 +22216,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67D3\u53D1\u5242\u83B7\u53D6"
+  mText: "Get hair dye"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -23039,7 +23039,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD4 \u56DE"
+  mText: "Back"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

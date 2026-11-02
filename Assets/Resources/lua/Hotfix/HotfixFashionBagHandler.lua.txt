@@ -1,4 +1,4 @@
-﻿--
+--
 --  HotfixSettingDlg.lua.lua
 --  Created by Administrator on 2016/09/30 09:16:37
 --  Please make sure you file start with "Hotfix" or "Lua"

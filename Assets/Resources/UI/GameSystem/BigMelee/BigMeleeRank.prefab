@@ -1701,7 +1701,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDE\u9501\u95EA\u7535-10\u533A\u30101-10\u3011"
+  mText: "Chain Lightning-Area 10【1-10】"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2005,7 +2005,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "[fff8c0]\u4ECA\u65E5\u8DE8\u670D\u5927\u4E71\u6597\u7ED3\u675F\uFF0C\u606D\u559C[fd914e]xxxx[-]\u83B7\u5F97\u4E86\u7B2C[fd914e]2[-]\u8D5B\u533A\u7B2C[fd914e]2[-]\u540D"
+  mText: "[fff8c0]Today’s cross-server brawl is over. Congratulations to [fd914e]xxxx[-] for winning the [fd914e]2[-]th place in the division. [fd914e]2[-]"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2420,7 +2420,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u89D2\u8272"
+  mText: "Character"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2603,7 +2603,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u540D"
+  mText: "Rank"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2786,7 +2786,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FB\u6740"
+  mText: "Kills"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2969,7 +2969,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3321,7 +3321,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5475\u5475\u54D2\u5475\u5475\u54D2\u5475\u5475"
+  mText: "Player Message"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3778,7 +3778,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u6392\u540D"
+  mText: "Currently Unranked"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3897,7 +3897,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDE\u9501\u95EA\u7535-10\u533A\u30101-10\u3011"
+  mText: "Chain Lightning-Area 10【1-10】"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4286,7 +4286,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u540D\u5B57\u540D\u5B57\u540D\u5B57\u540D\u5B57"
+  mText: "Player Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4729,7 +4729,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6392\u884C\u699C"
+  mText: "Leaderboard"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

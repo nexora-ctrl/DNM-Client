@@ -1404,7 +1404,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u7ED3\u675F\u540E\u90AE\u4EF6\u53D1\u653E\u5956\u52B1"
+  mText: "Rewards are issued by mail."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2619,7 +2619,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1\u9884\u89C8"
+  mText: "Reward Preview"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -2785,7 +2785,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "1:1\u5929\u68AF\u8D5B\u548C2:2\u5929\u68AF\u8D5B\u5171\u7528\u6392\u540D\u5956\u52B1\uFF0C\u6BCF\u8D5B\u5B63\u6309\u6700\u9AD8\u540D\u6B21\u53D1\u653E\u5956\u52B1"
+  mText: "1:1 Ladder Match and 2:2 Ladder Match share ranking rewards, and rewards will be distributed according to the highest ranking in each season."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3001,7 +3001,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u529F\u52CB\u8FBE\u5230"
+  mText: "Merit achieved"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

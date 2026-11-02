@@ -908,7 +908,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0B\u4E00\u7B49\u7EA7\u5C01\u5370\u9884\u544A"
+  mText: "Next level seal notice"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1287,7 +1287,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u914D\u7F6E"
+  mText: "Configuration"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1373,7 +1373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709223\u5929\u89E3\u9664\u5C01\u5370"
+  mText: "There are 223 days left to lift the seal"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1459,7 +1459,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5C01\u5370\u89E3\u9664\u65F6\u95F4\uFF1AX\u5E74X\u6708X\u65E5XX\u70B9"
+  mText: "Seal lifting time: XX point on X day, X month, X year"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1545,7 +1545,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u6311\u6218\u672C\u5C01\u5370\u7B49\u7EA7\u7EC8\u6781BOSS\u5730\u72F1\u72AC"
+  mText: "Can challenge the ultimate BOSS Cerberus of this seal level"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

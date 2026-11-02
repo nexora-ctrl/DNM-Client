@@ -2554,7 +2554,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3\u5929\u540E\u91CD\u7F6E"
+  mText: "Reset after 3 days"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2626,7 +2626,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53EF\u8D2D\u4E70\u6B21\u6570 2"
+  mText: "Number of purchases available: 2"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3224,7 +3224,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u6570"
+  mText: "times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3310,7 +3310,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u65E0\u6B21\u6570\u9650\u5236"
+  mText: "No Limits On Attempts"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -3410,7 +3410,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u6570"
+  mText: "times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3502,7 +3502,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u63A5\u53D6"
+  mText: "Not yet Claimed"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3728,7 +3728,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u65701/5"
+  mText: "Times 1/5"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3874,7 +3874,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B49\u5F85\u4F1A\u957F\u623F\u5F00\u542F"
+  mText: "Waiting for the president's room to open"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3960,7 +3960,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u63CF\u8FF0"
+  mText: "Activity description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4032,7 +4032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3B\u8981\u5956\u52B1"
+  mText: "Main reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4104,7 +4104,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u63CF\u8FF0"
+  mText: "Activity description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4296,7 +4296,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u6570"
+  mText: "times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4590,7 +4590,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97"
+  mText: "Shop"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5409,7 +5409,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0"
+  mText: "Join"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5714,7 +5714,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u65E0\u9650\u65F6\u6D3B\u52A8"
+  mText: "Temporarily unlimited activity"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -5800,7 +5800,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6DF1\u6E0A\u526F\u672C"
+  mText: "Abyss Dungeon"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -5946,7 +5946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53C2\u52A0"
+  mText: "Join"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6166,7 +6166,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u6C11\u8D5B\u9A6C"
+  mText: "Horse racing for all"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6908,7 +6908,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u6D3B\u52A8"
+  mText: "View activity"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6994,7 +6994,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9650\u65F6\u6D3B\u52A8"
+  mText: "Time-limit Event"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7080,7 +7080,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6682\u65F6\u6CA1\u65E5\u5E38\u6D3B\u52A8"
+  mText: "No daily activities for the time being"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

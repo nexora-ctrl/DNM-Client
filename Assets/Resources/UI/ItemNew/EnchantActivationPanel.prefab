@@ -1007,7 +1007,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u4E00\u6761\u5C5E\u6027\u8FDB\u884C\u6FC0\u6D3B"
+  mText: "Select an attribute to activate"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1349,7 +1349,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5783\u573E\u4E2D\u7684\u7684\u80A9\u8180+10"
+  mText: "Shoulder Armor +10"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -1617,7 +1617,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u5148\u83B7\u5F97\u9644\u9B54\u5C5E\u6027\u624D\u80FD\u6FC0\u6D3B"
+  mText: "You need to obtain the enchantment attribute before you can activate it"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2017,7 +2017,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6FC0\u6D3B\u9644\u9B54\u5C5E\u6027"
+  mText: "Activate enchantment properties"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2243,7 +2243,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u786E \u5B9A"
+  mText: "Confirm"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2860,7 +2860,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3008,7 +3008,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u529B+"
+  mText: "Combat power +"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 3

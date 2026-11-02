@@ -1741,7 +1741,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u6B21\u57F9\u517B\u5C06\u589E\u52A0100\u70B9\u57F9\u517B\u503C\uFF0C\u53EF\u4EE5\u901A\u8FC7\u89E3\u9501\u8C03\u6574\u57F9\u517B\u5C5E\u6027\n\u57F9\u517B\u503C\u8FBE\u5230\u4E0A\u9650\u540E\u53EF\u5347\u661F\uFF0C\u7CBE\u7075\u5347\u661F\u53EF\u4EE5\u83B7\u5F97\u5168\u5C5E\u6027\u52A0\u6210\n\u7CBE\u7075\u91CD\u751F\u5C06\u91CD\u7F6E\u672C\u661F\u7EA7\u57F9\u517B\u6548\u679C\u5E76\u8FD4\u8FD8\u6240\u6709\u5347\u661F\u836F\u6C34"
+  mText: "Each training will increase the training value by 100 points, and the training attributes can be adjusted by unlocking\nAfter the cultivation value reaches the upper limit, the star can be upgraded. The elves can obtain all attribute bonuses by upgrading the star.\nThe rebirth of an elf will reset the star level cultivation effect and return all star-raising potions."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2253,7 +2253,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u661F\u7EA7\u57F9\u517B\u52A0\u6210"
+  mText: "Current star level training bonus"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -2385,7 +2385,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BCF\u6B21\u57F9\u517B\u5C06\u4F1A\u968F\u673A\u589E\u52A0\u7CBE\u7075\u57FA\u7840\u5C5E\u6027"
+  mText: "Each training will randomly increase the basic attributes of the elf."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3121,7 +3121,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u57F9 \u517B"
+  mText: "Train"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3293,7 +3293,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017XXX\u9F99\u5E01 X 100"
+  mText: "Consume XXX Dragon Coins X 100"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3365,7 +3365,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD \u751F"
+  mText: "Rebirth"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3949,7 +3949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB"
+  mText: "Physical ATK"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4021,7 +4021,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u6B21\u64CD\u4F5C\u57F9\u517B\u52A0\u6210"
+  mText: "Training bonus from last operation"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -4093,7 +4093,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347\u661F"
+  mText: "Ascension"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4520,7 +4520,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7CBE\u7075\u6280\u80FD\u5C06\u5728\u57F9\u517B\u8FBE\u5230\n\u4E0A\u9650\u5347\u661F\u540E\u81EA\u52A8\u5347\u7EA7"
+  mText: "Elf skills will be cultivated to reach\nAutomatically upgrade after reaching the upper limit of stars"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4826,7 +4826,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u7406\u653B\u51FB\u653B\u51FB"
+  mText: "physical attack attack"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -4978,7 +4978,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u6CA1\u6709\u57F9\u517B\u7ED3\u679C"
+  mText: "There are currently no culture results"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2

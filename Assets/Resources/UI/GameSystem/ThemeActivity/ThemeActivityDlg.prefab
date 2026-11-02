@@ -1240,7 +1240,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u751F\u5316\u5730\u72F1\u72AC"
+  mText: "Biochemical Cerberus"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1312,7 +1312,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E3B\u9898\u6D3B\u52A8"
+  mText: "Theme activities"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -1999,7 +1999,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u751F\u5316\u5730\u72F1\u72AC"
+  mText: "Biochemical Cerberus"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

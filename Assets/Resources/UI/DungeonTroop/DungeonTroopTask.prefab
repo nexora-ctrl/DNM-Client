@@ -2161,7 +2161,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u9886\u5B8C"
+  mText: "Already Taken"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -2447,7 +2447,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u6210\u5C31"
+  mText: "Team achievements"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2533,7 +2533,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u6210\u5C31"
+  mText: "Team achievements"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2800,7 +2800,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA8\u4F10\u4EFB\u52A1"
+  mText: "crusade mission"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -2886,7 +2886,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA8\u4F10\u4EFB\u52A1"
+  mText: "crusade mission"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3233,7 +3233,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u91CD\u7F6E\u65F6\u95F4\uFF1A"
+  mText: "Task reset time:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -6241,7 +6241,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6311\u6218\u5956\u52B1"
+  mText: "Challenge rewards"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6373,7 +6373,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u6210\u5C31"
+  mText: "Team achievements"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6565,7 +6565,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8BA8\u4F10\u4EFB\u52A1"
+  mText: "crusade mission"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -6671,7 +6671,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u5B8C\u6210"
+  mText: "Incomplete"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -7103,7 +7103,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u7B49\u7EA7"
+  mText: "Team level"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7209,7 +7209,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u9996\u6740\u6D77\u9F99\u6218\u961F\u9996\u6740\u6D77\u9F99\u6218\u961F\u6218\u961F\u9996\u6740\u6D77\u9F99\u6218\u961F\u6218\u961F"
+  mText: "Team's first kill against Sea Dragon Team's first kill against Sea Dragon Team's first kill against Sea Dragon Team"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7281,7 +7281,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4EFB\u52A1\u8FDB\u5EA6"
+  mText: "Task progress"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7353,7 +7353,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DE2\u7A74\u901A\u517333\u6B21   3/33"
+  mText: "Cleared the lair 33 times 3/33"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 1
@@ -7425,7 +7425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2017\u5E749\u67084\u65E522:22"
+  mText: "September 4, 2017 22:22"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7497,7 +7497,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5168\u5458\u9886\u53D6\u6B21\u6570\uFF1A"
+  mText: "Number of times received by all members:"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7603,7 +7603,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886\u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -7747,7 +7747,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u961F\u7ECF\u9A8C"
+  mText: "Team experience"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -8232,7 +8232,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5956\u52B1"
+  mText: "Reward"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

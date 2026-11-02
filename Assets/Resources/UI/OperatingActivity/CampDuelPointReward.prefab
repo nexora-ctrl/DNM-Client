@@ -1144,7 +1144,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5956 \u52B1"
+  mText: "Reward"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1303,7 +1303,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1375,7 +1375,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9635\u8425\u83B7\u80DC\u5956\u52B1"
+  mText: "Faction victory rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3588,7 +3588,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u5956\u52B1"
+  mText: "Point Rewards"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3926,7 +3926,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FBE\u5230\u5BF9\u5E94\u79EF\u5206\u90AE\u4EF6\u53D1\u653E\u5BF9\u5E94\u6863\u4F4D\u5956\u52B1"
+  mText: "Rewards for corresponding grades will be issued via email when corresponding points are reached."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

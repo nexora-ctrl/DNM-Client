@@ -1524,7 +1524,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9700\u8981\u7B49\u7EA7"
+  mText: "Req. Level"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -1946,7 +1946,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u8BF4\u660E"
+  mText: "Description"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2038,7 +2038,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u804C\u4E1A\u9700\u6C42"
+  mText: "Career needs"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2197,7 +2197,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51FA \u552E"
+  mText: "Sell"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2383,7 +2383,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E\u4E00\u5927\u5806\u8BF4\u660E"
+  mText: "A lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations, a lot of explanations."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -2469,7 +2469,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u901A\u7528"
+  mText: "General"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2555,7 +2555,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "20\u4EE5\u4E0A"
+  mText: "20 and above"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2734,7 +2734,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7269\u54C1\u7C7B\u578B"
+  mText: "Type"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2806,7 +2806,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6750\u6599"
+  mText: "Material"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3317,7 +3317,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u88C5\u5907\u540D\u5B57\u9884\u7559\u516B\u5B57+10"
+  mText: "Equipment Name +10"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3751,7 +3751,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u51BB\u7ED37\u592923\u65F659\u5206)"
+  mText: "(frozen for 7 days at 23:59)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3837,7 +3837,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7ED1\u5B9A\u72B6\u6001"
+  mText: "Binding"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3909,7 +3909,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5DF2\u7ED1\u5B9A"
+  mText: "Bound"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3981,7 +3981,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672A\u7ED1\u5B9A"
+  mText: "Not bound"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4139,7 +4139,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u89E3\u9664\u7ED1\u5B9A\u5269\u4F59    \u6B21)"
+  mText: "(Remaining times to unbind)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4527,7 +4527,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "7\u592923\u65F659\u5206\n\u6709\u6548\u65F6\u95F4"
+  mText: "23:59, 7 days\nValid time"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0

@@ -2700,7 +2700,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u795E\u7684\u8BD5\u70BC"
+  mText: "Goddess' Trial"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -2949,7 +2949,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u518D\u53C2\u52A05\u6B21\u5373\u53EF\u83B7\u5F97"
+  mText: "Participate 5 more times to get it"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -3475,7 +3475,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5973\u795E\u5546\u5E97"
+  mText: "goddess store"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3957,7 +3957,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53EF\u53C2\u52A0\u6B21\u6570"
+  mText: "Number of times you can participate today"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 3
@@ -4115,7 +4115,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u5956\u52B1"
+  mText: "Activity rewards"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 2
@@ -4187,7 +4187,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9886 \u53D6"
+  mText: "Claim"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4421,7 +4421,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53C2\u52A0\u6B21\u6570\u5DF2\u7ECF\u7528\u5B8C\u4E86\uFF0C\u660E\u5929\u518D\u6765\u5427\uFF01"
+  mText: "The number of entries for today has been used up, please come again tomorrow!"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4793,7 +4793,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7EC4\u961F\u8FDB\u5165"
+  mText: "Team Enter"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0

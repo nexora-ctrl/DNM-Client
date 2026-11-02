@@ -4206,7 +4206,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u64A4\u9500"
+  mText: "Cancel"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4332,7 +4332,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u4E0A\u9635\u6309\u94AE\u53EF\u4EE5\u52A0\u5165\u4E0A\u9635\u961F\u5217"
+  mText: "Click [Deploy] to Deploy yourself"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -4470,7 +4470,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u51C6\u5907\u9636\u6BB5"
+  mText: "preparation stage"
   mFontSize: 26
   mFontStyle: 0
   mAlignment: 0
@@ -6735,7 +6735,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u65F6\u5019\u662F\u9EC4\u8272\u7684\u5B57"
+  mText: "The words are yellow when fighting"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -7042,7 +7042,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u662F\u516B\u4E2A\u5B57"
+  mText: "The name of the guild is eight characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -7971,7 +7971,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF"
+  mText: "Ladder to heaven"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -8039,7 +8039,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5929\u68AF"
+  mText: "Ladder to heaven"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 0
@@ -8524,7 +8524,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u70B9\u51FB\u4E0A\u9635\u6309\u94AE\u53EF\u4EE5\u52A0\u5165\u4E0A\u9635\u961F\u5217"
+  mText: "Click [Deploy] to Deploy yourself"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9447,7 +9447,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u590D\u6D3B\u5012\u8BA1\u65F6"
+  mText: "Revive Countdown"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 2
@@ -9515,7 +9515,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79D2"
+  mText: "s"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -10349,7 +10349,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F13\u821E"
+  mText: "Cheering"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -10826,7 +10826,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u7B2C1\u8F6E"
+  mText: "Round 1"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -11083,7 +11083,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u516C\u4F1A\u540D\u5B57\u662F\u516B\u4E2A\u5B57"
+  mText: "The name of the guild is eight characters"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -11390,7 +11390,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u65F6\u5019\u662F\u9EC4\u8272\u7684\u5B57"
+  mText: "The words are yellow when fighting"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 1
@@ -11608,7 +11608,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u53CC\u65B9\u53EF\u4EE5\u8C03\u6574\u4E0A\u573A\u6210\u5458,\u5012\u8BA1\u65F6\u7ED3\u675F\u6B63\u5F0F\u5F00\u59CB"
+  mText: "Both sides can adjust the members on the field, and the countdown ends and officially begins."
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -11866,7 +11866,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4E0A\u9635"
+  mText: "Deploy"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

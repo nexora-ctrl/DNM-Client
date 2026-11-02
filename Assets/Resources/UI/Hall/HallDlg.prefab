@@ -14643,7 +14643,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u3000\u3000\u3000\u3000"
+  mText: "Where there is no express provision in the Specific Provisions hereof or any other law concerning a certain contract, the provisions in the General Principles hereof apply, and reference may be made to the provisions in the Specific Provisions hereof or any other law applicable to a contract which is most similar to such contract."
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -16363,7 +16363,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\xB7\u9B45\u529B\u70B9\u8FBE\u52301000\uFF08800/1000)"
+  mText: "Charm points reach 1000 (800/1000)"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -22425,7 +22425,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89E3\u9501\u6761\u4EF6"
+  mText: "Unlock Requirement"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -25629,7 +25629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u767B\u5F55\u5956\u52B1[-]"
+  mText: "Login Reward[-]"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -29078,7 +29078,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "19:60\u5F00\u542F\r\n\u4E16\u754C\u8001\u677F\u73A9\u6CD5"
+  mText: "Turns on at 19:60\nWorld Boss Gameplay"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -32558,7 +32558,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6062\u590D1\u70B9\u65F6\u95F4"
+  mText: "Time to recover 1 pt"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -34211,7 +34211,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u514D\u6D41\u91CF"
+  mText: "Data Free"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -34870,7 +34870,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5168\u90E8\u6062\u590D\u65F6\u95F4"
+  mText: "Full Recovery Time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38402,7 +38402,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5F53\u524D\u4F53\u529B"
+  mText: "Current Fatigue"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -38668,7 +38668,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7B49\u7EA7\u5C01\u5370"
+  mText: "Level Seal"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -41085,7 +41085,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FD8\u6709XX\u5929\u89E3\u9664\u5C01\u5370"
+  mText: "Days left until seal is released"
   mFontSize: 14
   mFontStyle: 0
   mAlignment: 2
@@ -41754,7 +41754,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u53BB\u63D0\u5347"
+  mText: "Upgrade"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0

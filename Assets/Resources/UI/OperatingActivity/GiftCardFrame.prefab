@@ -1416,7 +1416,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u67E5\u770B\u8BE6\u60C5"
+  mText: "View details"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -1488,7 +1488,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4ECA\u65E5\u53EF\u8D2D3/3"
+  mText: "Available for purchase today 3/3"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1862,7 +1862,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u671F\u95F4\u6BCF\u65E5\u9650\u8D2DN\u6B21"
+  mText: "Purchases are limited to N times per day during the event"
   mFontSize: 21
   mFontStyle: 0
   mAlignment: 0
@@ -2191,7 +2191,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "1\u5143\u8D2D\u4E70"
+  mText: "Buy for 1 yuan"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -2619,7 +2619,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "App Store \u5145\u503C\u5361"
+  mText: "App Store recharge card"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -3202,7 +3202,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6D3B\u52A8\u65F6\u95F4\uFF1A2017.12.1 5:00 - 2018.1.1 5:00"
+  mText: "Event time: 2017.12.1 5:00 - 2018.1.1 5:00"
   mFontSize: 21
   mFontStyle: 0
   mAlignment: 0
@@ -3616,7 +3616,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u4EF7\u503C[b]10[/b]\u5143\u793C\u5305"
+  mText: "Gift package worth [b]10[/b] yuan"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4012,7 +4012,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u64CD\u4F5C\u9891\u7E41\uFF0C\u8BF710\u5206\u949F\u540E\u518D\u8BD5"
+  mText: "Frequent operations, please try again after 10 minutes"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

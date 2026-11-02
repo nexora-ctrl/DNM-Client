@@ -2529,7 +2529,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5347 \u7EA7"
+  mText: "Upgrade"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -3123,7 +3123,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9009\u62E9\u4F60\u60F3\u5408\u6210\u7684\u9F99\u7389\u7B49\u7EA7"
+  mText: "Select the level of dragon jade you want to synthesize"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -3791,7 +3791,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u672C\u6B21\u6D88\u8017\u9F99\u7389"
+  mText: "This time consumption of dragon jade"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -3947,7 +3947,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5546\u5E97\u6D88\u8017"
+  mText: "Store consumption"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -4293,7 +4293,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4660,7 +4660,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "(\u9F99\u7389\u4E0D\u8DB3\uFF0C\u9700\u989D\u5916\u8D2D\u4E70999\u4E2A)"
+  mText: "(If the dragon jade is not enough, you need to purchase an additional 999 pieces)"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -6647,7 +6647,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6D88\u8017"
+  mText: "Cost"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -7151,7 +7151,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9053\u5177\u9053\u5177\u9053\u5177\u9053\u5177"
+  mText: "Item Name"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -7435,7 +7435,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u9F99\u7389\u5347\u7EA7"
+  mText: "Dragon Jade Upgrade"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0

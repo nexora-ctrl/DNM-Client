@@ -3111,7 +3111,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u64CD\u63A7\u8BBE\u7F6E"
+  mText: "Control settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -3197,7 +3197,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u64CD\u63A7\u8BBE\u7F6E"
+  mText: "Control settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4177,7 +4177,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C6\u89D2\u8BBE\u7F6E"
+  mText: "Viewing angle settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4263,7 +4263,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9000\u51FA\u526F\u672C"
+  mText: "Exit copy"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -4497,7 +4497,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u89C6\u89D2\u8BBE\u7F6E"
+  mText: "Viewing angle settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4583,7 +4583,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5176\u4ED6\u8BBE\u7F6E"
+  mText: "Other settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -4789,7 +4789,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "2.5D\u89C6\u89D2"
+  mText: "2.5D perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5122,7 +5122,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "3D\u89C6\u89D2"
+  mText: "3D perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5222,7 +5222,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "3D\u81EA\u7531\u89C6\u89D2"
+  mText: "3D free perspective"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5629,7 +5629,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u81EA\u7531\u9501\u5B9A\u76EE\u6807"
+  mText: "Free targeting"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -5962,7 +5962,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u7EE7\u7EED\u6E38\u620F"
+  mText: "continue game"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 0
@@ -6273,7 +6273,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5176\u4ED6\u8BBE\u7F6E"
+  mText: "Other settings"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -6621,7 +6621,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6218\u6597\u8BBE\u7F6E"
+  mText: "Combat settings"
   mFontSize: 22
   mFontStyle: 0
   mAlignment: 2
@@ -7432,7 +7432,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "2.5D\u89C6\u89D2\u9002\u5408\u66553D\u7684\u73A9\u5BB6"
+  mText: "2.5D perspective is suitable for players who are confused by 3D"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1
@@ -7652,7 +7652,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8045,7 +8045,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -8177,7 +8177,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5FEB"
+  mText: "Fast"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8249,7 +8249,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6162"
+  mText: "slow"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8574,7 +8574,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C0F"
+  mText: "small"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8706,7 +8706,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5C0F"
+  mText: "small"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8838,7 +8838,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807\u8303\u56F4"
+  mText: "Intelligent target range"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -9226,7 +9226,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u667A\u80FD\u9501\u5B9A\u76EE\u6807"
+  mText: "Intelligent targeting"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0

@@ -1265,7 +1265,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206 \u4EAB"
+  mText: "Share"
   mFontSize: 24
   mFontStyle: 0
   mAlignment: 0
@@ -1746,7 +1746,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2470,7 +2470,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u5206\u4EAB\u5230"
+  mText: "Share to"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -3032,7 +3032,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u6211\u6211\u6211\u6211\u6211\u6211\u6211\u6211"
+  mText: "me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me"
   mFontSize: 24
   mFontStyle: 2
   mAlignment: 1
@@ -3118,7 +3118,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u606D\u559C\u60A8\u9996\u6B21\u901A\u5173 \u6D77\u9F99-\u6C99\u82AC\u7279\u62C9\u4E4B\u5C9B"
+  mText: "Congratulations on your first clearance of Sea Dragon-Safantla Island"
   mFontSize: 18
   mFontStyle: 2
   mAlignment: 0
@@ -3855,7 +3855,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u9996\u6B21\u5206\u4EAB\u53EF\u5F97\u5956\u52B1"
+  mText: "Get rewards for sharing for the first time"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -4087,7 +4087,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 0}
   mFont: {fileID: 0}
-  mText: "\u8FDE\u9501\u95EA\u7535-10\u533A\u30101-10\u3011"
+  mText: "Chain Lightning-Area 10【1-10】"
   mFontSize: 18
   mFontStyle: 2
   mAlignment: 1

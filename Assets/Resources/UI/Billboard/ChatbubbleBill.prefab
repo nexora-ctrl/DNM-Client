@@ -450,7 +450,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u82F9\u679C\u516C\u53F8\u4ECA\u5929\u53D1\u5E032016\u8D22\u5E74\u7B2C\u56DB\u8D22\u5B63\u8D22\u62A5\uFF0C\u6982\u62EC\u82F9\u679C\u516C\u53F8\u7684\u8D22\u62A5\u7684\u91CD\u70B9\u6709\uFF1A\u8425\u6536\u548C\u76C8\u5229\u540C\u6BD4\u53CC\u53CC\u4E0B\u6ED1\u3001\u8FDE\u7EED\u7B2C\u4E09\u4E2A\u5B63\u5EA6\u4E0B\u6ED1\u5E76\u51FA\u73B02001\u5E74\u6765\u9996\u6B21\u5E74\u5EA6\u8D1F\u589E\u957F\u3001iPhone\u9500\u91CF\u4E3A4551\u4E07\u53F0\u597D\u4E8E\u9884\u671F\u3001\u5927\u4E2D\u534E\u533A"
+  mText: "Apple today released its financial report for the fourth quarter of fiscal year 2016. The highlights of Apple's financial report include: revenue and profit both declined year-on-year, declining for the third consecutive quarter and experiencing annual negative growth for the first time since 2001, iPhone sales of 45.51 million units were better than expected, Greater China"
   mFontSize: 32
   mFontStyle: 0
   mAlignment: 2

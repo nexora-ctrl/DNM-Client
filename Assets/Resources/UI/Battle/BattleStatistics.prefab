@@ -1191,7 +1191,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F24\u5BB3"
+  mText: "damage"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -1339,7 +1339,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u603B\u4F24\u5BB3\uFF1A"
+  mText: "Total damage:"
   mFontSize: 18
   mFontStyle: 2
   mAlignment: 1
@@ -1672,7 +1672,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u4F24\u5BB3\u7EDF\u8BA1"
+  mText: "damage statistics"
   mFontSize: 20
   mFontStyle: 2
   mAlignment: 1
@@ -1744,7 +1744,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "3545\u4E07"
+  mText: "35.45 million"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
@@ -1816,7 +1816,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5360\u6BD4"
+  mText: "Proportion"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2034,7 +2034,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0..."
+  mText: "Skill name..."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2238,7 +2238,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6280\u80FD\u540D\u79F0"
+  mText: "Skill name"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 1
@@ -2370,7 +2370,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "2222\u4E07"
+  mText: "22.22 million"
   mFontSize: 22
   mFontStyle: 2
   mAlignment: 1
@@ -2600,7 +2600,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u91CD\u7F6E"
+  mText: "Reset"
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 0
@@ -2811,7 +2811,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6B21\u6570"
+  mText: "times"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -2883,7 +2883,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB\u5BF9\u524D\u65B9\u53D1\u5C04\u5FEB\u901F\u5BF9\u524D\u65B9\u53D1\u5C04[cfff0d]3[-]\u6B21\u653B\u51FB"
+  mText: "Quickly fire [cfff0d] 3[-] attacks forward. Quickly fire [cfff0d]3[-] attacks forward. Quickly fire [cfff0d]3[-] attacks forward."
   mFontSize: 18
   mFontStyle: 0
   mAlignment: 1

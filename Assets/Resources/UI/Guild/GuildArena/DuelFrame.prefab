@@ -5212,7 +5212,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5F00\u59CB\u540E\u5373\u53EF\u83B7\u5F97\u5168\u80DC"
+  mText: "Win the game once it starts"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -5298,7 +5298,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5370,7 +5370,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5630,7 +5630,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5702,7 +5702,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -5788,7 +5788,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5F00\u59CB\u540E\u5373\u53EF\u83B7\u5F97\u5168\u80DC"
+  mText: "Win the game once it starts"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -6266,7 +6266,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u656C\u8BF7\u671F\u5F85"
+  mText: "Coming Soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -6541,7 +6541,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -6982,7 +6982,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60DC\u8D25"
+  mText: "regret defeat"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -7054,7 +7054,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229"
+  mText: "Victory"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -7266,7 +7266,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -7755,7 +7755,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u670829\u65E5"
+  mText: "December 29"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -7827,7 +7827,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u670829\u65E5"
+  mText: "December 29"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -8316,7 +8316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -8528,7 +8528,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229"
+  mText: "Victory"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -8600,7 +8600,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60DC\u8D25"
+  mText: "regret defeat"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -9041,7 +9041,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -9316,7 +9316,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u656C\u8BF7\u671F\u5F85"
+  mText: "Coming Soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9794,7 +9794,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5F00\u59CB\u540E\u5373\u53EF\u83B7\u5F97\u5168\u80DC"
+  mText: "Win the game once it starts"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -9880,7 +9880,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -9952,7 +9952,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8F6E\u7A7A"
+  mText: "Empty Round"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10198,7 +10198,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u6BD4\u8D5B\u5F00\u59CB\u540E\u5373\u53EF\u83B7\u5F97\u5168\u80DC"
+  mText: "Win the game once it starts"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -10676,7 +10676,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u656C\u8BF7\u671F\u5F85"
+  mText: "Coming Soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -10951,7 +10951,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -11392,7 +11392,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60DC\u8D25"
+  mText: "regret defeat"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -11464,7 +11464,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229"
+  mText: "Victory"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -11676,7 +11676,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -12165,7 +12165,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u670829\u65E5"
+  mText: "December 29"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12420,7 +12420,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u656C\u8BF7\u671F\u5F85"
+  mText: "Coming Soon"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -12695,7 +12695,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206"
+  mText: "Points"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 2
@@ -13136,7 +13136,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u60DC\u8D25"
+  mText: "regret defeat"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -13208,7 +13208,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u80DC\u5229"
+  mText: "Victory"
   mFontSize: 28
   mFontStyle: 0
   mAlignment: 0
@@ -13420,7 +13420,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u8FDB\u5165\u6BD4\u8D5B"
+  mText: "Enter Match"
   mFontSize: 20
   mFontStyle: 0
   mAlignment: 0
@@ -13909,7 +13909,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "12\u670829\u65E5"
+  mText: "December 29"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -13981,7 +13981,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u5F88\u62B1\u6B49\uFF0C\u60A8\u7684\u516C\u4F1A\u6CA1\u6709\u62A5\u540D\u53C2\u52A0"
+  mText: "Sorry, your guild has not signed up to participate"
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 0
@@ -15172,7 +15172,7 @@ MonoBehaviour:
   fontSuffix: 
   mTrueTypeFont: {fileID: 12800000, guid: 8730679c3f8a31942b8b9c95eab5f81a, type: 3}
   mFont: {fileID: 0}
-  mText: "\u79EF\u5206\u8D5B\u4E3A6V6\u516C\u4F1A\u7ADE\u6280\u6D3B\u52A8\uFF0C\u8D5B\u671F\u5185\u6BCF\u5468\u4E8C\u3001\u5468\u56DB\u665A20:10\u5F00\u542F\n\u4E09\u5C40\u4E24\u80DC\u6BCF\u5C40\u83B7\u80DC\u83B7\u5F9710\u79EF\u5206\uFF0C\u5355\u5C40\u7D2F\u8BA1\u51FB\u8D25\u5BF9\u65B9\u6B21\u6570\u591A\u7684\u961F\u4F0D\u83B7\u5F97\u80DC\u5229"
+  mText: "The points competition is a 6V6 guild competitive event, which starts every Tuesday and Thursday at 20:10 during the competition period.\nWin two out of three games and get 10 points for winning each game. The team that defeats the opponent the most times in a single game wins."
   mFontSize: 16
   mFontStyle: 0
   mAlignment: 3
